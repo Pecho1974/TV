@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id='AMÉRICA' tvg-name='AMÉRICA' group-title='Argentina',AMÉRICA
+#EXTINF:-1 tvg-id='América 2' tvg-name='America TV' group-title='Argentina',America TV
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 #EXTINF:-1 tvg-id='El Nueve' tvg-name='El Nueve' group-title='Argentina',El Nueve
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
@@ -7,136 +7,135 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-id='El Trece' tvg-name='El Trece' group-title='Argentina',El Trece
 https://edge4-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
-#EXTINF:-1 tvg-id='TELEFE' tvg-name='TELEFE' group-title='Argentina',TELEFE
+#EXTINF:-1 tvg-id='Telefe' tvg-name='Telefe' group-title='Argentina',Telefe
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-#EXTINF:-1 tvg-id='TV PÚBLICA' tvg-name='TV PÚBLICA' group-title='Argentina',TV PÚBLICA
+#EXTINF:-1 tvg-id='TV Pública Argentina' tvg-name='TV Pública Argentina' group-title='Argentina',TV Pública Argentina
 https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-#EXTINF:-1 tvg-id='DEPORTV HD' tvg-name='DEPORTV HD' group-title='Deportes',DEPORTV HD
+#EXTINF:-1 tvg-id='DEPORTV' tvg-name='DEPORTV' group-title='Deportes',DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w444302302.m3u8
-#EXTINF:-1 tvg-id='ESPN HD' tvg-name='ESPN HD' group-title='Deportes',ESPN HD
+#EXTINF:-1 tvg-id='ESPN' tvg-name='ESPN' group-title='Deportes',ESPN
 https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id='ESPN EXTRA HD' tvg-name='ESPN EXTRA HD' group-title='Deportes',ESPN EXTRA HD
+#EXTINF:-1 tvg-id='ESPN Extra' tvg-name='ESPN Extra' group-title='Deportes',ESPN Extra
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id='ESPN 2 HD' tvg-name='ESPN 2 HD' group-title='Deportes',ESPN 2 HD
+#EXTINF:-1 tvg-id='ESPN 2' tvg-name='ESPN 2' group-title='Deportes',ESPN 2
 https://edge5-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
-#EXTINF:-1 tvg-id='ESPN 3 HD' tvg-name='ESPN 3 HD' group-title='Deportes',ESPN 3 HD
+#EXTINF:-1 tvg-id='ESPN 3' tvg-name='ESPN 3' group-title='Deportes',ESPN 3
 https://edge03-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
-#EXTINF:-1 tvg-id='Fox Sports Premium HD' tvg-name='Fox Sports Premium HD' group-title='Deportes',Fox Sports Premium HD
+#EXTINF:-1 tvg-id='FOX SPORTS PREMIUM' tvg-name='FOX SPORTS PREMIUM' group-title='Deportes',FOX SPORTS PREMIUM
 https://chupachichi8.site/live/flowitc8ws5.m3u8
-#EXTINF:-1 tvg-id='FOX SPORTS HD' tvg-name='FOX SPORTS HD' group-title='Deportes',FOX SPORTS HD
+#EXTINF:-1 tvg-id='Fox Sports' tvg-name='Fox Sports' group-title='Deportes',Fox Sports
 https://edge-live14-sl.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-#EXTINF:-1 tvg-id='FOX SPORTS 2 HD' tvg-name='FOX SPORTS 2 HD' group-title='Deportes',FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id='Fox Sports 2' tvg-name='Fox Sports 2' group-title='Deportes',Fox Sports 2
 https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
-#EXTINF:-1 tvg-id='FOX Sports 3 HD' tvg-name='FOX Sports 3 HD' group-title='Deportes',FOX Sports 3 HD
+#EXTINF:-1 tvg-id='Fox Sports 3' tvg-name='Fox Sports 3' group-title='Deportes',Fox Sports 3
 https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-id='' tvg-name='' group-title='Deportes',MLB
 https://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id='TNT Sport Premium HD' tvg-name='TNT Sport Premium HD' group-title='Deportes',TNT Sport Premium HD
+#EXTINF:-1 tvg-id='TNT SPORTS' tvg-name='TNT SPORTS' group-title='Deportes',TNT SPORTS
 https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-#EXTINF:-1 tvg-id='TYC SPORTS HD' tvg-name='TYC SPORTS HD' group-title='Deportes',TYC SPORTS HD
+#EXTINF:-1 tvg-id='TyC Sports' tvg-name='TyC Sports' group-title='Deportes',TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-id='Animal Planet' tvg-name='Animal Planet' group-title='Documentales',Animal Planet
+#EXTINF:-1 tvg-id='ANIMAL PLANET HD' tvg-name='ANIMAL PLANET HD' group-title='Documentales',ANIMAL PLANET HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id='Discovery Channel' tvg-name='Discovery Channel' group-title='Documentales',Discovery Channel
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-id='ID' tvg-name='ID' group-title='Documentales',ID
+#EXTINF:-1 tvg-id='DISCOVERY ID HD' tvg-name='DISCOVERY ID HD' group-title='Documentales',DISCOVERY ID HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1 tvg-id='Discovery Science' tvg-name='Discovery Science' group-title='Documentales',Discovery Science
 https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
-#EXTINF:-1 tvg-id='Discovery Theater HD' tvg-name='Discovery Theater HD' group-title='Documentales',Discovery Theater HD
+#EXTINF:-1 tvg-id='Discovery Theatre HD' tvg-name='Discovery Theatre HD' group-title='Documentales',Discovery Theatre HD
 https://edge4-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
-#EXTINF:-1 tvg-id='TURBO' tvg-name='TURBO' group-title='Documentales',TURBO
+#EXTINF:-1 tvg-id='Discovery Turbo' tvg-name='Discovery Turbo' group-title='Documentales',Discovery Turbo
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 #EXTINF:-1 tvg-id='Discovery World HD' tvg-name='Discovery World HD' group-title='Documentales',Discovery World HD
 https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-#EXTINF:-1 tvg-id='Home &amp; Health' tvg-name='Home &amp; Health' group-title='Documentales',Home &amp; Health
+#EXTINF:-1 tvg-id='Discovery Home &amp; Health' tvg-name='Discovery Home &amp; Health' group-title='Documentales',Discovery Home &amp; Health
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 #EXTINF:-1 tvg-id='HGTV' tvg-name='HGTV' group-title='Documentales',HGTV
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
-#EXTINF:-1 tvg-id='HISTORY 2' tvg-name='HISTORY 2' group-title='Documentales',HISTORY 2
+#EXTINF:-1 tvg-id='H2' tvg-name='H2' group-title='Documentales',H2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-#EXTINF:-1 tvg-id='History Channel' tvg-name='History Channel' group-title='Documentales',History Channel
+#EXTINF:-1 tvg-id='The History Channel' tvg-name='The History Channel' group-title='Documentales',The History Channel
 https://edge4-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1 tvg-id='' tvg-name='' group-title='Documentales',Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id='NATIONAL GEOGRAPHIC HD' tvg-name='NATIONAL GEOGRAPHIC HD' group-title='Documentales',NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id='National Geographic' tvg-name='National Geographic' group-title='Documentales',National Geographic
 https://edge2.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-#EXTINF:-1 tvg-id='NAT GEO WILD HD' tvg-name='NAT GEO WILD HD' group-title='Documentales',NAT GEO WILD HD
+#EXTINF:-1 tvg-id='NatGeo Wild' tvg-name='NatGeo Wild' group-title='Documentales',NatGeo Wild
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 #EXTINF:-1 tvg-id='' tvg-name='' group-title='Entretenimiento',Canal Cocina
 https://edge02-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-#EXTINF:-1 tvg-id='Comedy Central HD' tvg-name='Comedy Central HD' group-title='Entretenimiento',Comedy Central HD
+#EXTINF:-1 tvg-id='Comedy Central' tvg-name='Comedy Central' group-title='Entretenimiento',Comedy Central
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
-#EXTINF:-1 tvg-id='FOOD NETWORK HD' tvg-name='FOOD NETWORK HD' group-title='Entretenimiento',FOOD NETWORK HD
+#EXTINF:-1 tvg-id='Food Network' tvg-name='Food Network' group-title='Entretenimiento',Food Network
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 #EXTINF:-1 tvg-id='El Garage' tvg-name='El Garage' group-title='Entretenimiento',El Garage
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
-#EXTINF:-1 tvg-id='el Gourmet HD' tvg-name='el Gourmet HD' group-title='Entretenimiento',el Gourmet HD
+#EXTINF:-1 tvg-id='Gourmet' tvg-name='Gourmet' group-title='Entretenimiento',Gourmet
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-#EXTINF:-1 tvg-id='TLC' tvg-name='TLC' group-title='Entretenimiento',TLC
+#EXTINF:-1 tvg-id='TLC HD' tvg-name='TLC HD' group-title='Entretenimiento',TLC HD
 https://edge2.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
-#EXTINF:-1 tvg-id='MTV HITS' tvg-name='MTV HITS' group-title='Musica',MTV HITS
+#EXTINF:-1 tvg-id='MTV Hits' tvg-name='MTV Hits' group-title='Musica',MTV Hits
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
-#EXTINF:-1 tvg-id='MUCH MUSIC' tvg-name='MUCH MUSIC' group-title='Musica',MUCH MUSIC
+#EXTINF:-1 tvg-id='Much Music' tvg-name='Much Music' group-title='Musica',Much Music
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
 #EXTINF:-1 tvg-id='' tvg-name='' group-title='Musica',Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id='QUIERO' tvg-name='QUIERO' group-title='Musica',QUIERO
+#EXTINF:-1 tvg-id='Quiero' tvg-name='Quiero' group-title='Musica',Quiero
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
-#EXTINF:-1 tvg-id='A24' tvg-name='A24' group-title='Noticias',A24
+#EXTINF:-1 tvg-id='A 24' tvg-name='A 24' group-title='Noticias',A 24
 https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
-#EXTINF:-1 tvg-id='' tvg-name='' group-title='Noticias',CNN Espanol
+#EXTINF:-1 tvg-id='CNN en español' tvg-name='CNN en español' group-title='Noticias',CNN en español
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
-#EXTINF:-1 tvg-id='TN' tvg-name='TN' group-title='Noticias',TN
+#EXTINF:-1 tvg-id='Todo Noticias' tvg-name='Todo Noticias' group-title='Noticias',Todo Noticias
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
-#EXTINF:-1 tvg-id='CINECANAL HD' tvg-name='CINECANAL HD' group-title='Peliculas',CINECANAL HD
+#EXTINF:-1 tvg-id='Cinecanal HD' tvg-name='Cinecanal HD' group-title='Peliculas',Cinecanal HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-#EXTINF:-1 tvg-id='FX movies HD' tvg-name='FX movies HD' group-title='Peliculas',FX movies HD
+#EXTINF:-1 tvg-id='FX MOVIES' tvg-name='FX MOVIES' group-title='Peliculas',FX MOVIES
 https://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
-#EXTINF:-1 tvg-id='HBO' tvg-name='HBO' group-title='Peliculas',HBO
+#EXTINF:-1 tvg-id='HBO Este' tvg-name='HBO Este' group-title='Peliculas',HBO Este
 https://edge4-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1 tvg-id='HBO plus' tvg-name='HBO plus' group-title='Peliculas',HBO plus
+#EXTINF:-1 tvg-id='HBO Plus Panamericano' tvg-name='HBO Plus Panamericano' group-title='Peliculas',HBO Plus Panamericano
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 #EXTINF:-1 tvg-id='HBO 2' tvg-name='HBO 2' group-title='Peliculas',HBO 2
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-#EXTINF:-1 tvg-id='HBO family' tvg-name='HBO family' group-title='Peliculas',HBO family
+#EXTINF:-1 tvg-id='HBO Family Panamericano' tvg-name='HBO Family Panamericano' group-title='Peliculas',HBO Family Panamericano
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
-#EXTINF:-1 tvg-id='HBO MUNDI' tvg-name='HBO MUNDI' group-title='Peliculas',HBO MUNDI
+#EXTINF:-1 tvg-id='HBO MUNDI ARGENTINA' tvg-name='HBO MUNDI ARGENTINA' group-title='Peliculas',HBO MUNDI ARGENTINA
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 #EXTINF:-1 tvg-id='HBO POP' tvg-name='HBO POP' group-title='Peliculas',HBO POP
 https://edge4-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 #EXTINF:-1 tvg-id='HBO Signature' tvg-name='HBO Signature' group-title='Peliculas',HBO Signature
 https://drgcnct071.herokuapp.com/https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
-#EXTINF:-1 tvg-id='HBO XTREME' tvg-name='HBO XTREME' group-title='Peliculas',HBO XTREME
+#EXTINF:-1 tvg-id='HBO XTREME ARGENTINA' tvg-name='HBO XTREME ARGENTINA' group-title='Peliculas',HBO XTREME ARGENTINA
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
-#EXTINF:-1 tvg-id='PARAMOUNT CHANNEL HD' tvg-name='PARAMOUNT CHANNEL HD' group-title='Peliculas',PARAMOUNT CHANNEL HD
+#EXTINF:-1 tvg-id='Paramount' tvg-name='Paramount' group-title='Peliculas',Paramount
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1 tvg-id='STAR CINEMA' tvg-name='STAR CINEMA' group-title='Peliculas',STAR CINEMA
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMoviesHD.m3u8
-#EXTINF:-1 tvg-id='STUDIO UNIVERSAL' tvg-name='STUDIO UNIVERSAL' group-title='Peliculas',STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id='Studio Universal' tvg-name='Studio Universal' group-title='Peliculas',Studio Universal
 https://edge4-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 #EXTINF:-1 tvg-id='TNT' tvg-name='TNT' group-title='Peliculas',TNT
 https://edge2.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-#EXTINF:-1 tvg-id='A&amp;E HD' tvg-name='A&amp;E HD' group-title='Series',A&amp;E HD
+#EXTINF:-1 tvg-id='A&amp;E Mundo' tvg-name='A&amp;E Mundo' group-title='Series',A&amp;E Mundo
 https://edge01-fdo-py.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
-#EXTINF:-1 tvg-id='AMC HD' tvg-name='AMC HD' group-title='Series',AMC HD
+#EXTINF:-1 tvg-id='AMC' tvg-name='AMC' group-title='Series',AMC
 https://edge02-fdo-py.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-#EXTINF:-1 tvg-id='AXN HD' tvg-name='AXN HD' group-title='Series',AXN HD
+#EXTINF:-1 tvg-id='AXN' tvg-name='AXN' group-title='Series',AXN
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
-#EXTINF:-1 tvg-id='FX HD' tvg-name='FX HD' group-title='Series',FX HD
+#EXTINF:-1 tvg-id='FX' tvg-name='FX' group-title='Series',FX
 https://edge02-fdo-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
-#EXTINF:-1 tvg-id='SONY' tvg-name='SONY' group-title='Series',SONY
+#EXTINF:-1 tvg-id='Sony' tvg-name='Sony' group-title='Series',Sony
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
-#EXTINF:-1 tvg-id='SPACE' tvg-name='SPACE' group-title='Series',SPACE
+#EXTINF:-1 tvg-id='Space HD' tvg-name='Space HD' group-title='Series',Space HD
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
-#EXTINF:-1 tvg-id='STAR CHANNEL HD' tvg-name='STAR CHANNEL HD' group-title='Series',STAR CHANNEL HD
+#EXTINF:-1 tvg-id='STAR CHANNEL' tvg-name='STAR CHANNEL' group-title='Series',STAR CHANNEL
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1 tvg-id='STAR LIFE HD' tvg-name='STAR LIFE HD' group-title='Series',STAR LIFE HD
+#EXTINF:-1 tvg-id='STAR LIFE' tvg-name='STAR LIFE' group-title='Series',STAR LIFE
 https://cdn.cvattv.com.ar/live/c6eds/Start_Life/SA_SAGEMCOM/Start_Life-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
-#EXTINF:-1 tvg-id='TNT Series HD' tvg-name='TNT Series HD' group-title='Series',TNT Series HD
+#EXTINF:-1 tvg-id='TNT Series' tvg-name='TNT Series' group-title='Series',TNT Series
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-#EXTINF:-1 tvg-id='UNIVERSAL' tvg-name='UNIVERSAL' group-title='Series',UNIVERSAL
+#EXTINF:-1 tvg-id='Universal Channel' tvg-name='Universal Channel' group-title='Series',Universal Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
-#EXTINF:-1 tvg-id='Warner' tvg-name='Warner' group-title='Series',Warner
+#EXTINF:-1 tvg-id='Warner Channel' tvg-name='Warner Channel' group-title='Series',Warner Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
-
