@@ -45,6 +45,16 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/FOX SPORTS PREMIUM.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="es">Fox Sports 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 2.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Fox Sports 3">
+    <display-name lang="es">Fox Sports 3</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 3.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Discovery Home &amp; Health">
     <display-name lang="es">Discovery Home &amp; Health</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Home &amp; Health.png" />
@@ -2188,6 +2198,420 @@
   </programme>
   <programme start="20220422230000 -0300" stop="20220423000000 -0300" channel="FOX SPORTS PREMIUM">
     <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419000000 -0300" stop="20220419020000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20220419020000 -0300" stop="20220419030000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Unleashed</title>
+  </programme>
+  <programme start="20220419030000 -0300" stop="20220419040000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220419040000 -0300" stop="20220419050000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20220419050000 -0300" stop="20220419070000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220419070000 -0300" stop="20220419090000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20220419090000 -0300" stop="20220419110000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220419110000 -0300" stop="20220419120000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20220419120000 -0300" stop="20220419140000 -0300" channel="Fox Sports 2">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220419140000 -0300" stop="20220419160000 -0300" channel="Fox Sports 2">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220419160000 -0300" stop="20220419170000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions Classics</title>
+  </programme>
+  <programme start="20220419170000 -0300" stop="20220419190000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220419190000 -0300" stop="20220419200000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220419200000 -0300" stop="20220419210000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE NXT</title>
+  </programme>
+  <programme start="20220419210000 -0300" stop="20220419230000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220419230000 -0300" stop="20220419230600 -0300" channel="Fox Sports 2">
+    <title lang="es">Previa - Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220419230600 -0300" stop="20220420000000 -0300" channel="Fox Sports 2">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220420000000 -0300" stop="20220420010000 -0300" channel="Fox Sports 2">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220420010000 -0300" stop="20220420030000 -0300" channel="Fox Sports 2">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220420030000 -0300" stop="20220420040000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220420040000 -0300" stop="20220420050000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20220420050000 -0300" stop="20220420070000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220420070000 -0300" stop="20220420090000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20220420090000 -0300" stop="20220420110000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220420110000 -0300" stop="20220420120000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE NXT</title>
+  </programme>
+  <programme start="20220420120000 -0300" stop="20220420140000 -0300" channel="Fox Sports 2">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220420140000 -0300" stop="20220420160000 -0300" channel="Fox Sports 2">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220420160000 -0300" stop="20220420170000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions Classics</title>
+  </programme>
+  <programme start="20220420170000 -0300" stop="20220420190000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220420190000 -0300" stop="20220420200000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220420200000 -0300" stop="20220420210000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20220420210000 -0300" stop="20220420220000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Unleashed</title>
+  </programme>
+  <programme start="20220420220000 -0300" stop="20220420223000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Ultimate Knockouts</title>
+  </programme>
+  <programme start="20220420223000 -0300" stop="20220420230000 -0300" channel="Fox Sports 2">
+    <title lang="es">Seven de Vancouver Highlights</title>
+  </programme>
+  <programme start="20220420230000 -0300" stop="20220421000000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421010000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220421010000 -0300" stop="20220421030000 -0300" channel="Fox Sports 2">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220421030000 -0300" stop="20220421040000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220421040000 -0300" stop="20220421050000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20220421050000 -0300" stop="20220421070000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220421070000 -0300" stop="20220421090000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20220421090000 -0300" stop="20220421110000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220421110000 -0300" stop="20220421120000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20220421120000 -0300" stop="20220421140000 -0300" channel="Fox Sports 2">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220421140000 -0300" stop="20220421160000 -0300" channel="Fox Sports 2">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220421160000 -0300" stop="20220421170000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions Classics</title>
+  </programme>
+  <programme start="20220421170000 -0300" stop="20220421190000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220421190000 -0300" stop="20220421200000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220421200000 -0300" stop="20220421210000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20220421210000 -0300" stop="20220421230000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20220421230000 -0300" stop="20220422000000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422010000 -0300" channel="Fox Sports 2">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220422010000 -0300" stop="20220422030000 -0300" channel="Fox Sports 2">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220422030000 -0300" stop="20220422040000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220422040000 -0300" stop="20220422050000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20220422050000 -0300" stop="20220422070000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220422070000 -0300" stop="20220422080000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220422080000 -0300" stop="20220422090000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20220422090000 -0300" stop="20220422110000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20220422110000 -0300" stop="20220422120000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Unleashed</title>
+  </programme>
+  <programme start="20220422120000 -0300" stop="20220422140000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports 2</title>
+  </programme>
+  <programme start="20220422140000 -0300" stop="20220422150000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220422150000 -0300" stop="20220422170000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports 2</title>
+  </programme>
+  <programme start="20220422170000 -0300" stop="20220422180000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220422180000 -0300" stop="20220422190000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220422190000 -0300" stop="20220422200000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220422200000 -0300" stop="20220422210000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220422210000 -0300" stop="20220422220000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220422220000 -0300" stop="20220422230000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports clásico</title>
+  </programme>
+  <programme start="20220422230000 -0300" stop="20220423000000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports clásico</title>
+  </programme>
+  <programme start="20220419000000 -0300" stop="20220419010000 -0300" channel="Fox Sports 3">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220419010000 -0300" stop="20220419030000 -0300" channel="Fox Sports 3">
+    <title lang="es">Grita México - Liga MX Femenil</title>
+  </programme>
+  <programme start="20220419030000 -0300" stop="20220419060000 -0300" channel="Fox Sports 3">
+    <title lang="es">NASCAR Xfinity Series</title>
+  </programme>
+  <programme start="20220419060000 -0300" stop="20220419070000 -0300" channel="Fox Sports 3">
+    <title lang="es">Momentos eternos</title>
+  </programme>
+  <programme start="20220419070000 -0300" stop="20220419090000 -0300" channel="Fox Sports 3">
+    <title lang="es">Superliga Argentina</title>
+  </programme>
+  <programme start="20220419090000 -0300" stop="20220419100000 -0300" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220419100000 -0300" stop="20220419110000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20220419110000 -0300" stop="20220419130000 -0300" channel="Fox Sports 3">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220419130000 -0300" stop="20220419150000 -0300" channel="Fox Sports 3">
+    <title lang="es">NASCAR Camping World Truck Series</title>
+  </programme>
+  <programme start="20220419150000 -0300" stop="20220419170000 -0300" channel="Fox Sports 3">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220419170000 -0300" stop="20220419190000 -0300" channel="Fox Sports 3">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220419190000 -0300" stop="20220419210000 -0300" channel="Fox Sports 3">
+    <title lang="es">Superliga Argentina</title>
+  </programme>
+  <programme start="20220419210000 -0300" stop="20220419220000 -0300" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220419220000 -0300" stop="20220419230000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20220419230000 -0300" stop="20220420000000 -0300" channel="Fox Sports 3">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220420000000 -0300" stop="20220420010000 -0300" channel="Fox Sports 3">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220420010000 -0300" stop="20220420030000 -0300" channel="Fox Sports 3">
+    <title lang="es">Grita México - Liga MX Femenil</title>
+  </programme>
+  <programme start="20220420030000 -0300" stop="20220420050000 -0300" channel="Fox Sports 3">
+    <title lang="es">NASCAR Camping World Truck Series</title>
+  </programme>
+  <programme start="20220420050000 -0300" stop="20220420070000 -0300" channel="Fox Sports 3">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220420070000 -0300" stop="20220420090000 -0300" channel="Fox Sports 3">
+    <title lang="es">Superliga Argentina</title>
+  </programme>
+  <programme start="20220420090000 -0300" stop="20220420100000 -0300" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220420100000 -0300" stop="20220420110000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE NXT</title>
+  </programme>
+  <programme start="20220420110000 -0300" stop="20220420130000 -0300" channel="Fox Sports 3">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220420130000 -0300" stop="20220420140000 -0300" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbike World Championship</title>
+  </programme>
+  <programme start="20220420140000 -0300" stop="20220420150000 -0300" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbike World Championship</title>
+  </programme>
+  <programme start="20220420150000 -0300" stop="20220420160000 -0300" channel="Fox Sports 3">
+    <title lang="es">FIM Motocross Season Review</title>
+  </programme>
+  <programme start="20220420160000 -0300" stop="20220420170000 -0300" channel="Fox Sports 3">
+    <title lang="es">Season Review - Motul FIM Superbike World Champion</title>
+  </programme>
+  <programme start="20220420170000 -0300" stop="20220420190000 -0300" channel="Fox Sports 3">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220420190000 -0300" stop="20220420210000 -0300" channel="Fox Sports 3">
+    <title lang="es">Superliga Argentina</title>
+  </programme>
+  <programme start="20220420210000 -0300" stop="20220420213000 -0300" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220420213000 -0300" stop="20220420220000 -0300" channel="Fox Sports 3">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20220420220000 -0300" stop="20220420230000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE NXT</title>
+  </programme>
+  <programme start="20220420230000 -0300" stop="20220421000000 -0300" channel="Fox Sports 3">
+    <title lang="es">ACB, basquetbol liga española</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421010000 -0300" channel="Fox Sports 3">
+    <title lang="es">ACB, basquetbol liga española</title>
+  </programme>
+  <programme start="20220421010000 -0300" stop="20220421030000 -0300" channel="Fox Sports 3">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220421030000 -0300" stop="20220421040000 -0300" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbike World Championship</title>
+  </programme>
+  <programme start="20220421040000 -0300" stop="20220421050000 -0300" channel="Fox Sports 3">
+    <title lang="es">Motul FIM Superbike World Championship</title>
+  </programme>
+  <programme start="20220421050000 -0300" stop="20220421060000 -0300" channel="Fox Sports 3">
+    <title lang="es">FIM Motocross Season Review</title>
+  </programme>
+  <programme start="20220421060000 -0300" stop="20220421070000 -0300" channel="Fox Sports 3">
+    <title lang="es">Season Review - Motul FIM Superbike World Champion</title>
+  </programme>
+  <programme start="20220421070000 -0300" stop="20220421090000 -0300" channel="Fox Sports 3">
+    <title lang="es">Superliga Argentina</title>
+  </programme>
+  <programme start="20220421090000 -0300" stop="20220421093000 -0300" channel="Fox Sports 3">
+    <title lang="es">Momentos eternos</title>
+  </programme>
+  <programme start="20220421093000 -0300" stop="20220421100000 -0300" channel="Fox Sports 3">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20220421100000 -0300" stop="20220421110000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20220421110000 -0300" stop="20220421130000 -0300" channel="Fox Sports 3">
+    <title lang="es">ACB, basquetbol liga española</title>
+  </programme>
+  <programme start="20220421130000 -0300" stop="20220421160000 -0300" channel="Fox Sports 3">
+    <title lang="es">Race of Champions</title>
+  </programme>
+  <programme start="20220421160000 -0300" stop="20220421170000 -0300" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220421170000 -0300" stop="20220421190000 -0300" channel="Fox Sports 3">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220421190000 -0300" stop="20220421210000 -0300" channel="Fox Sports 3">
+    <title lang="es">Superliga Argentina</title>
+  </programme>
+  <programme start="20220421210000 -0300" stop="20220421213000 -0300" channel="Fox Sports 3">
+    <title lang="es">Momentos eternos</title>
+  </programme>
+  <programme start="20220421213000 -0300" stop="20220421220000 -0300" channel="Fox Sports 3">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20220421220000 -0300" stop="20220421230000 -0300" channel="Fox Sports 3">
+    <title lang="es">UFC Unleashed</title>
+  </programme>
+  <programme start="20220421230000 -0300" stop="20220422000000 -0300" channel="Fox Sports 3">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422010000 -0300" channel="Fox Sports 3">
+    <title lang="es">Grita México - Liga MX</title>
+  </programme>
+  <programme start="20220422010000 -0300" stop="20220422030000 -0300" channel="Fox Sports 3">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220422030000 -0300" stop="20220422060000 -0300" channel="Fox Sports 3">
+    <title lang="es">Race of Champions</title>
+  </programme>
+  <programme start="20220422060000 -0300" stop="20220422070000 -0300" channel="Fox Sports 3">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220422070000 -0300" stop="20220422080000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220422080000 -0300" stop="20220422110000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20220422110000 -0300" stop="20220422113000 -0300" channel="Fox Sports 3">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20220422113000 -0300" stop="20220422133000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20220422133000 -0300" stop="20220422153000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220422153000 -0300" stop="20220422160000 -0300" channel="Fox Sports 3">
+    <title lang="es">Momentos eternos</title>
+  </programme>
+  <programme start="20220422160000 -0300" stop="20220422180000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220422180000 -0300" stop="20220422190000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20220422190000 -0300" stop="20220422200000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220422200000 -0300" stop="20220422230000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20220422230000 -0300" stop="20220422233000 -0300" channel="Fox Sports 3">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20220422233000 -0300" stop="20220423000000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Smackdown</title>
   </programme>
   <programme start="20220419000000 -0300" stop="20220419004900 -0300" channel="Discovery Home &amp; Health">
     <title lang="es">Bake Off: los profesionales</title>
