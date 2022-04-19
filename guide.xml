@@ -35,9 +35,14 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
-  <channel id="ESPN Extra">
-    <display-name lang="es">ESPN Extra</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Extra.png" />
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 2.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="FOX SPORTS PREMIUM">
+    <display-name lang="es">FOX SPORTS PREMIUM</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/FOX SPORTS PREMIUM.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="Discovery Home &amp; Health">
@@ -1809,239 +1814,380 @@
   <programme start="20220422175500 -0300" stop="20220423000000 -0300" channel="ESPN">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20220419000000 -0300" stop="20220419003000 -0300" channel="ESPN Extra">
-    <title lang="es">LaLiga</title>
+  <programme start="20220419000000 -0300" stop="20220419010000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Tenis</title>
   </programme>
-  <programme start="20220419003000 -0300" stop="20220419023000 -0300" channel="ESPN Extra">
+  <programme start="20220419010000 -0300" stop="20220419020000 -0300" channel="ESPN 2">
+    <title lang="es">P.G.A. Tour - Highlights - RBC Heritage</title>
+  </programme>
+  <programme start="20220419020000 -0300" stop="20220419030000 -0300" channel="ESPN 2">
+    <title lang="es">Goles de la Serie A</title>
+  </programme>
+  <programme start="20220419030000 -0300" stop="20220419040000 -0300" channel="ESPN 2">
+    <title lang="es">Goles de la Ligue 1</title>
+  </programme>
+  <programme start="20220419040000 -0300" stop="20220419043000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20220419043000 -0300" stop="20220419050000 -0300" channel="ESPN 2">
+    <title lang="es">Goles de la MLS</title>
+  </programme>
+  <programme start="20220419050000 -0300" stop="20220419060000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220419060000 -0300" stop="20220419070000 -0300" channel="ESPN 2">
+    <title lang="es">P.G.A. Tour - Highlights - RBC Heritage</title>
+  </programme>
+  <programme start="20220419070000 -0300" stop="20220419080000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Tenis</title>
+  </programme>
+  <programme start="20220419080000 -0300" stop="20220419120000 -0300" channel="ESPN 2">
+    <title lang="es">La Flèche Wallonne</title>
+  </programme>
+  <programme start="20220419120000 -0300" stop="20220419135000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220419135000 -0300" stop="20220419155500 -0300" channel="ESPN 2">
+    <title lang="es">Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220419155500 -0300" stop="20220419175500 -0300" channel="ESPN 2">
     <title lang="es">Copa Italia</title>
   </programme>
-  <programme start="20220419023000 -0300" stop="20220419030000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN W</title>
+  <programme start="20220419175500 -0300" stop="20220419190000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter+</title>
   </programme>
-  <programme start="20220419030000 -0300" stop="20220419033000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Yoga</title>
+  <programme start="20220419190000 -0300" stop="20220419203000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20220419033000 -0300" stop="20220419040000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN X</title>
+  <programme start="20220419203000 -0300" stop="20220419230000 -0300" channel="ESPN 2">
+    <title lang="es">NBA</title>
   </programme>
-  <programme start="20220419040000 -0300" stop="20220419070000 -0300" channel="ESPN Extra">
-    <title lang="es">Béisbol del martes de ESPN</title>
+  <programme start="20220419230000 -0300" stop="20220420000000 -0300" channel="ESPN 2">
+    <title lang="es">NBA</title>
   </programme>
-  <programme start="20220419070000 -0300" stop="20220419080000 -0300" channel="ESPN Extra">
-    <title lang="es">Goles de la Serie A</title>
+  <programme start="20220420000000 -0300" stop="20220420013000 -0300" channel="ESPN 2">
+    <title lang="es">NBA</title>
   </programme>
-  <programme start="20220419080000 -0300" stop="20220419100000 -0300" channel="ESPN Extra">
-    <title lang="es">Premier League</title>
+  <programme start="20220420013000 -0300" stop="20220420020000 -0300" channel="ESPN 2">
+    <title lang="es">Acción de la N.B.A.</title>
   </programme>
-  <programme start="20220419100000 -0300" stop="20220419120000 -0300" channel="ESPN Extra">
-    <title lang="es">LaLiga</title>
+  <programme start="20220420020000 -0300" stop="20220420030000 -0300" channel="ESPN 2">
+    <title lang="es">P.G.A. Tour - Highlights - RBC Heritage</title>
   </programme>
-  <programme start="20220419120000 -0300" stop="20220419130000 -0300" channel="ESPN Extra">
-    <title lang="es">PGA Tour Highlights - RBC Heritage</title>
-  </programme>
-  <programme start="20220419130000 -0300" stop="20220419140000 -0300" channel="ESPN Extra">
+  <programme start="20220420030000 -0300" stop="20220420040000 -0300" channel="ESPN 2">
     <title lang="es">ESPN Tenis</title>
   </programme>
-  <programme start="20220419140000 -0300" stop="20220419150000 -0300" channel="ESPN Extra">
-    <title lang="es">Compacto - Premier League</title>
+  <programme start="20220420040000 -0300" stop="20220420043000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN X</title>
   </programme>
-  <programme start="20220419150000 -0300" stop="20220419153000 -0300" channel="ESPN Extra">
+  <programme start="20220420043000 -0300" stop="20220420050000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20220420050000 -0300" stop="20220420060000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220420060000 -0300" stop="20220420070000 -0300" channel="ESPN 2">
+    <title lang="es">Goles del fútbol de Alemania</title>
+  </programme>
+  <programme start="20220420070000 -0300" stop="20220420073000 -0300" channel="ESPN 2">
     <title lang="es">Goles de la MLS</title>
   </programme>
-  <programme start="20220419153000 -0300" stop="20220419174000 -0300" channel="ESPN Extra">
-    <title lang="es">Premier League</title>
-  </programme>
-  <programme start="20220419174000 -0300" stop="20220419180500 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20220419180500 -0300" stop="20220419183000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN W</title>
-  </programme>
-  <programme start="20220419183000 -0300" stop="20220419190000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Yoga</title>
-  </programme>
-  <programme start="20220419190000 -0300" stop="20220419210000 -0300" channel="ESPN Extra">
+  <programme start="20220420073000 -0300" stop="20220420093000 -0300" channel="ESPN 2">
     <title lang="es">Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20220419210000 -0300" stop="20220419230000 -0300" channel="ESPN Extra">
-    <title lang="es">Ligue 1 Uber Eats</title>
-  </programme>
-  <programme start="20220419230000 -0300" stop="20220420000000 -0300" channel="ESPN Extra">
-    <title lang="es">LaLiga</title>
-  </programme>
-  <programme start="20220420000000 -0300" stop="20220420010000 -0300" channel="ESPN Extra">
-    <title lang="es">LaLiga</title>
-  </programme>
-  <programme start="20220420010000 -0300" stop="20220420020000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Playroom</title>
-  </programme>
-  <programme start="20220420020000 -0300" stop="20220420040000 -0300" channel="ESPN Extra">
-    <title lang="es">Premier League</title>
-  </programme>
-  <programme start="20220420040000 -0300" stop="20220420050000 -0300" channel="ESPN Extra">
-    <title lang="es">Goles de la Serie A</title>
-  </programme>
-  <programme start="20220420050000 -0300" stop="20220420070000 -0300" channel="ESPN Extra">
-    <title lang="es">LaLiga</title>
-  </programme>
-  <programme start="20220420070000 -0300" stop="20220420080000 -0300" channel="ESPN Extra">
-    <title lang="es">PGA Tour Highlights - RBC Heritage</title>
-  </programme>
-  <programme start="20220420080000 -0300" stop="20220420090000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Tenis</title>
-  </programme>
-  <programme start="20220420090000 -0300" stop="20220420100000 -0300" channel="ESPN Extra">
-    <title lang="es">Copa Italia Highlights</title>
-  </programme>
-  <programme start="20220420100000 -0300" stop="20220420110000 -0300" channel="ESPN Extra">
-    <title lang="es">World Athletics Race Walking Team Championships</title>
-  </programme>
-  <programme start="20220420110000 -0300" stop="20220420120000 -0300" channel="ESPN Extra">
-    <title lang="es">World Athletics Race Walking Team Championships</title>
-  </programme>
-  <programme start="20220420120000 -0300" stop="20220420140000 -0300" channel="ESPN Extra">
-    <title lang="es">NCAA Men's Swimming and Diving Championship</title>
-  </programme>
-  <programme start="20220420140000 -0300" stop="20220420163000 -0300" channel="ESPN Extra">
+  <programme start="20220420093000 -0300" stop="20220420120000 -0300" channel="ESPN 2">
     <title lang="es">NBA</title>
   </programme>
-  <programme start="20220420163000 -0300" stop="20220420190000 -0300" channel="ESPN Extra">
-    <title lang="es">NBA</title>
+  <programme start="20220420120000 -0300" stop="20220420135000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20220420190000 -0300" stop="20220420210000 -0300" channel="ESPN Extra">
+  <programme start="20220420135000 -0300" stop="20220420155500 -0300" channel="ESPN 2">
     <title lang="es">LaLiga</title>
   </programme>
-  <programme start="20220420210000 -0300" stop="20220420230000 -0300" channel="ESPN Extra">
-    <title lang="es">LaLiga</title>
+  <programme start="20220420155500 -0300" stop="20220420190000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter+</title>
   </programme>
-  <programme start="20220420230000 -0300" stop="20220421000000 -0300" channel="ESPN Extra">
-    <title lang="es">Revista del Turf</title>
+  <programme start="20220420190000 -0300" stop="20220420220000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20220421000000 -0300" stop="20220421010000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Tenis</title>
-  </programme>
-  <programme start="20220421010000 -0300" stop="20220421013000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN X</title>
-  </programme>
-  <programme start="20220421013000 -0300" stop="20220421020000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20220421020000 -0300" stop="20220421030000 -0300" channel="ESPN Extra">
+  <programme start="20220420220000 -0300" stop="20220420230000 -0300" channel="ESPN 2">
     <title lang="es">Simplemente fútbol</title>
   </programme>
-  <programme start="20220421030000 -0300" stop="20220421033000 -0300" channel="ESPN Extra">
-    <title lang="es">Goles de la MLS</title>
-  </programme>
-  <programme start="20220421033000 -0300" stop="20220421040000 -0300" channel="ESPN Extra">
+  <programme start="20220420230000 -0300" stop="20220420233000 -0300" channel="ESPN 2">
     <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-  <programme start="20220421040000 -0300" stop="20220421060000 -0300" channel="ESPN Extra">
-    <title lang="es">NCAA Men's and Women's Fencing Championships</title>
+  <programme start="20220420233000 -0300" stop="20220421000000 -0300" channel="ESPN 2">
+    <title lang="es">A.T.P. Tour Magazine</title>
   </programme>
-  <programme start="20220421060000 -0300" stop="20220421080000 -0300" channel="ESPN Extra">
+  <programme start="20220421000000 -0300" stop="20220421020000 -0300" channel="ESPN 2">
     <title lang="es">LaLiga</title>
   </programme>
-  <programme start="20220421080000 -0300" stop="20220421100000 -0300" channel="ESPN Extra">
-    <title lang="es">Ligue 1 Uber Eats</title>
+  <programme start="20220421020000 -0300" stop="20220421040000 -0300" channel="ESPN 2">
+    <title lang="es">LaLiga</title>
   </programme>
-  <programme start="20220421100000 -0300" stop="20220421110000 -0300" channel="ESPN Extra">
+  <programme start="20220421040000 -0300" stop="20220421050000 -0300" channel="ESPN 2">
+    <title lang="es">P.G.A. Tour - Highlights - RBC Heritage</title>
+  </programme>
+  <programme start="20220421050000 -0300" stop="20220421060000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220421060000 -0300" stop="20220421063000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20220421063000 -0300" stop="20220421070000 -0300" channel="ESPN 2">
+    <title lang="es">Goles de la MLS</title>
+  </programme>
+  <programme start="20220421070000 -0300" stop="20220421080000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Tenis</title>
+  </programme>
+  <programme start="20220421080000 -0300" stop="20220421100000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220421100000 -0300" stop="20220421103000 -0300" channel="ESPN 2">
+    <title lang="es">Lo mejor de MotoGP</title>
+  </programme>
+  <programme start="20220421103000 -0300" stop="20220421110000 -0300" channel="ESPN 2">
+    <title lang="es">A.T.P. Tour Magazine</title>
+  </programme>
+  <programme start="20220421110000 -0300" stop="20220421120000 -0300" channel="ESPN 2">
     <title lang="es">Simplemente fútbol</title>
   </programme>
-  <programme start="20220421110000 -0300" stop="20220421113000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Run</title>
+  <programme start="20220421120000 -0300" stop="20220421160000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20220421113000 -0300" stop="20220421120000 -0300" channel="ESPN Extra">
-    <title lang="es">Acción de la N.B.A.</title>
+  <programme start="20220421160000 -0300" stop="20220421190000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter+</title>
   </programme>
-  <programme start="20220421120000 -0300" stop="20220421140000 -0300" channel="ESPN Extra">
-    <title lang="es">LaLiga</title>
+  <programme start="20220421190000 -0300" stop="20220421203000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20220421140000 -0300" stop="20220421143000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Yoga</title>
+  <programme start="20220421203000 -0300" stop="20220421210000 -0300" channel="ESPN 2">
+    <title lang="es">N.B.A. esta noche</title>
   </programme>
-  <programme start="20220421143000 -0300" stop="20220421150500 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN X</title>
+  <programme start="20220421210000 -0300" stop="20220421233000 -0300" channel="ESPN 2">
+    <title lang="es">NBA</title>
   </programme>
-  <programme start="20220421150500 -0300" stop="20220421154000 -0300" channel="ESPN Extra">
-    <title lang="es">Serie A - Preview Show</title>
+  <programme start="20220421233000 -0300" stop="20220422000000 -0300" channel="ESPN 2">
+    <title lang="es">NBA</title>
   </programme>
-  <programme start="20220421154000 -0300" stop="20220421174500 -0300" channel="ESPN Extra">
-    <title lang="es">Rugby de Inglaterra - Premiership</title>
+  <programme start="20220422000000 -0300" stop="20220422020000 -0300" channel="ESPN 2">
+    <title lang="es">NBA</title>
   </programme>
-  <programme start="20220421174500 -0300" stop="20220421180000 -0300" channel="ESPN Extra">
-    <title lang="es">Factor H</title>
-  </programme>
-  <programme start="20220421180000 -0300" stop="20220421190000 -0300" channel="ESPN Extra">
-    <title lang="es">Revista del Turf</title>
-  </programme>
-  <programme start="20220421190000 -0300" stop="20220421200000 -0300" channel="ESPN Extra">
+  <programme start="20220422020000 -0300" stop="20220422030000 -0300" channel="ESPN 2">
     <title lang="es">Goles de Europa</title>
   </programme>
-  <programme start="20220421200000 -0300" stop="20220421210000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Knockout</title>
-  </programme>
-  <programme start="20220421210000 -0300" stop="20220421220000 -0300" channel="ESPN Extra">
-    <title lang="es">Copa Italia Highlights</title>
-  </programme>
-  <programme start="20220421220000 -0300" stop="20220421230000 -0300" channel="ESPN Extra">
-    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
-  </programme>
-  <programme start="20220421230000 -0300" stop="20220422000000 -0300" channel="ESPN Extra">
-    <title lang="es">Copa Italia Highlights</title>
-  </programme>
-  <programme start="20220422000000 -0300" stop="20220422003000 -0300" channel="ESPN Extra">
-    <title lang="es">A.T.P. Tour Magazine</title>
-  </programme>
-  <programme start="20220422003000 -0300" stop="20220422010000 -0300" channel="ESPN Extra">
-    <title lang="es">Serie A - Preview Show</title>
-  </programme>
-  <programme start="20220422010000 -0300" stop="20220422030000 -0300" channel="ESPN Extra">
+  <programme start="20220422030000 -0300" stop="20220422050000 -0300" channel="ESPN 2">
     <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20220422030000 -0300" stop="20220422040000 -0300" channel="ESPN Extra">
-    <title lang="es">PGA Tour Highlights - RBC Heritage</title>
+  <programme start="20220422050000 -0300" stop="20220422060000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20220422040000 -0300" stop="20220422050000 -0300" channel="ESPN Extra">
+  <programme start="20220422060000 -0300" stop="20220422095000 -0300" channel="ESPN 2">
     <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20220422050000 -0300" stop="20220422060000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Knockout</title>
+  <programme start="20220422095000 -0300" stop="20220422120000 -0300" channel="ESPN 2">
+    <title lang="es">Premier League</title>
   </programme>
-  <programme start="20220422060000 -0300" stop="20220422070000 -0300" channel="ESPN Extra">
+  <programme start="20220422120000 -0300" stop="20220422130000 -0300" channel="ESPN 2">
     <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20220422070000 -0300" stop="20220422073000 -0300" channel="ESPN Extra">
-    <title lang="es">Serie A - Preview Show</title>
-  </programme>
-  <programme start="20220422073000 -0300" stop="20220422120000 -0300" channel="ESPN Extra">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20220422120000 -0300" stop="20220422123000 -0300" channel="ESPN Extra">
-    <title lang="es">Aguas arriba</title>
-  </programme>
-  <programme start="20220422123000 -0300" stop="20220422130000 -0300" channel="ESPN Extra">
-    <title lang="es">A.T.P. Tour Magazine</title>
-  </programme>
-  <programme start="20220422130000 -0300" stop="20220422143000 -0300" channel="ESPN Extra">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20220422143000 -0300" stop="20220422150000 -0300" channel="ESPN Extra">
-    <title lang="es">Acción de la N.B.A.</title>
-  </programme>
-  <programme start="20220422150000 -0300" stop="20220422160000 -0300" channel="ESPN Extra">
-    <title lang="es">ESPN Knockout</title>
-  </programme>
-  <programme start="20220422160000 -0300" stop="20220422190000 -0300" channel="ESPN Extra">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20220422190000 -0300" stop="20220422210000 -0300" channel="ESPN Extra">
+  <programme start="20220422130000 -0300" stop="20220422152000 -0300" channel="ESPN 2">
     <title lang="es">Ligue 1 Uber Eats</title>
   </programme>
-  <programme start="20220422210000 -0300" stop="20220422220000 -0300" channel="ESPN Extra">
+  <programme start="20220422152000 -0300" stop="20220422173000 -0300" channel="ESPN 2">
+    <title lang="es">Serie A</title>
+  </programme>
+  <programme start="20220422173000 -0300" stop="20220422203000 -0300" channel="ESPN 2">
     <title lang="es">A confirmar</title>
   </programme>
-  <programme start="20220422220000 -0300" stop="20220423000000 -0300" channel="ESPN Extra">
-    <title lang="es">Serie A</title>
+  <programme start="20220422203000 -0300" stop="20220422224000 -0300" channel="ESPN 2">
+    <title lang="es">Bundesliga</title>
+  </programme>
+  <programme start="20220422224000 -0300" stop="20220423000000 -0300" channel="ESPN 2">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220419000000 -0300" stop="20220419013000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419013000 -0300" stop="20220419033000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419033000 -0300" stop="20220419053000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419053000 -0300" stop="20220419060000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220419060000 -0300" stop="20220419070000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220419070000 -0300" stop="20220419090000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419090000 -0300" stop="20220419110000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419110000 -0300" stop="20220419130000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419130000 -0300" stop="20220419135000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220419135000 -0300" stop="20220419140000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Previa - Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419140000 -0300" stop="20220419160000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419160000 -0300" stop="20220419162000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220419162000 -0300" stop="20220419163000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Previa - Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419163000 -0300" stop="20220419183000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419183000 -0300" stop="20220419193000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220419193000 -0300" stop="20220419212000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419212000 -0300" stop="20220419213000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Previa - Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419213000 -0300" stop="20220419232500 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419232500 -0300" stop="20220420000000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420000000 -0300" stop="20220420013000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420013000 -0300" stop="20220420033000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420033000 -0300" stop="20220420040000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220420040000 -0300" stop="20220420050000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220420050000 -0300" stop="20220420070000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420070000 -0300" stop="20220420090000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420090000 -0300" stop="20220420110000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420110000 -0300" stop="20220420130000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420130000 -0300" stop="20220420150000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420150000 -0300" stop="20220420155000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220420155000 -0300" stop="20220420160000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Previa - Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420160000 -0300" stop="20220420180000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420180000 -0300" stop="20220420190000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220420190000 -0300" stop="20220420210000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420210000 -0300" stop="20220420230000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420230000 -0300" stop="20220421000000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421010000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421010000 -0300" stop="20220421030000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421030000 -0300" stop="20220421050000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421050000 -0300" stop="20220421070000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421070000 -0300" stop="20220421090000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421090000 -0300" stop="20220421110000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421110000 -0300" stop="20220421130000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421130000 -0300" stop="20220421150000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421150000 -0300" stop="20220421170000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421170000 -0300" stop="20220421190000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421190000 -0300" stop="20220421210000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421210000 -0300" stop="20220421230000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421230000 -0300" stop="20220422000000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422010000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422010000 -0300" stop="20220422030000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422030000 -0300" stop="20220422050000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422050000 -0300" stop="20220422070000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422070000 -0300" stop="20220422090000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422090000 -0300" stop="20220422110000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422110000 -0300" stop="20220422130000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422130000 -0300" stop="20220422150000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422150000 -0300" stop="20220422170000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422170000 -0300" stop="20220422190000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422190000 -0300" stop="20220422210000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422210000 -0300" stop="20220422230000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422230000 -0300" stop="20220423000000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
   </programme>
   <programme start="20220419000000 -0300" stop="20220419004900 -0300" channel="Discovery Home &amp; Health">
     <title lang="es">Bake Off: los profesionales</title>
