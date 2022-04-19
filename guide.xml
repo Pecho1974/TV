@@ -55,6 +55,16 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 3.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="TNT SPORTS">
+    <display-name lang="es">TNT SPORTS</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT SPORTS.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="TyC Sports">
+    <display-name lang="es">TyC Sports</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TyC Sports.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Discovery Home &amp; Health">
     <display-name lang="es">Discovery Home &amp; Health</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Home &amp; Health.png" />
@@ -2612,6 +2622,393 @@
   </programme>
   <programme start="20220422233000 -0300" stop="20220423000000 -0300" channel="Fox Sports 3">
     <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20220419000000 -0300" stop="20220419003000 -0300" channel="TNT SPORTS">
+    <title lang="es">Confesiones</title>
+  </programme>
+  <programme start="20220419003000 -0300" stop="20220419010000 -0300" channel="TNT SPORTS">
+    <title lang="es">Artistas del Knockout</title>
+  </programme>
+  <programme start="20220419010000 -0300" stop="20220419030000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419030000 -0300" stop="20220419050000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419050000 -0300" stop="20220419060000 -0300" channel="TNT SPORTS">
+    <title lang="es">Minicopa TNT Sports</title>
+  </programme>
+  <programme start="20220419060000 -0300" stop="20220419063000 -0300" channel="TNT SPORTS">
+    <title lang="es">Confesiones</title>
+  </programme>
+  <programme start="20220419063000 -0300" stop="20220419065500 -0300" channel="TNT SPORTS">
+    <title lang="es">Artistas del Knockout</title>
+  </programme>
+  <programme start="20220419065500 -0300" stop="20220419085000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419085000 -0300" stop="20220419110000 -0300" channel="TNT SPORTS">
+    <title lang="es">Reserva - Copa de la Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419110000 -0300" stop="20220419120000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20220419120000 -0300" stop="20220419134500 -0300" channel="TNT SPORTS">
+    <title lang="es">Pelota parada</title>
+  </programme>
+  <programme start="20220419134500 -0300" stop="20220419160000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419160000 -0300" stop="20220419161500 -0300" channel="TNT SPORTS">
+    <title lang="es">Match Day</title>
+  </programme>
+  <programme start="20220419161500 -0300" stop="20220419183000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419183000 -0300" stop="20220419184500 -0300" channel="TNT SPORTS">
+    <title lang="es">Match Day</title>
+  </programme>
+  <programme start="20220419184500 -0300" stop="20220419210000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419210000 -0300" stop="20220419213000 -0300" channel="TNT SPORTS">
+    <title lang="es">Match Day</title>
+  </programme>
+  <programme start="20220419213000 -0300" stop="20220419233000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419233000 -0300" stop="20220420000000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Var</title>
+  </programme>
+  <programme start="20220420000000 -0300" stop="20220420003000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Var</title>
+  </programme>
+  <programme start="20220420003000 -0300" stop="20220420023000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420023000 -0300" stop="20220420033000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Var</title>
+  </programme>
+  <programme start="20220420033000 -0300" stop="20220420053000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420053000 -0300" stop="20220420060000 -0300" channel="TNT SPORTS">
+    <title lang="es">Confesiones</title>
+  </programme>
+  <programme start="20220420060000 -0300" stop="20220420080000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420080000 -0300" stop="20220420085000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Var</title>
+  </programme>
+  <programme start="20220420085000 -0300" stop="20220420110000 -0300" channel="TNT SPORTS">
+    <title lang="es">Reserva - Copa de la Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420110000 -0300" stop="20220420120000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20220420120000 -0300" stop="20220420140000 -0300" channel="TNT SPORTS">
+    <title lang="es">Pelota parada</title>
+  </programme>
+  <programme start="20220420140000 -0300" stop="20220420160000 -0300" channel="TNT SPORTS">
+    <title lang="es">Reserva - Copa de la Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420160000 -0300" stop="20220420180000 -0300" channel="TNT SPORTS">
+    <title lang="es">Palo y afuera</title>
+  </programme>
+  <programme start="20220420180000 -0300" stop="20220420181500 -0300" channel="TNT SPORTS">
+    <title lang="es">Match Day</title>
+  </programme>
+  <programme start="20220420181500 -0300" stop="20220420203000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220420203000 -0300" stop="20220420210000 -0300" channel="TNT SPORTS">
+    <title lang="es">Match Day</title>
+  </programme>
+  <programme start="20220420210000 -0300" stop="20220420220000 -0300" channel="TNT SPORTS">
+    <title lang="es">Todos somos técnicos</title>
+  </programme>
+  <programme start="20220420220000 -0300" stop="20220420223000 -0300" channel="TNT SPORTS">
+    <title lang="es">¿Te acordás de mí?</title>
+  </programme>
+  <programme start="20220420223000 -0300" stop="20220420230000 -0300" channel="TNT SPORTS">
+    <title lang="es">Confesiones</title>
+  </programme>
+  <programme start="20220420230000 -0300" stop="20220421000000 -0300" channel="TNT SPORTS">
+    <title lang="es">Palo y afuera</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421010000 -0300" channel="TNT SPORTS">
+    <title lang="es">Palo y afuera</title>
+  </programme>
+  <programme start="20220421010000 -0300" stop="20220421020000 -0300" channel="TNT SPORTS">
+    <title lang="es">Todos somos técnicos</title>
+  </programme>
+  <programme start="20220421020000 -0300" stop="20220421040000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421040000 -0300" stop="20220421060000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421060000 -0300" stop="20220421062000 -0300" channel="TNT SPORTS">
+    <title lang="es">¿Te acordás de mí?</title>
+  </programme>
+  <programme start="20220421062000 -0300" stop="20220421065000 -0300" channel="TNT SPORTS">
+    <title lang="es">Lo mejor de la fecha</title>
+  </programme>
+  <programme start="20220421065000 -0300" stop="20220421085000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421085000 -0300" stop="20220421110000 -0300" channel="TNT SPORTS">
+    <title lang="es">Reserva - Copa de la Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421110000 -0300" stop="20220421120000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Data Sports</title>
+  </programme>
+  <programme start="20220421120000 -0300" stop="20220421140000 -0300" channel="TNT SPORTS">
+    <title lang="es">Pelota parada</title>
+  </programme>
+  <programme start="20220421140000 -0300" stop="20220421150000 -0300" channel="TNT SPORTS">
+    <title lang="es">Todos somos técnicos</title>
+  </programme>
+  <programme start="20220421150000 -0300" stop="20220421160000 -0300" channel="TNT SPORTS">
+    <title lang="es">¿Te acordás de mí?</title>
+  </programme>
+  <programme start="20220421160000 -0300" stop="20220421180000 -0300" channel="TNT SPORTS">
+    <title lang="es">Palo y afuera</title>
+  </programme>
+  <programme start="20220421180000 -0300" stop="20220421200000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Fútbol</title>
+  </programme>
+  <programme start="20220421200000 -0300" stop="20220421210000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Data Sports - Segunda Edición</title>
+  </programme>
+  <programme start="20220421210000 -0300" stop="20220421230000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220421230000 -0300" stop="20220422000000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Sports Radio</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422010000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Sports Radio</title>
+  </programme>
+  <programme start="20220422010000 -0300" stop="20220422030000 -0300" channel="TNT SPORTS">
+    <title lang="es">Palo y afuera</title>
+  </programme>
+  <programme start="20220422030000 -0300" stop="20220422040000 -0300" channel="TNT SPORTS">
+    <title lang="es">Identidades</title>
+  </programme>
+  <programme start="20220422040000 -0300" stop="20220422065000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422065000 -0300" stop="20220422085000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422085000 -0300" stop="20220422120000 -0300" channel="TNT SPORTS">
+    <title lang="es">Reserva - Copa de la Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422120000 -0300" stop="20220422140000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422140000 -0300" stop="20220422160000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422160000 -0300" stop="20220422180000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422180000 -0300" stop="20220422200000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422200000 -0300" stop="20220422230000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220422230000 -0300" stop="20220423000000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220419000000 -0300" stop="20220419010000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220419010000 -0300" stop="20220419013000 -0300" channel="TyC Sports">
+    <title lang="es">Upgrade Golf</title>
+  </programme>
+  <programme start="20220419013000 -0300" stop="20220419030000 -0300" channel="TyC Sports">
+    <title lang="es">Grand Slam de Antalya</title>
+  </programme>
+  <programme start="20220419030000 -0300" stop="20220419050000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220419050000 -0300" stop="20220419070000 -0300" channel="TyC Sports">
+    <title lang="es">Básquet Liga Nacional</title>
+  </programme>
+  <programme start="20220419070000 -0300" stop="20220419080000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220419080000 -0300" stop="20220419090000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220419090000 -0300" stop="20220419110000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220419110000 -0300" stop="20220419120000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220419120000 -0300" stop="20220419140000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220419140000 -0300" stop="20220419153000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220419153500 -0300" stop="20220419173000 -0300" channel="TyC Sports">
+    <title lang="es">Copa Argentina 2022</title>
+  </programme>
+  <programme start="20220419173000 -0300" stop="20220419190000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220419190000 -0300" stop="20220419213000 -0300" channel="TyC Sports">
+    <title lang="es">Domingol</title>
+  </programme>
+  <programme start="20220419213000 -0300" stop="20220419233000 -0300" channel="TyC Sports">
+    <title lang="es">Domingol</title>
+  </programme>
+  <programme start="20220419233000 -0300" stop="20220420000000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420000000 -0300" stop="20220420010000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420010000 -0300" stop="20220420013000 -0300" channel="TyC Sports">
+    <title lang="es">Lado Summer</title>
+  </programme>
+  <programme start="20220420013000 -0300" stop="20220420033000 -0300" channel="TyC Sports">
+    <title lang="es">Copa Argentina 2022</title>
+  </programme>
+  <programme start="20220420033000 -0300" stop="20220420053000 -0300" channel="TyC Sports">
+    <title lang="es">Boxeo de primera</title>
+  </programme>
+  <programme start="20220420053000 -0300" stop="20220420070000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420070000 -0300" stop="20220420080000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420080000 -0300" stop="20220420090000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420090000 -0300" stop="20220420110000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420110000 -0300" stop="20220420120000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420120000 -0300" stop="20220420140000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420140000 -0300" stop="20220420160000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420160000 -0300" stop="20220420190000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420190000 -0300" stop="20220420210000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220420210000 -0300" stop="20220420230000 -0300" channel="TyC Sports">
+    <title lang="es">Vóley Liga Argentina</title>
+  </programme>
+  <programme start="20220420230000 -0300" stop="20220421000000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421010000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421010000 -0300" stop="20220421013000 -0300" channel="TyC Sports">
+    <title lang="es">Player One eSports</title>
+  </programme>
+  <programme start="20220421013000 -0300" stop="20220421033000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421033000 -0300" stop="20220421050000 -0300" channel="TyC Sports">
+    <title lang="es">Grand Slam de Antalya</title>
+  </programme>
+  <programme start="20220421050000 -0300" stop="20220421070000 -0300" channel="TyC Sports">
+    <title lang="es">Vóley Liga Argentina</title>
+  </programme>
+  <programme start="20220421070000 -0300" stop="20220421080000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421080000 -0300" stop="20220421090000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421090000 -0300" stop="20220421110000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421110000 -0300" stop="20220421120000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421120000 -0300" stop="20220421140000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421140000 -0300" stop="20220421160000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421160000 -0300" stop="20220421190000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421190000 -0300" stop="20220421210000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220421210000 -0300" stop="20220421230000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220421230000 -0300" stop="20220422000000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422010000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220422010000 -0300" stop="20220422020000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando</title>
+  </programme>
+  <programme start="20220422020000 -0300" stop="20220422040000 -0300" channel="TyC Sports">
+    <title lang="es">Judo - Panamericano - Lima</title>
+  </programme>
+  <programme start="20220422040000 -0300" stop="20220422043000 -0300" channel="TyC Sports">
+    <title lang="es">Upgrade Golf</title>
+  </programme>
+  <programme start="20220422043000 -0300" stop="20220422050000 -0300" channel="TyC Sports">
+    <title lang="es">Player One eSports</title>
+  </programme>
+  <programme start="20220422050000 -0300" stop="20220422070000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220422070000 -0300" stop="20220422080000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando - PGM</title>
+  </programme>
+  <programme start="20220422080000 -0300" stop="20220422110000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220422110000 -0300" stop="20220422130000 -0300" channel="TyC Sports">
+    <title lang="es">Básquet Liga Nacional</title>
+  </programme>
+  <programme start="20220422130000 -0300" stop="20220422140000 -0300" channel="TyC Sports">
+    <title lang="es">Uno contra uno</title>
+  </programme>
+  <programme start="20220422140000 -0300" stop="20220422160000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220422160000 -0300" stop="20220422180000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando clasificación</title>
+  </programme>
+  <programme start="20220422180000 -0300" stop="20220422200000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220422200000 -0300" stop="20220422220000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220422220000 -0300" stop="20220422230000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220422230000 -0300" stop="20220423000000 -0300" channel="TyC Sports">
+    <title lang="es">Boxeo de primera</title>
   </programme>
   <programme start="20220419000000 -0300" stop="20220419004900 -0300" channel="Discovery Home &amp; Health">
     <title lang="es">Bake Off: los profesionales</title>
