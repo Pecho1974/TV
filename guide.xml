@@ -70,6 +70,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ANIMAL PLANET HD.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Channel.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Discovery Home &amp; Health">
     <display-name lang="es">Discovery Home &amp; Health</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Home &amp; Health.png" />
@@ -3015,31 +3020,31 @@
   <programme start="20220422230000 -0300" stop="20220423000000 -0300" channel="TyC Sports">
     <title lang="es">Boxeo de primera</title>
   </programme>
-  <programme start="20220419000000 -0500" stop="20220419005300 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419000000 -0300" stop="20220419005300 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Islas mortales con Dave Salmoni</title>
   </programme>
-  <programme start="20220419005300 -0500" stop="20220419014900 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419005300 -0300" stop="20220419014900 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Tiburones en la orilla</title>
   </programme>
-  <programme start="20220419014900 --0500" stop="20220419021900 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419014900 -0300" stop="20220419021900 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Cazadores de serpientes</title>
   </programme>
-  <programme start="20220419021900 -0500" stop="20220419024800 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419021900 -0300" stop="20220419024800 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Cazadores de serpientes</title>
   </programme>
-  <programme start="20220419024800 -0500" stop="20220419034500 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419024800 -0300" stop="20220419034500 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Animales en riesgo: Phoenix</title>
   </programme>
-  <programme start="20220419034500 -0500" stop="20220419044100 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419034500 -0300" stop="20220419044100 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Guardianes de Texas</title>
   </programme>
-  <programme start="20220419044100 -0500" stop="20220419053800 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419044100 -0300" stop="20220419053800 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Dr. Jeff, veterinario</title>
   </programme>
-  <programme start="20220419053800 -0500" stop="20220419063500 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419053800 -0300" stop="20220419063500 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">El zoológico del Bronx</title>
   </programme>
-  <programme start="20220419063500 -0500" stop="20220419073200 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419063500 -0300" stop="20220419073200 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Los Irwin</title>
   </programme>
   <programme start="20220419073200 -0300" stop="20220419080000 -0300" channel="ANIMAL PLANET HD">
@@ -3084,16 +3089,16 @@
   <programme start="20220419172800 -0300" stop="20220419175800 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Pequeños gigantes de la naturaleza</title>
   </programme>
-  <programme start="20220419175800 -0500" stop="20220419185800 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419175800 -0300" stop="20220419185800 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">El último de su especie</title>
   </programme>
-  <programme start="20220419185800 -0500" stop="20220419195800 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419185800 -0300" stop="20220419195800 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">El último de su especie</title>
   </programme>
-  <programme start="20220419195800 -0500" stop="20220419205800 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419195800 -0300" stop="20220419205800 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Wild Frank en California</title>
   </programme>
-  <programme start="20220419205800 -0500" stop="20220419215800 -0500" channel="ANIMAL PLANET HD">
+  <programme start="20220419205800 -0300" stop="20220419215800 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Con el agua al cuello</title>
   </programme>
   <programme start="20220419215800 -0300" stop="20220419222800 -0300" channel="ANIMAL PLANET HD">
@@ -3383,6 +3388,360 @@
   </programme>
   <programme start="20220422235400 -0300" stop="20220423000000 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20220419000000 -0300" stop="20220419004000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220419004000 -0300" stop="20220419013600 -0300" channel="Discovery Channel">
+    <title lang="es">Misterios de nuestro planeta</title>
+  </programme>
+  <programme start="20220419013600 -0300" stop="20220419022800 -0300" channel="Discovery Channel">
+    <title lang="es">Monster Garage</title>
+  </programme>
+  <programme start="20220419022800 -0300" stop="20220419031400 -0300" channel="Discovery Channel">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20220419031400 -0300" stop="20220419040000 -0300" channel="Discovery Channel">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20220419040000 -0300" stop="20220419044600 -0300" channel="Discovery Channel">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220419044600 -0300" stop="20220419053200 -0300" channel="Discovery Channel">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20220419053200 -0300" stop="20220419060000 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220419060000 -0300" stop="20220419065000 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220419065000 -0300" stop="20220419074000 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro: río revuelto</title>
+  </programme>
+  <programme start="20220419074000 -0300" stop="20220419080400 -0300" channel="Discovery Channel">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20220419080400 -0300" stop="20220419082800 -0300" channel="Discovery Channel">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20220419082800 -0300" stop="20220419092600 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia salvaje</title>
+  </programme>
+  <programme start="20220419092600 -0300" stop="20220419102000 -0300" channel="Discovery Channel">
+    <title lang="es">Dinosaurios modernos</title>
+  </programme>
+  <programme start="20220419102000 -0300" stop="20220419111400 -0300" channel="Discovery Channel">
+    <title lang="es">Dinosaurios modernos</title>
+  </programme>
+  <programme start="20220419111400 -0300" stop="20220419120800 -0300" channel="Discovery Channel">
+    <title lang="es">Dinosaurios modernos</title>
+  </programme>
+  <programme start="20220419120800 -0300" stop="20220419130200 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220419130200 -0300" stop="20220419135600 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220419135600 -0300" stop="20220419145000 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220419145000 -0300" stop="20220419154400 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220419154400 -0300" stop="20220419163800 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220419163800 -0300" stop="20220419173200 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220419173200 -0300" stop="20220419182600 -0300" channel="Discovery Channel">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220419182600 -0300" stop="20220419192000 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220419192000 -0300" stop="20220419201400 -0300" channel="Discovery Channel">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220419201400 -0300" stop="20220419210800 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro: las minas perdidas de Dave Turin</title>
+  </programme>
+  <programme start="20220419210800 -0300" stop="20220419220000 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220419220000 -0300" stop="20220419225200 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220419225200 -0300" stop="20220419234400 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro: río revuelto</title>
+  </programme>
+  <programme start="20220419234400 -0300" stop="20220420000000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220420000000 -0300" stop="20220420004000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220420004000 -0300" stop="20220420013600 -0300" channel="Discovery Channel">
+    <title lang="es">Misterios de nuestro planeta</title>
+  </programme>
+  <programme start="20220420013600 -0300" stop="20220420022800 -0300" channel="Discovery Channel">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220420022800 -0300" stop="20220420031400 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro: las minas perdidas de Dave Turin</title>
+  </programme>
+  <programme start="20220420031400 -0300" stop="20220420040000 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220420040000 -0300" stop="20220420044600 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220420044600 -0300" stop="20220420053200 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro: río revuelto</title>
+  </programme>
+  <programme start="20220420053200 -0300" stop="20220420060000 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220420060000 -0300" stop="20220420065000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220420065000 -0300" stop="20220420074000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220420074000 -0300" stop="20220420080400 -0300" channel="Discovery Channel">
+    <title lang="es">Descubre cómo</title>
+  </programme>
+  <programme start="20220420080400 -0300" stop="20220420082800 -0300" channel="Discovery Channel">
+    <title lang="es">Descubre cómo</title>
+  </programme>
+  <programme start="20220420082800 -0300" stop="20220420092600 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia salvaje</title>
+  </programme>
+  <programme start="20220420092600 -0300" stop="20220420102000 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro: las minas perdidas de Dave Turin</title>
+  </programme>
+  <programme start="20220420102000 -0300" stop="20220420111400 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220420111400 -0300" stop="20220420120800 -0300" channel="Discovery Channel">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220420120800 -0300" stop="20220420130200 -0300" channel="Discovery Channel">
+    <title lang="es">Expediciones con Steve Backshall</title>
+  </programme>
+  <programme start="20220420130200 -0300" stop="20220420135600 -0300" channel="Discovery Channel">
+    <title lang="es">Expediciones con Steve Backshall</title>
+  </programme>
+  <programme start="20220420135600 -0300" stop="20220420145000 -0300" channel="Discovery Channel">
+    <title lang="es">Expediciones con Steve Backshall</title>
+  </programme>
+  <programme start="20220420145000 -0300" stop="20220420154400 -0300" channel="Discovery Channel">
+    <title lang="es">SAS: entrenamiento extremo</title>
+  </programme>
+  <programme start="20220420154400 -0300" stop="20220420163800 -0300" channel="Discovery Channel">
+    <title lang="es">SAS: entrenamiento extremo</title>
+  </programme>
+  <programme start="20220420163800 -0300" stop="20220420173200 -0300" channel="Discovery Channel">
+    <title lang="es">SAS: entrenamiento extremo</title>
+  </programme>
+  <programme start="20220420173200 -0300" stop="20220420182600 -0300" channel="Discovery Channel">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220420182600 -0300" stop="20220420192000 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220420192000 -0300" stop="20220420201400 -0300" channel="Discovery Channel">
+    <title lang="es">Ed Stafford al extremo</title>
+  </programme>
+  <programme start="20220420201400 -0300" stop="20220420210800 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220420210800 -0300" stop="20220420220000 -0300" channel="Discovery Channel">
+    <title lang="es">El domo extremo</title>
+  </programme>
+  <programme start="20220420220000 -0300" stop="20220420225200 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: Latinoamérica</title>
+  </programme>
+  <programme start="20220420225200 -0300" stop="20220420234400 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220420234400 -0300" stop="20220421000000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421012600 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220421012600 -0300" stop="20220421022200 -0300" channel="Discovery Channel">
+    <title lang="es">Metrópolis salvaje</title>
+  </programme>
+  <programme start="20220421022200 -0300" stop="20220421031400 -0300" channel="Discovery Channel">
+    <title lang="es">Ed Stafford al extremo</title>
+  </programme>
+  <programme start="20220421031400 -0300" stop="20220421040000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220421040000 -0300" stop="20220421044600 -0300" channel="Discovery Channel">
+    <title lang="es">El domo extremo</title>
+  </programme>
+  <programme start="20220421044600 -0300" stop="20220421053200 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220421053200 -0300" stop="20220421060000 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220421060000 -0300" stop="20220421065000 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220421065000 -0300" stop="20220421071500 -0300" channel="Discovery Channel">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220421071500 -0300" stop="20220421074000 -0300" channel="Discovery Channel">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220421074000 -0300" stop="20220421080400 -0300" channel="Discovery Channel">
+    <title lang="es">Descubre cómo</title>
+  </programme>
+  <programme start="20220421080400 -0300" stop="20220421082800 -0300" channel="Discovery Channel">
+    <title lang="es">Descubre cómo</title>
+  </programme>
+  <programme start="20220421082800 -0300" stop="20220421092600 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia salvaje</title>
+  </programme>
+  <programme start="20220421092600 -0300" stop="20220421102000 -0300" channel="Discovery Channel">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220421102000 -0300" stop="20220421111400 -0300" channel="Discovery Channel">
+    <title lang="es">La Tierra desde el espacio</title>
+  </programme>
+  <programme start="20220421111400 -0300" stop="20220421120800 -0300" channel="Discovery Channel">
+    <title lang="es">Los planetas</title>
+  </programme>
+  <programme start="20220421120800 -0300" stop="20220421130200 -0300" channel="Discovery Channel">
+    <title lang="es">Los planetas</title>
+  </programme>
+  <programme start="20220421130200 -0300" stop="20220421135600 -0300" channel="Discovery Channel">
+    <title lang="es">Dinosaurios modernos</title>
+  </programme>
+  <programme start="20220421135600 -0300" stop="20220421145000 -0300" channel="Discovery Channel">
+    <title lang="es">Dinosaurios modernos</title>
+  </programme>
+  <programme start="20220421145000 -0300" stop="20220421154400 -0300" channel="Discovery Channel">
+    <title lang="es">Islas</title>
+  </programme>
+  <programme start="20220421154400 -0300" stop="20220421163800 -0300" channel="Discovery Channel">
+    <title lang="es">Metrópolis salvaje</title>
+  </programme>
+  <programme start="20220421163800 -0300" stop="20220421173200 -0300" channel="Discovery Channel">
+    <title lang="es">Siete mundos, un planeta</title>
+  </programme>
+  <programme start="20220421173200 -0300" stop="20220421182600 -0300" channel="Discovery Channel">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220421182600 -0300" stop="20220421192000 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220421192000 -0300" stop="20220421201400 -0300" channel="Discovery Channel">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220421201400 -0300" stop="20220421210800 -0300" channel="Discovery Channel">
+    <title lang="es">Overhaulin'</title>
+  </programme>
+  <programme start="20220421210800 -0300" stop="20220421220000 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220421220000 -0300" stop="20220421225200 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220421225200 -0300" stop="20220421231700 -0300" channel="Discovery Channel">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220421231700 -0300" stop="20220421234400 -0300" channel="Discovery Channel">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220421234400 -0300" stop="20220422000000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422012600 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220422012600 -0300" stop="20220422022200 -0300" channel="Discovery Channel">
+    <title lang="es">Metrópolis salvaje</title>
+  </programme>
+  <programme start="20220422022200 -0300" stop="20220422031400 -0300" channel="Discovery Channel">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220422031400 -0300" stop="20220422040000 -0300" channel="Discovery Channel">
+    <title lang="es">Overhaulin'</title>
+  </programme>
+  <programme start="20220422040000 -0300" stop="20220422044600 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220422044600 -0300" stop="20220422053200 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220422053200 -0300" stop="20220422060000 -0300" channel="Discovery Channel">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220422060000 -0300" stop="20220422065000 -0300" channel="Discovery Channel">
+    <title lang="es">Emergencias médicas fascinantes</title>
+  </programme>
+  <programme start="20220422065000 -0300" stop="20220422074000 -0300" channel="Discovery Channel">
+    <title lang="es">UFO Witness</title>
+  </programme>
+  <programme start="20220422074000 -0300" stop="20220422082800 -0300" channel="Discovery Channel">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220422082800 -0300" stop="20220422092600 -0300" channel="Discovery Channel">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220422092600 -0300" stop="20220422102000 -0300" channel="Discovery Channel">
+    <title lang="es">Overhaulin'</title>
+  </programme>
+  <programme start="20220422102000 -0300" stop="20220422111400 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220422111400 -0300" stop="20220422120800 -0300" channel="Discovery Channel">
+    <title lang="es">Leyendas salvajes</title>
+  </programme>
+  <programme start="20220422120800 -0300" stop="20220422130200 -0300" channel="Discovery Channel">
+    <title lang="es">Leyendas salvajes</title>
+  </programme>
+  <programme start="20220422130200 -0300" stop="20220422135600 -0300" channel="Discovery Channel">
+    <title lang="es">Leyendas salvajes</title>
+  </programme>
+  <programme start="20220422135600 -0300" stop="20220422145000 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220422145000 -0300" stop="20220422154400 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220422154400 -0300" stop="20220422163800 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220422163800 -0300" stop="20220422173200 -0300" channel="Discovery Channel">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220422173200 -0300" stop="20220422182600 -0300" channel="Discovery Channel">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220422182600 -0300" stop="20220422192000 -0300" channel="Discovery Channel">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220422192000 -0300" stop="20220422201400 -0300" channel="Discovery Channel">
+    <title lang="es">Expedición X</title>
+  </programme>
+  <programme start="20220422201400 -0300" stop="20220422220000 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220422220000 -0300" stop="20220422225200 -0300" channel="Discovery Channel">
+    <title lang="es">Sala de emergencias: historias inéditas</title>
+  </programme>
+  <programme start="20220422225200 -0300" stop="20220422234400 -0300" channel="Discovery Channel">
+    <title lang="es">Emergencias médicas fascinantes</title>
+  </programme>
+  <programme start="20220422234400 -0300" stop="20220423000000 -0300" channel="Discovery Channel">
+    <title lang="es">UFO Witness</title>
   </programme>
   <programme start="20220419000000 -0300" stop="20220419004900 -0300" channel="Discovery Home &amp; Health">
     <title lang="es">Bake Off: los profesionales</title>
