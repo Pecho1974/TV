@@ -15,6 +15,8 @@ https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8
 #EXTINF:-1 tvg-id="DEPORTV" tvg-name="DEPORTV" group-title="Deportes",DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w444302302.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" group-title="Deportes",Discovery Turbo
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Deportes",ESPN
 https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes",ESPN +
@@ -31,6 +33,8 @@ https://edge-live14-sl.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports
 https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3" group-title="Deportes",Fox Sports 3
 https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" group-title="Deportes",El Garage
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
 #EXTINF:-1 tvg-id="The Golf Channel" tvg-name="The Golf Channel" group-title="Deportes",The Golf Channel
 https://edge3.prepro.cvattv.com.ar/live/live/Golf_Channel/SA_Live_WebVTT_FTA/Golf_Channel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes",MLB
@@ -45,19 +49,17 @@ https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="Documentales",Discovery Channel
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentales",Discovery ID
+#EXTINF:-1 tvg-id="DISCOVERY ID HD" tvg-name="DISCOVERY ID HD" group-title="Documentales",DISCOVERY ID HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" group-title="Documentales",Discovery Science
 https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentales",Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Theatre HD" tvg-name="Discovery Theatre HD" group-title="Documentales",Discovery Theatre HD
 https://edge4-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentales",Discovery Turbo
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentales",Discovery World
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" group-title="Documentales",Discovery World HD
 https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
 #EXTINF:-1 tvg-id="Discovery Home &amp; Health" tvg-name="Discovery Home &amp; Health" group-title="Documentales",Discovery Home &amp; Health
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentales",HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Documentales",HGTV
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" group-title="Documentales",H2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
@@ -75,8 +77,6 @@ https://edge02-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entretenimiento",Food Network
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entretenimiento",Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entretenimiento",GOURMET
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Entretenimiento",TLC

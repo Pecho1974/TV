@@ -35,6 +35,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DEPORTV.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="es">Discovery Turbo</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Turbo.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="ESPN">
     <display-name lang="es">ESPN</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN.png" />
@@ -70,6 +75,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 3.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="El Garage">
+    <display-name lang="es">El Garage</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Garage.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="The Golf Channel">
     <display-name lang="es">The Golf Channel</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/The Golf Channel.png" />
@@ -100,14 +110,34 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Channel.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="DISCOVERY ID HD">
+    <display-name lang="es">DISCOVERY ID HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DISCOVERY ID HD.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Discovery Science">
     <display-name lang="es">Discovery Science</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Science.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Discovery Theatre HD">
+    <display-name lang="es">Discovery Theatre HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Theatre HD.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Discovery World HD">
+    <display-name lang="es">Discovery World HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery World HD.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Discovery Home &amp; Health">
     <display-name lang="es">Discovery Home &amp; Health</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Home &amp; Health.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="es">HGTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HGTV.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="H2">
@@ -1757,6 +1787,366 @@
   <programme start="20220424120000 -0300" stop="20220425000000 -0300" channel="DEPORTV">
     <title lang="es">DeporTV</title>
   </programme>
+  <programme start="20220421000000 -0300" stop="20220421001700 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220421001700 -0300" stop="20220421010800 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220421010800 -0300" stop="20220421015900 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220421015900 -0300" stop="20220421025100 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos únicos</title>
+  </programme>
+  <programme start="20220421025100 -0300" stop="20220421034400 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos únicos</title>
+  </programme>
+  <programme start="20220421034400 -0300" stop="20220421043700 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220421043700 -0300" stop="20220421052600 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220421052600 -0300" stop="20220421061600 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20220421061600 -0300" stop="20220421070700 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20220421070700 -0300" stop="20220421080000 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220421080000 -0300" stop="20220421085300 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos únicos</title>
+  </programme>
+  <programme start="20220421085300 -0300" stop="20220421094600 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220421094600 -0300" stop="20220421103800 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220421103800 -0300" stop="20220421113000 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20220421113000 -0300" stop="20220421122100 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20220421122100 -0300" stop="20220421131400 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220421131400 -0300" stop="20220421140700 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220421140700 -0300" stop="20220421145800 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220421145800 -0300" stop="20220421154900 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20220421154900 -0300" stop="20220421164000 -0300" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20220421164000 -0300" stop="20220421173100 -0300" channel="Discovery Turbo">
+    <title lang="es">Mexicánicos ¡Marcha atrás!</title>
+  </programme>
+  <programme start="20220421173100 -0300" stop="20220421182200 -0300" channel="Discovery Turbo">
+    <title lang="es">Diesel Dave</title>
+  </programme>
+  <programme start="20220421182200 -0300" stop="20220421191300 -0300" channel="Discovery Turbo">
+    <title lang="es">Cambio de velocidad con Aaron Kaufman</title>
+  </programme>
+  <programme start="20220421191300 -0300" stop="20220421200400 -0300" channel="Discovery Turbo">
+    <title lang="es">Juguetes sobre ruedas</title>
+  </programme>
+  <programme start="20220421200400 -0300" stop="20220421205500 -0300" channel="Discovery Turbo">
+    <title lang="es">De la chatarra a la pista</title>
+  </programme>
+  <programme start="20220421205500 -0300" stop="20220421214500 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220421214500 -0300" stop="20220421223800 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220421223800 -0300" stop="20220421232900 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: noches de competencia</title>
+  </programme>
+  <programme start="20220421232900 -0300" stop="20220422000000 -0300" channel="Discovery Turbo">
+    <title lang="es">ADN mecánico recargado</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422001800 -0300" channel="Discovery Turbo">
+    <title lang="es">ADN mecánico recargado</title>
+  </programme>
+  <programme start="20220422001800 -0300" stop="20220422010900 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220422010900 -0300" stop="20220422020000 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220422020000 -0300" stop="20220422022600 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220422022600 -0300" stop="20220422025200 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220422025200 -0300" stop="20220422034300 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422034300 -0300" stop="20220422043400 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422043400 -0300" stop="20220422052500 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422052500 -0300" stop="20220422061600 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422061600 -0300" stop="20220422070700 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422070700 -0300" stop="20220422080000 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos únicos</title>
+  </programme>
+  <programme start="20220422080000 -0300" stop="20220422085100 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422085100 -0300" stop="20220422094200 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422094200 -0300" stop="20220422103300 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422103300 -0300" stop="20220422112300 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422112300 -0300" stop="20220422121300 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220422121300 -0300" stop="20220422130500 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos únicos</title>
+  </programme>
+  <programme start="20220422130500 -0300" stop="20220422135800 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos únicos</title>
+  </programme>
+  <programme start="20220422135800 -0300" stop="20220422145100 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220422145100 -0300" stop="20220422154100 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20220422154100 -0300" stop="20220422163200 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20220422163200 -0300" stop="20220422172200 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20220422172200 -0300" stop="20220422181500 -0300" channel="Discovery Turbo">
+    <title lang="es">West Coast Customs</title>
+  </programme>
+  <programme start="20220422181500 -0300" stop="20220422190700 -0300" channel="Discovery Turbo">
+    <title lang="es">West Coast Customs</title>
+  </programme>
+  <programme start="20220422190700 -0300" stop="20220422200000 -0300" channel="Discovery Turbo">
+    <title lang="es">West Coast Customs</title>
+  </programme>
+  <programme start="20220422200000 -0300" stop="20220422205300 -0300" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20220422205300 -0300" stop="20220422214400 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220422214400 -0300" stop="20220422223500 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220422223500 -0300" stop="20220422232800 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220422232800 -0300" stop="20220423000000 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220423000000 -0300" stop="20220423001900 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220423001900 -0300" stop="20220423011000 -0300" channel="Discovery Turbo">
+    <title lang="es">Galpin Auto Sports</title>
+  </programme>
+  <programme start="20220423011000 -0300" stop="20220423020100 -0300" channel="Discovery Turbo">
+    <title lang="es">Acumuladores sobre ruedas</title>
+  </programme>
+  <programme start="20220423020100 -0300" stop="20220423025200 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220423025200 -0300" stop="20220423034500 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220423034500 -0300" stop="20220423043700 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: noches de competencia</title>
+  </programme>
+  <programme start="20220423043700 -0300" stop="20220423052600 -0300" channel="Discovery Turbo">
+    <title lang="es">ADN mecánico recargado</title>
+  </programme>
+  <programme start="20220423052600 -0300" stop="20220423061700 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220423061700 -0300" stop="20220423070800 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220423070800 -0300" stop="20220423073400 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220423073400 -0300" stop="20220423080000 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220423080000 -0300" stop="20220423085300 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220423085300 -0300" stop="20220423094400 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: noches de competencia</title>
+  </programme>
+  <programme start="20220423094400 -0300" stop="20220423103300 -0300" channel="Discovery Turbo">
+    <title lang="es">ADN mecánico recargado</title>
+  </programme>
+  <programme start="20220423103300 -0300" stop="20220423112500 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220423112500 -0300" stop="20220423121700 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220423121700 -0300" stop="20220423124300 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220423124300 -0300" stop="20220423130900 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220423130900 -0300" stop="20220423140000 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220423140000 -0300" stop="20220423145100 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220423145100 -0300" stop="20220423154200 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20220423154200 -0300" stop="20220423163300 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220423163300 -0300" stop="20220423172400 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220423172400 -0300" stop="20220423181600 -0300" channel="Discovery Turbo">
+    <title lang="es">Circuito de prueba</title>
+  </programme>
+  <programme start="20220423181600 -0300" stop="20220423190800 -0300" channel="Discovery Turbo">
+    <title lang="es">Circuito de prueba</title>
+  </programme>
+  <programme start="20220423190800 -0300" stop="20220423200000 -0300" channel="Discovery Turbo">
+    <title lang="es">Circuito de prueba</title>
+  </programme>
+  <programme start="20220423200000 -0300" stop="20220423205300 -0300" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20220423205300 -0300" stop="20220423214400 -0300" channel="Discovery Turbo">
+    <title lang="es">Galpin Auto Sports</title>
+  </programme>
+  <programme start="20220423214400 -0300" stop="20220423221000 -0300" channel="Discovery Turbo">
+    <title lang="es">Full Custom Garage</title>
+  </programme>
+  <programme start="20220423221000 -0300" stop="20220423223700 -0300" channel="Discovery Turbo">
+    <title lang="es">Full Custom Garage</title>
+  </programme>
+  <programme start="20220423223700 -0300" stop="20220423232800 -0300" channel="Discovery Turbo">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20220423232800 -0300" stop="20220424000000 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424001900 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424001900 -0300" stop="20220424011200 -0300" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20220424011200 -0300" stop="20220424020200 -0300" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20220424020200 -0300" stop="20220424025300 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220424025300 -0300" stop="20220424034400 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220424034400 -0300" stop="20220424043600 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220424043600 -0300" stop="20220424052700 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424052700 -0300" stop="20220424061800 -0300" channel="Discovery Turbo">
+    <title lang="es">Galpin Auto Sports</title>
+  </programme>
+  <programme start="20220424061800 -0300" stop="20220424070900 -0300" channel="Discovery Turbo">
+    <title lang="es">Acumuladores sobre ruedas</title>
+  </programme>
+  <programme start="20220424070900 -0300" stop="20220424080000 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424085000 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220424085000 -0300" stop="20220424094300 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220424094300 -0300" stop="20220424103400 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424103400 -0300" stop="20220424112500 -0300" channel="Discovery Turbo">
+    <title lang="es">Galpin Auto Sports</title>
+  </programme>
+  <programme start="20220424112500 -0300" stop="20220424121600 -0300" channel="Discovery Turbo">
+    <title lang="es">Acumuladores sobre ruedas</title>
+  </programme>
+  <programme start="20220424121600 -0300" stop="20220424130700 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220424130700 -0300" stop="20220424140000 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424145100 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: noches de competencia</title>
+  </programme>
+  <programme start="20220424145100 -0300" stop="20220424154200 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20220424154200 -0300" stop="20220424163300 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424163300 -0300" stop="20220424172400 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424172400 -0300" stop="20220424181600 -0300" channel="Discovery Turbo">
+    <title lang="es">Classic Car Studio</title>
+  </programme>
+  <programme start="20220424181600 -0300" stop="20220424190800 -0300" channel="Discovery Turbo">
+    <title lang="es">Classic Car Studio</title>
+  </programme>
+  <programme start="20220424190800 -0300" stop="20220424200000 -0300" channel="Discovery Turbo">
+    <title lang="es">Classic Car Studio</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424205300 -0300" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20220424205300 -0300" stop="20220424214400 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220424214400 -0300" stop="20220424223500 -0300" channel="Discovery Turbo">
+    <title lang="es">Diesel Dave</title>
+  </programme>
+  <programme start="20220424223500 -0300" stop="20220424232600 -0300" channel="Discovery Turbo">
+    <title lang="es">Diesel Dave</title>
+  </programme>
+  <programme start="20220424232600 -0300" stop="20220425000000 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
   <programme start="20220421000000 -0300" stop="20220421010000 -0300" channel="ESPN">
     <title lang="es">F Nacional</title>
   </programme>
@@ -3067,6 +3457,522 @@
   </programme>
   <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="Fox Sports 3">
     <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421003000 -0300" channel="El Garage">
+    <title lang="es">Autocosmos</title>
+  </programme>
+  <programme start="20220421003000 -0300" stop="20220421010000 -0300" channel="El Garage">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+  <programme start="20220421010000 -0300" stop="20220421013000 -0300" channel="El Garage">
+    <title lang="es">Como allá</title>
+  </programme>
+  <programme start="20220421013000 -0300" stop="20220421020000 -0300" channel="El Garage">
+    <title lang="es">Fórmula 1 - Pit Lane</title>
+  </programme>
+  <programme start="20220421020000 -0300" stop="20220421023000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20220421023000 -0300" stop="20220421030000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20220421030000 -0300" stop="20220421033000 -0300" channel="El Garage">
+    <title lang="es">Motos Garage TV</title>
+  </programme>
+  <programme start="20220421033000 -0300" stop="20220421040000 -0300" channel="El Garage">
+    <title lang="es">Clásicos y especiales</title>
+  </programme>
+  <programme start="20220421040000 -0300" stop="20220421050000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20220421050000 -0300" stop="20220421053000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220421053000 -0300" stop="20220421063000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20220421063000 -0300" stop="20220421070000 -0300" channel="El Garage">
+    <title lang="es">Crash Test</title>
+  </programme>
+  <programme start="20220421070000 -0300" stop="20220421080000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220421080000 -0300" stop="20220421083000 -0300" channel="El Garage">
+    <title lang="es">Planet MTB</title>
+  </programme>
+  <programme start="20220421083000 -0300" stop="20220421090000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20220421090000 -0300" stop="20220421093000 -0300" channel="El Garage">
+    <title lang="es">Efe 1</title>
+  </programme>
+  <programme start="20220421093000 -0300" stop="20220421100000 -0300" channel="El Garage">
+    <title lang="es">Planeta camión</title>
+  </programme>
+  <programme start="20220421100000 -0300" stop="20220421110000 -0300" channel="El Garage">
+    <title lang="es">Campeonato Español Cetelem de Superbike</title>
+  </programme>
+  <programme start="20220421110000 -0300" stop="20220421113000 -0300" channel="El Garage">
+    <title lang="es">La conquista</title>
+  </programme>
+  <programme start="20220421113000 -0300" stop="20220421120000 -0300" channel="El Garage">
+    <title lang="es">GP Confidential</title>
+  </programme>
+  <programme start="20220421120000 -0300" stop="20220421123000 -0300" channel="El Garage">
+    <title lang="es">Off Road Magazine</title>
+  </programme>
+  <programme start="20220421123000 -0300" stop="20220421130000 -0300" channel="El Garage">
+    <title lang="es">RAM</title>
+  </programme>
+  <programme start="20220421130000 -0300" stop="20220421133000 -0300" channel="El Garage">
+    <title lang="es">España Motoracing</title>
+  </programme>
+  <programme start="20220421133000 -0300" stop="20220421140000 -0300" channel="El Garage">
+    <title lang="es">Delirio motriz</title>
+  </programme>
+  <programme start="20220421140000 -0300" stop="20220421143000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20220421143000 -0300" stop="20220421150000 -0300" channel="El Garage">
+    <title lang="es">Esloras</title>
+  </programme>
+  <programme start="20220421150000 -0300" stop="20220421153000 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20220421153000 -0300" stop="20220421160000 -0300" channel="El Garage">
+    <title lang="es">Cambio de rasante</title>
+  </programme>
+  <programme start="20220421160000 -0300" stop="20220421163000 -0300" channel="El Garage">
+    <title lang="es">Verko Carreras TV</title>
+  </programme>
+  <programme start="20220421163000 -0300" stop="20220421170000 -0300" channel="El Garage">
+    <title lang="es">Gente de fierro</title>
+  </programme>
+  <programme start="20220421170000 -0300" stop="20220421173000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20220421173000 -0300" stop="20220421180000 -0300" channel="El Garage">
+    <title lang="es">Grandes campeones</title>
+  </programme>
+  <programme start="20220421180000 -0300" stop="20220421183000 -0300" channel="El Garage">
+    <title lang="es">Body &amp; Paint Shops</title>
+  </programme>
+  <programme start="20220421183000 -0300" stop="20220421190000 -0300" channel="El Garage">
+    <title lang="es">Top Motor</title>
+  </programme>
+  <programme start="20220421190000 -0300" stop="20220421193000 -0300" channel="El Garage">
+    <title lang="es">Autotécnica</title>
+  </programme>
+  <programme start="20220421193000 -0300" stop="20220421200000 -0300" channel="El Garage">
+    <title lang="es">AutoXtreme</title>
+  </programme>
+  <programme start="20220421200000 -0300" stop="20220421203000 -0300" channel="El Garage">
+    <title lang="es">Pro10 Elite</title>
+  </programme>
+  <programme start="20220421203000 -0300" stop="20220421213000 -0300" channel="El Garage">
+    <title lang="es">Auto al día</title>
+  </programme>
+  <programme start="20220421213000 -0300" stop="20220421221500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20220421221500 -0300" stop="20220421223000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20220421223000 -0300" stop="20220421230000 -0300" channel="El Garage">
+    <title lang="es">Historias de campeones</title>
+  </programme>
+  <programme start="20220421230000 -0300" stop="20220421233000 -0300" channel="El Garage">
+    <title lang="es">Rock and Road</title>
+  </programme>
+  <programme start="20220421233000 -0300" stop="20220422000000 -0300" channel="El Garage">
+    <title lang="es">Franky Mostro</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422003000 -0300" channel="El Garage">
+    <title lang="es">Ferrari Challenge. North America</title>
+  </programme>
+  <programme start="20220422003000 -0300" stop="20220422010000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20220422010000 -0300" stop="20220422020000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20220422020000 -0300" stop="20220422023000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20220422023000 -0300" stop="20220422030000 -0300" channel="El Garage">
+    <title lang="es">Memories</title>
+  </programme>
+  <programme start="20220422030000 -0300" stop="20220422033000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20220422033000 -0300" stop="20220422040000 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20220422040000 -0300" stop="20220422050000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220422050000 -0300" stop="20220422054500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20220422054500 -0300" stop="20220422060000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20220422060000 -0300" stop="20220422063000 -0300" channel="El Garage">
+    <title lang="es">Historias de campeones</title>
+  </programme>
+  <programme start="20220422063000 -0300" stop="20220422070000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220422070000 -0300" stop="20220422073000 -0300" channel="El Garage">
+    <title lang="es">Franky Mostro</title>
+  </programme>
+  <programme start="20220422073000 -0300" stop="20220422080000 -0300" channel="El Garage">
+    <title lang="es">Esloras</title>
+  </programme>
+  <programme start="20220422080000 -0300" stop="20220422083000 -0300" channel="El Garage">
+    <title lang="es">Dossier</title>
+  </programme>
+  <programme start="20220422083000 -0300" stop="20220422090000 -0300" channel="El Garage">
+    <title lang="es">Tour European Rally</title>
+  </programme>
+  <programme start="20220422090000 -0300" stop="20220422093000 -0300" channel="El Garage">
+    <title lang="es">Off Road Magazine</title>
+  </programme>
+  <programme start="20220422093000 -0300" stop="20220422100000 -0300" channel="El Garage">
+    <title lang="es">Paralelo cero</title>
+  </programme>
+  <programme start="20220422100000 -0300" stop="20220422103000 -0300" channel="El Garage">
+    <title lang="es">Autotécnica</title>
+  </programme>
+  <programme start="20220422103000 -0300" stop="20220422110000 -0300" channel="El Garage">
+    <title lang="es">GP Confidential</title>
+  </programme>
+  <programme start="20220422110000 -0300" stop="20220422113000 -0300" channel="El Garage">
+    <title lang="es">Chopper's World</title>
+  </programme>
+  <programme start="20220422113000 -0300" stop="20220422120000 -0300" channel="El Garage">
+    <title lang="es">Delirio motriz</title>
+  </programme>
+  <programme start="20220422120000 -0300" stop="20220422130000 -0300" channel="El Garage">
+    <title lang="es">Ferrari Challenge. North America</title>
+  </programme>
+  <programme start="20220422130000 -0300" stop="20220422133000 -0300" channel="El Garage">
+    <title lang="es">Pedalearg</title>
+  </programme>
+  <programme start="20220422133000 -0300" stop="20220422140000 -0300" channel="El Garage">
+    <title lang="es">Tu tren</title>
+  </programme>
+  <programme start="20220422140000 -0300" stop="20220422143000 -0300" channel="El Garage">
+    <title lang="es">Volando por TV</title>
+  </programme>
+  <programme start="20220422143000 -0300" stop="20220422150000 -0300" channel="El Garage">
+    <title lang="es">Motorweek</title>
+  </programme>
+  <programme start="20220422150000 -0300" stop="20220422153000 -0300" channel="El Garage">
+    <title lang="es">Ella al extremo</title>
+  </programme>
+  <programme start="20220422153000 -0300" stop="20220422160000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20220422160000 -0300" stop="20220422163000 -0300" channel="El Garage">
+    <title lang="es">Michelin Le Mans Cup</title>
+  </programme>
+  <programme start="20220422163000 -0300" stop="20220422170000 -0300" channel="El Garage">
+    <title lang="es">Cambio de rasante</title>
+  </programme>
+  <programme start="20220422170000 -0300" stop="20220422173000 -0300" channel="El Garage">
+    <title lang="es">Michelin Le Mans Cup</title>
+  </programme>
+  <programme start="20220422173000 -0300" stop="20220422180000 -0300" channel="El Garage">
+    <title lang="es">Mundo móvil</title>
+  </programme>
+  <programme start="20220422180000 -0300" stop="20220422183000 -0300" channel="El Garage">
+    <title lang="es">AutoXtreme</title>
+  </programme>
+  <programme start="20220422183000 -0300" stop="20220422190000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220422190000 -0300" stop="20220422193000 -0300" channel="El Garage">
+    <title lang="es">El aventurero</title>
+  </programme>
+  <programme start="20220422193000 -0300" stop="20220422200000 -0300" channel="El Garage">
+    <title lang="es">Autotécnica</title>
+  </programme>
+  <programme start="20220422200000 -0300" stop="20220422203000 -0300" channel="El Garage">
+    <title lang="es">Crash Test</title>
+  </programme>
+  <programme start="20220422203000 -0300" stop="20220422210000 -0300" channel="El Garage">
+    <title lang="es">Autoescaner</title>
+  </programme>
+  <programme start="20220422210000 -0300" stop="20220422220000 -0300" channel="El Garage">
+    <title lang="es">Mesa de campeones</title>
+  </programme>
+  <programme start="20220422220000 -0300" stop="20220422230000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220422230000 -0300" stop="20220423000000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20220423000000 -0300" stop="20220423003000 -0300" channel="El Garage">
+    <title lang="es">Clásicos y especiales</title>
+  </programme>
+  <programme start="20220423003000 -0300" stop="20220423010000 -0300" channel="El Garage">
+    <title lang="es">La india motera</title>
+  </programme>
+  <programme start="20220423010000 -0300" stop="20220423013000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20220423013000 -0300" stop="20220423020000 -0300" channel="El Garage">
+    <title lang="es">eMallorca Challenge</title>
+  </programme>
+  <programme start="20220423020000 -0300" stop="20220423023000 -0300" channel="El Garage">
+    <title lang="es">GP Confidential</title>
+  </programme>
+  <programme start="20220423023000 -0300" stop="20220423024500 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20220423024500 -0300" stop="20220423033000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20220423033000 -0300" stop="20220423040000 -0300" channel="El Garage">
+    <title lang="es">Paralelo cero</title>
+  </programme>
+  <programme start="20220423040000 -0300" stop="20220423043000 -0300" channel="El Garage">
+    <title lang="es">Off Road Magazine</title>
+  </programme>
+  <programme start="20220423043000 -0300" stop="20220423050000 -0300" channel="El Garage">
+    <title lang="es">Franky Mostro</title>
+  </programme>
+  <programme start="20220423050000 -0300" stop="20220423053000 -0300" channel="El Garage">
+    <title lang="es">Motos Garage TV</title>
+  </programme>
+  <programme start="20220423053000 -0300" stop="20220423060000 -0300" channel="El Garage">
+    <title lang="es">Mundo móvil</title>
+  </programme>
+  <programme start="20220423060000 -0300" stop="20220423063000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220423063000 -0300" stop="20220423070000 -0300" channel="El Garage">
+    <title lang="es">España Motoracing</title>
+  </programme>
+  <programme start="20220423070000 -0300" stop="20220423080000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220423080000 -0300" stop="20220423090000 -0300" channel="El Garage">
+    <title lang="es">Campeonato Español Cetelem de Superbike</title>
+  </programme>
+  <programme start="20220423090000 -0300" stop="20220423093000 -0300" channel="El Garage">
+    <title lang="es">Fórmula 1 - Pit Lane</title>
+  </programme>
+  <programme start="20220423093000 -0300" stop="20220423100000 -0300" channel="El Garage">
+    <title lang="es">Desde boxes ya!</title>
+  </programme>
+  <programme start="20220423100000 -0300" stop="20220423103000 -0300" channel="El Garage">
+    <title lang="es">Fast Zone</title>
+  </programme>
+  <programme start="20220423103000 -0300" stop="20220423111500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20220423111500 -0300" stop="20220423113000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20220423113000 -0300" stop="20220423123000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20220423123000 -0300" stop="20220423130000 -0300" channel="El Garage">
+    <title lang="es">Espíritu de fuego</title>
+  </programme>
+  <programme start="20220423130000 -0300" stop="20220423133000 -0300" channel="El Garage">
+    <title lang="es">El ángel copiloto</title>
+  </programme>
+  <programme start="20220423133000 -0300" stop="20220423140000 -0300" channel="El Garage">
+    <title lang="es">Como allá</title>
+  </programme>
+  <programme start="20220423140000 -0300" stop="20220423143000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20220423143000 -0300" stop="20220423150000 -0300" channel="El Garage">
+    <title lang="es">Body &amp; Paint Shops</title>
+  </programme>
+  <programme start="20220423150000 -0300" stop="20220423153000 -0300" channel="El Garage">
+    <title lang="es">Relatos de viajeros</title>
+  </programme>
+  <programme start="20220423153000 -0300" stop="20220423160000 -0300" channel="El Garage">
+    <title lang="es">Chatas furiosas</title>
+  </programme>
+  <programme start="20220423160000 -0300" stop="20220423163000 -0300" channel="El Garage">
+    <title lang="es">Zona utilitarios</title>
+  </programme>
+  <programme start="20220423163000 -0300" stop="20220423170000 -0300" channel="El Garage">
+    <title lang="es">RAM</title>
+  </programme>
+  <programme start="20220423170000 -0300" stop="20220423173000 -0300" channel="El Garage">
+    <title lang="es">Franky Mostro</title>
+  </programme>
+  <programme start="20220423173000 -0300" stop="20220423180000 -0300" channel="El Garage">
+    <title lang="es">Esloras</title>
+  </programme>
+  <programme start="20220423180000 -0300" stop="20220423183000 -0300" channel="El Garage">
+    <title lang="es">Clásicos y especiales</title>
+  </programme>
+  <programme start="20220423183000 -0300" stop="20220423190000 -0300" channel="El Garage">
+    <title lang="es">Raid 4x4</title>
+  </programme>
+  <programme start="20220423190000 -0300" stop="20220423193000 -0300" channel="El Garage">
+    <title lang="es">Cambio de rasante</title>
+  </programme>
+  <programme start="20220423193000 -0300" stop="20220423200000 -0300" channel="El Garage">
+    <title lang="es">Rock and Road</title>
+  </programme>
+  <programme start="20220423200000 -0300" stop="20220423203000 -0300" channel="El Garage">
+    <title lang="es">Mundo móvil</title>
+  </programme>
+  <programme start="20220423203000 -0300" stop="20220423210000 -0300" channel="El Garage">
+    <title lang="es">Planeta camión</title>
+  </programme>
+  <programme start="20220423210000 -0300" stop="20220423220000 -0300" channel="El Garage">
+    <title lang="es">Campeones News</title>
+  </programme>
+  <programme start="20220423220000 -0300" stop="20220423223000 -0300" channel="El Garage">
+    <title lang="es">Grandes campeones</title>
+  </programme>
+  <programme start="20220423223000 -0300" stop="20220423230000 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20220423230000 -0300" stop="20220423233000 -0300" channel="El Garage">
+    <title lang="es">La conquista</title>
+  </programme>
+  <programme start="20220423233000 -0300" stop="20220424000000 -0300" channel="El Garage">
+    <title lang="es">eMallorca Challenge</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424003000 -0300" channel="El Garage">
+    <title lang="es">Michelin Le Mans Cup</title>
+  </programme>
+  <programme start="20220424003000 -0300" stop="20220424010000 -0300" channel="El Garage">
+    <title lang="es">Autoescaner</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424020000 -0300" channel="El Garage">
+    <title lang="es">Ferrari Challenge. North America</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424023000 -0300" channel="El Garage">
+    <title lang="es">New Tune Up</title>
+  </programme>
+  <programme start="20220424023000 -0300" stop="20220424030000 -0300" channel="El Garage">
+    <title lang="es">Fórmula 1 - Pit Lane</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424033000 -0300" channel="El Garage">
+    <title lang="es">Delirio motriz</title>
+  </programme>
+  <programme start="20220424033000 -0300" stop="20220424040000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424043000 -0300" channel="El Garage">
+    <title lang="es">AutoXtreme</title>
+  </programme>
+  <programme start="20220424043000 -0300" stop="20220424050000 -0300" channel="El Garage">
+    <title lang="es">Efe 1</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424060000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424070000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424073000 -0300" channel="El Garage">
+    <title lang="es">Cambio de rasante</title>
+  </programme>
+  <programme start="20220424073000 -0300" stop="20220424080000 -0300" channel="El Garage">
+    <title lang="es">Autocosmos</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424083000 -0300" channel="El Garage">
+    <title lang="es">Historias de campeones</title>
+  </programme>
+  <programme start="20220424083000 -0300" stop="20220424090000 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424093000 -0300" channel="El Garage">
+    <title lang="es">Verko Carreras TV</title>
+  </programme>
+  <programme start="20220424093000 -0300" stop="20220424100000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="El Garage">
+    <title lang="es">Paralelo cero</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424120000 -0300" channel="El Garage">
+    <title lang="es">La conquista</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424123000 -0300" channel="El Garage">
+    <title lang="es">El expreso TV</title>
+  </programme>
+  <programme start="20220424123000 -0300" stop="20220424130000 -0300" channel="El Garage">
+    <title lang="es">Motos Garage TV</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424133000 -0300" channel="El Garage">
+    <title lang="es">Top Motor</title>
+  </programme>
+  <programme start="20220424133000 -0300" stop="20220424140000 -0300" channel="El Garage">
+    <title lang="es">Autotécnica</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424143000 -0300" channel="El Garage">
+    <title lang="es">Mundo náutica</title>
+  </programme>
+  <programme start="20220424143000 -0300" stop="20220424150000 -0300" channel="El Garage">
+    <title lang="es">Raid 4x4</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424160000 -0300" channel="El Garage">
+    <title lang="es">Mesa de campeones</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424163000 -0300" channel="El Garage">
+    <title lang="es">Pro10 Elite</title>
+  </programme>
+  <programme start="20220424163000 -0300" stop="20220424170000 -0300" channel="El Garage">
+    <title lang="es">eMallorca Challenge</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424180000 -0300" channel="El Garage">
+    <title lang="es">Auto al día</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424183000 -0300" channel="El Garage">
+    <title lang="es">Volando por TV</title>
+  </programme>
+  <programme start="20220424183000 -0300" stop="20220424190000 -0300" channel="El Garage">
+    <title lang="es">Visión motor</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424193000 -0300" channel="El Garage">
+    <title lang="es">Desde boxes ya!</title>
+  </programme>
+  <programme start="20220424193000 -0300" stop="20220424200000 -0300" channel="El Garage">
+    <title lang="es">Pedalearg</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424203000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220424203000 -0300" stop="20220424210000 -0300" channel="El Garage">
+    <title lang="es">Tour European Rally</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424213000 -0300" channel="El Garage">
+    <title lang="es">El camino a la velocidad</title>
+  </programme>
+  <programme start="20220424213000 -0300" stop="20220424220000 -0300" channel="El Garage">
+    <title lang="es">El Garage News</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424223000 -0300" channel="El Garage">
+    <title lang="es">Museum</title>
+  </programme>
+  <programme start="20220424223000 -0300" stop="20220424230000 -0300" channel="El Garage">
+    <title lang="es">Sub 99</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220424233000 -0300" channel="El Garage">
+    <title lang="es">Autocosmos</title>
+  </programme>
+  <programme start="20220424233000 -0300" stop="20220425000000 -0300" channel="El Garage">
+    <title lang="es">Mobil 1, the Grid</title>
   </programme>
   <programme start="20220421000000 -0300" stop="20220421043000 -0300" channel="The Golf Channel">
     <title lang="es">PGA Tour - Zurich Classic of New Orleans</title>
@@ -4415,6 +5321,342 @@
   <programme start="20220424234400 -0300" stop="20220425000000 -0300" channel="Discovery Channel">
     <title lang="es">Supervivencia al desnudo: edición extrema</title>
   </programme>
+  <programme start="20220421000000 -0300" stop="20220421010000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Casos icónicos: OJ Simpson</title>
+  </programme>
+  <programme start="20220421010000 -0300" stop="20220421020000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Casos icónicos: OJ Simpson</title>
+  </programme>
+  <programme start="20220421020000 -0300" stop="20220421025600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Casos infames: el niño perdido</title>
+  </programme>
+  <programme start="20220421025600 -0300" stop="20220421035200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Dentro del asesinato</title>
+  </programme>
+  <programme start="20220421035200 -0300" stop="20220421044400 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220421044400 -0300" stop="20220421053300 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga: el asesinato de Gucci</title>
+  </programme>
+  <programme start="20220421053300 -0300" stop="20220421062200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga: crímen y moda</title>
+  </programme>
+  <programme start="20220421062200 -0300" stop="20220421071100 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Casos icónicos: OJ Simpson</title>
+  </programme>
+  <programme start="20220421071100 -0300" stop="20220421080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Casos icónicos: OJ Simpson</title>
+  </programme>
+  <programme start="20220421080000 -0300" stop="20220421090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Los 90: década mortal</title>
+  </programme>
+  <programme start="20220421090000 -0300" stop="20220421100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Enlace mortal</title>
+  </programme>
+  <programme start="20220421100000 -0300" stop="20220421103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220421103000 -0300" stop="20220421110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220421110000 -0300" stop="20220421113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220421113000 -0300" stop="20220421120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220421120000 -0300" stop="20220421130000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220421130000 -0300" stop="20220421140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220421140000 -0300" stop="20220421150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La peor pesadilla</title>
+  </programme>
+  <programme start="20220421150000 -0300" stop="20220421160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La peor pesadilla</title>
+  </programme>
+  <programme start="20220421160000 -0300" stop="20220421170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Investigación en curso</title>
+  </programme>
+  <programme start="20220421170000 -0300" stop="20220421180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Investigación en curso</title>
+  </programme>
+  <programme start="20220421180000 -0300" stop="20220421190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Desaparecidos</title>
+  </programme>
+  <programme start="20220421190000 -0300" stop="20220421200000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Desaparecidos</title>
+  </programme>
+  <programme start="20220421200000 -0300" stop="20220421210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220421210000 -0300" stop="20220421213000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220421213000 -0300" stop="20220421220000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220421220000 -0300" stop="20220421230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220421230000 -0300" stop="20220422000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422010000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino al acecho</title>
+  </programme>
+  <programme start="20220422010000 -0300" stop="20220422020000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino al acecho</title>
+  </programme>
+  <programme start="20220422020000 -0300" stop="20220422025600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La peor pesadilla</title>
+  </programme>
+  <programme start="20220422025600 -0300" stop="20220422035200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La peor pesadilla</title>
+  </programme>
+  <programme start="20220422035200 -0300" stop="20220422044400 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220422044400 -0300" stop="20220422053300 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220422053300 -0300" stop="20220422062200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220422062200 -0300" stop="20220422071100 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino al acecho</title>
+  </programme>
+  <programme start="20220422071100 -0300" stop="20220422080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino al acecho</title>
+  </programme>
+  <programme start="20220422080000 -0300" stop="20220422090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Los 90: década mortal</title>
+  </programme>
+  <programme start="20220422090000 -0300" stop="20220422100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Mentiras develadas</title>
+  </programme>
+  <programme start="20220422100000 -0300" stop="20220422103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220422103000 -0300" stop="20220422110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220422110000 -0300" stop="20220422113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220422113000 -0300" stop="20220422120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220422120000 -0300" stop="20220422130000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Presuntos inocentes</title>
+  </programme>
+  <programme start="20220422130000 -0300" stop="20220422133000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220422133000 -0300" stop="20220422140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220422140000 -0300" stop="20220422150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Quién es el asesino?</title>
+  </programme>
+  <programme start="20220422150000 -0300" stop="20220422160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Quién es el asesino?</title>
+  </programme>
+  <programme start="20220422160000 -0300" stop="20220422170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La verdad con Sunny Hostin</title>
+  </programme>
+  <programme start="20220422170000 -0300" stop="20220422180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La verdad con Sunny Hostin</title>
+  </programme>
+  <programme start="20220422180000 -0300" stop="20220422190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220422190000 -0300" stop="20220422200000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cintas del crimen</title>
+  </programme>
+  <programme start="20220422200000 -0300" stop="20220422210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cintas del crimen</title>
+  </programme>
+  <programme start="20220422210000 -0300" stop="20220422220000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Sala de interrogación</title>
+  </programme>
+  <programme start="20220422220000 -0300" stop="20220422230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Sala de interrogación</title>
+  </programme>
+  <programme start="20220422230000 -0300" stop="20220423000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Presuntos inocentes</title>
+  </programme>
+  <programme start="20220423000000 -0300" stop="20220423003000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220423003000 -0300" stop="20220423010000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220423010000 -0300" stop="20220423020000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220423020000 -0300" stop="20220423025600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Las verdaderas mujeres asesinas</title>
+  </programme>
+  <programme start="20220423025600 -0300" stop="20220423035200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Las verdaderas mujeres asesinas</title>
+  </programme>
+  <programme start="20220423035200 -0300" stop="20220423044400 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Sala de interrogación</title>
+  </programme>
+  <programme start="20220423044400 -0300" stop="20220423053300 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Sala de interrogación</title>
+  </programme>
+  <programme start="20220423053300 -0300" stop="20220423062200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Presuntos inocentes</title>
+  </programme>
+  <programme start="20220423062200 -0300" stop="20220423064600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220423064600 -0300" stop="20220423071100 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220423071100 -0300" stop="20220423080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220423080000 -0300" stop="20220423090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Los 90: década mortal</title>
+  </programme>
+  <programme start="20220423090000 -0300" stop="20220423100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Vecino asesino</title>
+  </programme>
+  <programme start="20220423100000 -0300" stop="20220423103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220423103000 -0300" stop="20220423110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220423110000 -0300" stop="20220423113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220423113000 -0300" stop="20220423120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220423120000 -0300" stop="20220423130000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesinato en la feria</title>
+  </programme>
+  <programme start="20220423130000 -0300" stop="20220423140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Llamadas desde la cárcel</title>
+  </programme>
+  <programme start="20220423140000 -0300" stop="20220423150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El objeto del crimen</title>
+  </programme>
+  <programme start="20220423150000 -0300" stop="20220423160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El objeto del crimen</title>
+  </programme>
+  <programme start="20220423160000 -0300" stop="20220423170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Viviendo una pesadilla</title>
+  </programme>
+  <programme start="20220423170000 -0300" stop="20220423180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Viviendo una pesadilla</title>
+  </programme>
+  <programme start="20220423180000 -0300" stop="20220423190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220423190000 -0300" stop="20220423200000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220423200000 -0300" stop="20220423210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220423210000 -0300" stop="20220423220000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Confesiones diabólicas con Michelle Ward</title>
+  </programme>
+  <programme start="20220423220000 -0300" stop="20220423230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Confesiones diabólicas con Michelle Ward</title>
+  </programme>
+  <programme start="20220423230000 -0300" stop="20220424000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Atrapar a un asesino</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino serial: maldad desencadenada</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424020000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424025600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesinatos en familia</title>
+  </programme>
+  <programme start="20220424025600 -0300" stop="20220424035200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesinatos en familia</title>
+  </programme>
+  <programme start="20220424035200 -0300" stop="20220424044400 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Confesiones diabólicas con Michelle Ward</title>
+  </programme>
+  <programme start="20220424044400 -0300" stop="20220424053300 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Confesiones diabólicas con Michelle Ward</title>
+  </programme>
+  <programme start="20220424053300 -0300" stop="20220424062200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Atrapar a un asesino</title>
+  </programme>
+  <programme start="20220424062200 -0300" stop="20220424071100 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino serial: maldad desencadenada</title>
+  </programme>
+  <programme start="20220424071100 -0300" stop="20220424080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Los 90: década mortal</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Maldad en el pueblo</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424130000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal: sombras de muerte</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El palmar de Troya</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Secretos enterrados</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Secretos enterrados</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424203000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20220424203000 -0300" stop="20220424210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Homicidio en el pueblo</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424220000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Departamento de homicidios</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Departamento de homicidios</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal: sombras de muerte</title>
+  </programme>
   <programme start="20220421000000 -0300" stop="20220421004800 -0300" channel="Discovery Science">
     <title lang="es">Legends of the Lost</title>
   </programme>
@@ -4786,6 +6028,927 @@
   </programme>
   <programme start="20220424231200 -0300" stop="20220425000000 -0300" channel="Discovery Science">
     <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421004800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220421004800 -0300" stop="20220421013600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220421013600 -0300" stop="20220421022400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220421022400 -0300" stop="20220421031200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220421031200 -0300" stop="20220421040000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220421040000 -0300" stop="20220421044800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220421044800 -0300" stop="20220421053600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220421053600 -0300" stop="20220421062400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios del castillo</title>
+  </programme>
+  <programme start="20220421062400 -0300" stop="20220421064800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220421064800 -0300" stop="20220421071200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220421071200 -0300" stop="20220421080000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220421080000 -0300" stop="20220421084800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220421084800 -0300" stop="20220421093600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220421093600 -0300" stop="20220421102400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220421102400 -0300" stop="20220421111200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios del castillo</title>
+  </programme>
+  <programme start="20220421111200 -0300" stop="20220421113600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220421113600 -0300" stop="20220421120000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220421120000 -0300" stop="20220421124800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220421124800 -0300" stop="20220421133600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220421133600 -0300" stop="20220421142400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Megamáquinas de Alaska</title>
+  </programme>
+  <programme start="20220421142400 -0300" stop="20220421151200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Genios constructores</title>
+  </programme>
+  <programme start="20220421151200 -0300" stop="20220421160000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tu basura, mi fortuna: negocio redondo</title>
+  </programme>
+  <programme start="20220421160000 -0300" stop="20220421164800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220421164800 -0300" stop="20220421173600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220421173600 -0300" stop="20220421182400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220421182400 -0300" stop="20220421191200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Mujeres mineras</title>
+  </programme>
+  <programme start="20220421191200 -0300" stop="20220421200000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska remota</title>
+  </programme>
+  <programme start="20220421200000 -0300" stop="20220421204800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Monstruos de Alaska</title>
+  </programme>
+  <programme start="20220421204800 -0300" stop="20220421213600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Batalha Makers Brasil</title>
+  </programme>
+  <programme start="20220421213600 -0300" stop="20220421222400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220421222400 -0300" stop="20220421231200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220421231200 -0300" stop="20220422000000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422004800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220422004800 -0300" stop="20220422013600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220422013600 -0300" stop="20220422022400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">La peligrosa ruta del café</title>
+  </programme>
+  <programme start="20220422022400 -0300" stop="20220422031200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220422031200 -0300" stop="20220422040000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220422040000 -0300" stop="20220422044800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220422044800 -0300" stop="20220422053600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220422053600 -0300" stop="20220422062400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220422062400 -0300" stop="20220422071200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220422071200 -0300" stop="20220422080000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220422080000 -0300" stop="20220422084800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220422084800 -0300" stop="20220422093600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220422093600 -0300" stop="20220422102400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220422102400 -0300" stop="20220422111200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220422111200 -0300" stop="20220422120000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220422120000 -0300" stop="20220422124800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220422124800 -0300" stop="20220422133600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220422133600 -0300" stop="20220422142400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220422142400 -0300" stop="20220422151200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220422151200 -0300" stop="20220422160000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios del castillo</title>
+  </programme>
+  <programme start="20220422160000 -0300" stop="20220422162400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220422162400 -0300" stop="20220422164800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220422164800 -0300" stop="20220422173600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220422173600 -0300" stop="20220422182400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220422182400 -0300" stop="20220422191200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Batalha Makers Brasil</title>
+  </programme>
+  <programme start="20220422191200 -0300" stop="20220422200000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Genios constructores</title>
+  </programme>
+  <programme start="20220422200000 -0300" stop="20220422204800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tu basura, mi fortuna: negocio redondo</title>
+  </programme>
+  <programme start="20220422204800 -0300" stop="20220422213600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pescadores de langosta</title>
+  </programme>
+  <programme start="20220422213600 -0300" stop="20220422222400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220422222400 -0300" stop="20220422231200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220422231200 -0300" stop="20220423000000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Guerreros del Pacífico</title>
+  </programme>
+  <programme start="20220423000000 -0300" stop="20220423004800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220423004800 -0300" stop="20220423013600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Supercargas</title>
+  </programme>
+  <programme start="20220423013600 -0300" stop="20220423022400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Batalha Makers Brasil</title>
+  </programme>
+  <programme start="20220423022400 -0300" stop="20220423031200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220423031200 -0300" stop="20220423040000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220423040000 -0300" stop="20220423044800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220423044800 -0300" stop="20220423053600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220423053600 -0300" stop="20220423062400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220423062400 -0300" stop="20220423071200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">La peligrosa ruta del café</title>
+  </programme>
+  <programme start="20220423071200 -0300" stop="20220423080000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220423080000 -0300" stop="20220423084800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220423084800 -0300" stop="20220423093600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220423093600 -0300" stop="20220423102400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220423102400 -0300" stop="20220423111200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220423111200 -0300" stop="20220423120000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">La peligrosa ruta del café</title>
+  </programme>
+  <programme start="20220423120000 -0300" stop="20220423124800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220423124800 -0300" stop="20220423133600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220423133600 -0300" stop="20220423142400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220423142400 -0300" stop="20220423151200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220423151200 -0300" stop="20220423160000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220423160000 -0300" stop="20220423164800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220423164800 -0300" stop="20220423173600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220423173600 -0300" stop="20220423182400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Iglesias: secretos y leyendas</title>
+  </programme>
+  <programme start="20220423182400 -0300" stop="20220423191200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Batalha Makers Brasil</title>
+  </programme>
+  <programme start="20220423191200 -0300" stop="20220423200000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220423200000 -0300" stop="20220423204800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios del castillo</title>
+  </programme>
+  <programme start="20220423204800 -0300" stop="20220423211200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20220423211200 -0300" stop="20220423213600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20220423213600 -0300" stop="20220423222400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220423222400 -0300" stop="20220423231200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220423231200 -0300" stop="20220424000000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Leñadores en Siberia</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424004800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Sobrevivientes del hielo</title>
+  </programme>
+  <programme start="20220424004800 -0300" stop="20220424011200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Mi novio es el Hombre Lobo</title>
+  </programme>
+  <programme start="20220424011200 -0300" stop="20220424013600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Mi novio es el Hombre Lobo</title>
+  </programme>
+  <programme start="20220424013600 -0300" stop="20220424022400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pescadores de langosta</title>
+  </programme>
+  <programme start="20220424022400 -0300" stop="20220424031200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220424031200 -0300" stop="20220424040000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424044800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Guerreros del Pacífico</title>
+  </programme>
+  <programme start="20220424044800 -0300" stop="20220424053600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220424053600 -0300" stop="20220424062400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Supercargas</title>
+  </programme>
+  <programme start="20220424062400 -0300" stop="20220424071200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Batalha Makers Brasil</title>
+  </programme>
+  <programme start="20220424071200 -0300" stop="20220424080000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424084800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220424084800 -0300" stop="20220424093600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Guerreros del Pacífico</title>
+  </programme>
+  <programme start="20220424093600 -0300" stop="20220424102400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220424102400 -0300" stop="20220424111200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Supercargas</title>
+  </programme>
+  <programme start="20220424111200 -0300" stop="20220424120000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Batalha Makers Brasil</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424124800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220424124800 -0300" stop="20220424133600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220424133600 -0300" stop="20220424142400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220424142400 -0300" stop="20220424151200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220424151200 -0300" stop="20220424160000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Gigantes de la industria americana</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424164800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">La peligrosa ruta del café</title>
+  </programme>
+  <programme start="20220424164800 -0300" stop="20220424173600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220424173600 -0300" stop="20220424182400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220424182400 -0300" stop="20220424191200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Batalha Makers Brasil</title>
+  </programme>
+  <programme start="20220424191200 -0300" stop="20220424200000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424204800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220424204800 -0300" stop="20220424213600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220424213600 -0300" stop="20220424222400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220424222400 -0300" stop="20220424231200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220424231200 -0300" stop="20220425000000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro salvaje</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421004800 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220421004800 -0300" stop="20220421013600 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220421013600 -0300" stop="20220421022400 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220421022400 -0300" stop="20220421024800 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220421024800 -0300" stop="20220421031200 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220421031200 -0300" stop="20220421033600 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220421033600 -0300" stop="20220421040000 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220421040000 -0300" stop="20220421042400 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220421042400 -0300" stop="20220421044800 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220421044800 -0300" stop="20220421053600 -0300" channel="Discovery World HD">
+    <title lang="es">Hoteles asombrosos</title>
+  </programme>
+  <programme start="20220421053600 -0300" stop="20220421062400 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220421062400 -0300" stop="20220421071200 -0300" channel="Discovery World HD">
+    <title lang="es">Jonty Rhodes en Sudáfrica</title>
+  </programme>
+  <programme start="20220421071200 -0300" stop="20220421073600 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220421073600 -0300" stop="20220421080000 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220421080000 -0300" stop="20220421082400 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220421082400 -0300" stop="20220421084800 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220421084800 -0300" stop="20220421091200 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220421091200 -0300" stop="20220421093600 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220421093600 -0300" stop="20220421102400 -0300" channel="Discovery World HD">
+    <title lang="es">Hoteles asombrosos</title>
+  </programme>
+  <programme start="20220421102400 -0300" stop="20220421111200 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220421111200 -0300" stop="20220421120000 -0300" channel="Discovery World HD">
+    <title lang="es">Jonty Rhodes en Sudáfrica</title>
+  </programme>
+  <programme start="20220421120000 -0300" stop="20220421122400 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220421122400 -0300" stop="20220421124800 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220421124800 -0300" stop="20220421131200 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220421131200 -0300" stop="20220421133600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220421133600 -0300" stop="20220421140000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220421140000 -0300" stop="20220421142400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220421142400 -0300" stop="20220421144800 -0300" channel="Discovery World HD">
+    <title lang="es">En busca de una mansión en la playa</title>
+  </programme>
+  <programme start="20220421144800 -0300" stop="20220421151200 -0300" channel="Discovery World HD">
+    <title lang="es">De isla en isla</title>
+  </programme>
+  <programme start="20220421151200 -0300" stop="20220421153600 -0300" channel="Discovery World HD">
+    <title lang="es">De isla en isla</title>
+  </programme>
+  <programme start="20220421153600 -0300" stop="20220421160000 -0300" channel="Discovery World HD">
+    <title lang="es">En busca de una mansión en la playa</title>
+  </programme>
+  <programme start="20220421160000 -0300" stop="20220421164800 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220421164800 -0300" stop="20220421171200 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220421171200 -0300" stop="20220421173600 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220421173600 -0300" stop="20220421182400 -0300" channel="Discovery World HD">
+    <title lang="es">Reliquias renovadas</title>
+  </programme>
+  <programme start="20220421182400 -0300" stop="20220421191200 -0300" channel="Discovery World HD">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  <programme start="20220421191200 -0300" stop="20220421193600 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220421193600 -0300" stop="20220421200000 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220421200000 -0300" stop="20220421204800 -0300" channel="Discovery World HD">
+    <title lang="es">Taiwán desconocido</title>
+  </programme>
+  <programme start="20220421204800 -0300" stop="20220421213600 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220421213600 -0300" stop="20220421220000 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220421220000 -0300" stop="20220421222400 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220421222400 -0300" stop="20220421231200 -0300" channel="Discovery World HD">
+    <title lang="es">Reliquias renovadas</title>
+  </programme>
+  <programme start="20220421231200 -0300" stop="20220422000000 -0300" channel="Discovery World HD">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422002400 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220422002400 -0300" stop="20220422004800 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220422004800 -0300" stop="20220422013600 -0300" channel="Discovery World HD">
+    <title lang="es">Taiwán desconocido</title>
+  </programme>
+  <programme start="20220422013600 -0300" stop="20220422020000 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220422020000 -0300" stop="20220422022400 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220422022400 -0300" stop="20220422024800 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220422024800 -0300" stop="20220422031200 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220422031200 -0300" stop="20220422033600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422033600 -0300" stop="20220422040000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422040000 -0300" stop="20220422042400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422042400 -0300" stop="20220422044800 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422044800 -0300" stop="20220422053600 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220422053600 -0300" stop="20220422062400 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220422062400 -0300" stop="20220422071200 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220422071200 -0300" stop="20220422073600 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220422073600 -0300" stop="20220422080000 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220422080000 -0300" stop="20220422082400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422082400 -0300" stop="20220422084800 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422084800 -0300" stop="20220422091200 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422091200 -0300" stop="20220422093600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422093600 -0300" stop="20220422102400 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220422102400 -0300" stop="20220422111200 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220422111200 -0300" stop="20220422120000 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220422120000 -0300" stop="20220422122400 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220422122400 -0300" stop="20220422124800 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220422124800 -0300" stop="20220422131200 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220422131200 -0300" stop="20220422133600 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220422133600 -0300" stop="20220422140000 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220422140000 -0300" stop="20220422142400 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220422142400 -0300" stop="20220422151200 -0300" channel="Discovery World HD">
+    <title lang="es">Hoteles asombrosos</title>
+  </programme>
+  <programme start="20220422151200 -0300" stop="20220422160000 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220422160000 -0300" stop="20220422164800 -0300" channel="Discovery World HD">
+    <title lang="es">Jonty Rhodes en Sudáfrica</title>
+  </programme>
+  <programme start="20220422164800 -0300" stop="20220422171200 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220422171200 -0300" stop="20220422173600 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220422173600 -0300" stop="20220422180000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422180000 -0300" stop="20220422182400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220422182400 -0300" stop="20220422184800 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220422184800 -0300" stop="20220422191200 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220422191200 -0300" stop="20220422193600 -0300" channel="Discovery World HD">
+    <title lang="es">En busca de una mansión en la playa</title>
+  </programme>
+  <programme start="20220422193600 -0300" stop="20220422200000 -0300" channel="Discovery World HD">
+    <title lang="es">De isla en isla</title>
+  </programme>
+  <programme start="20220422200000 -0300" stop="20220422202400 -0300" channel="Discovery World HD">
+    <title lang="es">De isla en isla</title>
+  </programme>
+  <programme start="20220422202400 -0300" stop="20220422204800 -0300" channel="Discovery World HD">
+    <title lang="es">En busca de una mansión en la playa</title>
+  </programme>
+  <programme start="20220422204800 -0300" stop="20220422213600 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220422213600 -0300" stop="20220422220000 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220422220000 -0300" stop="20220422222400 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220422222400 -0300" stop="20220422224800 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220422224800 -0300" stop="20220422231200 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220422231200 -0300" stop="20220422233600 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220422233600 -0300" stop="20220423000000 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220423000000 -0300" stop="20220423004800 -0300" channel="Discovery World HD">
+    <title lang="es">Glamping</title>
+  </programme>
+  <programme start="20220423004800 -0300" stop="20220423013600 -0300" channel="Discovery World HD">
+    <title lang="es">Alaska VIP</title>
+  </programme>
+  <programme start="20220423013600 -0300" stop="20220423022400 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220423022400 -0300" stop="20220423024800 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220423024800 -0300" stop="20220423031200 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220423031200 -0300" stop="20220423040000 -0300" channel="Discovery World HD">
+    <title lang="es">Reliquias renovadas</title>
+  </programme>
+  <programme start="20220423040000 -0300" stop="20220423044800 -0300" channel="Discovery World HD">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  <programme start="20220423044800 -0300" stop="20220423051200 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220423051200 -0300" stop="20220423053600 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220423053600 -0300" stop="20220423062400 -0300" channel="Discovery World HD">
+    <title lang="es">Taiwán desconocido</title>
+  </programme>
+  <programme start="20220423062400 -0300" stop="20220423064800 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220423064800 -0300" stop="20220423071200 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220423071200 -0300" stop="20220423073600 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220423073600 -0300" stop="20220423080000 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220423080000 -0300" stop="20220423084800 -0300" channel="Discovery World HD">
+    <title lang="es">Reliquias renovadas</title>
+  </programme>
+  <programme start="20220423084800 -0300" stop="20220423093600 -0300" channel="Discovery World HD">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  <programme start="20220423093600 -0300" stop="20220423100000 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220423100000 -0300" stop="20220423102400 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220423102400 -0300" stop="20220423111200 -0300" channel="Discovery World HD">
+    <title lang="es">Taiwán desconocido</title>
+  </programme>
+  <programme start="20220423111200 -0300" stop="20220423113600 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220423113600 -0300" stop="20220423120000 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220423120000 -0300" stop="20220423122400 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220423122400 -0300" stop="20220423124800 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220423124800 -0300" stop="20220423131200 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220423131200 -0300" stop="20220423133600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220423133600 -0300" stop="20220423140000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220423140000 -0300" stop="20220423142400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220423142400 -0300" stop="20220423151200 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220423151200 -0300" stop="20220423160000 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220423160000 -0300" stop="20220423164800 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220423164800 -0300" stop="20220423171200 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220423171200 -0300" stop="20220423173600 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220423173600 -0300" stop="20220423180000 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220423180000 -0300" stop="20220423182400 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220423182400 -0300" stop="20220423184800 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220423184800 -0300" stop="20220423191200 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220423191200 -0300" stop="20220423200000 -0300" channel="Discovery World HD">
+    <title lang="es">Hoteles asombrosos</title>
+  </programme>
+  <programme start="20220423200000 -0300" stop="20220423204800 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220423204800 -0300" stop="20220423211200 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220423211200 -0300" stop="20220423213600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220423213600 -0300" stop="20220423220000 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220423220000 -0300" stop="20220423222400 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220423222400 -0300" stop="20220423224800 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220423224800 -0300" stop="20220423231200 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220423231200 -0300" stop="20220423233600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220423233600 -0300" stop="20220424000000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424004800 -0300" channel="Discovery World HD">
+    <title lang="es">Viajes en carretera: minas de oro</title>
+  </programme>
+  <programme start="20220424004800 -0300" stop="20220424013600 -0300" channel="Discovery World HD">
+    <title lang="es">Italia sobre ruedas</title>
+  </programme>
+  <programme start="20220424013600 -0300" stop="20220424022400 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220424022400 -0300" stop="20220424024800 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220424024800 -0300" stop="20220424031200 -0300" channel="Discovery World HD">
+    <title lang="es">Mercados del mundo</title>
+  </programme>
+  <programme start="20220424031200 -0300" stop="20220424033600 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220424033600 -0300" stop="20220424040000 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424042400 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220424042400 -0300" stop="20220424044800 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220424044800 -0300" stop="20220424053600 -0300" channel="Discovery World HD">
+    <title lang="es">Glamping</title>
+  </programme>
+  <programme start="20220424053600 -0300" stop="20220424062400 -0300" channel="Discovery World HD">
+    <title lang="es">Alaska VIP</title>
+  </programme>
+  <programme start="20220424062400 -0300" stop="20220424071200 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220424071200 -0300" stop="20220424073600 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424073600 -0300" stop="20220424080000 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424082400 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220424082400 -0300" stop="20220424084800 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220424084800 -0300" stop="20220424091200 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220424091200 -0300" stop="20220424093600 -0300" channel="Discovery World HD">
+    <title lang="es">Hogares de vacaciones increíbles</title>
+  </programme>
+  <programme start="20220424093600 -0300" stop="20220424102400 -0300" channel="Discovery World HD">
+    <title lang="es">Glamping</title>
+  </programme>
+  <programme start="20220424102400 -0300" stop="20220424111200 -0300" channel="Discovery World HD">
+    <title lang="es">Alaska VIP</title>
+  </programme>
+  <programme start="20220424111200 -0300" stop="20220424120000 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424122400 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424122400 -0300" stop="20220424124800 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424124800 -0300" stop="20220424133600 -0300" channel="Discovery World HD">
+    <title lang="es">Reliquias renovadas</title>
+  </programme>
+  <programme start="20220424133600 -0300" stop="20220424142400 -0300" channel="Discovery World HD">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  <programme start="20220424142400 -0300" stop="20220424144800 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220424144800 -0300" stop="20220424151200 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220424151200 -0300" stop="20220424160000 -0300" channel="Discovery World HD">
+    <title lang="es">Taiwán desconocido</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424162400 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220424162400 -0300" stop="20220424164800 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220424164800 -0300" stop="20220424171200 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424171200 -0300" stop="20220424173600 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424173600 -0300" stop="20220424180000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424182400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424182400 -0300" stop="20220424184800 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220424184800 -0300" stop="20220424191200 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220424191200 -0300" stop="20220424200000 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424204800 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220424204800 -0300" stop="20220424213600 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220424213600 -0300" stop="20220424220000 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424222400 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424222400 -0300" stop="20220424231200 -0300" channel="Discovery World HD">
+    <title lang="es">Reliquias renovadas</title>
+  </programme>
+  <programme start="20220424231200 -0300" stop="20220425000000 -0300" channel="Discovery World HD">
+    <title lang="es">Regreso al mundo chino</title>
   </programme>
   <programme start="20220421000000 -0300" stop="20220421003000 -0300" channel="Discovery Home &amp; Health">
     <title lang="es">Hermanos a la obra: Un hogar para siempre</title>
@@ -5188,6 +7351,690 @@
   </programme>
   <programme start="20220424233900 -0300" stop="20220425000000 -0300" channel="Discovery Home &amp; Health">
     <title lang="es">Darcey &amp; Stacey</title>
+  </programme>
+  <programme start="20220421000000 -0300" stop="20220421001800 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220421001800 -0300" stop="20220421004100 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220421004100 -0300" stop="20220421010500 -0300" channel="HGTV">
+    <title lang="es">Primos al rescate</title>
+  </programme>
+  <programme start="20220421010500 -0300" stop="20220421012800 -0300" channel="HGTV">
+    <title lang="es">Primos al rescate</title>
+  </programme>
+  <programme start="20220421012800 -0300" stop="20220421015200 -0300" channel="HGTV">
+    <title lang="es">Restauración vintage</title>
+  </programme>
+  <programme start="20220421015200 -0300" stop="20220421021400 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: puertas adentro</title>
+  </programme>
+  <programme start="20220421021400 -0300" stop="20220421023700 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: puertas adentro</title>
+  </programme>
+  <programme start="20220421023700 -0300" stop="20220421025900 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+  </programme>
+  <programme start="20220421025900 -0300" stop="20220421032200 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+  </programme>
+  <programme start="20220421032200 -0300" stop="20220421034400 -0300" channel="HGTV">
+    <title lang="es">Casas antiguas y baratas</title>
+  </programme>
+  <programme start="20220421034400 -0300" stop="20220421040600 -0300" channel="HGTV">
+    <title lang="es">Casas antiguas y baratas</title>
+  </programme>
+  <programme start="20220421040600 -0300" stop="20220421042900 -0300" channel="HGTV">
+    <title lang="es">Todo menos la casa</title>
+  </programme>
+  <programme start="20220421042900 -0300" stop="20220421045200 -0300" channel="HGTV">
+    <title lang="es">Todo menos la casa</title>
+  </programme>
+  <programme start="20220421045200 -0300" stop="20220421051400 -0300" channel="HGTV">
+    <title lang="es">La mejor inversión</title>
+  </programme>
+  <programme start="20220421051400 -0300" stop="20220421053700 -0300" channel="HGTV">
+    <title lang="es">La mejor inversión</title>
+  </programme>
+  <programme start="20220421053700 -0300" stop="20220421060000 -0300" channel="HGTV">
+    <title lang="es">Espacio extra en casa</title>
+  </programme>
+  <programme start="20220421060000 -0300" stop="20220421062300 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220421062300 -0300" stop="20220421064600 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220421064600 -0300" stop="20220421070900 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220421070900 -0300" stop="20220421073200 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421073200 -0300" stop="20220421075500 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421075500 -0300" stop="20220421081800 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421081800 -0300" stop="20220421084100 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421084100 -0300" stop="20220421090400 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421090400 -0300" stop="20220421092700 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220421092700 -0300" stop="20220421095000 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+  </programme>
+  <programme start="20220421095000 -0300" stop="20220421101400 -0300" channel="HGTV">
+    <title lang="es">Supercasas ecológicas</title>
+  </programme>
+  <programme start="20220421101400 -0300" stop="20220421103700 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220421103700 -0300" stop="20220421110100 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220421110100 -0300" stop="20220421112400 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220421112400 -0300" stop="20220421114800 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220421114800 -0300" stop="20220421121100 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220421121100 -0300" stop="20220421123500 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220421123500 -0300" stop="20220421125800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220421125800 -0300" stop="20220421132200 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220421132200 -0300" stop="20220421134500 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421134500 -0300" stop="20220421140900 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421140900 -0300" stop="20220421143200 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421143200 -0300" stop="20220421145600 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421145600 -0300" stop="20220421151900 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421151900 -0300" stop="20220421154300 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220421154300 -0300" stop="20220421160600 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220421160600 -0300" stop="20220421163000 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220421163000 -0300" stop="20220421171700 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220421171700 -0300" stop="20220421180400 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220421180400 -0300" stop="20220421182800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220421182800 -0300" stop="20220421185200 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220421185200 -0300" stop="20220421191500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220421191500 -0300" stop="20220421193900 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220421193900 -0300" stop="20220421200200 -0300" channel="HGTV">
+    <title lang="es">Remodela mi piscina</title>
+  </programme>
+  <programme start="20220421200200 -0300" stop="20220421202600 -0300" channel="HGTV">
+    <title lang="es">Remodela mi piscina</title>
+  </programme>
+  <programme start="20220421202600 -0300" stop="20220421204700 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220421204700 -0300" stop="20220421210800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220421210800 -0300" stop="20220421213100 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421213100 -0300" stop="20220421215500 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421215500 -0300" stop="20220421221800 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421221800 -0300" stop="20220421224200 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421224200 -0300" stop="20220421230500 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220421230500 -0300" stop="20220421232900 -0300" channel="HGTV">
+    <title lang="es">24 horas para redecorar</title>
+  </programme>
+  <programme start="20220421232900 -0300" stop="20220421235500 -0300" channel="HGTV">
+    <title lang="es">24 horas para redecorar</title>
+  </programme>
+  <programme start="20220421235500 -0300" stop="20220422000000 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422001800 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220422001800 -0300" stop="20220422010500 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220422010500 -0300" stop="20220422015200 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220422015200 -0300" stop="20220422021400 -0300" channel="HGTV">
+    <title lang="es">Remodela mi piscina</title>
+  </programme>
+  <programme start="20220422021400 -0300" stop="20220422023700 -0300" channel="HGTV">
+    <title lang="es">Remodela mi piscina</title>
+  </programme>
+  <programme start="20220422023700 -0300" stop="20220422025900 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta</title>
+  </programme>
+  <programme start="20220422025900 -0300" stop="20220422032200 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220422032200 -0300" stop="20220422034400 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220422034400 -0300" stop="20220422040600 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220422040600 -0300" stop="20220422042900 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220422042900 -0300" stop="20220422045200 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220422045200 -0300" stop="20220422051400 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220422051400 -0300" stop="20220422053700 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar en la montaña</title>
+  </programme>
+  <programme start="20220422053700 -0300" stop="20220422060000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220422060000 -0300" stop="20220422062300 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220422062300 -0300" stop="20220422064600 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220422064600 -0300" stop="20220422070900 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220422070900 -0300" stop="20220422075500 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta: al extremo</title>
+  </programme>
+  <programme start="20220422075500 -0300" stop="20220422081800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220422081800 -0300" stop="20220422084100 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220422084100 -0300" stop="20220422090400 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220422090400 -0300" stop="20220422092700 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220422092700 -0300" stop="20220422095000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220422095000 -0300" stop="20220422101400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220422101400 -0300" stop="20220422103700 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220422103700 -0300" stop="20220422110100 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220422110100 -0300" stop="20220422112400 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220422112400 -0300" stop="20220422114800 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220422114800 -0300" stop="20220422121100 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220422121100 -0300" stop="20220422123500 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220422123500 -0300" stop="20220422125800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220422125800 -0300" stop="20220422132200 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220422132200 -0300" stop="20220422140900 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta: al extremo</title>
+  </programme>
+  <programme start="20220422140900 -0300" stop="20220422143200 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220422143200 -0300" stop="20220422145600 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220422145600 -0300" stop="20220422151900 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220422151900 -0300" stop="20220422154300 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220422154300 -0300" stop="20220422160600 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220422160600 -0300" stop="20220422163000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220422163000 -0300" stop="20220422171700 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+  </programme>
+  <programme start="20220422171700 -0300" stop="20220422180400 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220422180400 -0300" stop="20220422182800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220422182800 -0300" stop="20220422185200 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220422185200 -0300" stop="20220422191500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220422191500 -0300" stop="20220422193900 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220422193900 -0300" stop="20220422200200 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220422200200 -0300" stop="20220422202600 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220422202600 -0300" stop="20220422204700 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220422204700 -0300" stop="20220422210800 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220422210800 -0300" stop="20220422215500 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta: al extremo</title>
+  </programme>
+  <programme start="20220422215500 -0300" stop="20220422221800 -0300" channel="HGTV">
+    <title lang="es">24 horas para redecorar</title>
+  </programme>
+  <programme start="20220422221800 -0300" stop="20220422224200 -0300" channel="HGTV">
+    <title lang="es">24 horas para redecorar</title>
+  </programme>
+  <programme start="20220422224200 -0300" stop="20220422230500 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220422230500 -0300" stop="20220422232900 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220422232900 -0300" stop="20220422235500 -0300" channel="HGTV">
+    <title lang="es">24 horas para redecorar</title>
+  </programme>
+  <programme start="20220422235500 -0300" stop="20220423000000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423000000 -0300" stop="20220423001800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423001800 -0300" stop="20220423010500 -0300" channel="HGTV">
+    <title lang="es">La búsqueda del diseñador estrella</title>
+  </programme>
+  <programme start="20220423010500 -0300" stop="20220423015200 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220423015200 -0300" stop="20220423021400 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220423021400 -0300" stop="20220423023700 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220423023700 -0300" stop="20220423025900 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220423025900 -0300" stop="20220423032200 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220423032200 -0300" stop="20220423040600 -0300" channel="HGTV">
+    <title lang="es">La fachada es lo que cuenta: al extremo</title>
+  </programme>
+  <programme start="20220423040600 -0300" stop="20220423042900 -0300" channel="HGTV">
+    <title lang="es">24 horas para redecorar</title>
+  </programme>
+  <programme start="20220423042900 -0300" stop="20220423045200 -0300" channel="HGTV">
+    <title lang="es">24 horas para redecorar</title>
+  </programme>
+  <programme start="20220423045200 -0300" stop="20220423051400 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220423051400 -0300" stop="20220423053700 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220423053700 -0300" stop="20220423060000 -0300" channel="HGTV">
+    <title lang="es">¡Quiero eso para mi hogar!</title>
+  </programme>
+  <programme start="20220423060000 -0300" stop="20220423062300 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423062300 -0300" stop="20220423064600 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220423064600 -0300" stop="20220423070900 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220423070900 -0300" stop="20220423075500 -0300" channel="HGTV">
+    <title lang="es">Hogar extraño hogar</title>
+  </programme>
+  <programme start="20220423075500 -0300" stop="20220423084100 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220423084100 -0300" stop="20220423092700 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220423092700 -0300" stop="20220423095000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423095000 -0300" stop="20220423101400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423101400 -0300" stop="20220423103700 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220423103700 -0300" stop="20220423110100 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220423110100 -0300" stop="20220423112400 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220423112400 -0300" stop="20220423114800 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220423114800 -0300" stop="20220423121100 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423121100 -0300" stop="20220423123500 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423123500 -0300" stop="20220423125800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220423125800 -0300" stop="20220423132200 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220423132200 -0300" stop="20220423140900 -0300" channel="HGTV">
+    <title lang="es">Hogar extraño hogar</title>
+  </programme>
+  <programme start="20220423140900 -0300" stop="20220423145600 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220423145600 -0300" stop="20220423154300 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220423154300 -0300" stop="20220423160600 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220423160600 -0300" stop="20220423163000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423163000 -0300" stop="20220423165300 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220423165300 -0300" stop="20220423171700 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220423171700 -0300" stop="20220423174000 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220423174000 -0300" stop="20220423180400 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220423180400 -0300" stop="20220423182800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423182800 -0300" stop="20220423185200 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220423185200 -0300" stop="20220423191500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220423191500 -0300" stop="20220423193900 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220423193900 -0300" stop="20220423200200 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220423200200 -0300" stop="20220423202600 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220423202600 -0300" stop="20220423204700 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220423204700 -0300" stop="20220423210800 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220423210800 -0300" stop="20220423215500 -0300" channel="HGTV">
+    <title lang="es">Hogar extraño hogar</title>
+  </programme>
+  <programme start="20220423215500 -0300" stop="20220423224200 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220423224200 -0300" stop="20220423232900 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220423232900 -0300" stop="20220423235500 -0300" channel="HGTV">
+    <title lang="es">24 horas para redecorar</title>
+  </programme>
+  <programme start="20220423235500 -0300" stop="20220424000000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424001800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424001800 -0300" stop="20220424004100 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220424004100 -0300" stop="20220424010500 -0300" channel="HGTV">
+    <title lang="es">Cabañas remotas</title>
+  </programme>
+  <programme start="20220424010500 -0300" stop="20220424012800 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220424012800 -0300" stop="20220424015200 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220424015200 -0300" stop="20220424021400 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220424021400 -0300" stop="20220424023700 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220424023700 -0300" stop="20220424025900 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220424025900 -0300" stop="20220424032200 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220424032200 -0300" stop="20220424040600 -0300" channel="HGTV">
+    <title lang="es">Hogar extraño hogar</title>
+  </programme>
+  <programme start="20220424040600 -0300" stop="20220424045200 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220424045200 -0300" stop="20220424053700 -0300" channel="HGTV">
+    <title lang="es">Hogares increíbles</title>
+  </programme>
+  <programme start="20220424053700 -0300" stop="20220424060000 -0300" channel="HGTV">
+    <title lang="es">¡Quiero eso para mi hogar!</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424062300 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424062300 -0300" stop="20220424064600 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220424064600 -0300" stop="20220424070900 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220424070900 -0300" stop="20220424073200 -0300" channel="HGTV">
+    <title lang="es">Renovación de jardines</title>
+  </programme>
+  <programme start="20220424073200 -0300" stop="20220424075500 -0300" channel="HGTV">
+    <title lang="es">Renovación de jardines</title>
+  </programme>
+  <programme start="20220424075500 -0300" stop="20220424081800 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+  </programme>
+  <programme start="20220424081800 -0300" stop="20220424084100 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+  </programme>
+  <programme start="20220424084100 -0300" stop="20220424090400 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220424090400 -0300" stop="20220424092700 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220424092700 -0300" stop="20220424095000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424095000 -0300" stop="20220424101400 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424101400 -0300" stop="20220424103700 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220424103700 -0300" stop="20220424110100 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220424110100 -0300" stop="20220424112400 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220424112400 -0300" stop="20220424114800 -0300" channel="HGTV">
+    <title lang="es">La mejor fachada del vecindario</title>
+  </programme>
+  <programme start="20220424114800 -0300" stop="20220424121100 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424121100 -0300" stop="20220424123500 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424123500 -0300" stop="20220424125800 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220424125800 -0300" stop="20220424132200 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220424132200 -0300" stop="20220424134500 -0300" channel="HGTV">
+    <title lang="es">Renovación de jardines</title>
+  </programme>
+  <programme start="20220424134500 -0300" stop="20220424140900 -0300" channel="HGTV">
+    <title lang="es">Renovación de jardines</title>
+  </programme>
+  <programme start="20220424140900 -0300" stop="20220424143200 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+  </programme>
+  <programme start="20220424143200 -0300" stop="20220424145600 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+  </programme>
+  <programme start="20220424145600 -0300" stop="20220424151900 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220424151900 -0300" stop="20220424154300 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220424154300 -0300" stop="20220424160600 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220424160600 -0300" stop="20220424163000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424163000 -0300" stop="20220424165300 -0300" channel="HGTV">
+    <title lang="es">Primos al rescate</title>
+  </programme>
+  <programme start="20220424165300 -0300" stop="20220424171700 -0300" channel="HGTV">
+    <title lang="es">Primos al rescate</title>
+  </programme>
+  <programme start="20220424171700 -0300" stop="20220424174000 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220424174000 -0300" stop="20220424180400 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220424180400 -0300" stop="20220424182800 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424182800 -0300" stop="20220424185200 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
+  </programme>
+  <programme start="20220424185200 -0300" stop="20220424191500 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220424191500 -0300" stop="20220424193900 -0300" channel="HGTV">
+    <title lang="es">Competencia en el mercado</title>
+  </programme>
+  <programme start="20220424193900 -0300" stop="20220424200200 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220424200200 -0300" stop="20220424202600 -0300" channel="HGTV">
+    <title lang="es">Mi baño como nuevo</title>
+  </programme>
+  <programme start="20220424202600 -0300" stop="20220424204700 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220424204700 -0300" stop="20220424210800 -0300" channel="HGTV">
+    <title lang="es">Los cazahogares</title>
+  </programme>
+  <programme start="20220424210800 -0300" stop="20220424213100 -0300" channel="HGTV">
+    <title lang="es">Renovación de jardines</title>
+  </programme>
+  <programme start="20220424213100 -0300" stop="20220424215500 -0300" channel="HGTV">
+    <title lang="es">Renovación de jardines</title>
+  </programme>
+  <programme start="20220424215500 -0300" stop="20220424221800 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+  </programme>
+  <programme start="20220424221800 -0300" stop="20220424224200 -0300" channel="HGTV">
+    <title lang="es">Los reyes de las piscinas</title>
+  </programme>
+  <programme start="20220424224200 -0300" stop="20220424230500 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220424230500 -0300" stop="20220424232900 -0300" channel="HGTV">
+    <title lang="es">Remodelación sorpresa: jardines</title>
+  </programme>
+  <programme start="20220424232900 -0300" stop="20220424235500 -0300" channel="HGTV">
+    <title lang="es">24 horas para redecorar</title>
+  </programme>
+  <programme start="20220424235500 -0300" stop="20220425000000 -0300" channel="HGTV">
+    <title lang="es">Nuestro hogar frente al lago</title>
   </programme>
   <programme start="20220421000200 -0300" stop="20220421011800 -0300" channel="H2">
     <title lang="es">Buscando a Dios</title>
