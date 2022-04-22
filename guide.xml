@@ -255,6 +255,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/NatGeo Wild.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Tru TV">
+    <display-name lang="es">Tru TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tru TV.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Comedy Central">
     <display-name lang="es">Comedy Central</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Comedy Central.png" />
@@ -328,6 +333,11 @@
   <channel id="CNN en español">
     <display-name lang="es">CNN en español</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/CNN en español.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Crónica TV">
+    <display-name lang="es">Crónica TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Crónica TV.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="Todo Noticias">
@@ -12806,6 +12816,612 @@
   <programme start="20220425235000 -0300" stop="20220426000000 -0300" channel="National Geographic">
     <title lang="es">Negocios turbios</title>
   </programme>
+  <programme start="20220422000000 -0300" stop="20220422004000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422004000 -0300" stop="20220422012500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422012500 -0300" stop="20220422021000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422021000 -0300" stop="20220422025500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422025500 -0300" stop="20220422032000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220422032000 -0300" stop="20220422034000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220422034000 -0300" stop="20220422040500 -0300" channel="Tru TV">
+    <title lang="es">Cazadores del pantano</title>
+  </programme>
+  <programme start="20220422040500 -0300" stop="20220422042500 -0300" channel="Tru TV">
+    <title lang="es">Cazadores del pantano</title>
+  </programme>
+  <programme start="20220422042500 -0300" stop="20220422045000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220422045000 -0300" stop="20220422051500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220422051500 -0300" stop="20220422054000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220422054000 -0300" stop="20220422060000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220422060000 -0300" stop="20220422065000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220422065000 -0300" stop="20220422071000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220422071000 -0300" stop="20220422073500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220422073500 -0300" stop="20220422075500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220422075500 -0300" stop="20220422082000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220422082000 -0300" stop="20220422084000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220422084000 -0300" stop="20220422092500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422092500 -0300" stop="20220422101000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422101000 -0300" stop="20220422105500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422105500 -0300" stop="20220422114000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422114000 -0300" stop="20220422120500 -0300" channel="Tru TV">
+    <title lang="es">Cazadores del pantano</title>
+  </programme>
+  <programme start="20220422120500 -0300" stop="20220422122500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220422122500 -0300" stop="20220422125000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220422125000 -0300" stop="20220422131500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220422131500 -0300" stop="20220422134000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220422134000 -0300" stop="20220422140000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220422140000 -0300" stop="20220422145000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220422145000 -0300" stop="20220422151000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220422151000 -0300" stop="20220422155500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422155500 -0300" stop="20220422164000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422164000 -0300" stop="20220422172500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422172500 -0300" stop="20220422181000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220422181000 -0300" stop="20220422183500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220422183500 -0300" stop="20220422185500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220422185500 -0300" stop="20220422192000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220422192000 -0300" stop="20220422194000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220422194000 -0300" stop="20220422200500 -0300" channel="Tru TV">
+    <title lang="es">Cazadores del pantano</title>
+  </programme>
+  <programme start="20220422200500 -0300" stop="20220422202500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220422202500 -0300" stop="20220422205000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220422205000 -0300" stop="20220422211500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220422211500 -0300" stop="20220422214000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220422214000 -0300" stop="20220422220000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220422220000 -0300" stop="20220422225000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220422225000 -0300" stop="20220422231000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220422231000 -0300" stop="20220422233500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220422233500 -0300" stop="20220422235500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220422235500 -0300" stop="20220423000000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423000000 -0300" stop="20220423004000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423004000 -0300" stop="20220423012500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423012500 -0300" stop="20220423021000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423021000 -0300" stop="20220423025500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423025500 -0300" stop="20220423032000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220423032000 -0300" stop="20220423034000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220423034000 -0300" stop="20220423040500 -0300" channel="Tru TV">
+    <title lang="es">Cazadores del pantano</title>
+  </programme>
+  <programme start="20220423040500 -0300" stop="20220423042500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220423042500 -0300" stop="20220423045000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220423045000 -0300" stop="20220423051500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220423051500 -0300" stop="20220423054000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220423054000 -0300" stop="20220423060000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220423060000 -0300" stop="20220423065000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220423065000 -0300" stop="20220423071000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220423071000 -0300" stop="20220423073500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220423073500 -0300" stop="20220423075500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220423075500 -0300" stop="20220423082000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220423082000 -0300" stop="20220423084000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220423084000 -0300" stop="20220423092500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423092500 -0300" stop="20220423101000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423101000 -0300" stop="20220423105500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423105500 -0300" stop="20220423114000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423114000 -0300" stop="20220423120500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220423120500 -0300" stop="20220423122500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220423122500 -0300" stop="20220423125000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220423125000 -0300" stop="20220423131500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220423131500 -0300" stop="20220423134000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220423134000 -0300" stop="20220423140000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220423140000 -0300" stop="20220423145000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220423145000 -0300" stop="20220423151000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220423151000 -0300" stop="20220423155500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423155500 -0300" stop="20220423164000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423164000 -0300" stop="20220423172500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423172500 -0300" stop="20220423181000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220423181000 -0300" stop="20220423183500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220423183500 -0300" stop="20220423185500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220423185500 -0300" stop="20220423192000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220423192000 -0300" stop="20220423194000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220423194000 -0300" stop="20220423200500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220423200500 -0300" stop="20220423202500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220423202500 -0300" stop="20220423205000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220423205000 -0300" stop="20220423211500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220423211500 -0300" stop="20220423214000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220423214000 -0300" stop="20220423220000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220423220000 -0300" stop="20220423225000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220423225000 -0300" stop="20220423231000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220423231000 -0300" stop="20220423233500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220423233500 -0300" stop="20220423235500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220423235500 -0300" stop="20220424000000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424004000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424004000 -0300" stop="20220424012500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424012500 -0300" stop="20220424021000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424021000 -0300" stop="20220424025500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424025500 -0300" stop="20220424032000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424032000 -0300" stop="20220424034000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424034000 -0300" stop="20220424040500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424040500 -0300" stop="20220424042500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424042500 -0300" stop="20220424045000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424045000 -0300" stop="20220424051500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424051500 -0300" stop="20220424054000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424054000 -0300" stop="20220424060000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424062500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424062500 -0300" stop="20220424065000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424065000 -0300" stop="20220424071000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424071000 -0300" stop="20220424073500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424073500 -0300" stop="20220424075500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424075500 -0300" stop="20220424082000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424082000 -0300" stop="20220424084000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424084000 -0300" stop="20220424092500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424092500 -0300" stop="20220424101000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424101000 -0300" stop="20220424105500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424105500 -0300" stop="20220424114000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424114000 -0300" stop="20220424120500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424120500 -0300" stop="20220424122500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424122500 -0300" stop="20220424125000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424125000 -0300" stop="20220424131500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424131500 -0300" stop="20220424134000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424134000 -0300" stop="20220424140000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424142500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424142500 -0300" stop="20220424145000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424145000 -0300" stop="20220424151000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424151000 -0300" stop="20220424155500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424155500 -0300" stop="20220424164000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424164000 -0300" stop="20220424172500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424172500 -0300" stop="20220424181000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424181000 -0300" stop="20220424183500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424183500 -0300" stop="20220424185500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424185500 -0300" stop="20220424192000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424192000 -0300" stop="20220424194000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424194000 -0300" stop="20220424200500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424200500 -0300" stop="20220424202500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424202500 -0300" stop="20220424205000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424205000 -0300" stop="20220424211500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424211500 -0300" stop="20220424214000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424214000 -0300" stop="20220424220000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424222500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424222500 -0300" stop="20220424225000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424225000 -0300" stop="20220424231000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424231000 -0300" stop="20220424233500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424233500 -0300" stop="20220424235500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424235500 -0300" stop="20220425000000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425004000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425004000 -0300" stop="20220425012500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425012500 -0300" stop="20220425021000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425021000 -0300" stop="20220425025500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425025500 -0300" stop="20220425032000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425032000 -0300" stop="20220425034000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425034000 -0300" stop="20220425040500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425040500 -0300" stop="20220425042500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425042500 -0300" stop="20220425045000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425045000 -0300" stop="20220425051500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425051500 -0300" stop="20220425054000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425054000 -0300" stop="20220425060000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425062500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220425062500 -0300" stop="20220425065000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220425065000 -0300" stop="20220425071000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220425071000 -0300" stop="20220425073500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425073500 -0300" stop="20220425075500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425075500 -0300" stop="20220425082000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425082000 -0300" stop="20220425084000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425084000 -0300" stop="20220425092500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425092500 -0300" stop="20220425101000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425101000 -0300" stop="20220425105500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425105500 -0300" stop="20220425114000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425114000 -0300" stop="20220425120500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425120500 -0300" stop="20220425122500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425122500 -0300" stop="20220425125000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425125000 -0300" stop="20220425131500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425131500 -0300" stop="20220425134000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425134000 -0300" stop="20220425140000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425142500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220425142500 -0300" stop="20220425145000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220425145000 -0300" stop="20220425151000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220425151000 -0300" stop="20220425155500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425155500 -0300" stop="20220425164000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425164000 -0300" stop="20220425172500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425172500 -0300" stop="20220425181000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425181000 -0300" stop="20220425183500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425183500 -0300" stop="20220425185500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425185500 -0300" stop="20220425192000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425192000 -0300" stop="20220425194000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425194000 -0300" stop="20220425200500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425200500 -0300" stop="20220425202500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425202500 -0300" stop="20220425205000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425205000 -0300" stop="20220425211500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425211500 -0300" stop="20220425214000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425214000 -0300" stop="20220425220000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425222500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220425222500 -0300" stop="20220425225000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220425225000 -0300" stop="20220425231000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220425231000 -0300" stop="20220425233500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425233500 -0300" stop="20220425235500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425235500 -0300" stop="20220426000000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
   <programme start="20220422000000 -0300" stop="20220422001300 -0300" channel="Comedy Central">
     <title lang="es">One-Punch Man</title>
   </programme>
@@ -18286,6 +18902,255 @@
   </programme>
   <programme start="20220425230000 -0300" stop="20220426000000 -0300" channel="CNN en español">
     <title lang="es">Conclusiones</title>
+  </programme>
+  <programme start="20220422000000 -0300" stop="20220422001500 -0300" channel="Crónica TV">
+    <title lang="es">Feliz vida</title>
+  </programme>
+  <programme start="20220422001500 -0300" stop="20220422004500 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220422004500 -0300" stop="20220422010000 -0300" channel="Crónica TV">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20220422010000 -0300" stop="20220422011500 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220422011500 -0300" stop="20220422013000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220422013000 -0300" stop="20220422020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220422020000 -0300" stop="20220422023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220422023000 -0300" stop="20220422030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220422030000 -0300" stop="20220422033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220422033000 -0300" stop="20220422040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220422040000 -0300" stop="20220422063000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20220422063000 -0300" stop="20220422090000 -0300" channel="Crónica TV">
+    <title lang="es">La primera</title>
+  </programme>
+  <programme start="20220422090000 -0300" stop="20220422120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20220422120000 -0300" stop="20220422140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2021</title>
+  </programme>
+  <programme start="20220422140000 -0300" stop="20220422160000 -0300" channel="Crónica TV">
+    <title lang="es">La tarde de Crónica</title>
+  </programme>
+  <programme start="20220422160000 -0300" stop="20220422180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2022</title>
+  </programme>
+  <programme start="20220422180000 -0300" stop="20220422210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220422210000 -0300" stop="20220422213000 -0300" channel="Crónica TV">
+    <title lang="es">Detector de mentiras</title>
+  </programme>
+  <programme start="20220422213000 -0300" stop="20220422220000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220422220000 -0300" stop="20220422230000 -0300" channel="Crónica TV">
+    <title lang="es">Crónica central</title>
+  </programme>
+  <programme start="20220422230000 -0300" stop="20220423000000 -0300" channel="Crónica TV">
+    <title lang="es">Antes de medianoche</title>
+  </programme>
+  <programme start="20220423000000 -0300" stop="20220423001500 -0300" channel="Crónica TV">
+    <title lang="es">Feliz vida</title>
+  </programme>
+  <programme start="20220423001500 -0300" stop="20220423004500 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220423004500 -0300" stop="20220423010000 -0300" channel="Crónica TV">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20220423010000 -0300" stop="20220423011500 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220423011500 -0300" stop="20220423013000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220423013000 -0300" stop="20220423020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220423020000 -0300" stop="20220423023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220423023000 -0300" stop="20220423030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220423030000 -0300" stop="20220423033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220423033000 -0300" stop="20220423040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220423040000 -0300" stop="20220423063000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20220423063000 -0300" stop="20220423090000 -0300" channel="Crónica TV">
+    <title lang="es">La primera</title>
+  </programme>
+  <programme start="20220423090000 -0300" stop="20220423120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20220423120000 -0300" stop="20220423140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2021</title>
+  </programme>
+  <programme start="20220423140000 -0300" stop="20220423160000 -0300" channel="Crónica TV">
+    <title lang="es">La tarde de Crónica</title>
+  </programme>
+  <programme start="20220423160000 -0300" stop="20220423180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2022</title>
+  </programme>
+  <programme start="20220423180000 -0300" stop="20220423210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220423210000 -0300" stop="20220423213000 -0300" channel="Crónica TV">
+    <title lang="es">Detector de mentiras</title>
+  </programme>
+  <programme start="20220423213000 -0300" stop="20220423220000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220423220000 -0300" stop="20220423230000 -0300" channel="Crónica TV">
+    <title lang="es">Crónica central</title>
+  </programme>
+  <programme start="20220423230000 -0300" stop="20220424000000 -0300" channel="Crónica TV">
+    <title lang="es">Antes de medianoche</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424001500 -0300" channel="Crónica TV">
+    <title lang="es">Feliz vida</title>
+  </programme>
+  <programme start="20220424001500 -0300" stop="20220424004500 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220424004500 -0300" stop="20220424010000 -0300" channel="Crónica TV">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424011500 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220424011500 -0300" stop="20220424013000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220424013000 -0300" stop="20220424020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220424023000 -0300" stop="20220424030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220424033000 -0300" stop="20220424040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424063000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20220424063000 -0300" stop="20220424090000 -0300" channel="Crónica TV">
+    <title lang="es">La primera</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2021</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424160000 -0300" channel="Crónica TV">
+    <title lang="es">La tarde de Crónica</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2022</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424213000 -0300" channel="Crónica TV">
+    <title lang="es">Detector de mentiras</title>
+  </programme>
+  <programme start="20220424213000 -0300" stop="20220424220000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424230000 -0300" channel="Crónica TV">
+    <title lang="es">Crónica central</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="Crónica TV">
+    <title lang="es">Antes de medianoche</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425001500 -0300" channel="Crónica TV">
+    <title lang="es">Feliz vida</title>
+  </programme>
+  <programme start="20220425001500 -0300" stop="20220425004500 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220425004500 -0300" stop="20220425010000 -0300" channel="Crónica TV">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425011500 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220425011500 -0300" stop="20220425013000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220425023000 -0300" stop="20220425030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220425033000 -0300" stop="20220425040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425063000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20220425063000 -0300" stop="20220425090000 -0300" channel="Crónica TV">
+    <title lang="es">La primera</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2021</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425160000 -0300" channel="Crónica TV">
+    <title lang="es">La tarde de Crónica</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2022</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425213000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220425213000 -0300" stop="20220425220000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220426000000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas policiales</title>
   </programme>
   <programme start="20220422000000 -0300" stop="20220422010000 -0300" channel="Todo Noticias">
     <title lang="es">TN de noche</title>

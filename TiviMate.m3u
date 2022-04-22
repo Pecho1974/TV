@@ -88,7 +88,7 @@ https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" group-title="Documentales",ANIMAL PLANET HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" group-title="Documentales",Discovery Channel
-https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+https://edge5-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY ID HD" tvg-name="DISCOVERY ID HD" group-title="Documentales",DISCOVERY ID HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" group-title="Documentales",Discovery Science
@@ -107,6 +107,8 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 https://edge2.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" group-title="Documentales",NatGeo Wild
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+#EXTINF:-1 tvg-id="Tru TV" tvg-name="Tru TV" group-title="Documentales",Tru TV
+https://edge5-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Estilo de Vida",Canal Cocina
 https://edge02-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" group-title="Estilo de Vida",Comedy Central
@@ -147,9 +149,11 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Musi
 https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 #EXTINF:-1 tvg-id="CNN en español" tvg-name="CNN en español" group-title="Noticias",CNN en español
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+#EXTINF:-1 tvg-id="Crónica TV" tvg-name="Crónica TV" group-title="Noticias",Crónica TV
+https://g2.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p/index.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" group-title="Noticias",Todo Noticias
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Regionales",Canal 9 Televida
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Regionales",Acequia
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0219
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Regionales",Canal 9 Televida
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
