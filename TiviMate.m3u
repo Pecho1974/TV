@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&amp;E Mundo" tvg-name="A&amp;E Mundo" group-title="Cine y Series",A&amp;E Mundo
+#EXTINF:-1 tvg-id="A&E Mundo" tvg-name="A&E Mundo" group-title="Cine y Series",A&E Mundo
 https://edge01-fdo-py.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" group-title="Cine y Series",AMC
 https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
@@ -104,7 +104,7 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentales",Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" group-title="Documentales",National Geographic
-https://edge2.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+https://edge5-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" group-title="Documentales",NatGeo Wild
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 #EXTINF:-1 tvg-id="Tru TV" tvg-name="Tru TV" group-title="Documentales",Tru TV
@@ -117,7 +117,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/Comedy
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 #EXTINF:-1 tvg-id="Gourmet" tvg-name="Gourmet" group-title="Estilo de Vida",Gourmet
 https://edge5-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-#EXTINF:-1 tvg-id="Discovery Home &amp; Health" tvg-name="Discovery Home &amp; Health" group-title="Estilo de Vida",Discovery Home &amp; Health
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home & Health" group-title="Estilo de Vida",Discovery Home & Health
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Estilo de Vida",HGTV
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
@@ -157,3 +157,4 @@ https://edge-live12-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNot
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0219
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Regionales",Canal 9 Televida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
+
