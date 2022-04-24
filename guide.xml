@@ -1,10 +1,1836 @@
 <?xml version="1.0"encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="es">ANIMAL PLANET HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ANIMAL PLANET HD.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="es">Discovery Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Channel.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY ID HD">
+    <display-name lang="es">DISCOVERY ID HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DISCOVERY ID HD.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="es">Discovery Science</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Science.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Discovery Theatre HD">
+    <display-name lang="es">Discovery Theatre HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Theatre HD.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Discovery World HD">
+    <display-name lang="es">Discovery World HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery World HD.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="H2">
     <display-name lang="es">H2</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/H2.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="The History Channel">
+    <display-name lang="es">The History Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/The History Channel.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="es">National Geographic</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/National Geographic.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="NatGeo Wild">
+    <display-name lang="es">NatGeo Wild</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/NatGeo Wild.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Tru TV">
+    <display-name lang="es">Tru TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tru TV.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <programme start="20220424000000 -0300" stop="20220424005500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Viajes salvajes con Andrew Ucles</title>
+  </programme>
+  <programme start="20220424005500 -0300" stop="20220424015400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Viajes salvajes con Andrew Ucles</title>
+  </programme>
+  <programme start="20220424015400 -0300" stop="20220424025300 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Viajes salvajes con Andrew Ucles</title>
+  </programme>
+  <programme start="20220424025300 -0300" stop="20220424034900 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Animales en riesgo: Phoenix</title>
+  </programme>
+  <programme start="20220424034900 -0300" stop="20220424044300 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Guardianes de Texas</title>
+  </programme>
+  <programme start="20220424044300 -0300" stop="20220424053900 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20220424053900 -0300" stop="20220424063500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20220424063500 -0300" stop="20220424073100 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20220424073100 -0300" stop="20220424080000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">El zoo de Gui</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424083000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20220424083000 -0300" stop="20220424093000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Guaridas con estilo</title>
+  </programme>
+  <programme start="20220424093000 -0300" stop="20220424103000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Amanda al rescate</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424120000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424122600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20220424122600 -0300" stop="20220424132400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Veterinarios de Texas</title>
+  </programme>
+  <programme start="20220424132400 -0300" stop="20220424135300 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Pequeños gigantes de la naturaleza</title>
+  </programme>
+  <programme start="20220424135300 -0300" stop="20220424142200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Pequeños gigantes de la naturaleza</title>
+  </programme>
+  <programme start="20220424142200 -0300" stop="20220424161400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Leyenda de un rey</title>
+  </programme>
+  <programme start="20220424161400 -0300" stop="20220424164300 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20220424164300 -0300" stop="20220424171200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20220424171200 -0300" stop="20220424174100 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20220424174100 -0300" stop="20220424180800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20220424180800 -0300" stop="20220424183800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20220424183800 -0300" stop="20220424190700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Misterios del mundo animal</title>
+  </programme>
+  <programme start="20220424190700 -0300" stop="20220424200600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Historias de grandes felinos</title>
+  </programme>
+  <programme start="20220424200600 -0300" stop="20220424210500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20220424210500 -0300" stop="20220424220400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Piscinas increíbles</title>
+  </programme>
+  <programme start="20220424220400 -0300" stop="20220424230000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Genios constructores</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220424235900 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Dra. Dee: veterinaria de Alaska</title>
+  </programme>
+  <programme start="20220424235900 -0300" stop="20220425000000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425005800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20220425005800 -0300" stop="20220425025500 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Pit Bulls y convictos</title>
+  </programme>
+  <programme start="20220425025500 -0300" stop="20220425035100 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Guaridas con estilo</title>
+  </programme>
+  <programme start="20220425035100 -0300" stop="20220425044700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Amanda al rescate</title>
+  </programme>
+  <programme start="20220425044700 -0300" stop="20220425054200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Historias de grandes felinos</title>
+  </programme>
+  <programme start="20220425054200 -0300" stop="20220425063700 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Viajes salvajes con Andrew Ucles</title>
+  </programme>
+  <programme start="20220425063700 -0300" stop="20220425073200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Viajes salvajes con Andrew Ucles</title>
+  </programme>
+  <programme start="20220425073200 -0300" stop="20220425080000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425083000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Vida no azul</title>
+  </programme>
+  <programme start="20220425083000 -0300" stop="20220425093000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Guaridas con estilo</title>
+  </programme>
+  <programme start="20220425093000 -0300" stop="20220425103000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Animales en riesgo: Phoenix</title>
+  </programme>
+  <programme start="20220425103000 -0300" stop="20220425110000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425113000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220425113000 -0300" stop="20220425120000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425122200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Vida no azul</title>
+  </programme>
+  <programme start="20220425122200 -0300" stop="20220425132000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Dra. Dee: veterinaria de Alaska</title>
+  </programme>
+  <programme start="20220425132000 -0300" stop="20220425134900 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Pequeños gigantes de la naturaleza</title>
+  </programme>
+  <programme start="20220425134900 -0300" stop="20220425141800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Pequeños gigantes de la naturaleza</title>
+  </programme>
+  <programme start="20220425141800 -0300" stop="20220425161400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">El último de su especie</title>
+  </programme>
+  <programme start="20220425161400 -0300" stop="20220425171200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Lucha por los rinocerontes</title>
+  </programme>
+  <programme start="20220425171200 -0300" stop="20220425181000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Lucha por los rinocerontes</title>
+  </programme>
+  <programme start="20220425181000 -0300" stop="20220425190800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Lucha por los rinocerontes</title>
+  </programme>
+  <programme start="20220425190800 -0300" stop="20220425200600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Ciencia al rescate</title>
+  </programme>
+  <programme start="20220425200600 -0300" stop="20220425210400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220425210400 -0300" stop="20220425220200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Piscinas increíbles</title>
+  </programme>
+  <programme start="20220425220200 -0300" stop="20220425223100 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Los reyes de las piscinas</title>
+  </programme>
+  <programme start="20220425223100 -0300" stop="20220425230000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Los reyes de las piscinas</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220425235800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Historias de grandes felinos</title>
+  </programme>
+  <programme start="20220425235800 -0300" stop="20220426000000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Historias de grandes felinos</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426005600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Historias de grandes felinos</title>
+  </programme>
+  <programme start="20220426005600 -0300" stop="20220426015400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Historias de grandes felinos</title>
+  </programme>
+  <programme start="20220426015400 -0300" stop="20220426025200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20220426025200 -0300" stop="20220426034800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Guaridas con estilo</title>
+  </programme>
+  <programme start="20220426034800 -0300" stop="20220426044400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Animales en riesgo: Phoenix</title>
+  </programme>
+  <programme start="20220426044400 -0300" stop="20220426054000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Genios constructores</title>
+  </programme>
+  <programme start="20220426054000 -0300" stop="20220426063600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Dra. Dee: veterinaria de Alaska</title>
+  </programme>
+  <programme start="20220426063600 -0300" stop="20220426073200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Refugio en el granero</title>
+  </programme>
+  <programme start="20220426073200 -0300" stop="20220426080000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Vida no azul</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426083000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Vida no azul</title>
+  </programme>
+  <programme start="20220426083000 -0300" stop="20220426093000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220426093000 -0300" stop="20220426103000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220426103000 -0300" stop="20220426110000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426113000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220426113000 -0300" stop="20220426120000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426122200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Naturaleza salvaje</title>
+  </programme>
+  <programme start="20220426122200 -0300" stop="20220426132000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Europa salvaje</title>
+  </programme>
+  <programme start="20220426132000 -0300" stop="20220426141800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Supervivencia salvaje</title>
+  </programme>
+  <programme start="20220426141800 -0300" stop="20220426151600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Wild Frank</title>
+  </programme>
+  <programme start="20220426151600 -0300" stop="20220426161400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Wild Frank</title>
+  </programme>
+  <programme start="20220426161400 -0300" stop="20220426171200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Ciencia al rescate</title>
+  </programme>
+  <programme start="20220426171200 -0300" stop="20220426181000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Tiburones en la orilla</title>
+  </programme>
+  <programme start="20220426181000 -0300" stop="20220426190800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">El regreso del gran tiburón blanco</title>
+  </programme>
+  <programme start="20220426190800 -0300" stop="20220426200600 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426200600 -0300" stop="20220426210400 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Wild Frank</title>
+  </programme>
+  <programme start="20220426210400 -0300" stop="20220426220200 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20220426220200 -0300" stop="20220426230000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Dr. Jeff, veterinario</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220426235800 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20220426235800 -0300" stop="20220427000000 -0300" channel="ANIMAL PLANET HD">
+    <title lang="es">Los Irwin</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424004000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220424004000 -0300" stop="20220424013600 -0300" channel="Discovery Channel">
+    <title lang="es">Islas</title>
+  </programme>
+  <programme start="20220424013600 -0300" stop="20220424022800 -0300" channel="Discovery Channel">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424022800 -0300" stop="20220424031400 -0300" channel="Discovery Channel">
+    <title lang="es">Overhaulin'</title>
+  </programme>
+  <programme start="20220424031400 -0300" stop="20220424040000 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424044600 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220424044600 -0300" stop="20220424050900 -0300" channel="Discovery Channel">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220424050900 -0300" stop="20220424053200 -0300" channel="Discovery Channel">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220424053200 -0300" stop="20220424060000 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424065000 -0300" channel="Discovery Channel">
+    <title lang="es">Emergencias médicas fascinantes</title>
+  </programme>
+  <programme start="20220424065000 -0300" stop="20220424074000 -0300" channel="Discovery Channel">
+    <title lang="es">UFO Witness</title>
+  </programme>
+  <programme start="20220424074000 -0300" stop="20220424082800 -0300" channel="Discovery Channel">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220424082800 -0300" stop="20220424092600 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220424092600 -0300" stop="20220424102000 -0300" channel="Discovery Channel">
+    <title lang="es">Overhaulin'</title>
+  </programme>
+  <programme start="20220424102000 -0300" stop="20220424111400 -0300" channel="Discovery Channel">
+    <title lang="es">Cámara policial</title>
+  </programme>
+  <programme start="20220424111400 -0300" stop="20220424120800 -0300" channel="Discovery Channel">
+    <title lang="es">Leyendas salvajes</title>
+  </programme>
+  <programme start="20220424120800 -0300" stop="20220424130200 -0300" channel="Discovery Channel">
+    <title lang="es">Leyendas salvajes</title>
+  </programme>
+  <programme start="20220424130200 -0300" stop="20220424135600 -0300" channel="Discovery Channel">
+    <title lang="es">Leyendas salvajes</title>
+  </programme>
+  <programme start="20220424135600 -0300" stop="20220424145000 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220424145000 -0300" stop="20220424154400 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220424154400 -0300" stop="20220424163800 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220424163800 -0300" stop="20220424173200 -0300" channel="Discovery Channel">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20220424173200 -0300" stop="20220424182600 -0300" channel="Discovery Channel">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220424182600 -0300" stop="20220424192000 -0300" channel="Discovery Channel">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220424192000 -0300" stop="20220424201400 -0300" channel="Discovery Channel">
+    <title lang="es">Expedición X</title>
+  </programme>
+  <programme start="20220424201400 -0300" stop="20220424220000 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424225200 -0300" channel="Discovery Channel">
+    <title lang="es">Sala de emergencias: historias inéditas</title>
+  </programme>
+  <programme start="20220424225200 -0300" stop="20220424234400 -0300" channel="Discovery Channel">
+    <title lang="es">Sala de emergencias: historias inéditas</title>
+  </programme>
+  <programme start="20220424234400 -0300" stop="20220425000000 -0300" channel="Discovery Channel">
+    <title lang="es">Aliens in Alaska</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425004000 -0300" channel="Discovery Channel">
+    <title lang="es">Aliens in Alaska</title>
+  </programme>
+  <programme start="20220425004000 -0300" stop="20220425013600 -0300" channel="Discovery Channel">
+    <title lang="es">Expedientes paranormales</title>
+  </programme>
+  <programme start="20220425013600 -0300" stop="20220425022800 -0300" channel="Discovery Channel">
+    <title lang="es">Expedición X</title>
+  </programme>
+  <programme start="20220425022800 -0300" stop="20220425040000 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425044600 -0300" channel="Discovery Channel">
+    <title lang="es">Sala de emergencias: historias inéditas</title>
+  </programme>
+  <programme start="20220425044600 -0300" stop="20220425053200 -0300" channel="Discovery Channel">
+    <title lang="es">Aliens in Alaska</title>
+  </programme>
+  <programme start="20220425053200 -0300" stop="20220425060000 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425062300 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220425062300 -0300" stop="20220425064700 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220425064700 -0300" stop="20220425073400 -0300" channel="Discovery Channel">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220425073400 -0300" stop="20220425082100 -0300" channel="Discovery Channel">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220425082100 -0300" stop="20220425090900 -0300" channel="Discovery Channel">
+    <title lang="es">Sala de emergencias: historias inéditas</title>
+  </programme>
+  <programme start="20220425090900 -0300" stop="20220425100700 -0300" channel="Discovery Channel">
+    <title lang="es">Piscinas increíbles</title>
+  </programme>
+  <programme start="20220425100700 -0300" stop="20220425110200 -0300" channel="Discovery Channel">
+    <title lang="es">Piscinas increíbles</title>
+  </programme>
+  <programme start="20220425110200 -0300" stop="20220425115700 -0300" channel="Discovery Channel">
+    <title lang="es">La Tierra desde el espacio</title>
+  </programme>
+  <programme start="20220425115700 -0300" stop="20220425125200 -0300" channel="Discovery Channel">
+    <title lang="es">La Tierra desde el espacio</title>
+  </programme>
+  <programme start="20220425125200 -0300" stop="20220425134700 -0300" channel="Discovery Channel">
+    <title lang="es">La Tierra desde el espacio</title>
+  </programme>
+  <programme start="20220425134700 -0300" stop="20220425144200 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220425144200 -0300" stop="20220425153700 -0300" channel="Discovery Channel">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20220425153700 -0300" stop="20220425163200 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220425163200 -0300" stop="20220425172700 -0300" channel="Discovery Channel">
+    <title lang="es">Operación Alaska</title>
+  </programme>
+  <programme start="20220425172700 -0300" stop="20220425182200 -0300" channel="Discovery Channel">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220425182200 -0300" stop="20220425191700 -0300" channel="Discovery Channel">
+    <title lang="es">Conoce a las suricatas</title>
+  </programme>
+  <programme start="20220425191700 -0300" stop="20220425201200 -0300" channel="Discovery Channel">
+    <title lang="es">Un planeta perfecto</title>
+  </programme>
+  <programme start="20220425201200 -0300" stop="20220425210700 -0300" channel="Discovery Channel">
+    <title lang="es">Los gigantes del océano</title>
+  </programme>
+  <programme start="20220425210700 -0300" stop="20220425220000 -0300" channel="Discovery Channel">
+    <title lang="es">El domo extremo</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425225300 -0300" channel="Discovery Channel">
+    <title lang="es">Desafío x2</title>
+  </programme>
+  <programme start="20220425225300 -0300" stop="20220425234600 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: Latinoamérica</title>
+  </programme>
+  <programme start="20220425234600 -0300" stop="20220426000000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426004200 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20220426004200 -0300" stop="20220426013500 -0300" channel="Discovery Channel">
+    <title lang="es">Expedientes paranormales</title>
+  </programme>
+  <programme start="20220426013500 -0300" stop="20220426022700 -0300" channel="Discovery Channel">
+    <title lang="es">Un planeta perfecto</title>
+  </programme>
+  <programme start="20220426022700 -0300" stop="20220426031300 -0300" channel="Discovery Channel">
+    <title lang="es">Los gigantes del océano</title>
+  </programme>
+  <programme start="20220426031300 -0300" stop="20220426035900 -0300" channel="Discovery Channel">
+    <title lang="es">El domo extremo</title>
+  </programme>
+  <programme start="20220426035900 -0300" stop="20220426044500 -0300" channel="Discovery Channel">
+    <title lang="es">Desafío x2</title>
+  </programme>
+  <programme start="20220426044500 -0300" stop="20220426053400 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: Latinoamérica</title>
+  </programme>
+  <programme start="20220426053400 -0300" stop="20220426060000 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426062300 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220426062300 -0300" stop="20220426064700 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220426064700 -0300" stop="20220426073400 -0300" channel="Discovery Channel">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220426073400 -0300" stop="20220426082100 -0300" channel="Discovery Channel">
+    <title lang="es">Overhaulin'</title>
+  </programme>
+  <programme start="20220426082100 -0300" stop="20220426090900 -0300" channel="Discovery Channel">
+    <title lang="es">Criaturas misteriosas</title>
+  </programme>
+  <programme start="20220426090900 -0300" stop="20220426100700 -0300" channel="Discovery Channel">
+    <title lang="es">Vidas remotas: la granja Raney</title>
+  </programme>
+  <programme start="20220426100700 -0300" stop="20220426110200 -0300" channel="Discovery Channel">
+    <title lang="es">Mansiones en los árboles</title>
+  </programme>
+  <programme start="20220426110200 -0300" stop="20220426113200 -0300" channel="Discovery Channel">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+  <programme start="20220426113200 -0300" stop="20220426122700 -0300" channel="Discovery Channel">
+    <title lang="es">Alaska: hombres primitivos</title>
+  </programme>
+  <programme start="20220426122700 -0300" stop="20220426132200 -0300" channel="Discovery Channel">
+    <title lang="es">Alaska: hombres primitivos</title>
+  </programme>
+  <programme start="20220426132200 -0300" stop="20220426141700 -0300" channel="Discovery Channel">
+    <title lang="es">Alaska: hombres primitivos</title>
+  </programme>
+  <programme start="20220426141700 -0300" stop="20220426151200 -0300" channel="Discovery Channel">
+    <title lang="es">Alaska: hombres primitivos</title>
+  </programme>
+  <programme start="20220426151200 -0300" stop="20220426160700 -0300" channel="Discovery Channel">
+    <title lang="es">El genio de las piscinas</title>
+  </programme>
+  <programme start="20220426160700 -0300" stop="20220426170200 -0300" channel="Discovery Channel">
+    <title lang="es">El genio de las piscinas</title>
+  </programme>
+  <programme start="20220426170200 -0300" stop="20220426175700 -0300" channel="Discovery Channel">
+    <title lang="es">El genio de las piscinas</title>
+  </programme>
+  <programme start="20220426175700 -0300" stop="20220426182200 -0300" channel="Discovery Channel">
+    <title lang="es">Ant Anstead, maestro de la mecánica</title>
+  </programme>
+  <programme start="20220426182200 -0300" stop="20220426191700 -0300" channel="Discovery Channel">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220426191700 -0300" stop="20220426201200 -0300" channel="Discovery Channel">
+    <title lang="es">Expedición X</title>
+  </programme>
+  <programme start="20220426201200 -0300" stop="20220426210700 -0300" channel="Discovery Channel">
+    <title lang="es">Deadliest Catch: Bloodline</title>
+  </programme>
+  <programme start="20220426210700 -0300" stop="20220426220000 -0300" channel="Discovery Channel">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426225300 -0300" channel="Discovery Channel">
+    <title lang="es">Vidas remotas: la granja Raney</title>
+  </programme>
+  <programme start="20220426225300 -0300" stop="20220426234600 -0300" channel="Discovery Channel">
+    <title lang="es">Alaska: hombres primitivos</title>
+  </programme>
+  <programme start="20220426234600 -0300" stop="20220427000000 -0300" channel="Discovery Channel">
+    <title lang="es">Supervivencia al desnudo: edición extrema</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Prometo amarte, honrarte y traicionarte</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424020000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424025600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Traicionados</title>
+  </programme>
+  <programme start="20220424025600 -0300" stop="20220424035200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Traicionados</title>
+  </programme>
+  <programme start="20220424035200 -0300" stop="20220424044400 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La culpa</title>
+  </programme>
+  <programme start="20220424044400 -0300" stop="20220424053300 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La culpa</title>
+  </programme>
+  <programme start="20220424053300 -0300" stop="20220424062200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Red de mentiras</title>
+  </programme>
+  <programme start="20220424062200 -0300" stop="20220424071100 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Prometo amarte, honrarte y traicionarte</title>
+  </programme>
+  <programme start="20220424071100 -0300" stop="20220424080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Los 80: década mortal</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Justicia por mano propia</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424130000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Casos icónicos: OJ Simpson</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Casos icónicos: OJ Simpson</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Departamento de homicidios</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Departamento de homicidios</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Dentro del asesinato</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Dentro del asesinato</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Crimen casi perfecto</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424200000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Crimen casi perfecto</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424220000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga: crímen y moda</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga: crímen y moda</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El caso del asesino de la escalera</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425020000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El caso del asesino de la escalera</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425025600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El caso del asesino de la escalera</title>
+  </programme>
+  <programme start="20220425025600 -0300" stop="20220425035200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Dentro del asesinato</title>
+  </programme>
+  <programme start="20220425035200 -0300" stop="20220425044400 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220425044400 -0300" stop="20220425053300 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga: crímen y moda</title>
+  </programme>
+  <programme start="20220425053300 -0300" stop="20220425062200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga: crímen y moda</title>
+  </programme>
+  <programme start="20220425062200 -0300" stop="20220425071100 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El caso del asesino de la escalera</title>
+  </programme>
+  <programme start="20220425071100 -0300" stop="20220425080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El caso del asesino de la escalera</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Los 80: década mortal</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Enlace mortal</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220425103000 -0300" stop="20220425110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220425113000 -0300" stop="20220425120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425130000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino al acecho</title>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino al acecho</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La peor pesadilla</title>
+  </programme>
+  <programme start="20220425150000 -0300" stop="20220425160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La peor pesadilla</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Investigación en curso</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Investigación en curso</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Desaparecidos</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425200000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Desaparecidos</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425213000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220425213000 -0300" stop="20220425220000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220426000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426010000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Llamadas desde la cárcel</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426020000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Llamadas desde la cárcel</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426025600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La peor pesadilla</title>
+  </programme>
+  <programme start="20220426025600 -0300" stop="20220426035200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La peor pesadilla</title>
+  </programme>
+  <programme start="20220426035200 -0300" stop="20220426044400 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220426044400 -0300" stop="20220426053300 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220426053300 -0300" stop="20220426062200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220426062200 -0300" stop="20220426071100 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Llamadas desde la cárcel</title>
+  </programme>
+  <programme start="20220426071100 -0300" stop="20220426080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Llamadas desde la cárcel</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Los 80: década mortal</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Mentiras develadas</title>
+  </programme>
+  <programme start="20220426100000 -0300" stop="20220426103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220426103000 -0300" stop="20220426110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220426113000 -0300" stop="20220426120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426130000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Presuntos inocentes</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426133000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220426133000 -0300" stop="20220426140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Quién es el asesino?</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Quién es el asesino?</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La verdad con Sunny Hostin</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La verdad con Sunny Hostin</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426200000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cintas del crimen</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cintas del crimen</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426220000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Crimen casi perfecto</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Crimen casi perfecto</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220427000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Presuntos inocentes</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424004800 -0300" channel="Discovery Science">
+    <title lang="es">Ilusión con Keith Barry</title>
+  </programme>
+  <programme start="20220424004800 -0300" stop="20220424013600 -0300" channel="Discovery Science">
+    <title lang="es">Códigos y conspiraciones</title>
+  </programme>
+  <programme start="20220424013600 -0300" stop="20220424022400 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20220424022400 -0300" stop="20220424024800 -0300" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20220424024800 -0300" stop="20220424031200 -0300" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20220424031200 -0300" stop="20220424040000 -0300" channel="Discovery Science">
+    <title lang="es">Guerra de genios</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424044800 -0300" channel="Discovery Science">
+    <title lang="es">La idea ganadora</title>
+  </programme>
+  <programme start="20220424044800 -0300" stop="20220424053600 -0300" channel="Discovery Science">
+    <title lang="es">Ilusión con Keith Barry</title>
+  </programme>
+  <programme start="20220424053600 -0300" stop="20220424062400 -0300" channel="Discovery Science">
+    <title lang="es">Códigos y conspiraciones</title>
+  </programme>
+  <programme start="20220424062400 -0300" stop="20220424071200 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20220424071200 -0300" stop="20220424080000 -0300" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424084800 -0300" channel="Discovery Science">
+    <title lang="es">Guerra de genios</title>
+  </programme>
+  <programme start="20220424084800 -0300" stop="20220424093600 -0300" channel="Discovery Science">
+    <title lang="es">La idea ganadora</title>
+  </programme>
+  <programme start="20220424093600 -0300" stop="20220424102400 -0300" channel="Discovery Science">
+    <title lang="es">Ilusión con Keith Barry</title>
+  </programme>
+  <programme start="20220424102400 -0300" stop="20220424111200 -0300" channel="Discovery Science">
+    <title lang="es">Códigos y conspiraciones</title>
+  </programme>
+  <programme start="20220424111200 -0300" stop="20220424120000 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424124800 -0300" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
+  </programme>
+  <programme start="20220424124800 -0300" stop="20220424133600 -0300" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
+  </programme>
+  <programme start="20220424133600 -0300" stop="20220424140000 -0300" channel="Discovery Science">
+    <title lang="es">Reto a la ciencia</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424142400 -0300" channel="Discovery Science">
+    <title lang="es">Reto a la ciencia</title>
+  </programme>
+  <programme start="20220424142400 -0300" stop="20220424144800 -0300" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20220424144800 -0300" stop="20220424151200 -0300" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
+  </programme>
+  <programme start="20220424151200 -0300" stop="20220424160000 -0300" channel="Discovery Science">
+    <title lang="es">Locolab</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424164800 -0300" channel="Discovery Science">
+    <title lang="es">Locolab</title>
+  </programme>
+  <programme start="20220424164800 -0300" stop="20220424173600 -0300" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
+  </programme>
+  <programme start="20220424173600 -0300" stop="20220424182400 -0300" channel="Discovery Science">
+    <title lang="es">Clandestinos</title>
+  </programme>
+  <programme start="20220424182400 -0300" stop="20220424191200 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220424191200 -0300" stop="20220424200000 -0300" channel="Discovery Science">
+    <title lang="es">Archivos inexplicables</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424204800 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220424204800 -0300" stop="20220424213600 -0300" channel="Discovery Science">
+    <title lang="es">Catástrofes espaciales</title>
+  </programme>
+  <programme start="20220424213600 -0300" stop="20220424222400 -0300" channel="Discovery Science">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220424222400 -0300" stop="20220424231200 -0300" channel="Discovery Science">
+    <title lang="es">Gamechangers: Inventing the World</title>
+  </programme>
+  <programme start="20220424231200 -0300" stop="20220425000000 -0300" channel="Discovery Science">
+    <title lang="es">Inexplorado, con Justin Fornal</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425004800 -0300" channel="Discovery Science">
+    <title lang="es">Legends of the Lost</title>
+  </programme>
+  <programme start="20220425004800 -0300" stop="20220425013600 -0300" channel="Discovery Science">
+    <title lang="es">Mythbusters: La nueva generación</title>
+  </programme>
+  <programme start="20220425013600 -0300" stop="20220425022400 -0300" channel="Discovery Science">
+    <title lang="es">Minicazadores de mitos</title>
+  </programme>
+  <programme start="20220425022400 -0300" stop="20220425031200 -0300" channel="Discovery Science">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+  <programme start="20220425031200 -0300" stop="20220425040000 -0300" channel="Discovery Science">
+    <title lang="es">Proyecto Greensburg</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425044800 -0300" channel="Discovery Science">
+    <title lang="es">Inexplorado, con Justin Fornal</title>
+  </programme>
+  <programme start="20220425044800 -0300" stop="20220425053600 -0300" channel="Discovery Science">
+    <title lang="es">Legends of the Lost</title>
+  </programme>
+  <programme start="20220425053600 -0300" stop="20220425062400 -0300" channel="Discovery Science">
+    <title lang="es">Mythbusters: La nueva generación</title>
+  </programme>
+  <programme start="20220425062400 -0300" stop="20220425071200 -0300" channel="Discovery Science">
+    <title lang="es">Minicazadores de mitos</title>
+  </programme>
+  <programme start="20220425071200 -0300" stop="20220425080000 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425084800 -0300" channel="Discovery Science">
+    <title lang="es">Proyecto Greensburg</title>
+  </programme>
+  <programme start="20220425084800 -0300" stop="20220425093600 -0300" channel="Discovery Science">
+    <title lang="es">Inexplorado, con Justin Fornal</title>
+  </programme>
+  <programme start="20220425093600 -0300" stop="20220425102400 -0300" channel="Discovery Science">
+    <title lang="es">Legends of the Lost</title>
+  </programme>
+  <programme start="20220425102400 -0300" stop="20220425111200 -0300" channel="Discovery Science">
+    <title lang="es">Mythbusters: La nueva generación</title>
+  </programme>
+  <programme start="20220425111200 -0300" stop="20220425120000 -0300" channel="Discovery Science">
+    <title lang="es">Minicazadores de mitos</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425124800 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20220425124800 -0300" stop="20220425133600 -0300" channel="Discovery Science">
+    <title lang="es">Guerra de genios</title>
+  </programme>
+  <programme start="20220425133600 -0300" stop="20220425142400 -0300" channel="Discovery Science">
+    <title lang="es">La idea ganadora</title>
+  </programme>
+  <programme start="20220425142400 -0300" stop="20220425151200 -0300" channel="Discovery Science">
+    <title lang="es">Ilusión con Keith Barry</title>
+  </programme>
+  <programme start="20220425151200 -0300" stop="20220425160000 -0300" channel="Discovery Science">
+    <title lang="es">Códigos y conspiraciones</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425164800 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20220425164800 -0300" stop="20220425173600 -0300" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
+  </programme>
+  <programme start="20220425173600 -0300" stop="20220425182400 -0300" channel="Discovery Science">
+    <title lang="es">Clandestinos</title>
+  </programme>
+  <programme start="20220425182400 -0300" stop="20220425184800 -0300" channel="Discovery Science">
+    <title lang="es">Reto a la ciencia</title>
+  </programme>
+  <programme start="20220425184800 -0300" stop="20220425191200 -0300" channel="Discovery Science">
+    <title lang="es">Reto a la ciencia</title>
+  </programme>
+  <programme start="20220425191200 -0300" stop="20220425200000 -0300" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425204800 -0300" channel="Discovery Science">
+    <title lang="es">Confesiones médicas</title>
+  </programme>
+  <programme start="20220425204800 -0300" stop="20220425213600 -0300" channel="Discovery Science">
+    <title lang="es">Locolab</title>
+  </programme>
+  <programme start="20220425213600 -0300" stop="20220425222400 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220425222400 -0300" stop="20220425231200 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220425231200 -0300" stop="20220426000000 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426004800 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426004800 -0300" stop="20220426013600 -0300" channel="Discovery Science">
+    <title lang="es">La verdad de la llegada a la luna</title>
+  </programme>
+  <programme start="20220426013600 -0300" stop="20220426022400 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426022400 -0300" stop="20220426031200 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426031200 -0300" stop="20220426040000 -0300" channel="Discovery Science">
+    <title lang="es">Gamechangers: Inventing the World</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426044800 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426044800 -0300" stop="20220426053600 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426053600 -0300" stop="20220426062400 -0300" channel="Discovery Science">
+    <title lang="es">La verdad de la llegada a la luna</title>
+  </programme>
+  <programme start="20220426062400 -0300" stop="20220426071200 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426071200 -0300" stop="20220426080000 -0300" channel="Discovery Science">
+    <title lang="es">Locolab</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426084800 -0300" channel="Discovery Science">
+    <title lang="es">Gamechangers: Inventing the World</title>
+  </programme>
+  <programme start="20220426084800 -0300" stop="20220426093600 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426093600 -0300" stop="20220426102400 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426102400 -0300" stop="20220426111200 -0300" channel="Discovery Science">
+    <title lang="es">La verdad de la llegada a la luna</title>
+  </programme>
+  <programme start="20220426111200 -0300" stop="20220426120000 -0300" channel="Discovery Science">
+    <title lang="es">Guerra de genios</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426124800 -0300" channel="Discovery Science">
+    <title lang="es">¿Cómo funciona el Universo?</title>
+  </programme>
+  <programme start="20220426124800 -0300" stop="20220426133600 -0300" channel="Discovery Science">
+    <title lang="es">Proyecto Greensburg</title>
+  </programme>
+  <programme start="20220426133600 -0300" stop="20220426142400 -0300" channel="Discovery Science">
+    <title lang="es">Inexplorado, con Justin Fornal</title>
+  </programme>
+  <programme start="20220426142400 -0300" stop="20220426151200 -0300" channel="Discovery Science">
+    <title lang="es">Legends of the Lost</title>
+  </programme>
+  <programme start="20220426151200 -0300" stop="20220426160000 -0300" channel="Discovery Science">
+    <title lang="es">Mythbusters: La nueva generación</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426164800 -0300" channel="Discovery Science">
+    <title lang="es">Minicazadores de mitos</title>
+  </programme>
+  <programme start="20220426164800 -0300" stop="20220426173600 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20220426173600 -0300" stop="20220426182400 -0300" channel="Discovery Science">
+    <title lang="es">Clandestinos</title>
+  </programme>
+  <programme start="20220426182400 -0300" stop="20220426191200 -0300" channel="Discovery Science">
+    <title lang="es">La idea ganadora</title>
+  </programme>
+  <programme start="20220426191200 -0300" stop="20220426200000 -0300" channel="Discovery Science">
+    <title lang="es">Códigos y conspiraciones</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426204800 -0300" channel="Discovery Science">
+    <title lang="es">Confesiones médicas</title>
+  </programme>
+  <programme start="20220426204800 -0300" stop="20220426213600 -0300" channel="Discovery Science">
+    <title lang="es">Las invenciones de Adam Savage</title>
+  </programme>
+  <programme start="20220426213600 -0300" stop="20220426222400 -0300" channel="Discovery Science">
+    <title lang="es">Archivos inexplicables</title>
+  </programme>
+  <programme start="20220426222400 -0300" stop="20220426231200 -0300" channel="Discovery Science">
+    <title lang="es">Archivos inexplicables</title>
+  </programme>
+  <programme start="20220426231200 -0300" stop="20220427000000 -0300" channel="Discovery Science">
+    <title lang="es">Archivos inexplicables</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424004800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220424004800 -0300" stop="20220424013600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios del castillo</title>
+  </programme>
+  <programme start="20220424013600 -0300" stop="20220424020000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424022400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220424022400 -0300" stop="20220424031200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220424031200 -0300" stop="20220424040000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424044800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Megamáquinas de Alaska</title>
+  </programme>
+  <programme start="20220424044800 -0300" stop="20220424053600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Genios constructores</title>
+  </programme>
+  <programme start="20220424053600 -0300" stop="20220424062400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tu basura, mi fortuna: negocio redondo</title>
+  </programme>
+  <programme start="20220424062400 -0300" stop="20220424071200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220424071200 -0300" stop="20220424080000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424084800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220424084800 -0300" stop="20220424093600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Megamáquinas de Alaska</title>
+  </programme>
+  <programme start="20220424093600 -0300" stop="20220424102400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Genios constructores</title>
+  </programme>
+  <programme start="20220424102400 -0300" stop="20220424111200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tu basura, mi fortuna: negocio redondo</title>
+  </programme>
+  <programme start="20220424111200 -0300" stop="20220424120000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424124800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220424124800 -0300" stop="20220424133600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220424133600 -0300" stop="20220424142400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro salvaje</title>
+  </programme>
+  <programme start="20220424142400 -0300" stop="20220424151200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska remota</title>
+  </programme>
+  <programme start="20220424151200 -0300" stop="20220424160000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Monstruos de Alaska</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424162400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20220424162400 -0300" stop="20220424164800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tierra brasileña</title>
+  </programme>
+  <programme start="20220424164800 -0300" stop="20220424173600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220424173600 -0300" stop="20220424182400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220424182400 -0300" stop="20220424191200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Leñadores en Siberia</title>
+  </programme>
+  <programme start="20220424191200 -0300" stop="20220424200000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Sobrevivientes del hielo</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424202400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Mi novio es el Hombre Lobo</title>
+  </programme>
+  <programme start="20220424202400 -0300" stop="20220424204800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Mi novio es el Hombre Lobo</title>
+  </programme>
+  <programme start="20220424204800 -0300" stop="20220424213600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">La peligrosa ruta del café</title>
+  </programme>
+  <programme start="20220424213600 -0300" stop="20220424222400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220424222400 -0300" stop="20220424231200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220424231200 -0300" stop="20220425000000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425004800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220425004800 -0300" stop="20220425013600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal: la carnada</title>
+  </programme>
+  <programme start="20220425013600 -0300" stop="20220425020000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hecho en Estados Unidos</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425022400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hecho en Estados Unidos</title>
+  </programme>
+  <programme start="20220425022400 -0300" stop="20220425031200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220425031200 -0300" stop="20220425040000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425044800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220425044800 -0300" stop="20220425053600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220425053600 -0300" stop="20220425062400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios del castillo</title>
+  </programme>
+  <programme start="20220425062400 -0300" stop="20220425064800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220425064800 -0300" stop="20220425071200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220425071200 -0300" stop="20220425080000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425084800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220425084800 -0300" stop="20220425093600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220425093600 -0300" stop="20220425102400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220425102400 -0300" stop="20220425111200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios del castillo</title>
+  </programme>
+  <programme start="20220425111200 -0300" stop="20220425113600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220425113600 -0300" stop="20220425120000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425124800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220425124800 -0300" stop="20220425133600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220425133600 -0300" stop="20220425142400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Megamáquinas de Alaska</title>
+  </programme>
+  <programme start="20220425142400 -0300" stop="20220425151200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Genios constructores</title>
+  </programme>
+  <programme start="20220425151200 -0300" stop="20220425160000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tu basura, mi fortuna: negocio redondo</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425164800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pioneros de Polonia</title>
+  </programme>
+  <programme start="20220425164800 -0300" stop="20220425173600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220425173600 -0300" stop="20220425182400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro bajo cero</title>
+  </programme>
+  <programme start="20220425182400 -0300" stop="20220425191200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Oro salvaje</title>
+  </programme>
+  <programme start="20220425191200 -0300" stop="20220425200000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska remota</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425204800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Monstruos de Alaska</title>
+  </programme>
+  <programme start="20220425204800 -0300" stop="20220425213600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Batalha Makers Brasil</title>
+  </programme>
+  <programme start="20220425213600 -0300" stop="20220425222400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220425222400 -0300" stop="20220425231200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220425231200 -0300" stop="20220426000000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426013600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">América: continente asombroso</title>
+  </programme>
+  <programme start="20220426013600 -0300" stop="20220426022400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">La peligrosa ruta del café</title>
+  </programme>
+  <programme start="20220426022400 -0300" stop="20220426031200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220426031200 -0300" stop="20220426040000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426044800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220426044800 -0300" stop="20220426053600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220426053600 -0300" stop="20220426062400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal: la carnada</title>
+  </programme>
+  <programme start="20220426062400 -0300" stop="20220426064800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hecho en Estados Unidos</title>
+  </programme>
+  <programme start="20220426064800 -0300" stop="20220426071200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hecho en Estados Unidos</title>
+  </programme>
+  <programme start="20220426071200 -0300" stop="20220426080000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426084800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Fieras de la montaña</title>
+  </programme>
+  <programme start="20220426084800 -0300" stop="20220426093600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: la última frontera</title>
+  </programme>
+  <programme start="20220426093600 -0300" stop="20220426102400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">El ferrocarril de Alaska</title>
+  </programme>
+  <programme start="20220426102400 -0300" stop="20220426111200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal: la carnada</title>
+  </programme>
+  <programme start="20220426111200 -0300" stop="20220426113600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hecho en Estados Unidos</title>
+  </programme>
+  <programme start="20220426113600 -0300" stop="20220426120000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hecho en Estados Unidos</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426124800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220426124800 -0300" stop="20220426133600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Hoteles: secretos y leyendas</title>
+  </programme>
+  <programme start="20220426133600 -0300" stop="20220426142400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220426142400 -0300" stop="20220426151200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios en el museo</title>
+  </programme>
+  <programme start="20220426151200 -0300" stop="20220426160000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Misterios del castillo</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426162400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220426162400 -0300" stop="20220426164800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Línea de producción</title>
+  </programme>
+  <programme start="20220426164800 -0300" stop="20220426173600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220426173600 -0300" stop="20220426182400 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Alaska: peligro en el aire</title>
+  </programme>
+  <programme start="20220426182400 -0300" stop="20220426191200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Batalha Makers Brasil</title>
+  </programme>
+  <programme start="20220426191200 -0300" stop="20220426200000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Genios constructores</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426204800 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Tu basura, mi fortuna: negocio redondo</title>
+  </programme>
+  <programme start="20220426204800 -0300" stop="20220426213600 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pescadores de langosta</title>
+  </programme>
+  <programme start="20220426213600 -0300" stop="20220426231200 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+  <programme start="20220426231200 -0300" stop="20220427000000 -0300" channel="Discovery Theatre HD">
+    <title lang="es">Guerreros del Pacífico</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424004800 -0300" channel="Discovery World HD">
+    <title lang="es">Glamping</title>
+  </programme>
+  <programme start="20220424004800 -0300" stop="20220424013600 -0300" channel="Discovery World HD">
+    <title lang="es">Alaska VIP</title>
+  </programme>
+  <programme start="20220424013600 -0300" stop="20220424020000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424022400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424022400 -0300" stop="20220424024800 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220424024800 -0300" stop="20220424031200 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220424031200 -0300" stop="20220424033600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424033600 -0300" stop="20220424040000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424042400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424042400 -0300" stop="20220424044800 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424044800 -0300" stop="20220424053600 -0300" channel="Discovery World HD">
+    <title lang="es">Viajes en carretera: minas de oro</title>
+  </programme>
+  <programme start="20220424053600 -0300" stop="20220424062400 -0300" channel="Discovery World HD">
+    <title lang="es">Italia sobre ruedas</title>
+  </programme>
+  <programme start="20220424062400 -0300" stop="20220424071200 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220424071200 -0300" stop="20220424073600 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424073600 -0300" stop="20220424080000 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424082400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424082400 -0300" stop="20220424084800 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424084800 -0300" stop="20220424091200 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424091200 -0300" stop="20220424093600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424093600 -0300" stop="20220424102400 -0300" channel="Discovery World HD">
+    <title lang="es">Viajes en carretera: minas de oro</title>
+  </programme>
+  <programme start="20220424102400 -0300" stop="20220424111200 -0300" channel="Discovery World HD">
+    <title lang="es">Italia sobre ruedas</title>
+  </programme>
+  <programme start="20220424111200 -0300" stop="20220424120000 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424122400 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424122400 -0300" stop="20220424124800 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424124800 -0300" stop="20220424133600 -0300" channel="Discovery World HD">
+    <title lang="es">Reliquias renovadas</title>
+  </programme>
+  <programme start="20220424133600 -0300" stop="20220424142400 -0300" channel="Discovery World HD">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  <programme start="20220424142400 -0300" stop="20220424144800 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220424144800 -0300" stop="20220424151200 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220424151200 -0300" stop="20220424160000 -0300" channel="Discovery World HD">
+    <title lang="es">Taiwán desconocido</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424162400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424162400 -0300" stop="20220424164800 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424164800 -0300" stop="20220424171200 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220424171200 -0300" stop="20220424173600 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220424173600 -0300" stop="20220424180000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424182400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220424182400 -0300" stop="20220424184800 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220424184800 -0300" stop="20220424191200 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220424191200 -0300" stop="20220424200000 -0300" channel="Discovery World HD">
+    <title lang="es">Viajes en carretera: minas de oro</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424204800 -0300" channel="Discovery World HD">
+    <title lang="es">Italia sobre ruedas</title>
+  </programme>
+  <programme start="20220424204800 -0300" stop="20220424211200 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220424211200 -0300" stop="20220424213600 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220424213600 -0300" stop="20220424220000 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424222400 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220424222400 -0300" stop="20220424224800 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220424224800 -0300" stop="20220424231200 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220424231200 -0300" stop="20220424233600 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220424233600 -0300" stop="20220425000000 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425004800 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220425004800 -0300" stop="20220425013600 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220425013600 -0300" stop="20220425022400 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220425022400 -0300" stop="20220425024800 -0300" channel="Discovery World HD">
+    <title lang="es">Sabores de Hong Kong</title>
+  </programme>
+  <programme start="20220425024800 -0300" stop="20220425031200 -0300" channel="Discovery World HD">
+    <title lang="es">Sabores de Hong Kong</title>
+  </programme>
+  <programme start="20220425031200 -0300" stop="20220425033600 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220425033600 -0300" stop="20220425040000 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425042400 -0300" channel="Discovery World HD">
+    <title lang="es">Mi casa en la montaña</title>
+  </programme>
+  <programme start="20220425042400 -0300" stop="20220425044800 -0300" channel="Discovery World HD">
+    <title lang="es">Mi casa en la montaña</title>
+  </programme>
+  <programme start="20220425044800 -0300" stop="20220425053600 -0300" channel="Discovery World HD">
+    <title lang="es">Glamping</title>
+  </programme>
+  <programme start="20220425053600 -0300" stop="20220425062400 -0300" channel="Discovery World HD">
+    <title lang="es">Alaska VIP</title>
+  </programme>
+  <programme start="20220425062400 -0300" stop="20220425064800 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220425064800 -0300" stop="20220425071200 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220425071200 -0300" stop="20220425073600 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220425073600 -0300" stop="20220425080000 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425082400 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220425082400 -0300" stop="20220425084800 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220425084800 -0300" stop="20220425091200 -0300" channel="Discovery World HD">
+    <title lang="es">Mi casa en la montaña</title>
+  </programme>
+  <programme start="20220425091200 -0300" stop="20220425093600 -0300" channel="Discovery World HD">
+    <title lang="es">Mi casa en la montaña</title>
+  </programme>
+  <programme start="20220425093600 -0300" stop="20220425102400 -0300" channel="Discovery World HD">
+    <title lang="es">Glamping</title>
+  </programme>
+  <programme start="20220425102400 -0300" stop="20220425111200 -0300" channel="Discovery World HD">
+    <title lang="es">Alaska VIP</title>
+  </programme>
+  <programme start="20220425111200 -0300" stop="20220425113600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220425113600 -0300" stop="20220425120000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425122400 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220425122400 -0300" stop="20220425124800 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220425124800 -0300" stop="20220425131200 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220425131200 -0300" stop="20220425133600 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220425133600 -0300" stop="20220425140000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425142400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220425142400 -0300" stop="20220425151200 -0300" channel="Discovery World HD">
+    <title lang="es">Viajes en carretera: minas de oro</title>
+  </programme>
+  <programme start="20220425151200 -0300" stop="20220425160000 -0300" channel="Discovery World HD">
+    <title lang="es">Italia sobre ruedas</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425164800 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220425164800 -0300" stop="20220425171200 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220425171200 -0300" stop="20220425173600 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220425173600 -0300" stop="20220425182400 -0300" channel="Discovery World HD">
+    <title lang="es">Reliquias renovadas</title>
+  </programme>
+  <programme start="20220425182400 -0300" stop="20220425191200 -0300" channel="Discovery World HD">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  <programme start="20220425191200 -0300" stop="20220425193600 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220425193600 -0300" stop="20220425200000 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425204800 -0300" channel="Discovery World HD">
+    <title lang="es">Taiwán desconocido</title>
+  </programme>
+  <programme start="20220425204800 -0300" stop="20220425213600 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220425213600 -0300" stop="20220425220000 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425222400 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220425222400 -0300" stop="20220425231200 -0300" channel="Discovery World HD">
+    <title lang="es">Reliquias renovadas</title>
+  </programme>
+  <programme start="20220425231200 -0300" stop="20220426000000 -0300" channel="Discovery World HD">
+    <title lang="es">Regreso al mundo chino</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426002400 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426002400 -0300" stop="20220426004800 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426004800 -0300" stop="20220426013600 -0300" channel="Discovery World HD">
+    <title lang="es">Taiwán desconocido</title>
+  </programme>
+  <programme start="20220426013600 -0300" stop="20220426020000 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426022400 -0300" channel="Discovery World HD">
+    <title lang="es">¿Podría vivir ahí?</title>
+  </programme>
+  <programme start="20220426022400 -0300" stop="20220426024800 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220426024800 -0300" stop="20220426031200 -0300" channel="Discovery World HD">
+    <title lang="es">Buying Alaska</title>
+  </programme>
+  <programme start="20220426031200 -0300" stop="20220426033600 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426033600 -0300" stop="20220426040000 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426042400 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426042400 -0300" stop="20220426044800 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426044800 -0300" stop="20220426053600 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220426053600 -0300" stop="20220426062400 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220426062400 -0300" stop="20220426071200 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220426071200 -0300" stop="20220426073600 -0300" channel="Discovery World HD">
+    <title lang="es">Sabores de Hong Kong</title>
+  </programme>
+  <programme start="20220426073600 -0300" stop="20220426080000 -0300" channel="Discovery World HD">
+    <title lang="es">Sabores de Hong Kong</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426082400 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426082400 -0300" stop="20220426084800 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426084800 -0300" stop="20220426091200 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426091200 -0300" stop="20220426093600 -0300" channel="Discovery World HD">
+    <title lang="es">Adrenalina extrema</title>
+  </programme>
+  <programme start="20220426093600 -0300" stop="20220426102400 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220426102400 -0300" stop="20220426111200 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220426111200 -0300" stop="20220426120000 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426122400 -0300" channel="Discovery World HD">
+    <title lang="es">Sabores de Hong Kong</title>
+  </programme>
+  <programme start="20220426122400 -0300" stop="20220426124800 -0300" channel="Discovery World HD">
+    <title lang="es">Sabores de Hong Kong</title>
+  </programme>
+  <programme start="20220426124800 -0300" stop="20220426131200 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220426131200 -0300" stop="20220426133600 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220426133600 -0300" stop="20220426140000 -0300" channel="Discovery World HD">
+    <title lang="es">Mi casa en la montaña</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426142400 -0300" channel="Discovery World HD">
+    <title lang="es">Mi casa en la montaña</title>
+  </programme>
+  <programme start="20220426142400 -0300" stop="20220426151200 -0300" channel="Discovery World HD">
+    <title lang="es">Glamping</title>
+  </programme>
+  <programme start="20220426151200 -0300" stop="20220426160000 -0300" channel="Discovery World HD">
+    <title lang="es">Alaska VIP</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426162400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220426162400 -0300" stop="20220426164800 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220426164800 -0300" stop="20220426171200 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220426171200 -0300" stop="20220426173600 -0300" channel="Discovery World HD">
+    <title lang="es">Fast Food Mania</title>
+  </programme>
+  <programme start="20220426173600 -0300" stop="20220426180000 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426182400 -0300" channel="Discovery World HD">
+    <title lang="es">Insane Coaster Wars</title>
+  </programme>
+  <programme start="20220426182400 -0300" stop="20220426184800 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220426184800 -0300" stop="20220426191200 -0300" channel="Discovery World HD">
+    <title lang="es">Menos es más</title>
+  </programme>
+  <programme start="20220426191200 -0300" stop="20220426200000 -0300" channel="Discovery World HD">
+    <title lang="es">Viajes en carretera: minas de oro</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426204800 -0300" channel="Discovery World HD">
+    <title lang="es">Italia sobre ruedas</title>
+  </programme>
+  <programme start="20220426204800 -0300" stop="20220426213600 -0300" channel="Discovery World HD">
+    <title lang="es">Rincones secretos para nadar</title>
+  </programme>
+  <programme start="20220426213600 -0300" stop="20220426220000 -0300" channel="Discovery World HD">
+    <title lang="es">Sabores de Hong Kong</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426222400 -0300" channel="Discovery World HD">
+    <title lang="es">Sabores de Hong Kong</title>
+  </programme>
+  <programme start="20220426222400 -0300" stop="20220426224800 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220426224800 -0300" stop="20220426231200 -0300" channel="Discovery World HD">
+    <title lang="es">Megamansiones</title>
+  </programme>
+  <programme start="20220426231200 -0300" stop="20220426233600 -0300" channel="Discovery World HD">
+    <title lang="es">Mi casa en la montaña</title>
+  </programme>
+  <programme start="20220426233600 -0300" stop="20220427000000 -0300" channel="Discovery World HD">
+    <title lang="es">Mi casa en la montaña</title>
+  </programme>
   <programme start="20220424000000 -0300" stop="20220424002700 -0300" channel="H2">
     <title lang="es">Animales que cambiaron la historia</title>
   </programme>
@@ -238,5 +2064,1076 @@
   </programme>
   <programme start="20220426232700 -0300" stop="20220427000000 -0300" channel="H2">
     <title lang="es">Buscando a Dios</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424004200 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220424004200 -0300" stop="20220424013700 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220424013700 -0300" stop="20220424023000 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220424023000 -0300" stop="20220424032200 -0300" channel="The History Channel">
+    <title lang="es">Grandes escapes con Morgan Freeman</title>
+  </programme>
+  <programme start="20220424032200 -0300" stop="20220424041700 -0300" channel="The History Channel">
+    <title lang="es">Especial Maussán: los abducidos</title>
+  </programme>
+  <programme start="20220424041700 -0300" stop="20220424044300 -0300" channel="The History Channel">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20220424044300 -0300" stop="20220424050900 -0300" channel="The History Channel">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20220424050900 -0300" stop="20220424060000 -0300" channel="The History Channel">
+    <title lang="es">Ciudades ocultas</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424070000 -0300" channel="The History Channel">
+    <title lang="es">Grandes escapes con Morgan Freeman</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424080000 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424090000 -0300" channel="The History Channel">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424100000 -0300" channel="The History Channel">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="The History Channel">
+    <title lang="es">Locos por los autos</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="The History Channel">
+    <title lang="es">Locos por los autos</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="The History Channel">
+    <title lang="es">Locos por los autos</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424115800 -0300" channel="The History Channel">
+    <title lang="es">Locos por los autos</title>
+  </programme>
+  <programme start="20220424115800 -0300" stop="20220424125300 -0300" channel="The History Channel">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20220424125300 -0300" stop="20220424134600 -0300" channel="The History Channel">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20220424134600 -0300" stop="20220424143900 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+  </programme>
+  <programme start="20220424143900 -0300" stop="20220424150500 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220424150500 -0300" stop="20220424153200 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220424153200 -0300" stop="20220424162500 -0300" channel="The History Channel">
+    <title lang="es">Ciudades ocultas</title>
+  </programme>
+  <programme start="20220424162500 -0300" stop="20220424171900 -0300" channel="The History Channel">
+    <title lang="es">Ciudades ocultas</title>
+  </programme>
+  <programme start="20220424171900 -0300" stop="20220424181300 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220424181300 -0300" stop="20220424191300 -0300" channel="The History Channel">
+    <title lang="es">Contacto extraterrestre</title>
+  </programme>
+  <programme start="20220424191300 -0300" stop="20220424194000 -0300" channel="The History Channel">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20220424194000 -0300" stop="20220424200700 -0300" channel="The History Channel">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20220424200700 -0300" stop="20220424210300 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220424210300 -0300" stop="20220424215800 -0300" channel="The History Channel">
+    <title lang="es">No identificado</title>
+  </programme>
+  <programme start="20220424215800 -0300" stop="20220424225300 -0300" channel="The History Channel">
+    <title lang="es">Grandes escapes con Morgan Freeman</title>
+  </programme>
+  <programme start="20220424225300 -0300" stop="20220424234900 -0300" channel="The History Channel">
+    <title lang="es">La conexión italiana</title>
+  </programme>
+  <programme start="20220424234900 -0300" stop="20220425000000 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425004100 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220425004100 -0300" stop="20220425013400 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220425013400 -0300" stop="20220425022600 -0300" channel="The History Channel">
+    <title lang="es">No identificado</title>
+  </programme>
+  <programme start="20220425022600 -0300" stop="20220425031800 -0300" channel="The History Channel">
+    <title lang="es">Grandes escapes con Morgan Freeman</title>
+  </programme>
+  <programme start="20220425031800 -0300" stop="20220425041200 -0300" channel="The History Channel">
+    <title lang="es">La conexión italiana</title>
+  </programme>
+  <programme start="20220425041200 -0300" stop="20220425050300 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220425050300 -0300" stop="20220425060000 -0300" channel="The History Channel">
+    <title lang="es">Contacto extraterrestre</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425070000 -0300" channel="The History Channel">
+    <title lang="es">Ciudades ocultas</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425073000 -0300" channel="The History Channel">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20220425073000 -0300" stop="20220425080000 -0300" channel="The History Channel">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425090000 -0300" channel="The History Channel">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425100000 -0300" channel="The History Channel">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425110000 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425113000 -0300" channel="The History Channel">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20220425113000 -0300" stop="20220425120000 -0300" channel="The History Channel">
+    <title lang="es">La evidencia está entre nosotros</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425125900 -0300" channel="The History Channel">
+    <title lang="es">Contacto extraterrestre</title>
+  </programme>
+  <programme start="20220425125900 -0300" stop="20220425135400 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220425135400 -0300" stop="20220425144700 -0300" channel="The History Channel">
+    <title lang="es">No identificado</title>
+  </programme>
+  <programme start="20220425144700 -0300" stop="20220425154100 -0300" channel="The History Channel">
+    <title lang="es">Grandes escapes con Morgan Freeman</title>
+  </programme>
+  <programme start="20220425154100 -0300" stop="20220425163500 -0300" channel="The History Channel">
+    <title lang="es">La conexión italiana</title>
+  </programme>
+  <programme start="20220425163500 -0300" stop="20220425172800 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220425172800 -0300" stop="20220425175500 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220425175500 -0300" stop="20220425182200 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220425182200 -0300" stop="20220425184900 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220425184900 -0300" stop="20220425191600 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220425191600 -0300" stop="20220425201000 -0300" channel="The History Channel">
+    <title lang="es">Cazadores de tesoros</title>
+  </programme>
+  <programme start="20220425201000 -0300" stop="20220425210400 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+  </programme>
+  <programme start="20220425210400 -0300" stop="20220425215800 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220425215800 -0300" stop="20220425225100 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220425225100 -0300" stop="20220425234500 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220425234500 -0300" stop="20220426000000 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426004000 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426004000 -0300" stop="20220426013300 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220426013300 -0300" stop="20220426022700 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220426022700 -0300" stop="20220426032100 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426032100 -0300" stop="20220426041500 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426041500 -0300" stop="20220426050800 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+  </programme>
+  <programme start="20220426050800 -0300" stop="20220426053400 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426053400 -0300" stop="20220426060000 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426070000 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426080000 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426090000 -0300" channel="The History Channel">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426100000 -0300" channel="The History Channel">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220426100000 -0300" stop="20220426110000 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426113000 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426113000 -0300" stop="20220426120000 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426123000 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220426123000 -0300" stop="20220426130000 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426135500 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426135500 -0300" stop="20220426145000 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220426145000 -0300" stop="20220426154400 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426154400 -0300" stop="20220426163700 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+  </programme>
+  <programme start="20220426163700 -0300" stop="20220426173000 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de El precio de la historia</title>
+  </programme>
+  <programme start="20220426173000 -0300" stop="20220426182400 -0300" channel="The History Channel">
+    <title lang="es">Lo mejor de Cazadores de tesoros</title>
+  </programme>
+  <programme start="20220426182400 -0300" stop="20220426185100 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220426185100 -0300" stop="20220426191800 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220426191800 -0300" stop="20220426194500 -0300" channel="The History Channel">
+    <title lang="es">¿Quién da má$?</title>
+  </programme>
+  <programme start="20220426194500 -0300" stop="20220426201200 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426201200 -0300" stop="20220426210500 -0300" channel="The History Channel">
+    <title lang="es">El precio de la historia</title>
+  </programme>
+  <programme start="20220426210500 -0300" stop="20220426215800 -0300" channel="The History Channel">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20220426215800 -0300" stop="20220426225300 -0300" channel="The History Channel">
+    <title lang="es">Gigantes de la ingeniería</title>
+  </programme>
+  <programme start="20220426225300 -0300" stop="20220426234700 -0300" channel="The History Channel">
+    <title lang="es">¿Qué salió mal?</title>
+  </programme>
+  <programme start="20220426234700 -0300" stop="20220427000000 -0300" channel="The History Channel">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424005000 -0300" channel="National Geographic">
+    <title lang="es">Negocios turbios</title>
+  </programme>
+  <programme start="20220424005000 -0300" stop="20220424012000 -0300" channel="National Geographic">
+    <title lang="es">Explorer Investigation</title>
+  </programme>
+  <programme start="20220424012000 -0300" stop="20220424015000 -0300" channel="National Geographic">
+    <title lang="es">Explorer Investigation</title>
+  </programme>
+  <programme start="20220424015000 -0300" stop="20220424024000 -0300" channel="National Geographic">
+    <title lang="es">Gordon Ramsay: sabores extremos</title>
+  </programme>
+  <programme start="20220424024000 -0300" stop="20220424032500 -0300" channel="National Geographic">
+    <title lang="es">Solo contra el mundo</title>
+  </programme>
+  <programme start="20220424032500 -0300" stop="20220424041000 -0300" channel="National Geographic">
+    <title lang="es">Isla salvaje: Supervivencia en Alaska</title>
+  </programme>
+  <programme start="20220424041000 -0300" stop="20220424045500 -0300" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220424045500 -0300" stop="20220424053700 -0300" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220424053700 -0300" stop="20220424055700 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220424055700 -0300" stop="20220424061700 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220424061700 -0300" stop="20220424063000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220424063000 -0300" stop="20220424070000 -0300" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424073000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220424073000 -0300" stop="20220424080000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424083000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220424083000 -0300" stop="20220424090000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424093000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220424093000 -0300" stop="20220424100000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424115500 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220424115500 -0300" stop="20220424122000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220424122000 -0300" stop="20220424125000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
+  </programme>
+  <programme start="20220424125000 -0300" stop="20220424131500 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220424131500 -0300" stop="20220424141000 -0300" channel="National Geographic">
+    <title lang="es">Hogar para perros</title>
+  </programme>
+  <programme start="20220424141000 -0300" stop="20220424150500 -0300" channel="National Geographic">
+    <title lang="es">Cómplices caninos</title>
+  </programme>
+  <programme start="20220424150500 -0300" stop="20220424160000 -0300" channel="National Geographic">
+    <title lang="es">El increíble Dr. Pol</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424170000 -0300" channel="National Geographic">
+    <title lang="es">Secretos veterinarios</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424180000 -0300" channel="National Geographic">
+    <title lang="es">Dra. K: animales exóticos</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424190000 -0300" channel="National Geographic">
+    <title lang="es">China desde el cielo</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424200000 -0300" channel="National Geographic">
+    <title lang="es">Cambio climático: historias de esperanza</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424203000 -0300" channel="National Geographic">
+    <title lang="es">Juegos mentales: en el camino</title>
+  </programme>
+  <programme start="20220424203000 -0300" stop="20220424210000 -0300" channel="National Geographic">
+    <title lang="es">Juegos mentales: en el camino</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424212500 -0300" channel="National Geographic">
+    <title lang="es">Eco-Eye: soluciones sustentables</title>
+  </programme>
+  <programme start="20220424212500 -0300" stop="20220424220000 -0300" channel="National Geographic">
+    <title lang="es">Eco-Eye: soluciones sustentables</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424223000 -0300" channel="National Geographic">
+    <title lang="es">Héroes de la ecología</title>
+  </programme>
+  <programme start="20220424223000 -0300" stop="20220424225500 -0300" channel="National Geographic">
+    <title lang="es">Héroes de la ecología</title>
+  </programme>
+  <programme start="20220424225500 -0300" stop="20220424235000 -0300" channel="National Geographic">
+    <title lang="es">Earth Emergency</title>
+  </programme>
+  <programme start="20220424235000 -0300" stop="20220425000000 -0300" channel="National Geographic">
+    <title lang="es">Los últimos cuernos de África</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425015000 -0300" channel="National Geographic">
+    <title lang="es">Los últimos cuernos de África</title>
+  </programme>
+  <programme start="20220425015000 -0300" stop="20220425024000 -0300" channel="National Geographic">
+    <title lang="es">Gordon Ramsay: sabores extremos</title>
+  </programme>
+  <programme start="20220425024000 -0300" stop="20220425032500 -0300" channel="National Geographic">
+    <title lang="es">Solo contra el mundo</title>
+  </programme>
+  <programme start="20220425032500 -0300" stop="20220425041000 -0300" channel="National Geographic">
+    <title lang="es">Isla salvaje: Supervivencia en Alaska</title>
+  </programme>
+  <programme start="20220425041000 -0300" stop="20220425045500 -0300" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220425045500 -0300" stop="20220425053700 -0300" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220425053700 -0300" stop="20220425055700 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220425055700 -0300" stop="20220425061200 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220425061200 -0300" stop="20220425063000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220425063000 -0300" stop="20220425070000 -0300" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425073000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220425073000 -0300" stop="20220425080000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425083000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220425083000 -0300" stop="20220425090000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425110000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425113000 -0300" channel="National Geographic">
+    <title lang="es">Magazine - Extreme E</title>
+  </programme>
+  <programme start="20220425113000 -0300" stop="20220425115500 -0300" channel="National Geographic">
+    <title lang="es">Extreme E: odisea eléctrica</title>
+  </programme>
+  <programme start="20220425115500 -0300" stop="20220425122000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
+  </programme>
+  <programme start="20220425122000 -0300" stop="20220425125000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos: Estados Unidos</title>
+  </programme>
+  <programme start="20220425125000 -0300" stop="20220425131500 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220425131500 -0300" stop="20220425141000 -0300" channel="National Geographic">
+    <title lang="es">Gordon Ramsay: sabores extremos</title>
+  </programme>
+  <programme start="20220425141000 -0300" stop="20220425150500 -0300" channel="National Geographic">
+    <title lang="es">Qué comemos</title>
+  </programme>
+  <programme start="20220425150500 -0300" stop="20220425153500 -0300" channel="National Geographic">
+    <title lang="es">Juegos mentales: en el camino</title>
+  </programme>
+  <programme start="20220425153500 -0300" stop="20220425160000 -0300" channel="National Geographic">
+    <title lang="es">Juegos mentales: en el camino</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425170000 -0300" channel="National Geographic">
+    <title lang="es">Alaska: los nuevos pioneros</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425180000 -0300" channel="National Geographic">
+    <title lang="es">Alaska: los nuevos pioneros</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425190000 -0300" channel="National Geographic">
+    <title lang="es">Mayday: catástrofes aéreas</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425200000 -0300" channel="National Geographic">
+    <title lang="es">Tragedias aéreas recreadas</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425210000 -0300" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425220000 -0300" channel="National Geographic">
+    <title lang="es">El top diez de los 80</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425225500 -0300" channel="National Geographic">
+    <title lang="es">El top diez de los 80</title>
+  </programme>
+  <programme start="20220425225500 -0300" stop="20220425235000 -0300" channel="National Geographic">
+    <title lang="es">El top diez de los 80</title>
+  </programme>
+  <programme start="20220425235000 -0300" stop="20220426000000 -0300" channel="National Geographic">
+    <title lang="es">El top diez de los 80</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426005000 -0300" channel="National Geographic">
+    <title lang="es">El top diez de los 80</title>
+  </programme>
+  <programme start="20220426005000 -0300" stop="20220426015000 -0300" channel="National Geographic">
+    <title lang="es">El top diez de los 80</title>
+  </programme>
+  <programme start="20220426015000 -0300" stop="20220426024000 -0300" channel="National Geographic">
+    <title lang="es">Gordon Ramsay: sabores extremos</title>
+  </programme>
+  <programme start="20220426024000 -0300" stop="20220426032500 -0300" channel="National Geographic">
+    <title lang="es">Solo contra el mundo</title>
+  </programme>
+  <programme start="20220426032500 -0300" stop="20220426041000 -0300" channel="National Geographic">
+    <title lang="es">Isla salvaje</title>
+  </programme>
+  <programme start="20220426041000 -0300" stop="20220426045500 -0300" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220426045500 -0300" stop="20220426053500 -0300" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220426053500 -0300" stop="20220426055700 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220426055700 -0300" stop="20220426062000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220426062000 -0300" stop="20220426064000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220426064000 -0300" stop="20220426070000 -0300" channel="National Geographic">
+    <title lang="es">La ciencia de lo absurdo</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426073000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220426073000 -0300" stop="20220426080000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426083000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220426083000 -0300" stop="20220426090000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426110000 -0300" channel="National Geographic">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426113000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220426113000 -0300" stop="20220426115500 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220426115500 -0300" stop="20220426122000 -0300" channel="National Geographic">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+  <programme start="20220426122000 -0300" stop="20220426131500 -0300" channel="National Geographic">
+    <title lang="es">Construyendo gigantes</title>
+  </programme>
+  <programme start="20220426131500 -0300" stop="20220426141000 -0300" channel="National Geographic">
+    <title lang="es">Tormentas implacables</title>
+  </programme>
+  <programme start="20220426141000 -0300" stop="20220426143500 -0300" channel="National Geographic">
+    <title lang="es">Eco-Eye: soluciones sustentables</title>
+  </programme>
+  <programme start="20220426143500 -0300" stop="20220426150500 -0300" channel="National Geographic">
+    <title lang="es">Eco-Eye: soluciones sustentables</title>
+  </programme>
+  <programme start="20220426150500 -0300" stop="20220426160000 -0300" channel="National Geographic">
+    <title lang="es">Serpientes en la ciudad</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426170000 -0300" channel="National Geographic">
+    <title lang="es">Mordidas asombrosas</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426180000 -0300" channel="National Geographic">
+    <title lang="es">Preso en el extranjero: crimen y castigo</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426190000 -0300" channel="National Geographic">
+    <title lang="es">Tesoros perdidos de Egipto</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426200000 -0300" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426210000 -0300" channel="National Geographic">
+    <title lang="es">Alerta aeropuerto</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426220000 -0300" channel="National Geographic">
+    <title lang="es">Contrabandistas con Mariana Van Zeller</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426225500 -0300" channel="National Geographic">
+    <title lang="es">Contrabandistas con Mariana Van Zeller</title>
+  </programme>
+  <programme start="20220426225500 -0300" stop="20220426235000 -0300" channel="National Geographic">
+    <title lang="es">Fronteras al límite</title>
+  </programme>
+  <programme start="20220426235000 -0300" stop="20220427000000 -0300" channel="National Geographic">
+    <title lang="es">Titanic 20 años después</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424004000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424004000 -0300" stop="20220424012500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424012500 -0300" stop="20220424021000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424021000 -0300" stop="20220424025500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424025500 -0300" stop="20220424032000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424032000 -0300" stop="20220424034000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424034000 -0300" stop="20220424040500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424040500 -0300" stop="20220424042500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424042500 -0300" stop="20220424045000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424045000 -0300" stop="20220424051500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424051500 -0300" stop="20220424054000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424054000 -0300" stop="20220424060000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424062500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424062500 -0300" stop="20220424065000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424065000 -0300" stop="20220424071000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers - Especial NCAA Marcha de la lo</title>
+  </programme>
+  <programme start="20220424071000 -0300" stop="20220424073500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424073500 -0300" stop="20220424075500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424075500 -0300" stop="20220424082000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424082000 -0300" stop="20220424084000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424084000 -0300" stop="20220424092500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424092500 -0300" stop="20220424101000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424101000 -0300" stop="20220424105500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424105500 -0300" stop="20220424114000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424114000 -0300" stop="20220424120500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424120500 -0300" stop="20220424122500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424122500 -0300" stop="20220424125000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424125000 -0300" stop="20220424131500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424131500 -0300" stop="20220424134000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424134000 -0300" stop="20220424140000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424142500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424142500 -0300" stop="20220424145000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424145000 -0300" stop="20220424151000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers - Especial NCAA Marcha de la lo</title>
+  </programme>
+  <programme start="20220424151000 -0300" stop="20220424155500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424155500 -0300" stop="20220424164000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424164000 -0300" stop="20220424172500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424172500 -0300" stop="20220424181000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220424181000 -0300" stop="20220424183500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424183500 -0300" stop="20220424185500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424185500 -0300" stop="20220424192000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424192000 -0300" stop="20220424194000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220424194000 -0300" stop="20220424200500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424200500 -0300" stop="20220424202500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220424202500 -0300" stop="20220424205000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424205000 -0300" stop="20220424211500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220424211500 -0300" stop="20220424214000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424214000 -0300" stop="20220424220000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424222500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424222500 -0300" stop="20220424225000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers</title>
+  </programme>
+  <programme start="20220424225000 -0300" stop="20220424231000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers - Especial NCAA Marcha de la lo</title>
+  </programme>
+  <programme start="20220424231000 -0300" stop="20220424233500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424233500 -0300" stop="20220424235500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220424235500 -0300" stop="20220425000000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425004000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425004000 -0300" stop="20220425012500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425012500 -0300" stop="20220425021000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425021000 -0300" stop="20220425025500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425025500 -0300" stop="20220425032000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425032000 -0300" stop="20220425034000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425034000 -0300" stop="20220425040500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425040500 -0300" stop="20220425042500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425042500 -0300" stop="20220425045000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425045000 -0300" stop="20220425051500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425051500 -0300" stop="20220425054000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425054000 -0300" stop="20220425060000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425062500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220425062500 -0300" stop="20220425065000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220425065000 -0300" stop="20220425071000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220425071000 -0300" stop="20220425073500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425073500 -0300" stop="20220425075500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425075500 -0300" stop="20220425082000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425082000 -0300" stop="20220425084000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425084000 -0300" stop="20220425092500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425092500 -0300" stop="20220425101000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425101000 -0300" stop="20220425105500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425105500 -0300" stop="20220425114000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425114000 -0300" stop="20220425120500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425120500 -0300" stop="20220425122500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425122500 -0300" stop="20220425125000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425125000 -0300" stop="20220425131500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425131500 -0300" stop="20220425134000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425134000 -0300" stop="20220425140000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425142500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220425142500 -0300" stop="20220425145000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220425145000 -0300" stop="20220425151000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220425151000 -0300" stop="20220425155500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425155500 -0300" stop="20220425164000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425164000 -0300" stop="20220425172500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425172500 -0300" stop="20220425181000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220425181000 -0300" stop="20220425183500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425183500 -0300" stop="20220425185500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425185500 -0300" stop="20220425192000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425192000 -0300" stop="20220425194000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220425194000 -0300" stop="20220425200500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425200500 -0300" stop="20220425202500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220425202500 -0300" stop="20220425205000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425205000 -0300" stop="20220425211500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220425211500 -0300" stop="20220425214000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425214000 -0300" stop="20220425220000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425222500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220425222500 -0300" stop="20220425225000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220425225000 -0300" stop="20220425231000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220425231000 -0300" stop="20220425233500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425233500 -0300" stop="20220425235500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220425235500 -0300" stop="20220426000000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426004000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426004000 -0300" stop="20220426012500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426012500 -0300" stop="20220426021000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426021000 -0300" stop="20220426025500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426025500 -0300" stop="20220426032000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220426032000 -0300" stop="20220426034000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220426034000 -0300" stop="20220426040500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220426040500 -0300" stop="20220426042500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220426042500 -0300" stop="20220426045000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220426045000 -0300" stop="20220426051500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220426051500 -0300" stop="20220426054000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220426054000 -0300" stop="20220426060000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426062500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220426062500 -0300" stop="20220426065000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220426065000 -0300" stop="20220426071000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220426071000 -0300" stop="20220426073500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220426073500 -0300" stop="20220426075500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220426075500 -0300" stop="20220426082000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220426082000 -0300" stop="20220426084000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220426084000 -0300" stop="20220426092500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426092500 -0300" stop="20220426101000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426101000 -0300" stop="20220426105500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426105500 -0300" stop="20220426114000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426114000 -0300" stop="20220426120500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220426120500 -0300" stop="20220426122500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220426122500 -0300" stop="20220426125000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220426125000 -0300" stop="20220426131500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220426131500 -0300" stop="20220426134000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220426134000 -0300" stop="20220426140000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426142500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220426142500 -0300" stop="20220426145000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220426145000 -0300" stop="20220426151000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220426151000 -0300" stop="20220426155500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426155500 -0300" stop="20220426164000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426164000 -0300" stop="20220426172500 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426172500 -0300" stop="20220426181000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
+  </programme>
+  <programme start="20220426181000 -0300" stop="20220426183500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220426183500 -0300" stop="20220426185500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220426185500 -0300" stop="20220426192000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220426192000 -0300" stop="20220426194000 -0300" channel="Tru TV">
+    <title lang="es">Los remolcadores de South Beach</title>
+  </programme>
+  <programme start="20220426194000 -0300" stop="20220426200500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220426200500 -0300" stop="20220426202500 -0300" channel="Tru TV">
+    <title lang="es">El mejor precio: Chicago</title>
+  </programme>
+  <programme start="20220426202500 -0300" stop="20220426205000 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220426205000 -0300" stop="20220426211500 -0300" channel="Tru TV">
+    <title lang="es">Arréglame la vida</title>
+  </programme>
+  <programme start="20220426211500 -0300" stop="20220426214000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220426214000 -0300" stop="20220426220000 -0300" channel="Tru TV">
+    <title lang="es">Efecto Carbonaro</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426222500 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220426222500 -0300" stop="20220426225000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220426225000 -0300" stop="20220426231000 -0300" channel="Tru TV">
+    <title lang="es">Impractical Jokers: After Party</title>
+  </programme>
+  <programme start="20220426231000 -0300" stop="20220426233500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220426233500 -0300" stop="20220426235500 -0300" channel="Tru TV">
+    <title lang="es">Tesoros de garaje</title>
+  </programme>
+  <programme start="20220426235500 -0300" stop="20220427000000 -0300" channel="Tru TV">
+    <title lang="es">Los videos más tontos del mundo</title>
   </programme>
 </tv>
