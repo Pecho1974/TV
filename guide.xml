@@ -1,5 +1,85 @@
 <?xml version="1.0"encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="America Sports">
+    <display-name lang="es">America Sports</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/America Sports.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="DEPORTV">
+    <display-name lang="es">DEPORTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DEPORTV.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="es">Discovery Turbo</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Turbo.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="ESPN Extra">
+    <display-name lang="es">ESPN Extra</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Extra.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="es">ESPN 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 2.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 3.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="FOX SPORTS PREMIUM">
+    <display-name lang="es">FOX SPORTS PREMIUM</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/FOX SPORTS PREMIUM.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="es">Fox Sports</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Fox Sports 2">
+    <display-name lang="es">Fox Sports 2</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 2.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Fox Sports 3">
+    <display-name lang="es">Fox Sports 3</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 3.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="El Garage">
+    <display-name lang="es">El Garage</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Garage.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="The Golf Channel">
+    <display-name lang="es">The Golf Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/The Golf Channel.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="NBA TV">
+    <display-name lang="es">NBA TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBA TV.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="TNT SPORTS">
+    <display-name lang="es">TNT SPORTS</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT SPORTS.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="TyC Sports">
+    <display-name lang="es">TyC Sports</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TyC Sports.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="ANIMAL PLANET HD">
     <display-name lang="es">ANIMAL PLANET HD</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ANIMAL PLANET HD.png" />
@@ -55,6 +135,2478 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tru TV.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <programme start="20220424000000 -0300" stop="20220424003000 -0300" channel="America Sports">
+    <title lang="es">Argentina Xtreme</title>
+  </programme>
+  <programme start="20220424003000 -0300" stop="20220424010000 -0300" channel="America Sports">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424020000 -0300" channel="America Sports">
+    <title lang="es">Fórmula fútbol</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424023000 -0300" channel="America Sports">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220424023000 -0300" stop="20220424033000 -0300" channel="America Sports">
+    <title lang="es">Alma de turf</title>
+  </programme>
+  <programme start="20220424033000 -0300" stop="20220424040000 -0300" channel="America Sports">
+    <title lang="es">Solo motores</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424050000 -0300" channel="America Sports">
+    <title lang="es">El escape del caburé</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424060000 -0300" channel="America Sports">
+    <title lang="es">Tiempo de pesca</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424063000 -0300" channel="America Sports">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220424063000 -0300" stop="20220424070000 -0300" channel="America Sports">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424100000 -0300" channel="America Sports">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="America Sports">
+    <title lang="es">Perros en acción</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="America Sports">
+    <title lang="es">Disfrutando</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="America Sports">
+    <title lang="es">Amigos de pesca</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424120000 -0300" channel="America Sports">
+    <title lang="es">Luz del alba</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424123000 -0300" channel="America Sports">
+    <title lang="es">Pesca al golpe</title>
+  </programme>
+  <programme start="20220424123000 -0300" stop="20220424130000 -0300" channel="America Sports">
+    <title lang="es">El apostadero</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424133000 -0300" channel="America Sports">
+    <title lang="es">El señuelo</title>
+  </programme>
+  <programme start="20220424133000 -0300" stop="20220424140000 -0300" channel="America Sports">
+    <title lang="es">El pato TV</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424143000 -0300" channel="America Sports">
+    <title lang="es">Salida de pesca</title>
+  </programme>
+  <programme start="20220424143000 -0300" stop="20220424150000 -0300" channel="America Sports">
+    <title lang="es">Paraíso natural</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424160000 -0300" channel="America Sports">
+    <title lang="es">Fórmula fútbol</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424163000 -0300" channel="America Sports">
+    <title lang="es">Viajes y padel</title>
+  </programme>
+  <programme start="20220424163000 -0300" stop="20220424170000 -0300" channel="America Sports">
+    <title lang="es">Al aire libre</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424173000 -0300" channel="America Sports">
+    <title lang="es">Metele que son pastele</title>
+  </programme>
+  <programme start="20220424173000 -0300" stop="20220424180000 -0300" channel="America Sports">
+    <title lang="es">Sala de máquinas 360</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424183000 -0300" channel="America Sports">
+    <title lang="es">Efecto TN</title>
+  </programme>
+  <programme start="20220424183000 -0300" stop="20220424190000 -0300" channel="America Sports">
+    <title lang="es">País productivo</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424193000 -0300" channel="America Sports">
+    <title lang="es">Raid motonáutica</title>
+  </programme>
+  <programme start="20220424193000 -0300" stop="20220424200000 -0300" channel="America Sports">
+    <title lang="es">Turismo y cultura</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424203000 -0300" channel="America Sports">
+    <title lang="es">Revista</title>
+  </programme>
+  <programme start="20220424203000 -0300" stop="20220424210000 -0300" channel="America Sports">
+    <title lang="es">Open Super Car</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424213000 -0300" channel="America Sports">
+    <title lang="es">Salida de pesca</title>
+  </programme>
+  <programme start="20220424213000 -0300" stop="20220424220000 -0300" channel="America Sports">
+    <title lang="es">Pesca al golpe</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424223000 -0300" channel="America Sports">
+    <title lang="es">Del pescador TV</title>
+  </programme>
+  <programme start="20220424223000 -0300" stop="20220424230000 -0300" channel="America Sports">
+    <title lang="es">El ángel copiloto</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220424233000 -0300" channel="America Sports">
+    <title lang="es">Como allá</title>
+  </programme>
+  <programme start="20220424233000 -0300" stop="20220425000000 -0300" channel="America Sports">
+    <title lang="es">Puerto pesca TV</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425003000 -0300" channel="America Sports">
+    <title lang="es">El ángel copiloto</title>
+  </programme>
+  <programme start="20220425003000 -0300" stop="20220425010000 -0300" channel="America Sports">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425013000 -0300" channel="America Sports">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425020000 -0300" channel="America Sports">
+    <title lang="es">Noche ATR</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425030000 -0300" channel="America Sports">
+    <title lang="es">Alma de turf</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425040000 -0300" channel="America Sports">
+    <title lang="es">Tiempo de pesca</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425050000 -0300" channel="America Sports">
+    <title lang="es">Hombres de pesca</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425060000 -0300" channel="America Sports">
+    <title lang="es">El escape del caburé</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425063000 -0300" channel="America Sports">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220425063000 -0300" stop="20220425070000 -0300" channel="America Sports">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425100000 -0300" channel="America Sports">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425110000 -0300" channel="America Sports">
+    <title lang="es">Viajes y paseos</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425120000 -0300" channel="America Sports">
+    <title lang="es">El escape del caburé</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425130000 -0300" channel="America Sports">
+    <title lang="es">Hombres de pesca</title>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425160000 -0300" channel="America Sports">
+    <title lang="es">Acelerando</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425163000 -0300" channel="America Sports">
+    <title lang="es">Solo motores</title>
+  </programme>
+  <programme start="20220425163000 -0300" stop="20220425170000 -0300" channel="America Sports">
+    <title lang="es">Salida de pesca</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425173000 -0300" channel="America Sports">
+    <title lang="es">Abriendo caminos</title>
+  </programme>
+  <programme start="20220425173000 -0300" stop="20220425180000 -0300" channel="America Sports">
+    <title lang="es">Campamento 6</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425183000 -0300" channel="America Sports">
+    <title lang="es">Puerto pesca TV</title>
+  </programme>
+  <programme start="20220425183000 -0300" stop="20220425190000 -0300" channel="America Sports">
+    <title lang="es">Querés pescar</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425193000 -0300" channel="America Sports">
+    <title lang="es">Sinfonía con el pista</title>
+  </programme>
+  <programme start="20220425193000 -0300" stop="20220425200000 -0300" channel="America Sports">
+    <title lang="es">Puerto TV</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425203000 -0300" channel="America Sports">
+    <title lang="es">Como allá</title>
+  </programme>
+  <programme start="20220425203000 -0300" stop="20220425210000 -0300" channel="America Sports">
+    <title lang="es">Caminos y pueblos</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425213000 -0300" channel="America Sports">
+    <title lang="es">Taller actual</title>
+  </programme>
+  <programme start="20220425213000 -0300" stop="20220425220000 -0300" channel="America Sports">
+    <title lang="es">Turismo y municipio</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425223000 -0300" channel="America Sports">
+    <title lang="es">El ángel copiloto</title>
+  </programme>
+  <programme start="20220425223000 -0300" stop="20220425230000 -0300" channel="America Sports">
+    <title lang="es">Disfrutando</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220425233000 -0300" channel="America Sports">
+    <title lang="es">Amigos de pesca</title>
+  </programme>
+  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="America Sports">
+    <title lang="es">Auténtico y lujoso</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426003000 -0300" channel="America Sports">
+    <title lang="es">Guardavidas TV</title>
+  </programme>
+  <programme start="20220426003000 -0300" stop="20220426010000 -0300" channel="America Sports">
+    <title lang="es">Sala de máquinas 360</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426013000 -0300" channel="America Sports">
+    <title lang="es">Del pescador TV</title>
+  </programme>
+  <programme start="20220426013000 -0300" stop="20220426020000 -0300" channel="America Sports">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426023000 -0300" channel="America Sports">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20220426023000 -0300" stop="20220426030000 -0300" channel="America Sports">
+    <title lang="es">El pato TV</title>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426033000 -0300" channel="America Sports">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20220426033000 -0300" stop="20220426043000 -0300" channel="America Sports">
+    <title lang="es">Tiempo de pesca</title>
+  </programme>
+  <programme start="20220426043000 -0300" stop="20220426053000 -0300" channel="America Sports">
+    <title lang="es">Hombres de pesca</title>
+  </programme>
+  <programme start="20220426053000 -0300" stop="20220426063000 -0300" channel="America Sports">
+    <title lang="es">El escape del caburé</title>
+  </programme>
+  <programme start="20220426063000 -0300" stop="20220426070000 -0300" channel="America Sports">
+    <title lang="es">El pato TV</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426073000 -0300" channel="America Sports">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220426073000 -0300" stop="20220426080000 -0300" channel="America Sports">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426110000 -0300" channel="America Sports">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426113000 -0300" channel="America Sports">
+    <title lang="es">Mundo ecuestre</title>
+  </programme>
+  <programme start="20220426113000 -0300" stop="20220426120000 -0300" channel="America Sports">
+    <title lang="es">Como allá</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426123000 -0300" channel="America Sports">
+    <title lang="es">Taller actual</title>
+  </programme>
+  <programme start="20220426123000 -0300" stop="20220426130000 -0300" channel="America Sports">
+    <title lang="es">Paraíso natural</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426133000 -0300" channel="America Sports">
+    <title lang="es">Turismo y cultura</title>
+  </programme>
+  <programme start="20220426133000 -0300" stop="20220426140000 -0300" channel="America Sports">
+    <title lang="es">Viajes y padel</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426150000 -0300" channel="America Sports">
+    <title lang="es">Tiempo de pesca</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426160000 -0300" channel="America Sports">
+    <title lang="es">Viajes y paseos</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426170000 -0300" channel="America Sports">
+    <title lang="es">El escape del caburé</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426173000 -0300" channel="America Sports">
+    <title lang="es">Metele que son pastele</title>
+  </programme>
+  <programme start="20220426173000 -0300" stop="20220426180000 -0300" channel="America Sports">
+    <title lang="es">País productivo</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426183000 -0300" channel="America Sports">
+    <title lang="es">El pato TV</title>
+  </programme>
+  <programme start="20220426183000 -0300" stop="20220426190000 -0300" channel="America Sports">
+    <title lang="es">Al aire libre</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426193000 -0300" channel="America Sports">
+    <title lang="es">Hipismo al mundo</title>
+  </programme>
+  <programme start="20220426193000 -0300" stop="20220426200000 -0300" channel="America Sports">
+    <title lang="es">Taller actual</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426203000 -0300" channel="America Sports">
+    <title lang="es">Zona franca</title>
+  </programme>
+  <programme start="20220426203000 -0300" stop="20220426210000 -0300" channel="America Sports">
+    <title lang="es">Zona safari</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426213000 -0300" channel="America Sports">
+    <title lang="es">Fiesta gaucha</title>
+  </programme>
+  <programme start="20220426213000 -0300" stop="20220426220000 -0300" channel="America Sports">
+    <title lang="es">Deportes mecánicos</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426230000 -0300" channel="America Sports">
+    <title lang="es">Tiempo de pesca</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220426233000 -0300" channel="America Sports">
+    <title lang="es">Mundo ecuestre</title>
+  </programme>
+  <programme start="20220426233000 -0300" stop="20220427000000 -0300" channel="America Sports">
+    <title lang="es">Zona franca</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424020000 -0300" channel="DEPORTV">
+    <title lang="es">Torneo de futsal masculino</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424030000 -0300" channel="DEPORTV">
+    <title lang="es">Entrenadores</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424033000 -0300" channel="DEPORTV">
+    <title lang="es">El grito sagrado</title>
+  </programme>
+  <programme start="20220424033000 -0300" stop="20220424040000 -0300" channel="DEPORTV">
+    <title lang="es">Fútbol pasión</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424043000 -0300" channel="DEPORTV">
+    <title lang="es">Alma naranja</title>
+  </programme>
+  <programme start="20220424043000 -0300" stop="20220424050000 -0300" channel="DEPORTV">
+    <title lang="es">Espíritu de equipo</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424053000 -0300" channel="DEPORTV">
+    <title lang="es">Tierra de fanáticos</title>
+  </programme>
+  <programme start="20220424053000 -0300" stop="20220424060000 -0300" channel="DEPORTV">
+    <title lang="es">El fútbol es historia</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424080000 -0300" channel="DEPORTV">
+    <title lang="es">Copa del Mundo de baloncesto FIBA 2019</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424090000 -0300" channel="DEPORTV">
+    <title lang="es">Movete Argentina</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424093000 -0300" channel="DEPORTV">
+    <title lang="es">Movete Argentina</title>
+  </programme>
+  <programme start="20220424093000 -0300" stop="20220424100000 -0300" channel="DEPORTV">
+    <title lang="es">Escuela de boxeo</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424101500 -0300" channel="DEPORTV">
+    <title lang="es">De barrio somos</title>
+  </programme>
+  <programme start="20220424101500 -0300" stop="20220424104500 -0300" channel="DEPORTV">
+    <title lang="es">Un gol al arcoíris</title>
+  </programme>
+  <programme start="20220424104500 -0300" stop="20220424110000 -0300" channel="DEPORTV">
+    <title lang="es">Herencia deportiva</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424111500 -0300" channel="DEPORTV">
+    <title lang="es">Sombras en los juegos</title>
+  </programme>
+  <programme start="20220424111500 -0300" stop="20220424114500 -0300" channel="DEPORTV">
+    <title lang="es">La Argentina olímpica</title>
+  </programme>
+  <programme start="20220424114500 -0300" stop="20220424125500 -0300" channel="DEPORTV">
+    <title lang="es">Capitanes</title>
+  </programme>
+  <programme start="20220424125500 -0300" stop="20220424150000 -0300" channel="DEPORTV">
+    <title lang="es">ACB, basquetbol liga española</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424170000 -0300" channel="DEPORTV">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424173000 -0300" channel="DEPORTV">
+    <title lang="es">Contar la vida</title>
+  </programme>
+  <programme start="20220424173000 -0300" stop="20220424174500 -0300" channel="DEPORTV">
+    <title lang="es">El fantasma de la B</title>
+  </programme>
+  <programme start="20220424174500 -0300" stop="20220424181500 -0300" channel="DEPORTV">
+    <title lang="es">Bestiario</title>
+  </programme>
+  <programme start="20220424181500 -0300" stop="20220424183000 -0300" channel="DEPORTV">
+    <title lang="es">Jugadoras</title>
+  </programme>
+  <programme start="20220424183000 -0300" stop="20220424190000 -0300" channel="DEPORTV">
+    <title lang="es">Un gol al arcoíris</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424191500 -0300" channel="DEPORTV">
+    <title lang="es">De clubes y potreros</title>
+  </programme>
+  <programme start="20220424191500 -0300" stop="20220424194500 -0300" channel="DEPORTV">
+    <title lang="es">Escuela de boxeo</title>
+  </programme>
+  <programme start="20220424194500 -0300" stop="20220424200000 -0300" channel="DEPORTV">
+    <title lang="es">El retrovisor</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424203000 -0300" channel="DEPORTV">
+    <title lang="es">El gran Willy</title>
+  </programme>
+  <programme start="20220424203000 -0300" stop="20220424210000 -0300" channel="DEPORTV">
+    <title lang="es">Contar la vida</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424220000 -0300" channel="DEPORTV">
+    <title lang="es">Maratón Man</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424233000 -0300" channel="DEPORTV">
+    <title lang="es">La ola sin fronteras</title>
+  </programme>
+  <programme start="20220424233000 -0300" stop="20220424234500 -0300" channel="DEPORTV">
+    <title lang="es">El fantasma de la B</title>
+  </programme>
+  <programme start="20220424234500 -0300" stop="20220425000000 -0300" channel="DEPORTV">
+    <title lang="es">Herencia deportiva</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425020000 -0300" channel="DEPORTV">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425030000 -0300" channel="DEPORTV">
+    <title lang="es">Entrenadores</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425033000 -0300" channel="DEPORTV">
+    <title lang="es">El grito sagrado</title>
+  </programme>
+  <programme start="20220425033000 -0300" stop="20220425040000 -0300" channel="DEPORTV">
+    <title lang="es">Fútbol pasión</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425043000 -0300" channel="DEPORTV">
+    <title lang="es">Alma naranja</title>
+  </programme>
+  <programme start="20220425043000 -0300" stop="20220425050000 -0300" channel="DEPORTV">
+    <title lang="es">Espíritu de equipo</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425053000 -0300" channel="DEPORTV">
+    <title lang="es">Tierra de fanáticos</title>
+  </programme>
+  <programme start="20220425053000 -0300" stop="20220425060000 -0300" channel="DEPORTV">
+    <title lang="es">El fútbol es historia</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425080000 -0300" channel="DEPORTV">
+    <title lang="es">Copa del Mundo de baloncesto FIBA 2019</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425090000 -0300" channel="DEPORTV">
+    <title lang="es">Movete Argentina</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425093000 -0300" channel="DEPORTV">
+    <title lang="es">Movete Argentina</title>
+  </programme>
+  <programme start="20220425093000 -0300" stop="20220425094500 -0300" channel="DEPORTV">
+    <title lang="es">Herencia deportiva</title>
+  </programme>
+  <programme start="20220425094500 -0300" stop="20220425101500 -0300" channel="DEPORTV">
+    <title lang="es">Mentes doradas</title>
+  </programme>
+  <programme start="20220425101500 -0300" stop="20220425103000 -0300" channel="DEPORTV">
+    <title lang="es">De clubes y potreros</title>
+  </programme>
+  <programme start="20220425103000 -0300" stop="20220425110000 -0300" channel="DEPORTV">
+    <title lang="es">Escuela de aprendices</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425111500 -0300" channel="DEPORTV">
+    <title lang="es">De barrio somos</title>
+  </programme>
+  <programme start="20220425111500 -0300" stop="20220425114500 -0300" channel="DEPORTV">
+    <title lang="es">RTT Motores</title>
+  </programme>
+  <programme start="20220425114500 -0300" stop="20220425124500 -0300" channel="DEPORTV">
+    <title lang="es">Maratón Man</title>
+  </programme>
+  <programme start="20220425124500 -0300" stop="20220425131500 -0300" channel="DEPORTV">
+    <title lang="es">El gran Willy</title>
+  </programme>
+  <programme start="20220425131500 -0300" stop="20220425153000 -0300" channel="DEPORTV">
+    <title lang="es">ACB, basquetbol liga española</title>
+  </programme>
+  <programme start="20220425153000 -0300" stop="20220425160000 -0300" channel="DEPORTV">
+    <title lang="es">Contar la vida</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425163000 -0300" channel="DEPORTV">
+    <title lang="es">El mundial que nunca se jugó</title>
+  </programme>
+  <programme start="20220425163000 -0300" stop="20220425164500 -0300" channel="DEPORTV">
+    <title lang="es">De barrio somos</title>
+  </programme>
+  <programme start="20220425164500 -0300" stop="20220425170000 -0300" channel="DEPORTV">
+    <title lang="es">El retrovisor</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425180000 -0300" channel="DEPORTV">
+    <title lang="es">#EspecialDíaInternacionalDeLosTrabajadores</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425183000 -0300" channel="DEPORTV">
+    <title lang="es">Fútbol pasión</title>
+  </programme>
+  <programme start="20220425183000 -0300" stop="20220425200000 -0300" channel="DEPORTV">
+    <title lang="es">Contra pelota</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425203000 -0300" channel="DEPORTV">
+    <title lang="es">Fútbol pasión</title>
+  </programme>
+  <programme start="20220425203000 -0300" stop="20220426000000 -0300" channel="DEPORTV">
+    <title lang="es">Automovilismo</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426120000 -0300" channel="DEPORTV">
+    <title lang="es">DeporTV</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220427000000 -0300" channel="DEPORTV">
+    <title lang="es">DeporTV</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424002000 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424002000 -0300" stop="20220424011200 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20220424011200 -0300" stop="20220424020200 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20220424020200 -0300" stop="20220424025500 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220424025500 -0300" stop="20220424034800 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220424034800 -0300" stop="20220424043800 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220424043800 -0300" stop="20220424052800 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424052800 -0300" stop="20220424061800 -0300" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20220424061800 -0300" stop="20220424070900 -0300" channel="Discovery Turbo">
+    <title lang="es">Mexicánicos ¡Marcha atrás!</title>
+  </programme>
+  <programme start="20220424070900 -0300" stop="20220424080000 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424085300 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220424085300 -0300" stop="20220424094300 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220424094300 -0300" stop="20220424100800 -0300" channel="Discovery Turbo">
+    <title lang="es">Las mecánicas</title>
+  </programme>
+  <programme start="20220424100800 -0300" stop="20220424105800 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424105800 -0300" stop="20220424114800 -0300" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20220424114800 -0300" stop="20220424123800 -0300" channel="Discovery Turbo">
+    <title lang="es">Mexicánicos ¡Marcha atrás!</title>
+  </programme>
+  <programme start="20220424123800 -0300" stop="20220424132800 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220424132800 -0300" stop="20220424141800 -0300" channel="Discovery Turbo">
+    <title lang="es">Diesel Dave</title>
+  </programme>
+  <programme start="20220424141800 -0300" stop="20220424150800 -0300" channel="Discovery Turbo">
+    <title lang="es">Diesel Dave</title>
+  </programme>
+  <programme start="20220424150800 -0300" stop="20220424155700 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20220424155700 -0300" stop="20220424164700 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424164700 -0300" stop="20220424173600 -0300" channel="Discovery Turbo">
+    <title lang="es">Overhaulin'</title>
+  </programme>
+  <programme start="20220424173600 -0300" stop="20220424182600 -0300" channel="Discovery Turbo">
+    <title lang="es">Overhaulin'</title>
+  </programme>
+  <programme start="20220424182600 -0300" stop="20220424191500 -0300" channel="Discovery Turbo">
+    <title lang="es">Buscando autos clásicos</title>
+  </programme>
+  <programme start="20220424191500 -0300" stop="20220424200800 -0300" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20220424200800 -0300" stop="20220424205900 -0300" channel="Discovery Turbo">
+    <title lang="es">De la chatarra a la pista</title>
+  </programme>
+  <programme start="20220424205900 -0300" stop="20220424212500 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220424212500 -0300" stop="20220424215200 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220424215200 -0300" stop="20220424224200 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220424224200 -0300" stop="20220424233200 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220424233200 -0300" stop="20220425000000 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425002200 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220425002200 -0300" stop="20220425011200 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220425011200 -0300" stop="20220425020200 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220425020200 -0300" stop="20220425025200 -0300" channel="Discovery Turbo">
+    <title lang="es">Alto octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20220425025200 -0300" stop="20220425034100 -0300" channel="Discovery Turbo">
+    <title lang="es">Alto octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20220425034100 -0300" stop="20220425043400 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220425043400 -0300" stop="20220425052500 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220425052500 -0300" stop="20220425061600 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20220425061600 -0300" stop="20220425070700 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20220425070700 -0300" stop="20220425080000 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425085100 -0300" channel="Discovery Turbo">
+    <title lang="es">Alto octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20220425085100 -0300" stop="20220425094400 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220425094400 -0300" stop="20220425103500 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220425103500 -0300" stop="20220425112600 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20220425112600 -0300" stop="20220425121700 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20220425121700 -0300" stop="20220425131000 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220425131000 -0300" stop="20220425140300 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220425140300 -0300" stop="20220425145400 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220425145400 -0300" stop="20220425154500 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20220425154500 -0300" stop="20220425163600 -0300" channel="Discovery Turbo">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+  <programme start="20220425163600 -0300" stop="20220425172700 -0300" channel="Discovery Turbo">
+    <title lang="es">Mexicánicos ¡Marcha atrás!</title>
+  </programme>
+  <programme start="20220425172700 -0300" stop="20220425181800 -0300" channel="Discovery Turbo">
+    <title lang="es">Diesel Dave</title>
+  </programme>
+  <programme start="20220425181800 -0300" stop="20220425190900 -0300" channel="Discovery Turbo">
+    <title lang="es">Cambio de velocidad con Aaron Kaufman</title>
+  </programme>
+  <programme start="20220425190900 -0300" stop="20220425200000 -0300" channel="Discovery Turbo">
+    <title lang="es">Alto octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425205100 -0300" channel="Discovery Turbo">
+    <title lang="es">De la chatarra a la pista</title>
+  </programme>
+  <programme start="20220425205100 -0300" stop="20220425214300 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220425214300 -0300" stop="20220425223500 -0300" channel="Discovery Turbo">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+  <programme start="20220425223500 -0300" stop="20220425232600 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: noches de competencia</title>
+  </programme>
+  <programme start="20220425232600 -0300" stop="20220426000000 -0300" channel="Discovery Turbo">
+    <title lang="es">ADN mecánico recargado</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426001700 -0300" channel="Discovery Turbo">
+    <title lang="es">ADN mecánico recargado</title>
+  </programme>
+  <programme start="20220426001700 -0300" stop="20220426010800 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220426010800 -0300" stop="20220426015800 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220426015800 -0300" stop="20220426022800 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220426022800 -0300" stop="20220426025800 -0300" channel="Discovery Turbo">
+    <title lang="es">Club Custom Brasil</title>
+  </programme>
+  <programme start="20220426025800 -0300" stop="20220426034900 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426034900 -0300" stop="20220426044000 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426044000 -0300" stop="20220426053000 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426053000 -0300" stop="20220426062000 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426062000 -0300" stop="20220426071000 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426071000 -0300" stop="20220426080000 -0300" channel="Discovery Turbo">
+    <title lang="es">Alto octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426085100 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426085100 -0300" stop="20220426094200 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426094200 -0300" stop="20220426103300 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426103300 -0300" stop="20220426112400 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426112400 -0300" stop="20220426121400 -0300" channel="Discovery Turbo">
+    <title lang="es">El dúo mecánico</title>
+  </programme>
+  <programme start="20220426121400 -0300" stop="20220426130400 -0300" channel="Discovery Turbo">
+    <title lang="es">Alto octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20220426130400 -0300" stop="20220426135400 -0300" channel="Discovery Turbo">
+    <title lang="es">Alto octanaje en Las Vegas</title>
+  </programme>
+  <programme start="20220426135400 -0300" stop="20220426144700 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220426144700 -0300" stop="20220426153700 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas</title>
+  </programme>
+  <programme start="20220426153700 -0300" stop="20220426162800 -0300" channel="Discovery Turbo">
+    <title lang="es">Autos renovados</title>
+  </programme>
+  <programme start="20220426162800 -0300" stop="20220426171800 -0300" channel="Discovery Turbo">
+    <title lang="es">Carreras prohibidas: Memphis</title>
+  </programme>
+  <programme start="20220426171800 -0300" stop="20220426181200 -0300" channel="Discovery Turbo">
+    <title lang="es">West Coast Customs</title>
+  </programme>
+  <programme start="20220426181200 -0300" stop="20220426190600 -0300" channel="Discovery Turbo">
+    <title lang="es">West Coast Customs</title>
+  </programme>
+  <programme start="20220426190600 -0300" stop="20220426200000 -0300" channel="Discovery Turbo">
+    <title lang="es">West Coast Customs</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426205400 -0300" channel="Discovery Turbo">
+    <title lang="es">Invasión de garajes</title>
+  </programme>
+  <programme start="20220426205400 -0300" stop="20220426214600 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220426214600 -0300" stop="20220426223800 -0300" channel="Discovery Turbo">
+    <title lang="es">Texas Metal</title>
+  </programme>
+  <programme start="20220426223800 -0300" stop="20220426233100 -0300" channel="Discovery Turbo">
+    <title lang="es">Chatarra de oro</title>
+  </programme>
+  <programme start="20220426233100 -0300" stop="20220427000000 -0300" channel="Discovery Turbo">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424020000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424030000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424040000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424045500 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424052500 -0300" channel="ESPN">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424052500 -0300" stop="20220424060000 -0300" channel="ESPN">
+    <title lang="es">F Táctico</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424062500 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424062500 -0300" stop="20220424070000 -0300" channel="ESPN">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424080000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424082000 -0300" channel="ESPN">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424082000 -0300" stop="20220424102500 -0300" channel="ESPN">
+    <title lang="es">Premier League</title>
+  </programme>
+  <programme start="20220424102500 -0300" stop="20220424105000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424105000 -0300" stop="20220424125500 -0300" channel="ESPN">
+    <title lang="es">Premier League</title>
+  </programme>
+  <programme start="20220424125500 -0300" stop="20220424132000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424132000 -0300" stop="20220424152500 -0300" channel="ESPN">
+    <title lang="es">Premier League</title>
+  </programme>
+  <programme start="20220424152500 -0300" stop="20220424155000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424155000 -0300" stop="20220424175500 -0300" channel="ESPN">
+    <title lang="es">LaLiga</title>
+  </programme>
+  <programme start="20220424175500 -0300" stop="20220425000000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="ESPN">
+    <title lang="es">F Nacional</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425020000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425030000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425040000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425045700 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425045700 -0300" stop="20220425055200 -0300" channel="ESPN">
+    <title lang="es">Compacto - LaLiga</title>
+  </programme>
+  <programme start="20220425055200 -0300" stop="20220425065000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425065000 -0300" stop="20220425072000 -0300" channel="ESPN">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425072000 -0300" stop="20220425092500 -0300" channel="ESPN">
+    <title lang="es">Serie A</title>
+  </programme>
+  <programme start="20220425092500 -0300" stop="20220425095000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425095000 -0300" stop="20220425115500 -0300" channel="ESPN">
+    <title lang="es">Premier League</title>
+  </programme>
+  <programme start="20220425115500 -0300" stop="20220425122000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425122000 -0300" stop="20220425142500 -0300" channel="ESPN">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425142500 -0300" stop="20220425155000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425155000 -0300" stop="20220425175500 -0300" channel="ESPN">
+    <title lang="es">LaLiga</title>
+  </programme>
+  <programme start="20220425175500 -0300" stop="20220425233000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="ESPN">
+    <title lang="es">ESPN F10</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426010000 -0300" channel="ESPN">
+    <title lang="es">ESPN F10</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426023000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426023000 -0300" stop="20220426040000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426050000 -0300" channel="ESPN">
+    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426060000 -0300" channel="ESPN">
+    <title lang="es">Simplemente fútbol</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426063000 -0300" channel="ESPN">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220426063000 -0300" stop="20220426080000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426120000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426130000 -0300" channel="ESPN">
+    <title lang="es">ESPN F12</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426150000 -0300" channel="ESPN">
+    <title lang="es">ESPN F90 - Primera edición</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426170000 -0300" channel="ESPN">
+    <title lang="es">ESPN F360</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426190000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426210000 -0300" channel="ESPN">
+    <title lang="es">Equipo F</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426220000 -0300" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426230000 -0300" channel="ESPN">
+    <title lang="es">Equipo F</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220427000000 -0300" channel="ESPN">
+    <title lang="es">ESPN F10</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424003000 -0300" channel="ESPN Extra">
+    <title lang="es">Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220424003000 -0300" stop="20220424010000 -0300" channel="ESPN Extra">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424030000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424040000 -0300" channel="ESPN Extra">
+    <title lang="es">PGA Tour Highlights - Zurich Classic of New Orlean</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424050000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424060000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424070000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424073000 -0300" channel="ESPN Extra">
+    <title lang="es">Serie A - Preview Show</title>
+  </programme>
+  <programme start="20220424073000 -0300" stop="20220424120000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424123000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424123000 -0300" stop="20220424130000 -0300" channel="ESPN Extra">
+    <title lang="es">A.T.P. Tour Magazine</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424143000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424143000 -0300" stop="20220424150000 -0300" channel="ESPN Extra">
+    <title lang="es">Acción de la N.B.A.</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424160000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424190000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424210000 -0300" channel="ESPN Extra">
+    <title lang="es">Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424220000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220425000000 -0300" channel="ESPN Extra">
+    <title lang="es">Serie A</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425020000 -0300" channel="ESPN Extra">
+    <title lang="es">Serie A</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425030000 -0300" channel="ESPN Extra">
+    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425033000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425033000 -0300" stop="20220425040000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425080000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425090000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425093000 -0300" channel="ESPN Extra">
+    <title lang="es">Acción de la N.B.A.</title>
+  </programme>
+  <programme start="20220425093000 -0300" stop="20220425120000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425140000 -0300" channel="ESPN Extra">
+    <title lang="es">Súper Liga Americana de Rugby</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425220000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425233000 -0300" channel="ESPN Extra">
+    <title lang="es">Serie A</title>
+  </programme>
+  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="ESPN Extra">
+    <title lang="es">Acción de la N.B.A.</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426020000 -0300" channel="ESPN Extra">
+    <title lang="es">Serie A</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426030000 -0300" channel="ESPN Extra">
+    <title lang="es">World Series of Poker</title>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426050000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426060000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426080000 -0300" channel="ESPN Extra">
+    <title lang="es">Serie A</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426100000 -0300" channel="ESPN Extra">
+    <title lang="es">Serie A</title>
+  </programme>
+  <programme start="20220426100000 -0300" stop="20220426120000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426130000 -0300" channel="ESPN Extra">
+    <title lang="es">Súper Liga Americana de Rugby</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426150000 -0300" channel="ESPN Extra">
+    <title lang="es">Rugby de Inglaterra - Premiership</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426163000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426163000 -0300" stop="20220426170000 -0300" channel="ESPN Extra">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426173000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426173000 -0300" stop="20220426180000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN Compact - Serie A</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426183000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20220426183000 -0300" stop="20220426190000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426230000 -0300" channel="ESPN Extra">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220426233000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20220426233000 -0300" stop="20220427000000 -0300" channel="ESPN Extra">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424013000 -0300" channel="ESPN 2">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424013000 -0300" stop="20220424020000 -0300" channel="ESPN 2">
+    <title lang="es">Acción de la N.B.A.</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424030000 -0300" channel="ESPN 2">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424040000 -0300" channel="ESPN 2">
+    <title lang="es">F Táctico</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424050000 -0300" channel="ESPN 2">
+    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424060000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424063000 -0300" channel="ESPN 2">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220424063000 -0300" stop="20220424070000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424080000 -0300" channel="ESPN 2">
+    <title lang="es">F Táctico</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424090000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424093000 -0300" channel="ESPN 2">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220424093000 -0300" stop="20220424100000 -0300" channel="ESPN 2">
+    <title lang="es">Spirit of Yachting</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424102000 -0300" channel="ESPN 2">
+    <title lang="es">Inter campeón - Serie A 2020-2021</title>
+  </programme>
+  <programme start="20220424102000 -0300" stop="20220424122500 -0300" channel="ESPN 2">
+    <title lang="es">Bundesliga</title>
+  </programme>
+  <programme start="20220424122500 -0300" stop="20220424132000 -0300" channel="ESPN 2">
+    <title lang="es">Simplemente fútbol</title>
+  </programme>
+  <programme start="20220424132000 -0300" stop="20220424152500 -0300" channel="ESPN 2">
+    <title lang="es">Bundesliga</title>
+  </programme>
+  <programme start="20220424152500 -0300" stop="20220424174000 -0300" channel="ESPN 2">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424174000 -0300" stop="20220424180500 -0300" channel="ESPN 2">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220424180500 -0300" stop="20220424190000 -0300" channel="ESPN 2">
+    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424210000 -0300" channel="ESPN 2">
+    <title lang="es">LaLiga</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424220000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220425000000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425020000 -0300" channel="ESPN 2">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425040000 -0300" channel="ESPN 2">
+    <title lang="es">Tour de Romandie</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425050000 -0300" channel="ESPN 2">
+    <title lang="es">Compacto - Premier League</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425060000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425130000 -0300" channel="ESPN 2">
+    <title lang="es">A.T.P. World Tour Masters 1000 - Mutua Madrid Open</title>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425140000 -0300" channel="ESPN 2">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425163000 -0300" channel="ESPN 2">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220425163000 -0300" stop="20220425190000 -0300" channel="ESPN 2">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425193000 -0300" channel="ESPN 2">
+    <title lang="es">Acción de la N.B.A.</title>
+  </programme>
+  <programme start="20220425193000 -0300" stop="20220425200000 -0300" channel="ESPN 2">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425210000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Compact - Serie A</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425220000 -0300" channel="ESPN 2">
+    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220426000000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426013000 -0300" channel="ESPN 2">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220426013000 -0300" stop="20220426040000 -0300" channel="ESPN 2">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426050000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426060000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426120000 -0300" channel="ESPN 2">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426160000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426172500 -0300" channel="ESPN 2">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220426172500 -0300" stop="20220426190000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter+</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426220000 -0300" channel="ESPN 2">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426230000 -0300" channel="ESPN 2">
+    <title lang="es">El show de la Fórmula 1</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220427000000 -0300" channel="ESPN 2">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424003000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220424003000 -0300" stop="20220424013000 -0300" channel="ESPN 3">
+    <title lang="es">World Series of Poker</title>
+  </programme>
+  <programme start="20220424013000 -0300" stop="20220424020000 -0300" channel="ESPN 3">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424030000 -0300" channel="ESPN 3">
+    <title lang="es">F Táctico</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424040000 -0300" channel="ESPN 3">
+    <title lang="es">Goles de Europa</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424050000 -0300" channel="ESPN 3">
+    <title lang="es">Simplemente fútbol</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424060000 -0300" channel="ESPN 3">
+    <title lang="es">Resumen - UEFA Europa League</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424070000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424073000 -0300" channel="ESPN 3">
+    <title lang="es">GP1</title>
+  </programme>
+  <programme start="20220424073000 -0300" stop="20220424090000 -0300" channel="ESPN 3">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424100000 -0300" channel="ESPN 3">
+    <title lang="es">Resumen - UEFA Europa League</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN W</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="ESPN 3">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424120000 -0300" channel="ESPN 3">
+    <title lang="es">F Táctico</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424130000 -0300" channel="ESPN 3">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424133000 -0300" channel="ESPN 3">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220424133000 -0300" stop="20220424140000 -0300" channel="ESPN 3">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424190000 -0300" channel="ESPN 3">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424200000 -0300" channel="ESPN 3">
+    <title lang="es">Moto GP Qualifying</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424210000 -0300" channel="ESPN 3">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424220000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN Compact - Serie A</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424230000 -0300" channel="ESPN 3">
+    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="ESPN 3">
+    <title lang="es">Compacto - LaLiga</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="ESPN 3">
+    <title lang="es">Compacto - Premier League</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425013000 -0300" channel="ESPN 3">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425020000 -0300" channel="ESPN 3">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425023000 -0300" channel="ESPN 3">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20220425023000 -0300" stop="20220425030000 -0300" channel="ESPN 3">
+    <title lang="es">Acción de la N.B.A.</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425054500 -0300" channel="ESPN 3">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425054500 -0300" stop="20220425100000 -0300" channel="ESPN 3">
+    <title lang="es">Moto GP</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425110000 -0300" channel="ESPN 3">
+    <title lang="es">Compacto - Ligue 1 Uber Eats</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425120000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN Compact - Serie A</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425140000 -0300" channel="ESPN 3">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425190000 -0300" channel="ESPN 3">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425193000 -0300" channel="ESPN 3">
+    <title lang="es">Aguas arriba</title>
+  </programme>
+  <programme start="20220425193000 -0300" stop="20220425200000 -0300" channel="ESPN 3">
+    <title lang="es">Béisbol esta noche</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425230000 -0300" channel="ESPN 3">
+    <title lang="es">Béisbol dominical de ESPN</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220426000000 -0300" channel="ESPN 3">
+    <title lang="es">Compacto - Premier League</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426120000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN 3</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220427000000 -0300" channel="ESPN 3">
+    <title lang="es">ESPN 3</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424030000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424050000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424070000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424090000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424110000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424130000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424150000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424170000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424190000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424210000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424230000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425120000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Eventos</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220426000000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Eventos</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426120000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Eventos</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220427000000 -0300" channel="FOX SPORTS PREMIUM">
+    <title lang="es">Eventos</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424020000 -0300" channel="Fox Sports">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424030000 -0300" channel="Fox Sports">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424050000 -0300" channel="Fox Sports">
+    <title lang="es">UEFA Champions League</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424070000 -0300" channel="Fox Sports">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424080000 -0300" channel="Fox Sports">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424090000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424103000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="Fox Sports">
+    <title lang="es">Momentos eternos</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424120000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424150000 -0300" channel="Fox Sports">
+    <title lang="es">UFC Reloaded</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424170000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports clásico</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424200000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424230000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425120000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220426000000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426120000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220427000000 -0300" channel="Fox Sports">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="Fox Sports 2">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424030000 -0300" channel="Fox Sports 2">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424050000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424070000 -0300" channel="Fox Sports 2">
+    <title lang="es">Torneo de Primera División</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424080000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424090000 -0300" channel="Fox Sports 2">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424110000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424120000 -0300" channel="Fox Sports 2">
+    <title lang="es">UFC Unleashed</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424140000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports 2</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424150000 -0300" channel="Fox Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424170000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports 2</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424180000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424190000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424200000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424210000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424220000 -0300" channel="Fox Sports 2">
+    <title lang="es">Review</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424230000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports clásico</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports clásico</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425120000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports 2</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220426000000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports 2</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426120000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports 2</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220427000000 -0300" channel="Fox Sports 2">
+    <title lang="es">Fox Sports 2</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="Fox Sports 3">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424030000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424050000 -0300" channel="Fox Sports 3">
+    <title lang="es">CONMEBOL Libertadores</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424070000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424080000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424110000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="Fox Sports 3">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424133000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20220424133000 -0300" stop="20220424153000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424153000 -0300" stop="20220424160000 -0300" channel="Fox Sports 3">
+    <title lang="es">Momentos eternos</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424180000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424190000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424200000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424230000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Raw</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220424233000 -0300" channel="Fox Sports 3">
+    <title lang="es">+Motor</title>
+  </programme>
+  <programme start="20220424233000 -0300" stop="20220425000000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425013000 -0300" channel="Fox Sports 3">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425120000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220426000000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426120000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220427000000 -0300" channel="Fox Sports 3">
+    <title lang="es">Fox Sports 3</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424003000 -0300" channel="El Garage">
+    <title lang="es">Cambio de rasante</title>
+  </programme>
+  <programme start="20220424003000 -0300" stop="20220424010000 -0300" channel="El Garage">
+    <title lang="es">Chatas furiosas</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424020000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424023000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20220424023000 -0300" stop="20220424030000 -0300" channel="El Garage">
+    <title lang="es">Michelin Le Mans Cup</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424033000 -0300" channel="El Garage">
+    <title lang="es">Mundo náutica</title>
+  </programme>
+  <programme start="20220424033000 -0300" stop="20220424040000 -0300" channel="El Garage">
+    <title lang="es">Autocosmos</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424044500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20220424044500 -0300" stop="20220424050000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424053000 -0300" channel="El Garage">
+    <title lang="es">Tour European Rally</title>
+  </programme>
+  <programme start="20220424053000 -0300" stop="20220424060000 -0300" channel="El Garage">
+    <title lang="es">Mobil 1, the Grid</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424063000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20220424063000 -0300" stop="20220424070000 -0300" channel="El Garage">
+    <title lang="es">Tranka Style</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424073000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20220424073000 -0300" stop="20220424080000 -0300" channel="El Garage">
+    <title lang="es">Crash Test</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424090000 -0300" channel="El Garage">
+    <title lang="es">Campeonato Español Cetelem de Superbike</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424093000 -0300" channel="El Garage">
+    <title lang="es">Sub 99</title>
+  </programme>
+  <programme start="20220424093000 -0300" stop="20220424100000 -0300" channel="El Garage">
+    <title lang="es">Motorweek</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="El Garage">
+    <title lang="es">eMallorca Challenge</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="El Garage">
+    <title lang="es">Como allá</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="El Garage">
+    <title lang="es">El expreso TV</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424120000 -0300" channel="El Garage">
+    <title lang="es">Autoescaner</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424130000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424133000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20220424133000 -0300" stop="20220424140000 -0300" channel="El Garage">
+    <title lang="es">Dossier</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424143000 -0300" channel="El Garage">
+    <title lang="es">Un buen plan</title>
+  </programme>
+  <programme start="20220424143000 -0300" stop="20220424150000 -0300" channel="El Garage">
+    <title lang="es">Zona utilitarios</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424153000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220424153000 -0300" stop="20220424160000 -0300" channel="El Garage">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424163000 -0300" channel="El Garage">
+    <title lang="es">Paralelo cero</title>
+  </programme>
+  <programme start="20220424163000 -0300" stop="20220424173000 -0300" channel="El Garage">
+    <title lang="es">Auto al día</title>
+  </programme>
+  <programme start="20220424173000 -0300" stop="20220424180000 -0300" channel="El Garage">
+    <title lang="es">Tu tren</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424183000 -0300" channel="El Garage">
+    <title lang="es">Relatos de viajeros</title>
+  </programme>
+  <programme start="20220424183000 -0300" stop="20220424193000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220424193000 -0300" stop="20220424200000 -0300" channel="El Garage">
+    <title lang="es">E-Argentina</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424203000 -0300" channel="El Garage">
+    <title lang="es">El ángel copiloto</title>
+  </programme>
+  <programme start="20220424203000 -0300" stop="20220424210000 -0300" channel="El Garage">
+    <title lang="es">Mundo náutica</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424213000 -0300" channel="El Garage">
+    <title lang="es">Museum</title>
+  </programme>
+  <programme start="20220424213000 -0300" stop="20220424220000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424230000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220424233000 -0300" channel="El Garage">
+    <title lang="es">Motos Garage TV</title>
+  </programme>
+  <programme start="20220424233000 -0300" stop="20220425000000 -0300" channel="El Garage">
+    <title lang="es">Fast Zone</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425003000 -0300" channel="El Garage">
+    <title lang="es">Autocosmos</title>
+  </programme>
+  <programme start="20220425003000 -0300" stop="20220425010000 -0300" channel="El Garage">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425013000 -0300" channel="El Garage">
+    <title lang="es">Como allá</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425020000 -0300" channel="El Garage">
+    <title lang="es">Fórmula 1 - Pit Lane</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425023000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20220425023000 -0300" stop="20220425030000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425033000 -0300" channel="El Garage">
+    <title lang="es">Motos Garage TV</title>
+  </programme>
+  <programme start="20220425033000 -0300" stop="20220425040000 -0300" channel="El Garage">
+    <title lang="es">Clásicos y especiales</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425050000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425053000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220425053000 -0300" stop="20220425063000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20220425063000 -0300" stop="20220425070000 -0300" channel="El Garage">
+    <title lang="es">Crash Test</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425080000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425083000 -0300" channel="El Garage">
+    <title lang="es">Planet MTB</title>
+  </programme>
+  <programme start="20220425083000 -0300" stop="20220425090000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425093000 -0300" channel="El Garage">
+    <title lang="es">Efe 1</title>
+  </programme>
+  <programme start="20220425093000 -0300" stop="20220425100000 -0300" channel="El Garage">
+    <title lang="es">Planeta camión</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425110000 -0300" channel="El Garage">
+    <title lang="es">Campeonato Español Cetelem de Superbike</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425113000 -0300" channel="El Garage">
+    <title lang="es">La conquista</title>
+  </programme>
+  <programme start="20220425113000 -0300" stop="20220425120000 -0300" channel="El Garage">
+    <title lang="es">GP Confidential</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425123000 -0300" channel="El Garage">
+    <title lang="es">Off Road Magazine</title>
+  </programme>
+  <programme start="20220425123000 -0300" stop="20220425130000 -0300" channel="El Garage">
+    <title lang="es">RAM</title>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425133000 -0300" channel="El Garage">
+    <title lang="es">España Motoracing</title>
+  </programme>
+  <programme start="20220425133000 -0300" stop="20220425140000 -0300" channel="El Garage">
+    <title lang="es">Delirio motriz</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425143000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20220425143000 -0300" stop="20220425150000 -0300" channel="El Garage">
+    <title lang="es">Esloras</title>
+  </programme>
+  <programme start="20220425150000 -0300" stop="20220425153000 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20220425153000 -0300" stop="20220425160000 -0300" channel="El Garage">
+    <title lang="es">Cambio de rasante</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425163000 -0300" channel="El Garage">
+    <title lang="es">Verko Carreras TV</title>
+  </programme>
+  <programme start="20220425163000 -0300" stop="20220425170000 -0300" channel="El Garage">
+    <title lang="es">Gente de fierro</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425173000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20220425173000 -0300" stop="20220425180000 -0300" channel="El Garage">
+    <title lang="es">Grandes campeones</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425183000 -0300" channel="El Garage">
+    <title lang="es">Body &amp; Paint Shops</title>
+  </programme>
+  <programme start="20220425183000 -0300" stop="20220425190000 -0300" channel="El Garage">
+    <title lang="es">Top Motor</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425193000 -0300" channel="El Garage">
+    <title lang="es">Autotécnica</title>
+  </programme>
+  <programme start="20220425193000 -0300" stop="20220425200000 -0300" channel="El Garage">
+    <title lang="es">AutoXtreme</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425203000 -0300" channel="El Garage">
+    <title lang="es">Pro10 Elite</title>
+  </programme>
+  <programme start="20220425203000 -0300" stop="20220425213000 -0300" channel="El Garage">
+    <title lang="es">Auto al día</title>
+  </programme>
+  <programme start="20220425213000 -0300" stop="20220425221500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20220425221500 -0300" stop="20220425223000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20220425223000 -0300" stop="20220425230000 -0300" channel="El Garage">
+    <title lang="es">Historias de campeones</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220425233000 -0300" channel="El Garage">
+    <title lang="es">Rock and Road</title>
+  </programme>
+  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="El Garage">
+    <title lang="es">Franky Mostro</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426003000 -0300" channel="El Garage">
+    <title lang="es">Ferrari Challenge. North America</title>
+  </programme>
+  <programme start="20220426003000 -0300" stop="20220426010000 -0300" channel="El Garage">
+    <title lang="es">El potro 4x4</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426020000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426023000 -0300" channel="El Garage">
+    <title lang="es">Viajero errante</title>
+  </programme>
+  <programme start="20220426023000 -0300" stop="20220426030000 -0300" channel="El Garage">
+    <title lang="es">El camino a la velocidad</title>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426033000 -0300" channel="El Garage">
+    <title lang="es">Customizados</title>
+  </programme>
+  <programme start="20220426033000 -0300" stop="20220426040000 -0300" channel="El Garage">
+    <title lang="es">Fan's Club</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426050000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426054500 -0300" channel="El Garage">
+    <title lang="es">El Garage</title>
+  </programme>
+  <programme start="20220426054500 -0300" stop="20220426060000 -0300" channel="El Garage">
+    <title lang="es">Mech Tech Racing</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426063000 -0300" channel="El Garage">
+    <title lang="es">Historias de campeones</title>
+  </programme>
+  <programme start="20220426063000 -0300" stop="20220426070000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426073000 -0300" channel="El Garage">
+    <title lang="es">Planet MTB</title>
+  </programme>
+  <programme start="20220426073000 -0300" stop="20220426080000 -0300" channel="El Garage">
+    <title lang="es">Esloras</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426083000 -0300" channel="El Garage">
+    <title lang="es">Dossier</title>
+  </programme>
+  <programme start="20220426083000 -0300" stop="20220426090000 -0300" channel="El Garage">
+    <title lang="es">Tour European Rally</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426093000 -0300" channel="El Garage">
+    <title lang="es">Off Road Magazine</title>
+  </programme>
+  <programme start="20220426093000 -0300" stop="20220426100000 -0300" channel="El Garage">
+    <title lang="es">Paralelo cero</title>
+  </programme>
+  <programme start="20220426100000 -0300" stop="20220426103000 -0300" channel="El Garage">
+    <title lang="es">Autotécnica</title>
+  </programme>
+  <programme start="20220426103000 -0300" stop="20220426110000 -0300" channel="El Garage">
+    <title lang="es">Mobil 1, the Grid</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426113000 -0300" channel="El Garage">
+    <title lang="es">Chopper's World</title>
+  </programme>
+  <programme start="20220426113000 -0300" stop="20220426120000 -0300" channel="El Garage">
+    <title lang="es">Los Piyus, ruta de los faros</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426130000 -0300" channel="El Garage">
+    <title lang="es">Campeonato Español Cetelem de Superbike</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426133000 -0300" channel="El Garage">
+    <title lang="es">Pedalearg</title>
+  </programme>
+  <programme start="20220426133000 -0300" stop="20220426140000 -0300" channel="El Garage">
+    <title lang="es">Tu tren</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426143000 -0300" channel="El Garage">
+    <title lang="es">Volando por TV</title>
+  </programme>
+  <programme start="20220426143000 -0300" stop="20220426150000 -0300" channel="El Garage">
+    <title lang="es">Motorweek</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426153000 -0300" channel="El Garage">
+    <title lang="es">Ella al extremo</title>
+  </programme>
+  <programme start="20220426153000 -0300" stop="20220426160000 -0300" channel="El Garage">
+    <title lang="es">Jaguar I-Pace E Trophy</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426163000 -0300" channel="El Garage">
+    <title lang="es">Michelin Le Mans Cup</title>
+  </programme>
+  <programme start="20220426163000 -0300" stop="20220426170000 -0300" channel="El Garage">
+    <title lang="es">Cambio de rasante</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426173000 -0300" channel="El Garage">
+    <title lang="es">Museum</title>
+  </programme>
+  <programme start="20220426173000 -0300" stop="20220426180000 -0300" channel="El Garage">
+    <title lang="es">Mundo móvil</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426183000 -0300" channel="El Garage">
+    <title lang="es">AutoXtreme</title>
+  </programme>
+  <programme start="20220426183000 -0300" stop="20220426190000 -0300" channel="El Garage">
+    <title lang="es">Motorbikes</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426193000 -0300" channel="El Garage">
+    <title lang="es">El aventurero</title>
+  </programme>
+  <programme start="20220426193000 -0300" stop="20220426200000 -0300" channel="El Garage">
+    <title lang="es">Autotécnica</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426203000 -0300" channel="El Garage">
+    <title lang="es">Crash Test</title>
+  </programme>
+  <programme start="20220426203000 -0300" stop="20220426210000 -0300" channel="El Garage">
+    <title lang="es">Autoescaner</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426220000 -0300" channel="El Garage">
+    <title lang="es">Mesa de campeones</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426230000 -0300" channel="El Garage">
+    <title lang="es">Retromobile</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220427000000 -0300" channel="El Garage">
+    <title lang="es">Holy Wheels</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424020000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424023000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220424023000 -0300" stop="20220424053000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220424053000 -0300" stop="20220424060000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424090000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424093000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220424093000 -0300" stop="20220424100000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424133000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220424133000 -0300" stop="20220424140000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central Pre-Game</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424190000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424200000 -0300" channel="The Golf Channel">
+    <title lang="es">Arnie and Me</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424210000 -0300" channel="The Golf Channel">
+    <title lang="es">Jack</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424220000 -0300" channel="The Golf Channel">
+    <title lang="es">Jack</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424230000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425040000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425050000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425060000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425070000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425073000 -0300" channel="The Golf Channel">
+    <title lang="es">One Shot Away</title>
+  </programme>
+  <programme start="20220425073000 -0300" stop="20220425083000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220425083000 -0300" stop="20220425133000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220425133000 -0300" stop="20220425140000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central Pre-Game</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425190000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425200000 -0300" channel="The Golf Channel">
+    <title lang="es">Jack</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425210000 -0300" channel="The Golf Channel">
+    <title lang="es">Hogan</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425220000 -0300" channel="The Golf Channel">
+    <title lang="es">Hogan</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425230000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220426000000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426040000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426050000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426060000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426070000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426080000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426130000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426150000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Today</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426170000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Today</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426180000 -0300" channel="The Golf Channel">
+    <title lang="es">Golf Central</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426230000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220427000000 -0300" channel="The Golf Channel">
+    <title lang="es">PGA TOUR - Mexico Open at Vidanta</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424013000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220424013000 -0300" stop="20220424030000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424043000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220424043000 -0300" stop="20220424050000 -0300" channel="NBA TV">
+    <title lang="es">BAL Action</title>
+  </programme>
+  <programme start="20220424050000 -0300" stop="20220424053000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424053000 -0300" stop="20220424060000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424060000 -0300" stop="20220424063000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424063000 -0300" stop="20220424070000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424073000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424073000 -0300" stop="20220424080000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424083000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424083000 -0300" stop="20220424090000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424090000 -0300" stop="20220424093000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424093000 -0300" stop="20220424100000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424113000 -0300" stop="20220424120000 -0300" channel="NBA TV">
+    <title lang="es">NBA GameTime</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424130000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424140000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424150000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424150000 -0300" stop="20220424153000 -0300" channel="NBA TV">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20220424153000 -0300" stop="20220424160000 -0300" channel="NBA TV">
+    <title lang="es">BAL Action</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424170000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424170000 -0300" stop="20220424180000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424190000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424190000 -0300" stop="20220424200000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424210000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424220000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424223000 -0300" channel="NBA TV">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20220424223000 -0300" stop="20220425000000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425023000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425023000 -0300" stop="20220425040000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425053000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425053000 -0300" stop="20220425070000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425073000 -0300" channel="NBA TV">
+    <title lang="es">BAL Action</title>
+  </programme>
+  <programme start="20220425073000 -0300" stop="20220425080000 -0300" channel="NBA TV">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425090000 -0300" channel="NBA TV">
+    <title lang="es">Inside the NBA</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425103000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425103000 -0300" stop="20220425110000 -0300" channel="NBA TV">
+    <title lang="es">BAL Action</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425120000 -0300" channel="NBA TV">
+    <title lang="es">Inside the NBA</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425130000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425140000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425150000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220425150000 -0300" stop="20220425153000 -0300" channel="NBA TV">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20220425153000 -0300" stop="20220425160000 -0300" channel="NBA TV">
+    <title lang="es">BAL Action</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425170000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425180000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425190000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425203000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425203000 -0300" stop="20220425220000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425233000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426010000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426023000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220426023000 -0300" stop="20220426040000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426053000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220426053000 -0300" stop="20220426070000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426073000 -0300" channel="NBA TV">
+    <title lang="es">BAL Action</title>
+  </programme>
+  <programme start="20220426073000 -0300" stop="20220426080000 -0300" channel="NBA TV">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426090000 -0300" channel="NBA TV">
+    <title lang="es">Inside the NBA</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426103000 -0300" channel="NBA TV">
+    <title lang="es">Playoff Central</title>
+  </programme>
+  <programme start="20220426103000 -0300" stop="20220426110000 -0300" channel="NBA TV">
+    <title lang="es">BAL Action</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426120000 -0300" channel="NBA TV">
+    <title lang="es">Inside the NBA</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426130000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220427000000 -0300" channel="NBA TV">
+    <title lang="es">NBA</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Sports Radio</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424030000 -0300" channel="TNT SPORTS">
+    <title lang="es">Palo y afuera</title>
+  </programme>
+  <programme start="20220424030000 -0300" stop="20220424040000 -0300" channel="TNT SPORTS">
+    <title lang="es">Identidades</title>
+  </programme>
+  <programme start="20220424040000 -0300" stop="20220424065000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424065000 -0300" stop="20220424085000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424085000 -0300" stop="20220424120000 -0300" channel="TNT SPORTS">
+    <title lang="es">Reserva - Copa de la Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424120000 -0300" stop="20220424140000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424160000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424180000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424200000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424230000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425030000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425050000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425060000 -0300" channel="TNT SPORTS">
+    <title lang="es">Copa Liga Profesional 2022</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425120000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Sports</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220426000000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Sports</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426120000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Sports</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220427000000 -0300" channel="TNT SPORTS">
+    <title lang="es">TNT Sports</title>
+  </programme>
+  <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220424010000 -0300" stop="20220424020000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando</title>
+  </programme>
+  <programme start="20220424020000 -0300" stop="20220424033000 -0300" channel="TyC Sports">
+    <title lang="es">Grand Slam de Antalya</title>
+  </programme>
+  <programme start="20220424033000 -0300" stop="20220424053000 -0300" channel="TyC Sports">
+    <title lang="es">Juegos Suramericanos de la juventud Rosario 2022</title>
+  </programme>
+  <programme start="20220424053000 -0300" stop="20220424070000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220424070000 -0300" stop="20220424080000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando - PGM</title>
+  </programme>
+  <programme start="20220424080000 -0300" stop="20220424110000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220424110000 -0300" stop="20220424130000 -0300" channel="TyC Sports">
+    <title lang="es">Básquet Liga Nacional</title>
+  </programme>
+  <programme start="20220424130000 -0300" stop="20220424140000 -0300" channel="TyC Sports">
+    <title lang="es">Uno contra uno</title>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424160000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220424160000 -0300" stop="20220424180000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando clasificación</title>
+  </programme>
+  <programme start="20220424180000 -0300" stop="20220424200000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220424200000 -0300" stop="20220424220000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424230000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220424230000 -0300" stop="20220425000000 -0300" channel="TyC Sports">
+    <title lang="es">Boxeo de primera</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425013000 -0300" channel="TyC Sports">
+    <title lang="es">Boxeo de primera</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425033000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220425033000 -0300" stop="20220425060000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425070000 -0300" channel="TyC Sports">
+    <title lang="es">Uno contra uno</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425073000 -0300" channel="TyC Sports">
+    <title lang="es">Upgrade Golf</title>
+  </programme>
+  <programme start="20220425073000 -0300" stop="20220425080000 -0300" channel="TyC Sports">
+    <title lang="es">Noveno chukker</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425100000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando categorías</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425130000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando</title>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425150000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220425150000 -0300" stop="20220425170000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425190000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425210000 -0300" channel="TyC Sports">
+    <title lang="es">Domingol</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425230000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220426000000 -0300" channel="TyC Sports">
+    <title lang="es">Paso a paso</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426010000 -0300" channel="TyC Sports">
+    <title lang="es">Paso a paso</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426013000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando</title>
+  </programme>
+  <programme start="20220426013000 -0300" stop="20220426030000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426050000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426070000 -0300" channel="TyC Sports">
+    <title lang="es">Paso a paso</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426090000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426110000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426120000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426140000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426160000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426190000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426210000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426230000 -0300" channel="TyC Sports">
+    <title lang="es">Torneo Malvinas Argentinas 2022</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220427000000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
   <programme start="20220424000000 -0300" stop="20220424005500 -0300" channel="ANIMAL PLANET HD">
     <title lang="es">Viajes salvajes con Andrew Ucles</title>
   </programme>
