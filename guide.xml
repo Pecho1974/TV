@@ -370,6 +370,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Trece.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Encuentro">
+    <display-name lang="es">Encuentro</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Encuentro.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Telefe">
     <display-name lang="es">Telefe</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telefe.png" />
@@ -383,6 +388,11 @@
   <channel id="A 24">
     <display-name lang="es">A 24</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/A 24.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Al Jazeera">
+    <display-name lang="es">Al Jazeera</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="C5N">
@@ -408,11 +418,6 @@
   <channel id="Todo Noticias">
     <display-name lang="es">Todo Noticias</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Todo Noticias.png" />
-    <url>http://www.buscadorcablevision.com.ar</url>
-  </channel>
-  <channel id="Encuentro">
-    <display-name lang="es">Encuentro</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Encuentro.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <programme start="20220425003500 -0300" stop="20220425013000 -0300" channel="A&amp;E Mundo">
@@ -21163,6 +21168,357 @@
   <programme start="20220427224500 -0300" stop="20220428000000 -0300" channel="El Trece">
     <title lang="es">El hotel de los famosos</title>
   </programme>
+  <programme start="20220425000000 -0300" stop="20220425003000 -0300" channel="Encuentro">
+    <title lang="es">Ellxs dicen</title>
+  </programme>
+  <programme start="20220425003000 -0300" stop="20220425010000 -0300" channel="Encuentro">
+    <title lang="es">Fechas que hicieron historia</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425013000 -0300" channel="Encuentro">
+    <title lang="es">Impriman la leyenda</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425023000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220425023000 -0300" stop="20220425030000 -0300" channel="Encuentro">
+    <title lang="es">Teatro abierto</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425033000 -0300" channel="Encuentro">
+    <title lang="es">Sirenas rock</title>
+  </programme>
+  <programme start="20220425033000 -0300" stop="20220425040000 -0300" channel="Encuentro">
+    <title lang="es">Cumbia de la buena</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425050000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425053000 -0300" channel="Encuentro">
+    <title lang="es">Ellxs dicen</title>
+  </programme>
+  <programme start="20220425053000 -0300" stop="20220425060000 -0300" channel="Encuentro">
+    <title lang="es">Fechas que hicieron historia</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425063000 -0300" channel="Encuentro">
+    <title lang="es">En el medio</title>
+  </programme>
+  <programme start="20220425063000 -0300" stop="20220425070000 -0300" channel="Encuentro">
+    <title lang="es">Presentes</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425080000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425090000 -0300" channel="Encuentro">
+    <title lang="es">Nuevo mundo</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425093000 -0300" channel="Encuentro">
+    <title lang="es">Memorias del frente</title>
+  </programme>
+  <programme start="20220425093000 -0300" stop="20220425103000 -0300" channel="Encuentro">
+    <title lang="es">Glaciares: Agua del futuro</title>
+  </programme>
+  <programme start="20220425103000 -0300" stop="20220425113000 -0300" channel="Encuentro">
+    <title lang="es">Encuentro en el estudio</title>
+  </programme>
+  <programme start="20220425113000 -0300" stop="20220425120000 -0300" channel="Encuentro">
+    <title lang="es">La tonga</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425133000 -0300" channel="Encuentro">
+    <title lang="es">Awka Liwen - Rebelde amanecer</title>
+  </programme>
+  <programme start="20220425133000 -0300" stop="20220425140000 -0300" channel="Encuentro">
+    <title lang="es">Mundos paralelos. Arte y física cuántica</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425141500 -0300" channel="Encuentro">
+    <title lang="es">Patagonia, tierra de dinosaurios</title>
+  </programme>
+  <programme start="20220425141500 -0300" stop="20220425143000 -0300" channel="Encuentro">
+    <title lang="es">Viajeros ciencia adentro</title>
+  </programme>
+  <programme start="20220425143000 -0300" stop="20220425150000 -0300" channel="Encuentro">
+    <title lang="es">Curiosidades de la naturaleza</title>
+  </programme>
+  <programme start="20220425150000 -0300" stop="20220425153000 -0300" channel="Encuentro">
+    <title lang="es">Sirenas rock</title>
+  </programme>
+  <programme start="20220425153000 -0300" stop="20220425160000 -0300" channel="Encuentro">
+    <title lang="es">Pequeños secretos de grandes cuadros</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425163000 -0300" channel="Encuentro">
+    <title lang="es">Teatro abierto</title>
+  </programme>
+  <programme start="20220425163000 -0300" stop="20220425170000 -0300" channel="Encuentro">
+    <title lang="es">2001. Acontecimiento argentino</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425180000 -0300" channel="Encuentro">
+    <title lang="es">Huellas de la UBA. 200 años de historia</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425190000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425193000 -0300" channel="Encuentro">
+    <title lang="es">Horizontes</title>
+  </programme>
+  <programme start="20220425193000 -0300" stop="20220425200000 -0300" channel="Encuentro">
+    <title lang="es">Mentira la verdad</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425203000 -0300" channel="Encuentro">
+    <title lang="es">Escrito en el aire</title>
+  </programme>
+  <programme start="20220425203000 -0300" stop="20220425210000 -0300" channel="Encuentro">
+    <title lang="es">Haylli, una memoria revelada</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425213000 -0300" channel="Encuentro">
+    <title lang="es">Ciencia a la carta</title>
+  </programme>
+  <programme start="20220425213000 -0300" stop="20220425220000 -0300" channel="Encuentro">
+    <title lang="es">Mi oficio. Mi historia</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425223000 -0300" channel="Encuentro">
+    <title lang="es">No binario</title>
+  </programme>
+  <programme start="20220425223000 -0300" stop="20220425230000 -0300" channel="Encuentro">
+    <title lang="es">Marcas en la piel</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220425233000 -0300" channel="Encuentro">
+    <title lang="es">La huella en la imagen</title>
+  </programme>
+  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="Encuentro">
+    <title lang="es">Glaciares</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426003000 -0300" channel="Encuentro">
+    <title lang="es">Escrito en el aire</title>
+  </programme>
+  <programme start="20220426003000 -0300" stop="20220426010000 -0300" channel="Encuentro">
+    <title lang="es">Haylli, una memoria revelada</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426013000 -0300" channel="Encuentro">
+    <title lang="es">Ciencia a la carta</title>
+  </programme>
+  <programme start="20220426013000 -0300" stop="20220426020000 -0300" channel="Encuentro">
+    <title lang="es">Horizontes</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426023000 -0300" channel="Encuentro">
+    <title lang="es">Mentira la verdad</title>
+  </programme>
+  <programme start="20220426023000 -0300" stop="20220426030000 -0300" channel="Encuentro">
+    <title lang="es">Mi oficio. Mi historia</title>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426033000 -0300" channel="Encuentro">
+    <title lang="es">No binario</title>
+  </programme>
+  <programme start="20220426033000 -0300" stop="20220426040000 -0300" channel="Encuentro">
+    <title lang="es">Marcas en la piel</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426043000 -0300" channel="Encuentro">
+    <title lang="es">La huella en la imagen</title>
+  </programme>
+  <programme start="20220426043000 -0300" stop="20220426050000 -0300" channel="Encuentro">
+    <title lang="es">Glaciares</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426053000 -0300" channel="Encuentro">
+    <title lang="es">Escrito en el aire</title>
+  </programme>
+  <programme start="20220426053000 -0300" stop="20220426060000 -0300" channel="Encuentro">
+    <title lang="es">Haylli, una memoria revelada</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426063000 -0300" channel="Encuentro">
+    <title lang="es">Ellxs dicen</title>
+  </programme>
+  <programme start="20220426063000 -0300" stop="20220426070000 -0300" channel="Encuentro">
+    <title lang="es">Fechas que hicieron historia</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426073000 -0300" channel="Encuentro">
+    <title lang="es">Impriman la leyenda</title>
+  </programme>
+  <programme start="20220426073000 -0300" stop="20220426083000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220426083000 -0300" stop="20220426090000 -0300" channel="Encuentro">
+    <title lang="es">Teatro abierto</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426093000 -0300" channel="Encuentro">
+    <title lang="es">Sirenas rock</title>
+  </programme>
+  <programme start="20220426093000 -0300" stop="20220426103000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220426103000 -0300" stop="20220426113000 -0300" channel="Encuentro">
+    <title lang="es">Nuevo mundo</title>
+  </programme>
+  <programme start="20220426113000 -0300" stop="20220426120000 -0300" channel="Encuentro">
+    <title lang="es">Memorias del frente</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426130000 -0300" channel="Encuentro">
+    <title lang="es">Glaciares: Agua del futuro</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426140000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426143000 -0300" channel="Encuentro">
+    <title lang="es">En el medio</title>
+  </programme>
+  <programme start="20220426143000 -0300" stop="20220426150000 -0300" channel="Encuentro">
+    <title lang="es">Presentes</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426151500 -0300" channel="Encuentro">
+    <title lang="es">Patagonia, tierra de dinosaurios</title>
+  </programme>
+  <programme start="20220426151500 -0300" stop="20220426153000 -0300" channel="Encuentro">
+    <title lang="es">Viajeros ciencia adentro</title>
+  </programme>
+  <programme start="20220426153000 -0300" stop="20220426160000 -0300" channel="Encuentro">
+    <title lang="es">Eva. El camino del pueblo</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426163000 -0300" channel="Encuentro">
+    <title lang="es">Nos vemos en Encuentro</title>
+  </programme>
+  <programme start="20220426163000 -0300" stop="20220426170000 -0300" channel="Encuentro">
+    <title lang="es">La tonga</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426183000 -0300" channel="Encuentro">
+    <title lang="es">Bayer vive. Cine y resistencia</title>
+  </programme>
+  <programme start="20220426183000 -0300" stop="20220426190000 -0300" channel="Encuentro">
+    <title lang="es">Mundos paralelos. Arte y física cuántica</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426193000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220426193000 -0300" stop="20220426200000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426203000 -0300" channel="Encuentro">
+    <title lang="es">Pequeños secretos de grandes cuadros</title>
+  </programme>
+  <programme start="20220426203000 -0300" stop="20220426213000 -0300" channel="Encuentro">
+    <title lang="es">Ensayo para Güemes</title>
+  </programme>
+  <programme start="20220426213000 -0300" stop="20220426220000 -0300" channel="Encuentro">
+    <title lang="es">2001. Acontecimiento argentino</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426223000 -0300" channel="Encuentro">
+    <title lang="es">Navegar la historia</title>
+  </programme>
+  <programme start="20220426223000 -0300" stop="20220427000000 -0300" channel="Encuentro">
+    <title lang="es">Gramsci 44</title>
+  </programme>
+  <programme start="20220427000000 -0300" stop="20220427003000 -0300" channel="Encuentro">
+    <title lang="es">Pequeños secretos de grandes cuadros</title>
+  </programme>
+  <programme start="20220427003000 -0300" stop="20220427013000 -0300" channel="Encuentro">
+    <title lang="es">Ensayo para Güemes</title>
+  </programme>
+  <programme start="20220427013000 -0300" stop="20220427020000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220427020000 -0300" stop="20220427023000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220427023000 -0300" stop="20220427030000 -0300" channel="Encuentro">
+    <title lang="es">Navegar la historia</title>
+  </programme>
+  <programme start="20220427030000 -0300" stop="20220427033000 -0300" channel="Encuentro">
+    <title lang="es">Cumbia de la buena</title>
+  </programme>
+  <programme start="20220427033000 -0300" stop="20220427040000 -0300" channel="Encuentro">
+    <title lang="es">2001. Acontecimiento argentino</title>
+  </programme>
+  <programme start="20220427040000 -0300" stop="20220427043000 -0300" channel="Encuentro">
+    <title lang="es">Pequeños secretos de grandes cuadros</title>
+  </programme>
+  <programme start="20220427043000 -0300" stop="20220427060000 -0300" channel="Encuentro">
+    <title lang="es">Conspiraciones. Cine y filosofía</title>
+  </programme>
+  <programme start="20220427060000 -0300" stop="20220427063000 -0300" channel="Encuentro">
+    <title lang="es">Escrito en el aire</title>
+  </programme>
+  <programme start="20220427063000 -0300" stop="20220427070000 -0300" channel="Encuentro">
+    <title lang="es">Haylli, una memoria revelada</title>
+  </programme>
+  <programme start="20220427070000 -0300" stop="20220427073000 -0300" channel="Encuentro">
+    <title lang="es">Ciencia a la carta</title>
+  </programme>
+  <programme start="20220427073000 -0300" stop="20220427080000 -0300" channel="Encuentro">
+    <title lang="es">Horizontes</title>
+  </programme>
+  <programme start="20220427080000 -0300" stop="20220427083000 -0300" channel="Encuentro">
+    <title lang="es">Mentira la verdad</title>
+  </programme>
+  <programme start="20220427083000 -0300" stop="20220427090000 -0300" channel="Encuentro">
+    <title lang="es">Mi oficio. Mi historia</title>
+  </programme>
+  <programme start="20220427090000 -0300" stop="20220427093000 -0300" channel="Encuentro">
+    <title lang="es">No binario</title>
+  </programme>
+  <programme start="20220427093000 -0300" stop="20220427100000 -0300" channel="Encuentro">
+    <title lang="es">Marcas en la piel</title>
+  </programme>
+  <programme start="20220427100000 -0300" stop="20220427103000 -0300" channel="Encuentro">
+    <title lang="es">La huella en la imagen</title>
+  </programme>
+  <programme start="20220427103000 -0300" stop="20220427110000 -0300" channel="Encuentro">
+    <title lang="es">Glaciares</title>
+  </programme>
+  <programme start="20220427110000 -0300" stop="20220427113000 -0300" channel="Encuentro">
+    <title lang="es">Ellxs dicen</title>
+  </programme>
+  <programme start="20220427113000 -0300" stop="20220427120000 -0300" channel="Encuentro">
+    <title lang="es">Fechas que hicieron historia</title>
+  </programme>
+  <programme start="20220427120000 -0300" stop="20220427123000 -0300" channel="Encuentro">
+    <title lang="es">Impriman la leyenda</title>
+  </programme>
+  <programme start="20220427123000 -0300" stop="20220427133000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220427133000 -0300" stop="20220427140000 -0300" channel="Encuentro">
+    <title lang="es">Teatro abierto</title>
+  </programme>
+  <programme start="20220427140000 -0300" stop="20220427143000 -0300" channel="Encuentro">
+    <title lang="es">Sirenas rock</title>
+  </programme>
+  <programme start="20220427143000 -0300" stop="20220427153000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220427153000 -0300" stop="20220427163000 -0300" channel="Encuentro">
+    <title lang="es">Glaciares: Agua del futuro</title>
+  </programme>
+  <programme start="20220427163000 -0300" stop="20220427170000 -0300" channel="Encuentro">
+    <title lang="es">Memorias del frente</title>
+  </programme>
+  <programme start="20220427170000 -0300" stop="20220427180000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
+  </programme>
+  <programme start="20220427180000 -0300" stop="20220427190000 -0300" channel="Encuentro">
+    <title lang="es">Nuevo mundo</title>
+  </programme>
+  <programme start="20220427190000 -0300" stop="20220427200000 -0300" channel="Encuentro">
+    <title lang="es">Somos memoria</title>
+  </programme>
+  <programme start="20220427200000 -0300" stop="20220427201500 -0300" channel="Encuentro">
+    <title lang="es">Patagonia, tierra de dinosaurios</title>
+  </programme>
+  <programme start="20220427201500 -0300" stop="20220427203000 -0300" channel="Encuentro">
+    <title lang="es">Viajeros ciencia adentro</title>
+  </programme>
+  <programme start="20220427203000 -0300" stop="20220427210000 -0300" channel="Encuentro">
+    <title lang="es">Aviones de una Nación</title>
+  </programme>
+  <programme start="20220427210000 -0300" stop="20220427213000 -0300" channel="Encuentro">
+    <title lang="es">Nos vemos en Encuentro</title>
+  </programme>
+  <programme start="20220427213000 -0300" stop="20220427220000 -0300" channel="Encuentro">
+    <title lang="es">Mundos paralelos. Arte y física cuántica</title>
+  </programme>
+  <programme start="20220427220000 -0300" stop="20220427223000 -0300" channel="Encuentro">
+    <title lang="es">La tonga</title>
+  </programme>
+  <programme start="20220427223000 -0300" stop="20220427230000 -0300" channel="Encuentro">
+    <title lang="es">Curiosidades de la naturaleza</title>
+  </programme>
+  <programme start="20220427230000 -0300" stop="20220428000000 -0300" channel="Encuentro">
+    <title lang="es">Osvaldo Bayer: la livertá</title>
+  </programme>
   <programme start="20220425000000 -0300" stop="20220425003000 -0300" channel="Telefe">
     <title lang="es">Viajecheff</title>
   </programme>
@@ -21657,6 +22013,360 @@
   </programme>
   <programme start="20220427230000 -0300" stop="20220428000000 -0300" channel="A 24">
     <title lang="es">Basta Baby</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425003000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425003000 -0300" stop="20220425010000 -0300" channel="Al Jazeera">
+    <title lang="es">The Listening Post</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425013000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425020000 -0300" channel="Al Jazeera">
+    <title lang="es">101 East</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425023000 -0300" channel="Al Jazeera">
+    <title lang="es">The Bottom Line</title>
+  </programme>
+  <programme start="20220425023000 -0300" stop="20220425030000 -0300" channel="Al Jazeera">
+    <title lang="es">Radicalised Youth</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425033000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425033000 -0300" stop="20220425040000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425043000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425043000 -0300" stop="20220425050000 -0300" channel="Al Jazeera">
+    <title lang="es">UpFront</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425053000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425053000 -0300" stop="20220425060000 -0300" channel="Al Jazeera">
+    <title lang="es">Studio B: Unscripted</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425070000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425073000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425073000 -0300" stop="20220425080000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425090000 -0300" channel="Al Jazeera">
+    <title lang="es">Witness</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425100000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425103000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425103000 -0300" stop="20220425110000 -0300" channel="Al Jazeera">
+    <title lang="es">Talk to Al Jazeera</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425120000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425123000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425123000 -0300" stop="20220425130000 -0300" channel="Al Jazeera">
+    <title lang="es">Counting the Cost</title>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425133000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425133000 -0300" stop="20220425140000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425150000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220425150000 -0300" stop="20220425153000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425153000 -0300" stop="20220425160000 -0300" channel="Al Jazeera">
+    <title lang="es">The Stream</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425170000 -0300" channel="Al Jazeera">
+    <title lang="es">The Campaign Against the Climate</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425180000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425183000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425183000 -0300" stop="20220425190000 -0300" channel="Al Jazeera">
+    <title lang="es">Witness</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425193000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425193000 -0300" stop="20220425200000 -0300" channel="Al Jazeera">
+    <title lang="es">People and Power</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425203000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425203000 -0300" stop="20220425210000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425220000 -0300" channel="Al Jazeera">
+    <title lang="es">Witness</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425223000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425223000 -0300" stop="20220425230000 -0300" channel="Al Jazeera">
+    <title lang="es">101 East</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220425233000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="Al Jazeera">
+    <title lang="es">Studio B: Unscripted</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426003000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426003000 -0300" stop="20220426010000 -0300" channel="Al Jazeera">
+    <title lang="es">The Stream</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426013000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426013000 -0300" stop="20220426020000 -0300" channel="Al Jazeera">
+    <title lang="es">Counting the Cost</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426030000 -0300" channel="Al Jazeera">
+    <title lang="es">Al Jazeera World</title>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426033000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426033000 -0300" stop="20220426040000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426043000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426043000 -0300" stop="20220426050000 -0300" channel="Al Jazeera">
+    <title lang="es">The Stream</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426053000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426053000 -0300" stop="20220426060000 -0300" channel="Al Jazeera">
+    <title lang="es">Witness</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426070000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426073000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426073000 -0300" stop="20220426080000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426090000 -0300" channel="Al Jazeera">
+    <title lang="es">The Campaign Against the Climate</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426100000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220426100000 -0300" stop="20220426103000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426103000 -0300" stop="20220426110000 -0300" channel="Al Jazeera">
+    <title lang="es">The Stream</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426120000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426123000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426123000 -0300" stop="20220426130000 -0300" channel="Al Jazeera">
+    <title lang="es">My Cuba</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426133000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426133000 -0300" stop="20220426140000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426150000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426153000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426153000 -0300" stop="20220426160000 -0300" channel="Al Jazeera">
+    <title lang="es">The Stream</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426170000 -0300" channel="Al Jazeera">
+    <title lang="es">Al Jazeera World</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426180000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426183000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426183000 -0300" stop="20220426190000 -0300" channel="Al Jazeera">
+    <title lang="es">Africa Direct</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426193000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426193000 -0300" stop="20220426200000 -0300" channel="Al Jazeera">
+    <title lang="es">101 East</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426203000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426203000 -0300" stop="20220426210000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426220000 -0300" channel="Al Jazeera">
+    <title lang="es">The Campaign Against the Climate</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426223000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426223000 -0300" stop="20220426230000 -0300" channel="Al Jazeera">
+    <title lang="es">My Cuba</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220426233000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220426233000 -0300" stop="20220427000000 -0300" channel="Al Jazeera">
+    <title lang="es">Witness</title>
+  </programme>
+  <programme start="20220427000000 -0300" stop="20220427003000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427003000 -0300" stop="20220427010000 -0300" channel="Al Jazeera">
+    <title lang="es">The Stream</title>
+  </programme>
+  <programme start="20220427010000 -0300" stop="20220427013000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427013000 -0300" stop="20220427020000 -0300" channel="Al Jazeera">
+    <title lang="es">The Listening Post</title>
+  </programme>
+  <programme start="20220427020000 -0300" stop="20220427030000 -0300" channel="Al Jazeera">
+    <title lang="es">Witness</title>
+  </programme>
+  <programme start="20220427030000 -0300" stop="20220427033000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427033000 -0300" stop="20220427040000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220427040000 -0300" stop="20220427043000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427043000 -0300" stop="20220427050000 -0300" channel="Al Jazeera">
+    <title lang="es">The Stream</title>
+  </programme>
+  <programme start="20220427050000 -0300" stop="20220427053000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427053000 -0300" stop="20220427060000 -0300" channel="Al Jazeera">
+    <title lang="es">Africa Direct</title>
+  </programme>
+  <programme start="20220427060000 -0300" stop="20220427070000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220427070000 -0300" stop="20220427073000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427073000 -0300" stop="20220427080000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220427080000 -0300" stop="20220427090000 -0300" channel="Al Jazeera">
+    <title lang="es">Al Jazeera World</title>
+  </programme>
+  <programme start="20220427090000 -0300" stop="20220427100000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220427100000 -0300" stop="20220427103000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427103000 -0300" stop="20220427110000 -0300" channel="Al Jazeera">
+    <title lang="es">The Stream</title>
+  </programme>
+  <programme start="20220427110000 -0300" stop="20220427120000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220427120000 -0300" stop="20220427123000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427123000 -0300" stop="20220427130000 -0300" channel="Al Jazeera">
+    <title lang="es">Studio B: Unscripted</title>
+  </programme>
+  <programme start="20220427130000 -0300" stop="20220427133000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427133000 -0300" stop="20220427140000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220427140000 -0300" stop="20220427150000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220427150000 -0300" stop="20220427153000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427153000 -0300" stop="20220427160000 -0300" channel="Al Jazeera">
+    <title lang="es">The Stream</title>
+  </programme>
+  <programme start="20220427160000 -0300" stop="20220427170000 -0300" channel="Al Jazeera">
+    <title lang="es">Witness</title>
+  </programme>
+  <programme start="20220427170000 -0300" stop="20220427180000 -0300" channel="Al Jazeera">
+    <title lang="es">Newshour</title>
+  </programme>
+  <programme start="20220427180000 -0300" stop="20220427183000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427183000 -0300" stop="20220427190000 -0300" channel="Al Jazeera">
+    <title lang="es">People and Power</title>
+  </programme>
+  <programme start="20220427190000 -0300" stop="20220427193000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427193000 -0300" stop="20220427200000 -0300" channel="Al Jazeera">
+    <title lang="es">Counting the Cost</title>
+  </programme>
+  <programme start="20220427200000 -0300" stop="20220427203000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427203000 -0300" stop="20220427210000 -0300" channel="Al Jazeera">
+    <title lang="es">Inside Story</title>
+  </programme>
+  <programme start="20220427210000 -0300" stop="20220427220000 -0300" channel="Al Jazeera">
+    <title lang="es">Al Jazeera World</title>
+  </programme>
+  <programme start="20220427220000 -0300" stop="20220427223000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427223000 -0300" stop="20220427230000 -0300" channel="Al Jazeera">
+    <title lang="es">Witness</title>
+  </programme>
+  <programme start="20220427230000 -0300" stop="20220427233000 -0300" channel="Al Jazeera">
+    <title lang="es">News Live</title>
+  </programme>
+  <programme start="20220427233000 -0300" stop="20220428000000 -0300" channel="Al Jazeera">
+    <title lang="es">Africa Direct</title>
   </programme>
   <programme start="20220425000000 -0300" stop="20220425003000 -0300" channel="C5N">
     <title lang="es">La noche</title>
@@ -22635,356 +23345,5 @@
   </programme>
   <programme start="20220427230000 -0300" stop="20220428000000 -0300" channel="Todo Noticias">
     <title lang="es">Bella y Bestia por TN</title>
-  </programme>
-  <programme start="20220425000000 -0300" stop="20220425003000 -0300" channel="Encuentro">
-    <title lang="es">Ellxs dicen</title>
-  </programme>
-  <programme start="20220425003000 -0300" stop="20220425010000 -0300" channel="Encuentro">
-    <title lang="es">Fechas que hicieron historia</title>
-  </programme>
-  <programme start="20220425010000 -0300" stop="20220425013000 -0300" channel="Encuentro">
-    <title lang="es">Impriman la leyenda</title>
-  </programme>
-  <programme start="20220425013000 -0300" stop="20220425023000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220425023000 -0300" stop="20220425030000 -0300" channel="Encuentro">
-    <title lang="es">Teatro abierto</title>
-  </programme>
-  <programme start="20220425030000 -0300" stop="20220425033000 -0300" channel="Encuentro">
-    <title lang="es">Sirenas rock</title>
-  </programme>
-  <programme start="20220425033000 -0300" stop="20220425040000 -0300" channel="Encuentro">
-    <title lang="es">Cumbia de la buena</title>
-  </programme>
-  <programme start="20220425040000 -0300" stop="20220425050000 -0300" channel="Encuentro">
-    <title lang="es">Atlántico Sur</title>
-  </programme>
-  <programme start="20220425050000 -0300" stop="20220425053000 -0300" channel="Encuentro">
-    <title lang="es">Ellxs dicen</title>
-  </programme>
-  <programme start="20220425053000 -0300" stop="20220425060000 -0300" channel="Encuentro">
-    <title lang="es">Fechas que hicieron historia</title>
-  </programme>
-  <programme start="20220425060000 -0300" stop="20220425063000 -0300" channel="Encuentro">
-    <title lang="es">En el medio</title>
-  </programme>
-  <programme start="20220425063000 -0300" stop="20220425070000 -0300" channel="Encuentro">
-    <title lang="es">Presentes</title>
-  </programme>
-  <programme start="20220425070000 -0300" stop="20220425080000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220425080000 -0300" stop="20220425090000 -0300" channel="Encuentro">
-    <title lang="es">Nuevo mundo</title>
-  </programme>
-  <programme start="20220425090000 -0300" stop="20220425093000 -0300" channel="Encuentro">
-    <title lang="es">Memorias del frente</title>
-  </programme>
-  <programme start="20220425093000 -0300" stop="20220425103000 -0300" channel="Encuentro">
-    <title lang="es">Glaciares: Agua del futuro</title>
-  </programme>
-  <programme start="20220425103000 -0300" stop="20220425113000 -0300" channel="Encuentro">
-    <title lang="es">Encuentro en el estudio</title>
-  </programme>
-  <programme start="20220425113000 -0300" stop="20220425120000 -0300" channel="Encuentro">
-    <title lang="es">La tonga</title>
-  </programme>
-  <programme start="20220425120000 -0300" stop="20220425133000 -0300" channel="Encuentro">
-    <title lang="es">Awka Liwen - Rebelde amanecer</title>
-  </programme>
-  <programme start="20220425133000 -0300" stop="20220425140000 -0300" channel="Encuentro">
-    <title lang="es">Mundos paralelos. Arte y física cuántica</title>
-  </programme>
-  <programme start="20220425140000 -0300" stop="20220425141500 -0300" channel="Encuentro">
-    <title lang="es">Patagonia, tierra de dinosaurios</title>
-  </programme>
-  <programme start="20220425141500 -0300" stop="20220425143000 -0300" channel="Encuentro">
-    <title lang="es">Viajeros ciencia adentro</title>
-  </programme>
-  <programme start="20220425143000 -0300" stop="20220425150000 -0300" channel="Encuentro">
-    <title lang="es">Curiosidades de la naturaleza</title>
-  </programme>
-  <programme start="20220425150000 -0300" stop="20220425153000 -0300" channel="Encuentro">
-    <title lang="es">Sirenas rock</title>
-  </programme>
-  <programme start="20220425153000 -0300" stop="20220425160000 -0300" channel="Encuentro">
-    <title lang="es">Pequeños secretos de grandes cuadros</title>
-  </programme>
-  <programme start="20220425160000 -0300" stop="20220425163000 -0300" channel="Encuentro">
-    <title lang="es">Teatro abierto</title>
-  </programme>
-  <programme start="20220425163000 -0300" stop="20220425170000 -0300" channel="Encuentro">
-    <title lang="es">2001. Acontecimiento argentino</title>
-  </programme>
-  <programme start="20220425170000 -0300" stop="20220425180000 -0300" channel="Encuentro">
-    <title lang="es">Huellas de la UBA. 200 años de historia</title>
-  </programme>
-  <programme start="20220425180000 -0300" stop="20220425190000 -0300" channel="Encuentro">
-    <title lang="es">Atlántico Sur</title>
-  </programme>
-  <programme start="20220425190000 -0300" stop="20220425193000 -0300" channel="Encuentro">
-    <title lang="es">Horizontes</title>
-  </programme>
-  <programme start="20220425193000 -0300" stop="20220425200000 -0300" channel="Encuentro">
-    <title lang="es">Mentira la verdad</title>
-  </programme>
-  <programme start="20220425200000 -0300" stop="20220425203000 -0300" channel="Encuentro">
-    <title lang="es">Escrito en el aire</title>
-  </programme>
-  <programme start="20220425203000 -0300" stop="20220425210000 -0300" channel="Encuentro">
-    <title lang="es">Haylli, una memoria revelada</title>
-  </programme>
-  <programme start="20220425210000 -0300" stop="20220425213000 -0300" channel="Encuentro">
-    <title lang="es">Ciencia a la carta</title>
-  </programme>
-  <programme start="20220425213000 -0300" stop="20220425220000 -0300" channel="Encuentro">
-    <title lang="es">Mi oficio. Mi historia</title>
-  </programme>
-  <programme start="20220425220000 -0300" stop="20220425223000 -0300" channel="Encuentro">
-    <title lang="es">No binario</title>
-  </programme>
-  <programme start="20220425223000 -0300" stop="20220425230000 -0300" channel="Encuentro">
-    <title lang="es">Marcas en la piel</title>
-  </programme>
-  <programme start="20220425230000 -0300" stop="20220425233000 -0300" channel="Encuentro">
-    <title lang="es">La huella en la imagen</title>
-  </programme>
-  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="Encuentro">
-    <title lang="es">Glaciares</title>
-  </programme>
-  <programme start="20220426000000 -0300" stop="20220426003000 -0300" channel="Encuentro">
-    <title lang="es">Escrito en el aire</title>
-  </programme>
-  <programme start="20220426003000 -0300" stop="20220426010000 -0300" channel="Encuentro">
-    <title lang="es">Haylli, una memoria revelada</title>
-  </programme>
-  <programme start="20220426010000 -0300" stop="20220426013000 -0300" channel="Encuentro">
-    <title lang="es">Ciencia a la carta</title>
-  </programme>
-  <programme start="20220426013000 -0300" stop="20220426020000 -0300" channel="Encuentro">
-    <title lang="es">Horizontes</title>
-  </programme>
-  <programme start="20220426020000 -0300" stop="20220426023000 -0300" channel="Encuentro">
-    <title lang="es">Mentira la verdad</title>
-  </programme>
-  <programme start="20220426023000 -0300" stop="20220426030000 -0300" channel="Encuentro">
-    <title lang="es">Mi oficio. Mi historia</title>
-  </programme>
-  <programme start="20220426030000 -0300" stop="20220426033000 -0300" channel="Encuentro">
-    <title lang="es">No binario</title>
-  </programme>
-  <programme start="20220426033000 -0300" stop="20220426040000 -0300" channel="Encuentro">
-    <title lang="es">Marcas en la piel</title>
-  </programme>
-  <programme start="20220426040000 -0300" stop="20220426043000 -0300" channel="Encuentro">
-    <title lang="es">La huella en la imagen</title>
-  </programme>
-  <programme start="20220426043000 -0300" stop="20220426050000 -0300" channel="Encuentro">
-    <title lang="es">Glaciares</title>
-  </programme>
-  <programme start="20220426050000 -0300" stop="20220426053000 -0300" channel="Encuentro">
-    <title lang="es">Escrito en el aire</title>
-  </programme>
-  <programme start="20220426053000 -0300" stop="20220426060000 -0300" channel="Encuentro">
-    <title lang="es">Haylli, una memoria revelada</title>
-  </programme>
-  <programme start="20220426060000 -0300" stop="20220426063000 -0300" channel="Encuentro">
-    <title lang="es">Ellxs dicen</title>
-  </programme>
-  <programme start="20220426063000 -0300" stop="20220426070000 -0300" channel="Encuentro">
-    <title lang="es">Fechas que hicieron historia</title>
-  </programme>
-  <programme start="20220426070000 -0300" stop="20220426073000 -0300" channel="Encuentro">
-    <title lang="es">Impriman la leyenda</title>
-  </programme>
-  <programme start="20220426073000 -0300" stop="20220426083000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220426083000 -0300" stop="20220426090000 -0300" channel="Encuentro">
-    <title lang="es">Teatro abierto</title>
-  </programme>
-  <programme start="20220426090000 -0300" stop="20220426093000 -0300" channel="Encuentro">
-    <title lang="es">Sirenas rock</title>
-  </programme>
-  <programme start="20220426093000 -0300" stop="20220426103000 -0300" channel="Encuentro">
-    <title lang="es">Atlántico Sur</title>
-  </programme>
-  <programme start="20220426103000 -0300" stop="20220426113000 -0300" channel="Encuentro">
-    <title lang="es">Nuevo mundo</title>
-  </programme>
-  <programme start="20220426113000 -0300" stop="20220426120000 -0300" channel="Encuentro">
-    <title lang="es">Memorias del frente</title>
-  </programme>
-  <programme start="20220426120000 -0300" stop="20220426130000 -0300" channel="Encuentro">
-    <title lang="es">Glaciares: Agua del futuro</title>
-  </programme>
-  <programme start="20220426130000 -0300" stop="20220426140000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220426140000 -0300" stop="20220426143000 -0300" channel="Encuentro">
-    <title lang="es">En el medio</title>
-  </programme>
-  <programme start="20220426143000 -0300" stop="20220426150000 -0300" channel="Encuentro">
-    <title lang="es">Presentes</title>
-  </programme>
-  <programme start="20220426150000 -0300" stop="20220426151500 -0300" channel="Encuentro">
-    <title lang="es">Patagonia, tierra de dinosaurios</title>
-  </programme>
-  <programme start="20220426151500 -0300" stop="20220426153000 -0300" channel="Encuentro">
-    <title lang="es">Viajeros ciencia adentro</title>
-  </programme>
-  <programme start="20220426153000 -0300" stop="20220426160000 -0300" channel="Encuentro">
-    <title lang="es">Eva. El camino del pueblo</title>
-  </programme>
-  <programme start="20220426160000 -0300" stop="20220426163000 -0300" channel="Encuentro">
-    <title lang="es">Nos vemos en Encuentro</title>
-  </programme>
-  <programme start="20220426163000 -0300" stop="20220426170000 -0300" channel="Encuentro">
-    <title lang="es">La tonga</title>
-  </programme>
-  <programme start="20220426170000 -0300" stop="20220426183000 -0300" channel="Encuentro">
-    <title lang="es">Bayer vive. Cine y resistencia</title>
-  </programme>
-  <programme start="20220426183000 -0300" stop="20220426190000 -0300" channel="Encuentro">
-    <title lang="es">Mundos paralelos. Arte y física cuántica</title>
-  </programme>
-  <programme start="20220426190000 -0300" stop="20220426193000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220426193000 -0300" stop="20220426200000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220426200000 -0300" stop="20220426203000 -0300" channel="Encuentro">
-    <title lang="es">Pequeños secretos de grandes cuadros</title>
-  </programme>
-  <programme start="20220426203000 -0300" stop="20220426213000 -0300" channel="Encuentro">
-    <title lang="es">Ensayo para Güemes</title>
-  </programme>
-  <programme start="20220426213000 -0300" stop="20220426220000 -0300" channel="Encuentro">
-    <title lang="es">2001. Acontecimiento argentino</title>
-  </programme>
-  <programme start="20220426220000 -0300" stop="20220426223000 -0300" channel="Encuentro">
-    <title lang="es">Navegar la historia</title>
-  </programme>
-  <programme start="20220426223000 -0300" stop="20220427000000 -0300" channel="Encuentro">
-    <title lang="es">Gramsci 44</title>
-  </programme>
-  <programme start="20220427000000 -0300" stop="20220427003000 -0300" channel="Encuentro">
-    <title lang="es">Pequeños secretos de grandes cuadros</title>
-  </programme>
-  <programme start="20220427003000 -0300" stop="20220427013000 -0300" channel="Encuentro">
-    <title lang="es">Ensayo para Güemes</title>
-  </programme>
-  <programme start="20220427013000 -0300" stop="20220427020000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220427020000 -0300" stop="20220427023000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220427023000 -0300" stop="20220427030000 -0300" channel="Encuentro">
-    <title lang="es">Navegar la historia</title>
-  </programme>
-  <programme start="20220427030000 -0300" stop="20220427033000 -0300" channel="Encuentro">
-    <title lang="es">Cumbia de la buena</title>
-  </programme>
-  <programme start="20220427033000 -0300" stop="20220427040000 -0300" channel="Encuentro">
-    <title lang="es">2001. Acontecimiento argentino</title>
-  </programme>
-  <programme start="20220427040000 -0300" stop="20220427043000 -0300" channel="Encuentro">
-    <title lang="es">Pequeños secretos de grandes cuadros</title>
-  </programme>
-  <programme start="20220427043000 -0300" stop="20220427060000 -0300" channel="Encuentro">
-    <title lang="es">Conspiraciones. Cine y filosofía</title>
-  </programme>
-  <programme start="20220427060000 -0300" stop="20220427063000 -0300" channel="Encuentro">
-    <title lang="es">Escrito en el aire</title>
-  </programme>
-  <programme start="20220427063000 -0300" stop="20220427070000 -0300" channel="Encuentro">
-    <title lang="es">Haylli, una memoria revelada</title>
-  </programme>
-  <programme start="20220427070000 -0300" stop="20220427073000 -0300" channel="Encuentro">
-    <title lang="es">Ciencia a la carta</title>
-  </programme>
-  <programme start="20220427073000 -0300" stop="20220427080000 -0300" channel="Encuentro">
-    <title lang="es">Horizontes</title>
-  </programme>
-  <programme start="20220427080000 -0300" stop="20220427083000 -0300" channel="Encuentro">
-    <title lang="es">Mentira la verdad</title>
-  </programme>
-  <programme start="20220427083000 -0300" stop="20220427090000 -0300" channel="Encuentro">
-    <title lang="es">Mi oficio. Mi historia</title>
-  </programme>
-  <programme start="20220427090000 -0300" stop="20220427093000 -0300" channel="Encuentro">
-    <title lang="es">No binario</title>
-  </programme>
-  <programme start="20220427093000 -0300" stop="20220427100000 -0300" channel="Encuentro">
-    <title lang="es">Marcas en la piel</title>
-  </programme>
-  <programme start="20220427100000 -0300" stop="20220427103000 -0300" channel="Encuentro">
-    <title lang="es">La huella en la imagen</title>
-  </programme>
-  <programme start="20220427103000 -0300" stop="20220427110000 -0300" channel="Encuentro">
-    <title lang="es">Glaciares</title>
-  </programme>
-  <programme start="20220427110000 -0300" stop="20220427113000 -0300" channel="Encuentro">
-    <title lang="es">Ellxs dicen</title>
-  </programme>
-  <programme start="20220427113000 -0300" stop="20220427120000 -0300" channel="Encuentro">
-    <title lang="es">Fechas que hicieron historia</title>
-  </programme>
-  <programme start="20220427120000 -0300" stop="20220427123000 -0300" channel="Encuentro">
-    <title lang="es">Impriman la leyenda</title>
-  </programme>
-  <programme start="20220427123000 -0300" stop="20220427133000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220427133000 -0300" stop="20220427140000 -0300" channel="Encuentro">
-    <title lang="es">Teatro abierto</title>
-  </programme>
-  <programme start="20220427140000 -0300" stop="20220427143000 -0300" channel="Encuentro">
-    <title lang="es">Sirenas rock</title>
-  </programme>
-  <programme start="20220427143000 -0300" stop="20220427153000 -0300" channel="Encuentro">
-    <title lang="es">Atlántico Sur</title>
-  </programme>
-  <programme start="20220427153000 -0300" stop="20220427163000 -0300" channel="Encuentro">
-    <title lang="es">Glaciares: Agua del futuro</title>
-  </programme>
-  <programme start="20220427163000 -0300" stop="20220427170000 -0300" channel="Encuentro">
-    <title lang="es">Memorias del frente</title>
-  </programme>
-  <programme start="20220427170000 -0300" stop="20220427180000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220427180000 -0300" stop="20220427190000 -0300" channel="Encuentro">
-    <title lang="es">Nuevo mundo</title>
-  </programme>
-  <programme start="20220427190000 -0300" stop="20220427200000 -0300" channel="Encuentro">
-    <title lang="es">Somos memoria</title>
-  </programme>
-  <programme start="20220427200000 -0300" stop="20220427201500 -0300" channel="Encuentro">
-    <title lang="es">Patagonia, tierra de dinosaurios</title>
-  </programme>
-  <programme start="20220427201500 -0300" stop="20220427203000 -0300" channel="Encuentro">
-    <title lang="es">Viajeros ciencia adentro</title>
-  </programme>
-  <programme start="20220427203000 -0300" stop="20220427210000 -0300" channel="Encuentro">
-    <title lang="es">Aviones de una Nación</title>
-  </programme>
-  <programme start="20220427210000 -0300" stop="20220427213000 -0300" channel="Encuentro">
-    <title lang="es">Nos vemos en Encuentro</title>
-  </programme>
-  <programme start="20220427213000 -0300" stop="20220427220000 -0300" channel="Encuentro">
-    <title lang="es">Mundos paralelos. Arte y física cuántica</title>
-  </programme>
-  <programme start="20220427220000 -0300" stop="20220427223000 -0300" channel="Encuentro">
-    <title lang="es">La tonga</title>
-  </programme>
-  <programme start="20220427223000 -0300" stop="20220427230000 -0300" channel="Encuentro">
-    <title lang="es">Curiosidades de la naturaleza</title>
-  </programme>
-  <programme start="20220427230000 -0300" stop="20220428000000 -0300" channel="Encuentro">
-    <title lang="es">Osvaldo Bayer: la livertá</title>
   </programme>
 </tv>
