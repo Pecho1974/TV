@@ -5,11 +5,6 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/A&amp;E Mundo.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
-  <channel id="Atreseries">
-    <display-name lang="es">Atreseries</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Atreseries.png" />
-    <url>http://www.buscadorcablevision.com.ar</url>
-  </channel>
   <channel id="AMC">
     <display-name lang="es">AMC</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMC.png" />
@@ -395,6 +390,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Magazine">
+    <display-name lang="es">Magazine</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Magazine.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="El Trece">
     <display-name lang="es">El Trece</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Trece.png" />
@@ -403,6 +403,11 @@
   <channel id="Encuentro">
     <display-name lang="es">Encuentro</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Encuentro.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Net TV">
+    <display-name lang="es">Net TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Net TV.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="Telefe">
@@ -460,9 +465,19 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/CNN en español.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Crónica TV">
+    <display-name lang="es">Crónica TV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Crónica TV.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Deutsche Welle">
     <display-name lang="es">Deutsche Welle</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Deutsche Welle.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="Telesur">
+    <display-name lang="es">Telesur</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesur.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="Todo Noticias">
@@ -825,264 +840,6 @@
   </programme>
   <programme start="20220428225500 -0300" stop="20220429000000 -0300" channel="A&amp;E Mundo">
     <title lang="es">El mecánico</title>
-  </programme>
-  <programme start="20220425023200 -0300" stop="20220425040400 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220425040400 -0300" stop="20220425050200 -0300" channel="Atreseries">
-    <title lang="es">Benidorm</title>
-  </programme>
-  <programme start="20220425050200 -0300" stop="20220425064000 -0300" channel="Atreseries">
-    <title lang="es">El barco</title>
-  </programme>
-  <programme start="20220425064000 -0300" stop="20220425070000 -0300" channel="Atreseries">
-    <title lang="es">Doctor Mateo</title>
-  </programme>
-  <programme start="20220425070000 -0300" stop="20220425073000 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220425073000 -0300" stop="20220425080000 -0300" channel="Atreseries">
-    <title lang="es">El tiempo entre costuras</title>
-  </programme>
-  <programme start="20220425080000 -0300" stop="20220425082800 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220425082800 -0300" stop="20220425092500 -0300" channel="Atreseries">
-    <title lang="es">El tiempo entre costuras</title>
-  </programme>
-  <programme start="20220425092500 -0300" stop="20220425103000 -0300" channel="Atreseries">
-    <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
-  <programme start="20220425103000 -0300" stop="20220425113600 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220425113600 -0300" stop="20220425124200 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220425124200 -0300" stop="20220425135200 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220425135200 -0300" stop="20220425144800 -0300" channel="Atreseries">
-    <title lang="es">Sombras del ayer</title>
-  </programme>
-  <programme start="20220425144800 -0300" stop="20220425154500 -0300" channel="Atreseries">
-    <title lang="es">El tiempo entre costuras</title>
-  </programme>
-  <programme start="20220425154500 -0300" stop="20220425161800 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220425161800 -0300" stop="20220425171300 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220425171300 -0300" stop="20220425185100 -0300" channel="Atreseries">
-    <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20220425185100 -0300" stop="20220425195300 -0300" channel="Atreseries">
-    <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
-  <programme start="20220425195300 -0300" stop="20220425204900 -0300" channel="Atreseries">
-    <title lang="es">Sombras del ayer</title>
-  </programme>
-  <programme start="20220425204900 -0300" stop="20220425220000 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220425220000 -0300" stop="20220425232700 -0300" channel="Atreseries">
-    <title lang="es">Matadero</title>
-  </programme>
-  <programme start="20220425232700 -0300" stop="20220426000000 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220426000000 -0300" stop="20220426001500 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220426001500 -0300" stop="20220426010000 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220426010000 -0300" stop="20220426021500 -0300" channel="Atreseries">
-    <title lang="es">El tiempo entre costuras</title>
-  </programme>
-  <programme start="20220426021500 -0300" stop="20220426045400 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220426045400 -0300" stop="20220426063600 -0300" channel="Atreseries">
-    <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20220426063600 -0300" stop="20220426080000 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220426080100 -0300" stop="20220426093200 -0300" channel="Atreseries">
-    <title lang="es">Matadero</title>
-  </programme>
-  <programme start="20220426093200 -0300" stop="20220426103000 -0300" channel="Atreseries">
-    <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
-  <programme start="20220426103000 -0300" stop="20220426112600 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220426112600 -0300" stop="20220426122200 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220426122200 -0300" stop="20220426134300 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220426134300 -0300" stop="20220426143900 -0300" channel="Atreseries">
-    <title lang="es">Sombras del ayer</title>
-  </programme>
-  <programme start="20220426143900 -0300" stop="20220426154500 -0300" channel="Atreseries">
-    <title lang="es">Matadero</title>
-  </programme>
-  <programme start="20220426154500 -0300" stop="20220426162500 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220426162500 -0300" stop="20220426172000 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220426172000 -0300" stop="20220426185200 -0300" channel="Atreseries">
-    <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20220426185200 -0300" stop="20220426195300 -0300" channel="Atreseries">
-    <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
-  <programme start="20220426195300 -0300" stop="20220426204900 -0300" channel="Atreseries">
-    <title lang="es">Sombras del ayer</title>
-  </programme>
-  <programme start="20220426204900 -0300" stop="20220426220000 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220426220000 -0300" stop="20220426233600 -0300" channel="Atreseries">
-    <title lang="es">Sin identidad</title>
-  </programme>
-  <programme start="20220426233600 -0300" stop="20220427000000 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220427000000 -0300" stop="20220427001500 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220427001500 -0300" stop="20220427010000 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220427010000 -0300" stop="20220427021500 -0300" channel="Atreseries">
-    <title lang="es">Matadero</title>
-  </programme>
-  <programme start="20220427021500 -0300" stop="20220427033700 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220427033700 -0300" stop="20220427045900 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220427045900 -0300" stop="20220427063100 -0300" channel="Atreseries">
-    <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20220427063100 -0300" stop="20220427080000 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220427080000 -0300" stop="20220427085600 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220427085600 -0300" stop="20220427093200 -0300" channel="Atreseries">
-    <title lang="es">Sin identidad</title>
-  </programme>
-  <programme start="20220427093200 -0300" stop="20220427103000 -0300" channel="Atreseries">
-    <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
-  <programme start="20220427103000 -0300" stop="20220427123700 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220427123700 -0300" stop="20220427134800 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220427134800 -0300" stop="20220427144400 -0300" channel="Atreseries">
-    <title lang="es">Sombras del ayer</title>
-  </programme>
-  <programme start="20220427144400 -0300" stop="20220427154500 -0300" channel="Atreseries">
-    <title lang="es">Sin identidad</title>
-  </programme>
-  <programme start="20220427154500 -0300" stop="20220427163300 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220427163300 -0300" stop="20220427172500 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220427172500 -0300" stop="20220427185400 -0300" channel="Atreseries">
-    <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20220427185400 -0300" stop="20220427195500 -0300" channel="Atreseries">
-    <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
-  <programme start="20220427195500 -0300" stop="20220427204900 -0300" channel="Atreseries">
-    <title lang="es">Sombras del ayer</title>
-  </programme>
-  <programme start="20220427204900 -0300" stop="20220427220000 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220427220000 -0300" stop="20220427225700 -0300" channel="Atreseries">
-    <title lang="es">La fiesta</title>
-  </programme>
-  <programme start="20220427225700 -0300" stop="20220428000000 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220428000000 -0300" stop="20220428001500 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220428001500 -0300" stop="20220428010000 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220428010000 -0300" stop="20220428021500 -0300" channel="Atreseries">
-    <title lang="es">Sin identidad</title>
-  </programme>
-  <programme start="20220428021500 -0300" stop="20220428035800 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220428035800 -0300" stop="20220428054100 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220428054100 -0300" stop="20220428070000 -0300" channel="Atreseries">
-    <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20220428070000 -0300" stop="20220428080000 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220428080000 -0300" stop="20220428090000 -0300" channel="Atreseries">
-    <title lang="es">Benidorm</title>
-  </programme>
-  <programme start="20220428090000 -0300" stop="20220428103000 -0300" channel="Atreseries">
-    <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
-  <programme start="20220428103000 -0300" stop="20220428114500 -0300" channel="Atreseries">
-    <title lang="es">Pop Up: Aquí no hay quien viva</title>
-  </programme>
-  <programme start="20220428114500 -0300" stop="20220428124500 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220428124500 -0300" stop="20220428140000 -0300" channel="Atreseries">
-    <title lang="es">Sombras del ayer</title>
-  </programme>
-  <programme start="20220428140000 -0300" stop="20220428151500 -0300" channel="Atreseries">
-    <title lang="es">Benidorm</title>
-  </programme>
-  <programme start="20220428151500 -0300" stop="20220428153000 -0300" channel="Atreseries">
-    <title lang="es">Más de series</title>
-  </programme>
-  <programme start="20220428153000 -0300" stop="20220428164500 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
-  </programme>
-  <programme start="20220428164500 -0300" stop="20220428181500 -0300" channel="Atreseries">
-    <title lang="es">Los hombres de Paco</title>
-  </programme>
-  <programme start="20220428181500 -0300" stop="20220428194500 -0300" channel="Atreseries">
-    <title lang="es">El secreto de Puente Viejo</title>
-  </programme>
-  <programme start="20220428194500 -0300" stop="20220428204500 -0300" channel="Atreseries">
-    <title lang="es">Sombras del ayer</title>
-  </programme>
-  <programme start="20220428204500 -0300" stop="20220428220000 -0300" channel="Atreseries">
-    <title lang="es">Amar es para siempre</title>
-  </programme>
-  <programme start="20220428220000 -0300" stop="20220428233000 -0300" channel="Atreseries">
-    <title lang="es">El barco</title>
-  </programme>
-  <programme start="20220428233000 -0300" stop="20220429000000 -0300" channel="Atreseries">
-    <title lang="es">Salve al rey</title>
   </programme>
   <programme start="20220425000500 -0300" stop="20220425022000 -0300" channel="AMC">
     <title lang="es">El castigador</title>
@@ -29512,6 +29269,390 @@
   <programme start="20220428231500 -0300" stop="20220429000000 -0300" channel="El Nueve">
     <title lang="es">Telenueve al cierre</title>
   </programme>
+  <programme start="20220425000000 -0300" stop="20220425003000 -0300" channel="Magazine">
+    <title lang="es">Recorrida</title>
+  </programme>
+  <programme start="20220425003000 -0300" stop="20220425010000 -0300" channel="Magazine">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425013000 -0300" channel="Magazine">
+    <title lang="es">Coincidir</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425020000 -0300" channel="Magazine">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425023000 -0300" channel="Magazine">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220425023000 -0300" stop="20220425030000 -0300" channel="Magazine">
+    <title lang="es">Cirujanos</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425033000 -0300" channel="Magazine">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220425033000 -0300" stop="20220425040000 -0300" channel="Magazine">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425043000 -0300" channel="Magazine">
+    <title lang="es">Doctoras</title>
+  </programme>
+  <programme start="20220425043000 -0300" stop="20220425050000 -0300" channel="Magazine">
+    <title lang="es">Recorrida</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425053000 -0300" channel="Magazine">
+    <title lang="es">Marketing registrado</title>
+  </programme>
+  <programme start="20220425053000 -0300" stop="20220425060000 -0300" channel="Magazine">
+    <title lang="es">Emprendidos</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425070000 -0300" channel="Magazine">
+    <title lang="es">La guerrera</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425073000 -0300" channel="Magazine">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220425073000 -0300" stop="20220425080000 -0300" channel="Magazine">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425083000 -0300" channel="Magazine">
+    <title lang="es">Resto del mundo</title>
+  </programme>
+  <programme start="20220425083000 -0300" stop="20220425090000 -0300" channel="Magazine">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425093000 -0300" channel="Magazine">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20220425093000 -0300" stop="20220425100000 -0300" channel="Magazine">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425120000 -0300" channel="Magazine">
+    <title lang="es">Mañanísima</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425130000 -0300" channel="Magazine">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425133000 -0300" channel="Magazine">
+    <title lang="es">María, la del barrio</title>
+  </programme>
+  <programme start="20220425133000 -0300" stop="20220425140000 -0300" channel="Magazine">
+    <title lang="es">María, la del barrio</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425150000 -0300" channel="Magazine">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20220425150000 -0300" stop="20220425153000 -0300" channel="Magazine">
+    <title lang="es">Doña Bárbara</title>
+  </programme>
+  <programme start="20220425153000 -0300" stop="20220425160000 -0300" channel="Magazine">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425170000 -0300" channel="Magazine">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425180000 -0300" channel="Magazine">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425183000 -0300" channel="Magazine">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220425183000 -0300" stop="20220425190000 -0300" channel="Magazine">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425200000 -0300" channel="Magazine">
+    <title lang="es">La jaula de la moda</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425210000 -0300" channel="Magazine">
+    <title lang="es">La guerrera</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425230000 -0300" channel="Magazine">
+    <title lang="es">El ilusionista</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220426000000 -0300" channel="Magazine">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426003000 -0300" channel="Magazine">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20220426003000 -0300" stop="20220426010000 -0300" channel="Magazine">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426013000 -0300" channel="Magazine">
+    <title lang="es">Recorrida</title>
+  </programme>
+  <programme start="20220426013000 -0300" stop="20220426020000 -0300" channel="Magazine">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426023000 -0300" channel="Magazine">
+    <title lang="es">Doctoras</title>
+  </programme>
+  <programme start="20220426023000 -0300" stop="20220426033000 -0300" channel="Magazine">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20220426033000 -0300" stop="20220426040000 -0300" channel="Magazine">
+    <title lang="es">Coincidir</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426050000 -0300" channel="Magazine">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426060000 -0300" channel="Magazine">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426070000 -0300" channel="Magazine">
+    <title lang="es">La guerrera</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426073000 -0300" channel="Magazine">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220426073000 -0300" stop="20220426080000 -0300" channel="Magazine">
+    <title lang="es">Doctoras</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426083000 -0300" channel="Magazine">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20220426083000 -0300" stop="20220426090000 -0300" channel="Magazine">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426093000 -0300" channel="Magazine">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20220426093000 -0300" stop="20220426100000 -0300" channel="Magazine">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20220426100000 -0300" stop="20220426120000 -0300" channel="Magazine">
+    <title lang="es">Mañanísima</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426130000 -0300" channel="Magazine">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426133000 -0300" channel="Magazine">
+    <title lang="es">María, la del barrio</title>
+  </programme>
+  <programme start="20220426133000 -0300" stop="20220426140000 -0300" channel="Magazine">
+    <title lang="es">María, la del barrio</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426150000 -0300" channel="Magazine">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426153000 -0300" channel="Magazine">
+    <title lang="es">Doña Bárbara</title>
+  </programme>
+  <programme start="20220426153000 -0300" stop="20220426160000 -0300" channel="Magazine">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426170000 -0300" channel="Magazine">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426180000 -0300" channel="Magazine">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426183000 -0300" channel="Magazine">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220426183000 -0300" stop="20220426190000 -0300" channel="Magazine">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426200000 -0300" channel="Magazine">
+    <title lang="es">La jaula de la moda</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426210000 -0300" channel="Magazine">
+    <title lang="es">La guerrera</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426230500 -0300" channel="Magazine">
+    <title lang="es">Riddick, el amo de la oscuridad</title>
+  </programme>
+  <programme start="20220426230500 -0300" stop="20220427000000 -0300" channel="Magazine">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20220427000000 -0300" stop="20220427003000 -0300" channel="Magazine">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220427003000 -0300" stop="20220427010000 -0300" channel="Magazine">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20220427010000 -0300" stop="20220427013000 -0300" channel="Magazine">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220427013000 -0300" stop="20220427020000 -0300" channel="Magazine">
+    <title lang="es">Dr. Beauty</title>
+  </programme>
+  <programme start="20220427020000 -0300" stop="20220427023000 -0300" channel="Magazine">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220427023000 -0300" stop="20220427033000 -0300" channel="Magazine">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20220427033000 -0300" stop="20220427040000 -0300" channel="Magazine">
+    <title lang="es">Vivir viajando</title>
+  </programme>
+  <programme start="20220427040000 -0300" stop="20220427050000 -0300" channel="Magazine">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20220427050000 -0300" stop="20220427060000 -0300" channel="Magazine">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20220427060000 -0300" stop="20220427070000 -0300" channel="Magazine">
+    <title lang="es">La guerrera</title>
+  </programme>
+  <programme start="20220427070000 -0300" stop="20220427073000 -0300" channel="Magazine">
+    <title lang="es">Cirujanos</title>
+  </programme>
+  <programme start="20220427073000 -0300" stop="20220427080000 -0300" channel="Magazine">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220427080000 -0300" stop="20220427083000 -0300" channel="Magazine">
+    <title lang="es">Manos a la obra</title>
+  </programme>
+  <programme start="20220427083000 -0300" stop="20220427090000 -0300" channel="Magazine">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20220427090000 -0300" stop="20220427093000 -0300" channel="Magazine">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20220427093000 -0300" stop="20220427100000 -0300" channel="Magazine">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20220427100000 -0300" stop="20220427120000 -0300" channel="Magazine">
+    <title lang="es">Mañanísima</title>
+  </programme>
+  <programme start="20220427120000 -0300" stop="20220427130000 -0300" channel="Magazine">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20220427130000 -0300" stop="20220427133000 -0300" channel="Magazine">
+    <title lang="es">María, la del barrio</title>
+  </programme>
+  <programme start="20220427133000 -0300" stop="20220427140000 -0300" channel="Magazine">
+    <title lang="es">María, la del barrio</title>
+  </programme>
+  <programme start="20220427140000 -0300" stop="20220427150000 -0300" channel="Magazine">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20220427150000 -0300" stop="20220427153000 -0300" channel="Magazine">
+    <title lang="es">Doña Bárbara</title>
+  </programme>
+  <programme start="20220427153000 -0300" stop="20220427160000 -0300" channel="Magazine">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20220427160000 -0300" stop="20220427170000 -0300" channel="Magazine">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20220427170000 -0300" stop="20220427180000 -0300" channel="Magazine">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20220427180000 -0300" stop="20220427183000 -0300" channel="Magazine">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220427183000 -0300" stop="20220427190000 -0300" channel="Magazine">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220427190000 -0300" stop="20220427200000 -0300" channel="Magazine">
+    <title lang="es">La jaula de la moda</title>
+  </programme>
+  <programme start="20220427200000 -0300" stop="20220427210000 -0300" channel="Magazine">
+    <title lang="es">La guerrera</title>
+  </programme>
+  <programme start="20220427210000 -0300" stop="20220427224100 -0300" channel="Magazine">
+    <title lang="es">478</title>
+  </programme>
+  <programme start="20220427224100 -0300" stop="20220427234100 -0300" channel="Magazine">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20220427234100 -0300" stop="20220428000000 -0300" channel="Magazine">
+    <title lang="es">Resto del mundo</title>
+  </programme>
+  <programme start="20220428000000 -0300" stop="20220428003000 -0300" channel="Magazine">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220428003000 -0300" stop="20220428010000 -0300" channel="Magazine">
+    <title lang="es">Recorrida</title>
+  </programme>
+  <programme start="20220428010000 -0300" stop="20220428013000 -0300" channel="Magazine">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220428013000 -0300" stop="20220428020000 -0300" channel="Magazine">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20220428020000 -0300" stop="20220428023000 -0300" channel="Magazine">
+    <title lang="es">Mi nuevo yo</title>
+  </programme>
+  <programme start="20220428023000 -0300" stop="20220428033000 -0300" channel="Magazine">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20220428033000 -0300" stop="20220428040000 -0300" channel="Magazine">
+    <title lang="es">Coincidir</title>
+  </programme>
+  <programme start="20220428040000 -0300" stop="20220428050000 -0300" channel="Magazine">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20220428050000 -0300" stop="20220428060000 -0300" channel="Magazine">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
+  <programme start="20220428060000 -0300" stop="20220428070000 -0300" channel="Magazine">
+    <title lang="es">La guerrera</title>
+  </programme>
+  <programme start="20220428070000 -0300" stop="20220428073000 -0300" channel="Magazine">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220428073000 -0300" stop="20220428080000 -0300" channel="Magazine">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220428080000 -0300" stop="20220428083000 -0300" channel="Magazine">
+    <title lang="es">Resto del mundo</title>
+  </programme>
+  <programme start="20220428083000 -0300" stop="20220428090000 -0300" channel="Magazine">
+    <title lang="es">Cucinare</title>
+  </programme>
+  <programme start="20220428090000 -0300" stop="20220428093000 -0300" channel="Magazine">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20220428093000 -0300" stop="20220428100000 -0300" channel="Magazine">
+    <title lang="es">El superagente 86</title>
+  </programme>
+  <programme start="20220428100000 -0300" stop="20220428120000 -0300" channel="Magazine">
+    <title lang="es">Mañanísima</title>
+  </programme>
+  <programme start="20220428120000 -0300" stop="20220428130000 -0300" channel="Magazine">
+    <title lang="es">Mshow</title>
+  </programme>
+  <programme start="20220428130000 -0300" stop="20220428133000 -0300" channel="Magazine">
+    <title lang="es">María, la del barrio</title>
+  </programme>
+  <programme start="20220428133000 -0300" stop="20220428140000 -0300" channel="Magazine">
+    <title lang="es">María, la del barrio</title>
+  </programme>
+  <programme start="20220428140000 -0300" stop="20220428150000 -0300" channel="Magazine">
+    <title lang="es">El clon</title>
+  </programme>
+  <programme start="20220428150000 -0300" stop="20220428153000 -0300" channel="Magazine">
+    <title lang="es">Doña Bárbara</title>
+  </programme>
+  <programme start="20220428153000 -0300" stop="20220428160000 -0300" channel="Magazine">
+    <title lang="es">Rubí</title>
+  </programme>
+  <programme start="20220428160000 -0300" stop="20220428170000 -0300" channel="Magazine">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20220428170000 -0300" stop="20220428180000 -0300" channel="Magazine">
+    <title lang="es">La familia Ingalls</title>
+  </programme>
+  <programme start="20220428180000 -0300" stop="20220428183000 -0300" channel="Magazine">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220428183000 -0300" stop="20220428190000 -0300" channel="Magazine">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220428190000 -0300" stop="20220428200000 -0300" channel="Magazine">
+    <title lang="es">La jaula de la moda</title>
+  </programme>
+  <programme start="20220428200000 -0300" stop="20220428210000 -0300" channel="Magazine">
+    <title lang="es">La guerrera</title>
+  </programme>
+  <programme start="20220428210000 -0300" stop="20220428225400 -0300" channel="Magazine">
+    <title lang="es">En la mira</title>
+  </programme>
+  <programme start="20220428225400 -0300" stop="20220429000000 -0300" channel="Magazine">
+    <title lang="es">Moisés y los 10 mandamientos</title>
+  </programme>
   <programme start="20220425003000 -0300" stop="20220425010000 -0300" channel="El Trece">
     <title lang="es">Cucinare</title>
   </programme>
@@ -30168,6 +30309,240 @@
   </programme>
   <programme start="20220428233000 -0300" stop="20220429000000 -0300" channel="Encuentro">
     <title lang="es">En el carrousel</title>
+  </programme>
+  <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="Net TV">
+    <title lang="es">Bayly</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425050000 -0300" channel="Net TV">
+    <title lang="es">El señor de los cielos</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425070000 -0300" channel="Net TV">
+    <title lang="es">Pedro, el escamoso</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425100000 -0300" channel="Net TV">
+    <title lang="es">¿Y ahora quién podrá ayudarnos?</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425110000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425120000 -0300" channel="Net TV">
+    <title lang="es">Buen plan</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425123000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220425123000 -0300" stop="20220425140000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425150000 -0300" channel="Net TV">
+    <title lang="es">Gossip</title>
+  </programme>
+  <programme start="20220425150000 -0300" stop="20220425160000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425170000 -0300" channel="Net TV">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425190000 -0300" channel="Net TV">
+    <title lang="es">Pedro, el escamoso</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425200000 -0300" channel="Net TV">
+    <title lang="es">Reperfilar</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425210000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425220000 -0300" channel="Net TV">
+    <title lang="es">Imperio</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425233000 -0300" channel="Net TV">
+    <title lang="es">El señor de los cielos</title>
+  </programme>
+  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="Net TV">
+    <title lang="es">Resumen de noticias NET</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426013000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220426013000 -0300" stop="20220426023000 -0300" channel="Net TV">
+    <title lang="es">Leiva joyas</title>
+  </programme>
+  <programme start="20220426023000 -0300" stop="20220426030000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426043000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220426043000 -0300" stop="20220426053000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
+  </programme>
+  <programme start="20220426053000 -0300" stop="20220426070000 -0300" channel="Net TV">
+    <title lang="es">Pedro, el escamoso</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426100000 -0300" channel="Net TV">
+    <title lang="es">¿Y ahora quién podrá ayudarnos?</title>
+  </programme>
+  <programme start="20220426100000 -0300" stop="20220426110000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426120000 -0300" channel="Net TV">
+    <title lang="es">Buen plan</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426123000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220426123000 -0300" stop="20220426140000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426150000 -0300" channel="Net TV">
+    <title lang="es">Gossip</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426160000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426170000 -0300" channel="Net TV">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426190000 -0300" channel="Net TV">
+    <title lang="es">Pedro, el escamoso</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426200000 -0300" channel="Net TV">
+    <title lang="es">Reperfilar</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426210000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426220000 -0300" channel="Net TV">
+    <title lang="es">Imperio</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426233000 -0300" channel="Net TV">
+    <title lang="es">El señor de los cielos</title>
+  </programme>
+  <programme start="20220426233000 -0300" stop="20220427000000 -0300" channel="Net TV">
+    <title lang="es">Resumen de noticias NET</title>
+  </programme>
+  <programme start="20220427000000 -0300" stop="20220427013000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220427013000 -0300" stop="20220427023000 -0300" channel="Net TV">
+    <title lang="es">Leiva joyas</title>
+  </programme>
+  <programme start="20220427023000 -0300" stop="20220427030000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220427030000 -0300" stop="20220427043000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220427043000 -0300" stop="20220427053000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
+  </programme>
+  <programme start="20220427053000 -0300" stop="20220427070000 -0300" channel="Net TV">
+    <title lang="es">Pedro, el escamoso</title>
+  </programme>
+  <programme start="20220427070000 -0300" stop="20220427100000 -0300" channel="Net TV">
+    <title lang="es">¿Y ahora quién podrá ayudarnos?</title>
+  </programme>
+  <programme start="20220427100000 -0300" stop="20220427110000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220427110000 -0300" stop="20220427120000 -0300" channel="Net TV">
+    <title lang="es">Buen plan</title>
+  </programme>
+  <programme start="20220427120000 -0300" stop="20220427123000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220427123000 -0300" stop="20220427140000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220427140000 -0300" stop="20220427150000 -0300" channel="Net TV">
+    <title lang="es">Gossip</title>
+  </programme>
+  <programme start="20220427150000 -0300" stop="20220427160000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
+  </programme>
+  <programme start="20220427160000 -0300" stop="20220427170000 -0300" channel="Net TV">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220427170000 -0300" stop="20220427190000 -0300" channel="Net TV">
+    <title lang="es">Pedro, el escamoso</title>
+  </programme>
+  <programme start="20220427190000 -0300" stop="20220427200000 -0300" channel="Net TV">
+    <title lang="es">Reperfilar</title>
+  </programme>
+  <programme start="20220427200000 -0300" stop="20220427210000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220427210000 -0300" stop="20220427220000 -0300" channel="Net TV">
+    <title lang="es">Imperio</title>
+  </programme>
+  <programme start="20220427220000 -0300" stop="20220427233000 -0300" channel="Net TV">
+    <title lang="es">El señor de los cielos</title>
+  </programme>
+  <programme start="20220427233000 -0300" stop="20220428000000 -0300" channel="Net TV">
+    <title lang="es">Resumen de noticias NET</title>
+  </programme>
+  <programme start="20220428000000 -0300" stop="20220428013000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220428013000 -0300" stop="20220428023000 -0300" channel="Net TV">
+    <title lang="es">Leiva joyas</title>
+  </programme>
+  <programme start="20220428023000 -0300" stop="20220428030000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220428030000 -0300" stop="20220428043000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220428043000 -0300" stop="20220428053000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
+  </programme>
+  <programme start="20220428053000 -0300" stop="20220428070000 -0300" channel="Net TV">
+    <title lang="es">Pedro, el escamoso</title>
+  </programme>
+  <programme start="20220428070000 -0300" stop="20220428100000 -0300" channel="Net TV">
+    <title lang="es">¿Y ahora quién podrá ayudarnos?</title>
+  </programme>
+  <programme start="20220428100000 -0300" stop="20220428110000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220428110000 -0300" stop="20220428120000 -0300" channel="Net TV">
+    <title lang="es">Buen plan</title>
+  </programme>
+  <programme start="20220428120000 -0300" stop="20220428123000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220428123000 -0300" stop="20220428140000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
+  </programme>
+  <programme start="20220428140000 -0300" stop="20220428150000 -0300" channel="Net TV">
+    <title lang="es">Gossip</title>
+  </programme>
+  <programme start="20220428150000 -0300" stop="20220428160000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
+  </programme>
+  <programme start="20220428160000 -0300" stop="20220428163000 -0300" channel="Net TV">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220428163000 -0300" stop="20220428170000 -0300" channel="Net TV">
+    <title lang="es">Mi gorda bella</title>
+  </programme>
+  <programme start="20220428170000 -0300" stop="20220428190000 -0300" channel="Net TV">
+    <title lang="es">Pedro, el escamoso</title>
+  </programme>
+  <programme start="20220428190000 -0300" stop="20220428200000 -0300" channel="Net TV">
+    <title lang="es">Reperfilar</title>
+  </programme>
+  <programme start="20220428200000 -0300" stop="20220428210000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220428210000 -0300" stop="20220428220000 -0300" channel="Net TV">
+    <title lang="es">Imperio</title>
+  </programme>
+  <programme start="20220428220000 -0300" stop="20220428233000 -0300" channel="Net TV">
+    <title lang="es">El señor de los cielos</title>
+  </programme>
+  <programme start="20220428233000 -0300" stop="20220429000000 -0300" channel="Net TV">
+    <title lang="es">Resumen de noticias NET</title>
   </programme>
   <programme start="20220425000000 -0300" stop="20220425003000 -0300" channel="Telefe">
     <title lang="es">Viajecheff</title>
@@ -33055,6 +33430,249 @@
   <programme start="20220428230000 -0300" stop="20220429000000 -0300" channel="CNN en español">
     <title lang="es">Conclusiones</title>
   </programme>
+  <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425013000 -0300" channel="Crónica TV">
+    <title lang="es">Horacio L. Scarlato - Metafísico</title>
+  </programme>
+  <programme start="20220425013000 -0300" stop="20220425020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220425023000 -0300" stop="20220425030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220425033000 -0300" stop="20220425040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425063000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20220425063000 -0300" stop="20220425090000 -0300" channel="Crónica TV">
+    <title lang="es">La primera</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2021</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425160000 -0300" channel="Crónica TV">
+    <title lang="es">La tarde de Crónica</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2022</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425213000 -0300" channel="Crónica TV">
+    <title lang="es">Detector de mentiras</title>
+  </programme>
+  <programme start="20220425213000 -0300" stop="20220425220000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425230000 -0300" channel="Crónica TV">
+    <title lang="es">Crónica central</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220426000000 -0300" channel="Crónica TV">
+    <title lang="es">Antes de medianoche</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426001500 -0300" channel="Crónica TV">
+    <title lang="es">Feliz vida</title>
+  </programme>
+  <programme start="20220426001500 -0300" stop="20220426004500 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220426004500 -0300" stop="20220426010000 -0300" channel="Crónica TV">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426011500 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220426011500 -0300" stop="20220426013000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220426013000 -0300" stop="20220426020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220426023000 -0300" stop="20220426030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220426033000 -0300" stop="20220426040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426063000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20220426063000 -0300" stop="20220426090000 -0300" channel="Crónica TV">
+    <title lang="es">La primera</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2021</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426160000 -0300" channel="Crónica TV">
+    <title lang="es">La tarde de Crónica</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2022</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426213000 -0300" channel="Crónica TV">
+    <title lang="es">Detector de mentiras</title>
+  </programme>
+  <programme start="20220426213000 -0300" stop="20220426220000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426230000 -0300" channel="Crónica TV">
+    <title lang="es">Crónica central</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220427000000 -0300" channel="Crónica TV">
+    <title lang="es">Antes de medianoche</title>
+  </programme>
+  <programme start="20220427000000 -0300" stop="20220427001500 -0300" channel="Crónica TV">
+    <title lang="es">Feliz vida</title>
+  </programme>
+  <programme start="20220427001500 -0300" stop="20220427004500 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220427004500 -0300" stop="20220427010000 -0300" channel="Crónica TV">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20220427010000 -0300" stop="20220427011500 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220427011500 -0300" stop="20220427013000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220427013000 -0300" stop="20220427020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220427020000 -0300" stop="20220427023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220427023000 -0300" stop="20220427030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220427030000 -0300" stop="20220427033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220427033000 -0300" stop="20220427040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220427040000 -0300" stop="20220427063000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20220427063000 -0300" stop="20220427090000 -0300" channel="Crónica TV">
+    <title lang="es">La primera</title>
+  </programme>
+  <programme start="20220427090000 -0300" stop="20220427120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20220427120000 -0300" stop="20220427140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2021</title>
+  </programme>
+  <programme start="20220427140000 -0300" stop="20220427160000 -0300" channel="Crónica TV">
+    <title lang="es">La tarde de Crónica</title>
+  </programme>
+  <programme start="20220427160000 -0300" stop="20220427180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2022</title>
+  </programme>
+  <programme start="20220427180000 -0300" stop="20220427210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220427210000 -0300" stop="20220427213000 -0300" channel="Crónica TV">
+    <title lang="es">Detector de mentiras</title>
+  </programme>
+  <programme start="20220427213000 -0300" stop="20220427220000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220427220000 -0300" stop="20220427230000 -0300" channel="Crónica TV">
+    <title lang="es">Crónica central</title>
+  </programme>
+  <programme start="20220427230000 -0300" stop="20220428000000 -0300" channel="Crónica TV">
+    <title lang="es">Antes de medianoche</title>
+  </programme>
+  <programme start="20220428000000 -0300" stop="20220428001500 -0300" channel="Crónica TV">
+    <title lang="es">Feliz vida</title>
+  </programme>
+  <programme start="20220428001500 -0300" stop="20220428004500 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220428004500 -0300" stop="20220428010000 -0300" channel="Crónica TV">
+    <title lang="es">Cielos abiertos</title>
+  </programme>
+  <programme start="20220428010000 -0300" stop="20220428011500 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220428011500 -0300" stop="20220428013000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220428013000 -0300" stop="20220428020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220428020000 -0300" stop="20220428023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
+  </programme>
+  <programme start="20220428023000 -0300" stop="20220428030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220428030000 -0300" stop="20220428033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220428033000 -0300" stop="20220428040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220428040000 -0300" stop="20220428063000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20220428063000 -0300" stop="20220428090000 -0300" channel="Crónica TV">
+    <title lang="es">La primera</title>
+  </programme>
+  <programme start="20220428090000 -0300" stop="20220428120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20220428120000 -0300" stop="20220428140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2021</title>
+  </programme>
+  <programme start="20220428140000 -0300" stop="20220428160000 -0300" channel="Crónica TV">
+    <title lang="es">La tarde de Crónica</title>
+  </programme>
+  <programme start="20220428160000 -0300" stop="20220428180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2022</title>
+  </programme>
+  <programme start="20220428180000 -0300" stop="20220428210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220428210000 -0300" stop="20220428213000 -0300" channel="Crónica TV">
+    <title lang="es">Detector de mentiras</title>
+  </programme>
+  <programme start="20220428213000 -0300" stop="20220428220000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220428220000 -0300" stop="20220428230000 -0300" channel="Crónica TV">
+    <title lang="es">Crónica central</title>
+  </programme>
+  <programme start="20220428230000 -0300" stop="20220429000000 -0300" channel="Crónica TV">
+    <title lang="es">Antes de medianoche</title>
+  </programme>
   <programme start="20220425001500 -0300" stop="20220425010000 -0300" channel="Deutsche Welle">
     <title lang="es">Bauen.Wohnen.Design</title>
   </programme>
@@ -33597,6 +34215,291 @@
   </programme>
   <programme start="20220428234500 -0300" stop="20220429000000 -0300" channel="Deutsche Welle">
     <title lang="es">In Good Shape</title>
+  </programme>
+  <programme start="20220425010000 -0300" stop="20220425020000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425030000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425040000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425040000 -0300" stop="20220425050000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425060000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425060000 -0300" stop="20220425070000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425070000 -0300" stop="20220425080000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425090000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425100000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425100000 -0300" stop="20220425110000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425110000 -0300" stop="20220425120000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425130000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425140000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425140000 -0300" stop="20220425150000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425150000 -0300" stop="20220425160000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425160000 -0300" stop="20220425170000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425170000 -0300" stop="20220425180000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425180000 -0300" stop="20220425190000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425190000 -0300" stop="20220425200000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425200000 -0300" stop="20220425210000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425220000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425230000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220425230000 -0300" stop="20220426000000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426010000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426020000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426020000 -0300" stop="20220426030000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426040000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426040000 -0300" stop="20220426050000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426060000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426070000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426070000 -0300" stop="20220426080000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426090000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426100000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426100000 -0300" stop="20220426110000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426110000 -0300" stop="20220426120000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426130000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426140000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426140000 -0300" stop="20220426150000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426160000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426160000 -0300" stop="20220426170000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426170000 -0300" stop="20220426180000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426180000 -0300" stop="20220426190000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426190000 -0300" stop="20220426200000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426200000 -0300" stop="20220426210000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426210000 -0300" stop="20220426220000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426220000 -0300" stop="20220426230000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220427000000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427000000 -0300" stop="20220427010000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427010000 -0300" stop="20220427020000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427020000 -0300" stop="20220427030000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427030000 -0300" stop="20220427040000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427040000 -0300" stop="20220427050000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427050000 -0300" stop="20220427060000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427060000 -0300" stop="20220427070000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427070000 -0300" stop="20220427080000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427080000 -0300" stop="20220427090000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427090000 -0300" stop="20220427100000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427100000 -0300" stop="20220427110000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427110000 -0300" stop="20220427120000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427120000 -0300" stop="20220427130000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427130000 -0300" stop="20220427140000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427140000 -0300" stop="20220427150000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427150000 -0300" stop="20220427160000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427160000 -0300" stop="20220427170000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427170000 -0300" stop="20220427180000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427180000 -0300" stop="20220427190000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427190000 -0300" stop="20220427200000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427200000 -0300" stop="20220427210000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427210000 -0300" stop="20220427220000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427220000 -0300" stop="20220427230000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220427230000 -0300" stop="20220428000000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428000000 -0300" stop="20220428010000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428010000 -0300" stop="20220428020000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428020000 -0300" stop="20220428030000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428030000 -0300" stop="20220428040000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428040000 -0300" stop="20220428050000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428050000 -0300" stop="20220428060000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428060000 -0300" stop="20220428070000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428070000 -0300" stop="20220428080000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428080000 -0300" stop="20220428090000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428090000 -0300" stop="20220428100000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428100000 -0300" stop="20220428110000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428110000 -0300" stop="20220428120000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428120000 -0300" stop="20220428130000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428130000 -0300" stop="20220428140000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428140000 -0300" stop="20220428150000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428150000 -0300" stop="20220428160000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428160000 -0300" stop="20220428170000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428170000 -0300" stop="20220428180000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428180000 -0300" stop="20220428190000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428190000 -0300" stop="20220428200000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428200000 -0300" stop="20220428210000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428210000 -0300" stop="20220428220000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428220000 -0300" stop="20220428230000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
+  </programme>
+  <programme start="20220428230000 -0300" stop="20220429000000 -0300" channel="Telesur">
+    <title lang="es">Telesur</title>
   </programme>
   <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="Todo Noticias">
     <title lang="es">TN Fest</title>
