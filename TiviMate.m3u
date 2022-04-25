@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A&amp;E Mundo" tvg-name="A&amp;E Mundo" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/A&amp;E Mundo.png" group-title="Cine y Series",A&amp;E Mundo
 https://edge5-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries" group-title="Cine y Series",Atreseries
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMC.png" group-title="Cine y Series",AMC
 https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/AXN.png" group-title="Cine y Series",AXN
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+#EXTINF:-1 tvg-id="Cine.AR" tvg-name="Cine.AR" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cine.AR.png" group-title="Cine y Series",Cine.AR
+https://edge5-hr.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv.m3u8
 #EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cinecanal HD.png" group-title="Cine y Series",Cinecanal HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cinemax.png" group-title="Cine y Series",Cinemax
+https://edge5-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX.png" group-title="Cine y Series",FX
 https://edge5-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX MOVIES.png" group-title="Cine y Series",FX MOVIES
@@ -41,6 +47,12 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMovie
 https://cdn.cvattv.com.ar/live/c6eds/Start_Life/SA_SAGEMCOM/Start_Life-avc1_1499968=10002-mp4a_145200_spa=20001.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Studio Universal.png" group-title="Cine y Series",Studio Universal
 https://edge4-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Syfy.png" group-title="Cine y Series",Syfy
+https://edge5-sl.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TBS.png" group-title="Cine y Series",TBS
+https://edge5-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TCM.png" group-title="Cine y Series",TCM
+https://edge5-sl.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT.png" group-title="Cine y Series",TNT
 https://edge5-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT Series.png" group-title="Cine y Series",TNT Series
@@ -108,7 +120,7 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/National Geographic.png" group-title="Documentales",National Geographic
 https://edge5-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NatGeo Wild.png" group-title="Documentales",NatGeo Wild
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+https://edge5-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1 tvg-id="Tru TV" tvg-name="Tru TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tru TV.png" group-title="Documentales",Tru TV
 https://edge5-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Comedy Central.png" group-title="Estilo de Vida",Comedy Central
@@ -159,14 +171,16 @@ https://edge3-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-id="TV Pública Argentina" tvg-name="TV Pública Argentina" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Pública Argentina.png" group-title="Interes General",TV Pública Argentina
 https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV Hits.png" group-title="Musica",MTV Hits
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Much Music.png" group-title="Musica",Much Music
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+#EXTINF:-1 tvg-id="Canal de la Musica" tvg-name="Canal de la Musica" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal de la Musica.png" group-title="Musica",Canal de la Musica
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV.png" group-title="Musica",MTV
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+#EXTINF:-1 tvg-id="Much Music" tvg-name="Much Music" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Much Music.png" group-title="Musica",Much Music
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Music Top.png" group-title="Musica",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Qmusica TV.png" group-title="Musica",Qmusica TV
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+#EXTINF:-1 tvg-id="Quiero" tvg-name="Quiero" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Quiero.png" group-title="Musica",Quiero
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1 tvg-id="A 24" tvg-name="A 24" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/A 24.png" group-title="Noticias",A 24
 https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Noticias",Al Jazeera
@@ -191,5 +205,5 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0219
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 9 Televida.png" group-title="Regionales",Canal 9 Televida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RT.png" group-title="Noticias",RT
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Rural.png" group-title="Variedades",Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
