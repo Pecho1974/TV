@@ -175,6 +175,18 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-id="TV Pública Argentina" tvg-name="TV Pública Argentina" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Pública Argentina.png" group-title="Interes General",TV Pública Argentina
 https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Internacional",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Deutsche Welle.png" group-title="Internacional",Deutsche Welle
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/France 24.png" group-title="Internacional",France 24
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBC News.png" group-title="Internacional",NBC News
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesur.png" group-title="Internacional",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Usa Today.png" group-title="Internacional",Usa Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal de la Musica" tvg-name="Canal de la Musica" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal de la Musica.png" group-title="Musica",Canal de la Musica
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV.png" group-title="Musica",MTV
@@ -187,8 +199,6 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1 tvg-id="A 24" tvg-name="A 24" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/A 24.png" group-title="Noticias",A 24
 https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Noticias",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/C5N.png" group-title="Noticias",C5N
 https://edge5-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 #EXTINF:-1 tvg-id="26 TV" tvg-name="26 TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/26 TV.png" group-title="Noticias",26 TV
@@ -197,18 +207,8 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 #EXTINF:-1 tvg-id="Crónica TV" tvg-name="Crónica TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Crónica TV.png" group-title="Noticias",Crónica TV
 https://edge5-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
-#EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Deutsche Welle.png" group-title="Noticias",Deutsche Welle
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/France 24.png" group-title="Noticias",France 24
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBC News.png" group-title="Noticias",NBC News
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesur.png" group-title="Noticias",Telesur
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Todo Noticias.png" group-title="Noticias",Todo Noticias
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Usa Today.png" group-title="Noticias",Usa Today
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Acequia.png" group-title="Regionales",Acequia
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0219
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 9 Televida.png" group-title="Regionales",Canal 9 Televida
