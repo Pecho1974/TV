@@ -390,6 +390,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Canal de la Ciudad">
+    <display-name lang="es">Canal de la Ciudad</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal de la Ciudad.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Magazine">
     <display-name lang="es">Magazine</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Magazine.png" />
@@ -27821,6 +27826,339 @@
   </programme>
   <programme start="20220430231500 -0300" stop="20220501000000 -0300" channel="El Nueve">
     <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20220427000000 -0300" stop="20220427003000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Como dice el tango</title>
+  </programme>
+  <programme start="20220427003000 -0300" stop="20220427013000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Para alquilar balcones</title>
+  </programme>
+  <programme start="20220427013000 -0300" stop="20220427023000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Pantagruélico - Take Away</title>
+  </programme>
+  <programme start="20220427023000 -0300" stop="20220427030000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Cultura DJ</title>
+  </programme>
+  <programme start="20220427030000 -0300" stop="20220427040000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">La clase</title>
+  </programme>
+  <programme start="20220427040000 -0300" stop="20220427050000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Clásicos del Tasso</title>
+  </programme>
+  <programme start="20220427050000 -0300" stop="20220427060000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Nuevo cine Argentino</title>
+  </programme>
+  <programme start="20220427060000 -0300" stop="20220427070000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Campo de batalla</title>
+  </programme>
+  <programme start="20220427070000 -0300" stop="20220427080000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Panorama N7</title>
+  </programme>
+  <programme start="20220427080000 -0300" stop="20220427100000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca</title>
+  </programme>
+  <programme start="20220427100000 -0300" stop="20220427123000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca</title>
+  </programme>
+  <programme start="20220427123000 -0300" stop="20220427130000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">N 12.30</title>
+  </programme>
+  <programme start="20220427130000 -0300" stop="20220427140000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Pantagruélico - Take Away</title>
+  </programme>
+  <programme start="20220427140000 -0300" stop="20220427160000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca</title>
+  </programme>
+  <programme start="20220427160000 -0300" stop="20220427170000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Libroteca</title>
+  </programme>
+  <programme start="20220427170000 -0300" stop="20220427190000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca - Tarde</title>
+  </programme>
+  <programme start="20220427190000 -0300" stop="20220427193000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Enredada</title>
+  </programme>
+  <programme start="20220427193000 -0300" stop="20220427200000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Km 0</title>
+  </programme>
+  <programme start="20220427200000 -0300" stop="20220427203000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">MMA</title>
+  </programme>
+  <programme start="20220427203000 -0300" stop="20220427210000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">N 20.30</title>
+  </programme>
+  <programme start="20220427210000 -0300" stop="20220427220000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca</title>
+  </programme>
+  <programme start="20220427220000 -0300" stop="20220427230000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Para alquilar balcones</title>
+  </programme>
+  <programme start="20220427230000 -0300" stop="20220427233000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Club de vinilos</title>
+  </programme>
+  <programme start="20220427233000 -0300" stop="20220428000000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Lado V</title>
+  </programme>
+  <programme start="20220428000000 -0300" stop="20220428003000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Como dice el tango</title>
+  </programme>
+  <programme start="20220428003000 -0300" stop="20220428013000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Para alquilar balcones</title>
+  </programme>
+  <programme start="20220428013000 -0300" stop="20220428020000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Club de vinilos</title>
+  </programme>
+  <programme start="20220428020000 -0300" stop="20220428023000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">MMA</title>
+  </programme>
+  <programme start="20220428023000 -0300" stop="20220428033000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Jazzología</title>
+  </programme>
+  <programme start="20220428033000 -0300" stop="20220428043000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Magistrales</title>
+  </programme>
+  <programme start="20220428043000 -0300" stop="20220428053000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Muy Muscari</title>
+  </programme>
+  <programme start="20220428053000 -0300" stop="20220428060000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Puro Heavy</title>
+  </programme>
+  <programme start="20220428060000 -0300" stop="20220428070000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Pantagruélico - Famosos</title>
+  </programme>
+  <programme start="20220428070000 -0300" stop="20220428080000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Clásicos del Tasso</title>
+  </programme>
+  <programme start="20220428080000 -0300" stop="20220428090000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Jazzología</title>
+  </programme>
+  <programme start="20220428090000 -0300" stop="20220428093000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Puro Heavy</title>
+  </programme>
+  <programme start="20220428093000 -0300" stop="20220428100000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Mandinga Tattoo</title>
+  </programme>
+  <programme start="20220428100000 -0300" stop="20220428110000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Pantagruélico</title>
+  </programme>
+  <programme start="20220428110000 -0300" stop="20220428120000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">SET - Siempre es teatro</title>
+  </programme>
+  <programme start="20220428120000 -0300" stop="20220428123000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Jam Session</title>
+  </programme>
+  <programme start="20220428123000 -0300" stop="20220428130000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Club de vinilos</title>
+  </programme>
+  <programme start="20220428130000 -0300" stop="20220428140000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Folklore - Lo mejor</title>
+  </programme>
+  <programme start="20220428140000 -0300" stop="20220428143000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">MMA</title>
+  </programme>
+  <programme start="20220428143000 -0300" stop="20220428153000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Clásicos del Tasso</title>
+  </programme>
+  <programme start="20220428153000 -0300" stop="20220428160000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Mandinga Tattoo</title>
+  </programme>
+  <programme start="20220428160000 -0300" stop="20220428173000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Enredada</title>
+  </programme>
+  <programme start="20220428173000 -0300" stop="20220428180000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Punto de encuentro</title>
+  </programme>
+  <programme start="20220428180000 -0300" stop="20220428190000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Folklore - Lo mejor</title>
+  </programme>
+  <programme start="20220428190000 -0300" stop="20220428193000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Cultura DJ</title>
+  </programme>
+  <programme start="20220428193000 -0300" stop="20220428203000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Campo de batalla</title>
+  </programme>
+  <programme start="20220428203000 -0300" stop="20220428210000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Proyecto EQ</title>
+  </programme>
+  <programme start="20220428210000 -0300" stop="20220428220000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Muy Muscari</title>
+  </programme>
+  <programme start="20220428220000 -0300" stop="20220428230000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Lo mejor - Música en casa</title>
+  </programme>
+  <programme start="20220428230000 -0300" stop="20220429000000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">SET - Siempre es teatro</title>
+  </programme>
+  <programme start="20220429000000 -0300" stop="20220429003000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Puro Heavy</title>
+  </programme>
+  <programme start="20220429003000 -0300" stop="20220429010000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Mandinga Tattoo</title>
+  </programme>
+  <programme start="20220429010000 -0300" stop="20220429020000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Folklore - Lo mejor</title>
+  </programme>
+  <programme start="20220429020000 -0300" stop="20220429030000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">SET - Siempre es teatro</title>
+  </programme>
+  <programme start="20220429030000 -0300" stop="20220429033000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Cultura DJ</title>
+  </programme>
+  <programme start="20220429033000 -0300" stop="20220429040000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Jam Session</title>
+  </programme>
+  <programme start="20220429040000 -0300" stop="20220429050000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Campo de batalla</title>
+  </programme>
+  <programme start="20220429050000 -0300" stop="20220429060000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Clásicos del Tasso</title>
+  </programme>
+  <programme start="20220429060000 -0300" stop="20220429063000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Mandinga Tattoo</title>
+  </programme>
+  <programme start="20220429063000 -0300" stop="20220429070000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Expedición Merino</title>
+  </programme>
+  <programme start="20220429070000 -0300" stop="20220429080000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Muy Muscari</title>
+  </programme>
+  <programme start="20220429080000 -0300" stop="20220429090000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Pantagruélico - Famosos</title>
+  </programme>
+  <programme start="20220429090000 -0300" stop="20220429100000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Campo de batalla</title>
+  </programme>
+  <programme start="20220429100000 -0300" stop="20220429110000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Folklore - Lo mejor</title>
+  </programme>
+  <programme start="20220429110000 -0300" stop="20220429113000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">MMA</title>
+  </programme>
+  <programme start="20220429113000 -0300" stop="20220429120000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Maravillas porteñas</title>
+  </programme>
+  <programme start="20220429120000 -0300" stop="20220429123000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Club de vinilos</title>
+  </programme>
+  <programme start="20220429123000 -0300" stop="20220429130000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Punto de encuentro</title>
+  </programme>
+  <programme start="20220429130000 -0300" stop="20220429140000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Lo mejor - Música en casa</title>
+  </programme>
+  <programme start="20220429140000 -0300" stop="20220429143000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Jam Session</title>
+  </programme>
+  <programme start="20220429143000 -0300" stop="20220429150000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Mandinga Tattoo</title>
+  </programme>
+  <programme start="20220429150000 -0300" stop="20220429160000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Folklore - Lo mejor</title>
+  </programme>
+  <programme start="20220429160000 -0300" stop="20220429173000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Enredada</title>
+  </programme>
+  <programme start="20220429173000 -0300" stop="20220429180000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Puro Heavy</title>
+  </programme>
+  <programme start="20220429180000 -0300" stop="20220429183000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Proyecto EQ</title>
+  </programme>
+  <programme start="20220429183000 -0300" stop="20220429190000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Mandinga Tattoo</title>
+  </programme>
+  <programme start="20220429190000 -0300" stop="20220429193000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">MMA</title>
+  </programme>
+  <programme start="20220429193000 -0300" stop="20220429200000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Expedición Merino</title>
+  </programme>
+  <programme start="20220429200000 -0300" stop="20220429203000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Jam Session</title>
+  </programme>
+  <programme start="20220429203000 -0300" stop="20220429210000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Club de vinilos</title>
+  </programme>
+  <programme start="20220429210000 -0300" stop="20220429220000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Folklore - Lo mejor</title>
+  </programme>
+  <programme start="20220429220000 -0300" stop="20220429230000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Magistrales</title>
+  </programme>
+  <programme start="20220429230000 -0300" stop="20220430000000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Lo mejor - Música en casa</title>
+  </programme>
+  <programme start="20220430000000 -0300" stop="20220430003000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Club de vinilos</title>
+  </programme>
+  <programme start="20220430003000 -0300" stop="20220430013000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Folklore - Lo mejor</title>
+  </programme>
+  <programme start="20220430013000 -0300" stop="20220430023000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Pantagruélico - Take Away</title>
+  </programme>
+  <programme start="20220430023000 -0300" stop="20220430030000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">MMA</title>
+  </programme>
+  <programme start="20220430030000 -0300" stop="20220430040000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">La clase</title>
+  </programme>
+  <programme start="20220430040000 -0300" stop="20220430050000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Clásicos del Tasso</title>
+  </programme>
+  <programme start="20220430050000 -0300" stop="20220430060000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Nuevo cine Argentino</title>
+  </programme>
+  <programme start="20220430060000 -0300" stop="20220430063000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Jam Session</title>
+  </programme>
+  <programme start="20220430063000 -0300" stop="20220430070000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Mandinga Tattoo</title>
+  </programme>
+  <programme start="20220430070000 -0300" stop="20220430080000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Panorama N7</title>
+  </programme>
+  <programme start="20220430080000 -0300" stop="20220430100000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca</title>
+  </programme>
+  <programme start="20220430100000 -0300" stop="20220430123000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca</title>
+  </programme>
+  <programme start="20220430123000 -0300" stop="20220430130000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">N 12.30</title>
+  </programme>
+  <programme start="20220430130000 -0300" stop="20220430140000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Pantagruélico - Take Away</title>
+  </programme>
+  <programme start="20220430140000 -0300" stop="20220430160000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca</title>
+  </programme>
+  <programme start="20220430160000 -0300" stop="20220430170000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Libroteca</title>
+  </programme>
+  <programme start="20220430170000 -0300" stop="20220430190000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca - Tarde</title>
+  </programme>
+  <programme start="20220430190000 -0300" stop="20220430193000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Enredada</title>
+  </programme>
+  <programme start="20220430193000 -0300" stop="20220430200000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Km 0</title>
+  </programme>
+  <programme start="20220430200000 -0300" stop="20220430203000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Expedición Merino</title>
+  </programme>
+  <programme start="20220430203000 -0300" stop="20220430210000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">N 20.30</title>
+  </programme>
+  <programme start="20220430210000 -0300" stop="20220430220000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Hoy nos toca</title>
+  </programme>
+  <programme start="20220430220000 -0300" stop="20220430230000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Para alquilar balcones</title>
+  </programme>
+  <programme start="20220430230000 -0300" stop="20220501000000 -0300" channel="Canal de la Ciudad">
+    <title lang="es">Pantagruélico - Take Away</title>
   </programme>
   <programme start="20220427000000 -0300" stop="20220427003000 -0300" channel="Magazine">
     <title lang="es">Vivir viajando</title>
