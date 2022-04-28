@@ -17,7 +17,7 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 https://edge5-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX MOVIES.png" group-title="Cine y Series",FX MOVIES
 https://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
-#EXTINF:-1 tvg-id="HBO Este" tvg-name="HBO Este" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Este.png" group-title="Cine y Series",HBO Este
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO.png" group-title="Cine y Series",HBO
 https://edge4-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1 tvg-id="HBO Plus Panamericano" tvg-name="HBO Plus Panamericano" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Plus Panamericano.png" group-title="Cine y Series",HBO Plus Panamericano
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
@@ -179,12 +179,16 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3
 https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Internacional",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="CNN Internacional" tvg-name="CNN Internacional" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CNN Internacional.png" group-title="Internacional",CNN Internacional
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Deutsche Welle.png" group-title="Internacional",Deutsche Welle
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/France 24.png" group-title="Internacional",France 24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBC News.png" group-title="Internacional",NBC News
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RAI.png" group-title="Internacional",RAI
+https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesur.png" group-title="Internacional",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Usa Today.png" group-title="Internacional",Usa Today
@@ -223,6 +227,8 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Chacra TV.png" group-title="Variedades",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/PASIONES.png" group-title="Variedades",PASIONES
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telemax.png" group-title="Variedades",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
