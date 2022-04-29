@@ -531,6 +531,12 @@
     <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/383.png" />
     <url>http://www.tcc.com.uy</url>
   </channel>
+  <channel id="RAI">
+    <display-name lang="es">RAI</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/RAI.png" />
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/604.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
   <programme start="20220429000000 -0300" stop="20220429004500 -0300" channel="AE Mundo">
     <title lang="es">Mente criminal</title>
   </programme>
@@ -27777,14 +27783,6 @@
   <programme start="20220501230000 -0300" stop="20220502000000 -0300" channel="Telemax">
     <title lang="es">Datos curiosos</title>
   </programme>
-  <programme start="20220429181000 -0300" stop="20220429184000 -0300" channel="Love Nature HD">
-    <title lang="es">Animales bebes</title>
-    <desc lang="es">Una serie de narraciones humorísticas basada en un día en la vida de una amplia gama de crías extremadamente lindas de una amplia variedad de entornos naturales de todo el mundo.(n)</desc>
-  </programme>
-  <programme start="20220429184000 -0300" stop="20220429193000 -0300" channel="Love Nature HD">
-    <title lang="es">Cuentos de Zambia</title>
-    <desc lang="es">Un zafari por Zambia, uno de los lugares más salvajes y maravillosos del mundo en donde se encuentran algunas de las criaturas más exóticas que, por medio de un acercamiento, se podrán observar sus característicos comportamientos.(n)</desc>
-  </programme>
   <programme start="20220429193000 -0300" stop="20220429202000 -0300" channel="Love Nature HD">
     <title lang="es">Diarios de monos</title>
   </programme>
@@ -28026,6 +28024,472 @@
   <programme start="20220501225000 -0300" stop="20220501234000 -0300" channel="Love Nature HD">
     <title lang="es">Escuela de orangutanes</title>
     <desc lang="es">Unos jóvenes orangutanes han perdido a sus madres debido a la caza furtiva o la deforestación y deben aprender las habilidades que necesitan para sobrevivir.(n)</desc>
+  </programme>
+  <programme start="20220429193000 -0300" stop="20220429193000 -0300" channel="RAI">
+    <title lang="es">TV fama</title>
+    <desc lang="es">Edición en la cual se presentan los principales acontecimientos, novedades y chismes de la farándula y el espectáculo, con notas de interés, entrevistas, reportajes e informes que te mantendrán a la expectativa.(n)</desc>
+  </programme>
+  <programme start="20220429193000 -0300" stop="20220429203000 -0300" channel="RAI">
+    <title lang="es">L'Italia con Voi</title>
+    <desc lang="es">Un programa para los italianos en el mundo, que recopila y enriquece el legado de "Community-L'altra Italia". Todas las tardes, con una fórmula original y renovada, son noventa minutos de hospitalidad y servicio para Italia y para el mundo.(n)</desc>
+  </programme>
+  <programme start="20220429203000 -0300" stop="20220429204500 -0300" channel="RAI">
+    <title lang="es">Igreja internacional da graça de Deus</title>
+    <desc lang="es">Conozca la palabra del Señor a través del programa de la Iglesia Internacional de la Gracia de Dios.(n)</desc>
+  </programme>
+  <programme start="20220429204500 -0300" stop="20220429211500 -0300" channel="RAI">
+    <title lang="es">Un posto al sole. Crawl Pausa</title>
+  </programme>
+  <programme start="20220429211500 -0300" stop="20220429213000 -0300" channel="RAI">
+    <title lang="es">The Band</title>
+    <desc lang="es">Distintas bandas competirán, apoyadas por tutores experimentados y evaluadas por un jurado, para ganar el título de "Banda del año".(n)</desc>
+  </programme>
+  <programme start="20220429213000 -0300" stop="20220429223000 -0300" channel="RAI">
+    <title lang="es">RedeTV News</title>
+    <desc lang="es">Segmento que trae los principales eventos de Brasil y el mundo, anclado por los periodistas Boris Casoy y Amanda Klein, con corresponsales internacionales y comentaristas de la prensa brasileña.(n)</desc>
+  </programme>
+  <programme start="20220429223000 -0300" stop="20220429230000 -0300" channel="RAI">
+    <title lang="es">Rescate 193</title>
+    <desc lang="es">Rescate 193 sigue de cerca la increíble labor diaria de los equipos de bomberos, médicos y socorristas que trabajan de manera integrada salvando vidas en la ciudad más grande de Sudamérica, San Pablo.(n)</desc>
+  </programme>
+  <programme start="20220429230000 -0300" stop="20220429233000 -0300" channel="RAI">
+    <title lang="es">Operação de Risco</title>
+    <desc lang="es">Operación de Riesgo es el reality policial pionero de la televisión brasileña. Abordamos varios temas, entre ellos el Combate al Tráfico de Drogas, la Prisión de Ladrones y Persecución a Vehículos robados.(n)</desc>
+  </programme>
+  <programme start="20220429233000 -0300" stop="20220429234500 -0300" channel="RAI">
+    <title lang="es">Xtreme Fighting Championships</title>
+    <desc lang="es">Una de las principales organizaciones internacionales de MMA con sede en los Estados Unidos. Fundada en 2006, XFC se especializa en la producción de eventos de lucha llenos de acción.(n)</desc>
+  </programme>
+  <programme start="20220429234500 -0300" stop="20220430001500 -0300" channel="RAI">
+    <title lang="es">L'Italia con Voi</title>
+    <desc lang="es">Un programa para los italianos en el mundo, que recopila y enriquece el legado de "Community-L'altra Italia". Todas las tardes, con una fórmula original y renovada, son noventa minutos de hospitalidad y servicio para Italia y para el mundo.(n)</desc>
+  </programme>
+  <programme start="20220430001500 -0300" stop="20220430003000 -0300" channel="RAI">
+    <title lang="es">TV7</title>
+    <desc lang="es">Toda la actualidad en Italia y el resto del mundo en profundidad.(n)</desc>
+  </programme>
+  <programme start="20220430003000 -0300" stop="20220430011500 -0300" channel="RAI">
+    <title lang="es">Leitura dinâmica</title>
+    <desc lang="es">Noticias de la RedeTV! Que presenta las principales novedades del día.(n)</desc>
+  </programme>
+  <programme start="20220430011500 -0300" stop="20220430011500 -0300" channel="RAI">
+    <title lang="es">Amaury Jr</title>
+    <desc lang="es">Este show viaja a los lugares más exclusivos del jet set nacional e internacional, entrevistando a personalidades del mundo empresarial, político y económico, así como celebridades.(n)</desc>
+  </programme>
+  <programme start="20220430011500 -0300" stop="20220430014500 -0300" channel="RAI">
+    <title lang="es">TG Rai News</title>
+    <desc lang="es">Resumen de las informaciones más importantes del día en Italia, presentando detalles más relevantes.(n)</desc>
+  </programme>
+  <programme start="20220430014500 -0300" stop="20220430020000 -0300" channel="RAI">
+    <title lang="es">TG Sport</title>
+    <desc lang="es">Todas las novedades del mundo del deporte.(n)</desc>
+  </programme>
+  <programme start="20220430020000 -0300" stop="20220430021500 -0300" channel="RAI">
+    <title lang="es">TG1</title>
+    <desc lang="es">Ponte al día con los últimos acontecimientos, en este resumen donde te brindaran la información más relevante del momento y podrás mantenerte informado de los hechos más recientes.(n)</desc>
+  </programme>
+  <programme start="20220430021500 -0300" stop="20220430025000 -0300" channel="RAI">
+    <title lang="es">Peanuts apresenta</title>
+    <desc lang="es">Un espacio donde todo el contenido original y exclusivo de Peanuts se une.(n)</desc>
+  </programme>
+  <programme start="20220430025000 -0300" stop="20220430030000 -0300" channel="RAI">
+    <title lang="es">Te peguei</title>
+    <desc lang="es">Un equipo de peculiares personajes te hará gozar de la mejor manera, presentándote diversas bromas realizadas a los habitantes de la ciudad de São Paulo, Brasil, quienes caerán en cada ocasión y te harán llorar de la risa.(n)</desc>
+  </programme>
+  <programme start="20220430030000 -0300" stop="20220430030000 -0300" channel="RAI">
+    <title lang="es">TG1</title>
+    <desc lang="es">Ponte al día con los últimos acontecimientos, en este resumen donde te brindaran la información más relevante del momento y podrás mantenerte informado de los hechos más recientes.(n)</desc>
+  </programme>
+  <programme start="20220430030000 -0300" stop="20220430031500 -0300" channel="RAI">
+    <title lang="es">Igreja da Graça no seu Lar</title>
+    <desc lang="es">Siga la palabra de Dios y los testimonios de los miembros de su iglesia.(n)</desc>
+  </programme>
+  <programme start="20220430031500 -0300" stop="20220430040000 -0300" channel="RAI">
+    <title lang="es">TG1</title>
+    <desc lang="es">Ponte al día con los últimos acontecimientos, en este resumen donde te brindaran la información más relevante del momento y podrás mantenerte informado de los hechos más recientes.(n)</desc>
+  </programme>
+  <programme start="20220430040000 -0300" stop="20220430050000 -0300" channel="RAI">
+    <title lang="es">UnoMattina in famiglia</title>
+    <desc lang="es">La transmisión es una fusión entre el famoso programa de la mañana "Fin de semana en familia.(n)</desc>
+  </programme>
+  <programme start="20220430050000 -0300" stop="20220430051500 -0300" channel="RAI">
+    <title lang="es">Ultrafarma</title>
+    <desc lang="es">Espacio dedicado a la presentación de productos, consejos de ventas, promociones y compañas de comunicación para la familia brasileña.(n)</desc>
+  </programme>
+  <programme start="20220430051500 -0300" stop="20220430060000 -0300" channel="RAI">
+    <title lang="es">Buongiorno Benessere</title>
+    <desc lang="es">Segmento dedicado a los que aman vivir bien, con una serie de consejos útiles de la mano de profesionales de la medicina, quienes te indicarán los estilos de vida para estar saludables y alcanzar mayor bienestar físico.(n)</desc>
+  </programme>
+  <programme start="20220430060000 -0300" stop="20220430061500 -0300" channel="RAI">
+    <title lang="es">Igreja Universal do Reino de Deus</title>
+    <desc lang="es">Un espacio que representa una denominación cristiana evangélica pentecostal, sobre la base del templo de Salomón, en Sao Paulo, Brasil.(n)</desc>
+  </programme>
+  <programme start="20220430061500 -0300" stop="20220430063000 -0300" channel="RAI">
+    <title lang="es">Documentario</title>
+    <desc lang="es">Presentamos una serie de documentales de naturaleza histórica, social y cultural que suponen gran interés para la sociedad.(n)</desc>
+  </programme>
+  <programme start="20220430063000 -0300" stop="20220430070000 -0300" channel="RAI">
+    <title lang="es">TGR Officina Italia</title>
+  </programme>
+  <programme start="20220430070000 -0300" stop="20220430070000 -0300" channel="RAI">
+    <title lang="es">Te peguei</title>
+    <desc lang="es">Un equipo de peculiares personajes te hará gozar de la mejor manera, presentándote diversas bromas realizadas a los habitantes de la ciudad de São Paulo, Brasil, quienes caerán en cada ocasión y te harán llorar de la risa.(n)</desc>
+  </programme>
+  <programme start="20220430070000 -0300" stop="20220430070500 -0300" channel="RAI">
+    <title lang="es">TG3</title>
+    <desc lang="es">Programa informativo centrado en reseñar las noticias más importantes e impactantes transcurridas a nivel global, nacional, local y regional, ofreciendo a los televidentes contenido exclusivo sobre acontecimientos de interés general.(n)</desc>
+  </programme>
+  <programme start="20220430070500 -0300" stop="20220430072000 -0300" channel="RAI">
+    <title lang="es">Sky</title>
+  </programme>
+  <programme start="20220430072000 -0300" stop="20220430072500 -0300" channel="RAI">
+    <title lang="es">Te peguei</title>
+    <desc lang="es">Un equipo de peculiares personajes te hará gozar de la mejor manera, presentándote diversas bromas realizadas a los habitantes de la ciudad de São Paulo, Brasil, quienes caerán en cada ocasión y te harán llorar de la risa.(n)</desc>
+  </programme>
+  <programme start="20220430072500 -0300" stop="20220430073000 -0300" channel="RAI">
+    <title lang="es">Sky</title>
+  </programme>
+  <programme start="20220430073000 -0300" stop="20220430074000 -0300" channel="RAI">
+    <title lang="es">13 platillos para conocer México</title>
+  </programme>
+  <programme start="20220430074000 -0300" stop="20220430074500 -0300" channel="RAI">
+    <title lang="es">Te peguei</title>
+    <desc lang="es">Un equipo de peculiares personajes te hará gozar de la mejor manera, presentándote diversas bromas realizadas a los habitantes de la ciudad de São Paulo, Brasil, quienes caerán en cada ocasión y te harán llorar de la risa.(n)</desc>
+  </programme>
+  <programme start="20220430074500 -0300" stop="20220430080000 -0300" channel="RAI">
+    <title lang="es">Sky</title>
+  </programme>
+  <programme start="20220430080000 -0300" stop="20220430080000 -0300" channel="RAI">
+    <title lang="es">TG2 Giorno</title>
+    <desc lang="es">Una cita con la actualidad de última hora, en profundidad, el registro.(n)</desc>
+  </programme>
+  <programme start="20220430080000 -0300" stop="20220430083000 -0300" channel="RAI">
+    <title lang="es">Verdade  vida</title>
+  </programme>
+  <programme start="20220430083000 -0300" stop="20220430083000 -0300" channel="RAI">
+    <title lang="es">TG 2 Weekend</title>
+  </programme>
+  <programme start="20220430083000 -0300" stop="20220430084500 -0300" channel="RAI">
+    <title lang="es">Sky</title>
+  </programme>
+  <programme start="20220430084500 -0300" stop="20220430085000 -0300" channel="RAI">
+    <title lang="es">Te peguei</title>
+    <desc lang="es">Un equipo de peculiares personajes te hará gozar de la mejor manera, presentándote diversas bromas realizadas a los habitantes de la ciudad de São Paulo, Brasil, quienes caerán en cada ocasión y te harán llorar de la risa.(n)</desc>
+  </programme>
+  <programme start="20220430085000 -0300" stop="20220430090000 -0300" channel="RAI">
+    <title lang="es">Sky</title>
+  </programme>
+  <programme start="20220430090000 -0300" stop="20220430090000 -0300" channel="RAI">
+    <title lang="es">Vitória em Cristo</title>
+    <desc lang="es">Acompaña al pastor Silas Malafaia en esta edición en la cual reseña la misericordia y bondades de Dios en la vida del ser humano, abordando diferentes temas de interés general para el cristiano actual desde un enfoque teológico.(n)</desc>
+  </programme>
+  <programme start="20220430090000 -0300" stop="20220430093000 -0300" channel="RAI">
+    <title lang="es">Agorà</title>
+    <desc lang="es">Gracias a invitados, corresponsales, videoservicios, videocontribuciones y actualizaciones en vivo, también este año la emisión confirma su fórmula, a medio camino entre el huecograbado y el talk show.(n)</desc>
+  </programme>
+  <programme start="20220430093000 -0300" stop="20220430100000 -0300" channel="RAI">
+    <title lang="es">Comunidade evangélica Zona Sul</title>
+    <desc lang="es">Sigue las actividades y toda la información de esta gran Iglesia evangélica internacional que busca la comunión y la transformación de todos sus fieles alrededor del mundo de la mano de Dios y su bendición.(n)</desc>
+  </programme>
+  <programme start="20220430100000 -0300" stop="20220430100000 -0300" channel="RAI">
+    <title lang="es">Show da saude</title>
+    <desc lang="es">Espacio patrocinado que informa para prevenir y tratar enfermedades y dolencias tales como dolor de espalda, artritis, artrosis, entre otros.(n)</desc>
+  </programme>
+  <programme start="20220430100000 -0300" stop="20220430103000 -0300" channel="RAI">
+    <title lang="es">I Soliti Ignoti</title>
+    <desc lang="es">Espacio en el cual los competidores deben investigar y comprender las profesiones de ocho personas a partir de pistas.(n)</desc>
+  </programme>
+  <programme start="20220430103000 -0300" stop="20220430104500 -0300" channel="RAI">
+    <title lang="es">Net Motors</title>
+  </programme>
+  <programme start="20220430104500 -0300" stop="20220430110000 -0300" channel="RAI">
+    <title lang="es">Il caffé di Raiuno</title>
+    <desc lang="es">Invitados, noticias, conocimientos sobre teatro, cine, libros y música. Historias y protagonistas de ayer y de hoy. Un recorrido por el arte entre hechos, testimonios e ideas de un país.(n)</desc>
+  </programme>
+  <programme start="20220430110000 -0300" stop="20220430114500 -0300" channel="RAI">
+    <title lang="es">Igreja Universal do Reino de Deus</title>
+    <desc lang="es">Un espacio que representa una denominación cristiana evangélica pentecostal, sobre la base del templo de Salomón, en Sao Paulo, Brasil.(n)</desc>
+  </programme>
+  <programme start="20220430114500 -0300" stop="20220430120000 -0300" channel="RAI">
+    <title lang="es">TG1</title>
+    <desc lang="es">Ponte al día con los últimos acontecimientos, en este resumen donde te brindaran la información más relevante del momento y podrás mantenerte informado de los hechos más recientes.(n)</desc>
+  </programme>
+  <programme start="20220430120000 -0300" stop="20220430120000 -0300" channel="RAI">
+    <title lang="es">Linea verde</title>
+    <desc lang="es">"Línea Verde" es un programa de televisión dedicado al mundo de la agricultura que abarca aspectos de la compleja realidad agrícola italiana y los intereses que giran en torno a esta actividad.(n)</desc>
+  </programme>
+  <programme start="20220430120000 -0300" stop="20220430123000 -0300" channel="RAI">
+    <title lang="es">Assembleia de Deus do Brás</title>
+    <desc lang="es">Un momento de fe y oración con nuestros hermanos de la Iglesia Asamblea de Dios de Brás.(n)</desc>
+  </programme>
+  <programme start="20220430123000 -0300" stop="20220430130000 -0300" channel="RAI">
+    <title lang="es">Linea verde</title>
+    <desc lang="es">"Línea Verde" es un programa de televisión dedicado al mundo de la agricultura que abarca aspectos de la compleja realidad agrícola italiana y los intereses que giran en torno a esta actividad.(n)</desc>
+  </programme>
+  <programme start="20220430130000 -0300" stop="20220430131500 -0300" channel="RAI">
+    <title lang="es">Show da saude</title>
+    <desc lang="es">Espacio patrocinado que informa para prevenir y tratar enfermedades y dolencias tales como dolor de espalda, artritis, artrosis, entre otros.(n)</desc>
+  </programme>
+  <programme start="20220430131500 -0300" stop="20220430140000 -0300" channel="RAI">
+    <title lang="es">Italia si</title>
+    <desc lang="es">El formato de Italia Sì hará que personas comunes y celebridades creen en una especie de altar para contar sus vidas, su historia o un pasado particular del pasado.(n)</desc>
+  </programme>
+  <programme start="20220430140000 -0300" stop="20220430143000 -0300" channel="RAI">
+    <title lang="es">Te peguei</title>
+    <desc lang="es">Un equipo de peculiares personajes te hará gozar de la mejor manera, presentándote diversas bromas realizadas a los habitantes de la ciudad de São Paulo, Brasil, quienes caerán en cada ocasión y te harán llorar de la risa.(n)</desc>
+  </programme>
+  <programme start="20220430143000 -0300" stop="20220430150000 -0300" channel="RAI">
+    <title lang="es">Empresários de sucesso</title>
+    <desc lang="es">El programa tiene como objetivo presentar informes con empresarios de diferentes sectores que, a través de sus empresas e ideas innovadoras, han ganado protagonismo entre los consumidores.(n)</desc>
+  </programme>
+  <programme start="20220430150000 -0300" stop="20220430150000 -0300" channel="RAI">
+    <title lang="es">TG1</title>
+    <desc lang="es">Ponte al día con los últimos acontecimientos, en este resumen donde te brindaran la información más relevante del momento y podrás mantenerte informado de los hechos más recientes.(n)</desc>
+  </programme>
+  <programme start="20220430150000 -0300" stop="20220430153000 -0300" channel="RAI">
+    <title lang="es">Qual imóvel na band</title>
+  </programme>
+  <programme start="20220430153000 -0300" stop="20220430153000 -0300" channel="RAI">
+    <title lang="es">Show da saude</title>
+    <desc lang="es">Espacio patrocinado que informa para prevenir y tratar enfermedades y dolencias tales como dolor de espalda, artritis, artrosis, entre otros.(n)</desc>
+  </programme>
+  <programme start="20220430153000 -0300" stop="20220430161500 -0300" channel="RAI">
+    <title lang="es">Lineablu</title>
+    <desc lang="es">Programa de difusión cultural, comprometido con el conocimiento de la cultura y el medio ambiente del mar.(n)</desc>
+  </programme>
+  <programme start="20220430161500 -0300" stop="20220430163000 -0300" channel="RAI">
+    <title lang="es">Dibujos animados</title>
+    <desc lang="es">Exclusivamente para los más chicos del hogar, llega este programa donde la diversión está asegurada. Presenta los mejores dibujos y series animadas, como Avatar, Jimmy Neutrón y Sonic, para que pases una mañana muy entretenida y alegre.(n)</desc>
+  </programme>
+  <programme start="20220430163000 -0300" stop="20220430170000 -0300" channel="RAI">
+    <title lang="es">Empresários de sucesso</title>
+    <desc lang="es">El programa tiene como objetivo presentar informes con empresarios de diferentes sectores que, a través de sus empresas e ideas innovadoras, han ganado protagonismo entre los consumidores.(n)</desc>
+  </programme>
+  <programme start="20220430170000 -0300" stop="20220430170000 -0300" channel="RAI">
+    <title lang="es">Festival RedeTV Plus</title>
+    <desc lang="es">Presenta un verdadero festival de premios. Únase a toda la familia y compita por televisores, teléfonos celulares, automóviles y más.(n)</desc>
+  </programme>
+  <programme start="20220430170000 -0300" stop="20220430173000 -0300" channel="RAI">
+    <title lang="es">O anche no</title>
+    <desc lang="es">Un espacio que propone abordar la discapacidad de una forma diferente, a través de los protagonistas que cuentan sus expectativas, dificultades y logros.(n)</desc>
+  </programme>
+  <programme start="20220430173000 -0300" stop="20220430180000 -0300" channel="RAI">
+    <title lang="es">Pallavolo Femminile</title>
+  </programme>
+  <programme start="20220430180000 -0300" stop="20220430190000 -0300" channel="RAI">
+    <title lang="es">TV fama</title>
+    <desc lang="es">Edición en la cual se presentan los principales acontecimientos, novedades y chismes de la farándula y el espectáculo, con notas de interés, entrevistas, reportajes e informes que te mantendrán a la expectativa.(n)</desc>
+  </programme>
+  <programme start="20220430190000 -0300" stop="20220430193000 -0300" channel="RAI">
+    <title lang="es">Zinzane</title>
+    <desc lang="es">En Zinzane encontrarás las mejores piezas femeninas y masculinas para componer tu armario y crear producciones originales.(n)</desc>
+  </programme>
+  <programme start="20220430193000 -0300" stop="20220430193000 -0300" channel="RAI">
+    <title lang="es">Luciana by Night</title>
+    <desc lang="es">Luciana Giménez recibe a múltiples invitados para conversar íntimamente sobre sus proyectos recientes, además de sus vidas personales y sus planes a futuro. Asimismo, realiza divertidas dinámicas donde las risas nunca faltarán.(n)</desc>
+  </programme>
+  <programme start="20220430193000 -0300" stop="20220430203000 -0300" channel="RAI">
+    <title lang="es">L'Eredità</title>
+    <desc lang="es">Un grupo de participantes compite en varios retos y desafíos, lo que les permite avanzar hacia la meta final.(n)</desc>
+  </programme>
+  <programme start="20220430203000 -0300" stop="20220430203000 -0300" channel="RAI">
+    <title lang="es">L'Italia con Voi</title>
+    <desc lang="es">Un programa para los italianos en el mundo, que recopila y enriquece el legado de "Community-L'altra Italia". Todas las tardes, con una fórmula original y renovada, son noventa minutos de hospitalidad y servicio para Italia y para el mundo.(n)</desc>
+  </programme>
+  <programme start="20220430203000 -0300" stop="20220430210000 -0300" channel="RAI">
+    <title lang="es">Igreja internacional da graça de Deus</title>
+    <desc lang="es">Conozca la palabra del Señor a través del programa de la Iglesia Internacional de la Gracia de Dios.(n)</desc>
+  </programme>
+  <programme start="20220430210000 -0300" stop="20220430213000 -0300" channel="RAI">
+    <title lang="es">I Soliti Ignoti</title>
+    <desc lang="es">Espacio en el cual los competidores deben investigar y comprender las profesiones de ocho personas a partir de pistas.(n)</desc>
+  </programme>
+  <programme start="20220430213000 -0300" stop="20220430221000 -0300" channel="RAI">
+    <title lang="es">RedeTV News</title>
+    <desc lang="es">Segmento que trae los principales eventos de Brasil y el mundo, anclado por los periodistas Boris Casoy y Amanda Klein, con corresponsales internacionales y comentaristas de la prensa brasileña.(n)</desc>
+  </programme>
+  <programme start="20220430221000 -0300" stop="20220430224500 -0300" channel="RAI">
+    <title lang="es">Operação de Risco</title>
+    <desc lang="es">Operación de Riesgo es el reality policial pionero de la televisión brasileña. Abordamos varios temas, entre ellos el Combate al Tráfico de Drogas, la Prisión de Ladrones y Persecución a Vehículos robados.(n)</desc>
+  </programme>
+  <programme start="20220430224500 -0300" stop="20220430230000 -0300" channel="RAI">
+    <title lang="es">TG2 Dossier</title>
+    <desc lang="es">TG2 Dossier: el principal programa periodístico del canal 2 de la RAI de Italia.(n)</desc>
+  </programme>
+  <programme start="20220430230000 -0300" stop="20220430233000 -0300" channel="RAI">
+    <title lang="es">Mega senha</title>
+    <desc lang="es">Concurso de pruebas de conocimiento, el pensamiento rápido y el trabajo en equipo, en el cual dos equipos, cada uno compuesto de una celebridad y un participante, deberá demostrar quién tiene el mejor vocabulario para ganar la competencia.(n)</desc>
+  </programme>
+  <programme start="20220430233000 -0300" stop="20220501003000 -0300" channel="RAI">
+    <title lang="es">Le Parole</title>
+  </programme>
+  <programme start="20220501003000 -0300" stop="20220501004500 -0300" channel="RAI">
+    <title lang="es">Amaury Jr</title>
+    <desc lang="es">Este show viaja a los lugares más exclusivos del jet set nacional e internacional, entrevistando a personalidades del mundo empresarial, político y económico, así como celebridades.(n)</desc>
+  </programme>
+  <programme start="20220501004500 -0300" stop="20220501013000 -0300" channel="RAI">
+    <title lang="es">TG Rai News</title>
+    <desc lang="es">Resumen de las informaciones más importantes del día en Italia, presentando detalles más relevantes.(n)</desc>
+  </programme>
+  <programme start="20220501013000 -0300" stop="20220501014500 -0300" channel="RAI">
+    <title lang="es">Ultrafarma</title>
+    <desc lang="es">Espacio dedicado a la presentación de productos, consejos de ventas, promociones y compañas de comunicación para la familia brasileña.(n)</desc>
+  </programme>
+  <programme start="20220501014500 -0300" stop="20220501020000 -0300" channel="RAI">
+    <title lang="es">TG Sport</title>
+    <desc lang="es">Todas las novedades del mundo del deporte.(n)</desc>
+  </programme>
+  <programme start="20220501020000 -0300" stop="20220501023000 -0300" channel="RAI">
+    <title lang="es">TG1 + Uno mattina in famiglia</title>
+  </programme>
+  <programme start="20220501023000 -0300" stop="20220501030000 -0300" channel="RAI">
+    <title lang="es">Igreja bola de neve</title>
+    <desc lang="es">Espacio de edificación espiritual en el cual podrás escuchar las predicas de las sagradas escrituras impartidas en la iglesia Bola de Neve, abordando mensajes y reflexiones que te conectarán con los planes de Dios.(n)</desc>
+  </programme>
+  <programme start="20220501030000 -0300" stop="20220501043000 -0300" channel="RAI">
+    <title lang="es">Igreja da Graça no seu Lar</title>
+    <desc lang="es">Siga la palabra de Dios y los testimonios de los miembros de su iglesia.(n)</desc>
+  </programme>
+  <programme start="20220501043000 -0300" stop="20220501044500 -0300" channel="RAI">
+    <title lang="es">Documentario</title>
+    <desc lang="es">Presentamos una serie de documentales de naturaleza histórica, social y cultural que suponen gran interés para la sociedad.(n)</desc>
+  </programme>
+  <programme start="20220501044500 -0300" stop="20220501050000 -0300" channel="RAI">
+    <title lang="es">Cristianità</title>
+    <desc lang="es">La hermana Myriam Castelli comenta sobre el mensaje que el Papa pronuncia a los fieles reunidos en la Plaza de San Pedro.(n)</desc>
+  </programme>
+  <programme start="20220501050000 -0300" stop="20220501071500 -0300" channel="RAI">
+    <title lang="es">Ultrafarma</title>
+    <desc lang="es">Espacio dedicado a la presentación de productos, consejos de ventas, promociones y compañas de comunicación para la familia brasileña.(n)</desc>
+  </programme>
+  <programme start="20220501071500 -0300" stop="20220501074500 -0300" channel="RAI">
+    <title lang="es">TG2 Mizar</title>
+    <desc lang="es">La sección semanal en la que los mejores especialistas en todos los campos de la cultura responden a las preguntas que a cada uno de nosotros nos gustaría hacer.(n)</desc>
+  </programme>
+  <programme start="20220501074500 -0300" stop="20220501080000 -0300" channel="RAI">
+    <title lang="es">Sit com</title>
+  </programme>
+  <programme start="20220501080000 -0300" stop="20220501083000 -0300" channel="RAI">
+    <title lang="es">TG2 Giorno</title>
+    <desc lang="es">Una cita con la actualidad de última hora, en profundidad, el registro.(n)</desc>
+  </programme>
+  <programme start="20220501083000 -0300" stop="20220501083000 -0300" channel="RAI">
+    <title lang="es">TG2 Motori</title>
+    <desc lang="es">Programa especializado en motores, desde automóviles, motocicletas, barcos hasta incluso aviones.(n)</desc>
+  </programme>
+  <programme start="20220501083000 -0300" stop="20220501090000 -0300" channel="RAI">
+    <title lang="es">Mundo empresarial</title>
+    <desc lang="es">Un espacio que tiene como objetivo presentar iniciativas empresariales y empresas que, por un producto o servicio diferenciado, se destaquen en el mercado.(n)</desc>
+  </programme>
+  <programme start="20220501090000 -0300" stop="20220501090000 -0300" channel="RAI">
+    <title lang="es">Domenica in</title>
+    <desc lang="es">Nueva edición del histórico programa de entretenimientos de los domingos.(n)</desc>
+  </programme>
+  <programme start="20220501090000 -0300" stop="20220501100000 -0300" channel="RAI">
+    <title lang="es">São Paulo dá sorte</title>
+    <desc lang="es">Se acerca el momento de tu cambio de vida. Garantiza tu título ahora y prepárate para tener suerte con los increíbles premios que se sortearán para alcanzar tus sueños.(n)</desc>
+  </programme>
+  <programme start="20220501100000 -0300" stop="20220501114500 -0300" channel="RAI">
+    <title lang="es">Igreja Universal do Reino de Deus</title>
+    <desc lang="es">Un espacio que representa una denominación cristiana evangélica pentecostal, sobre la base del templo de Salomón, en Sao Paulo, Brasil.(n)</desc>
+  </programme>
+  <programme start="20220501114500 -0300" stop="20220501121500 -0300" channel="RAI">
+    <title lang="es">Brasil que faz mais</title>
+    <desc lang="es">Descubre la historia de emprendedores exitosos, sus trayectorias, obstáculos, victorias y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220501121500 -0300" stop="20220501121500 -0300" channel="RAI">
+    <title lang="es">Camisaria Fascynios</title>
+    <desc lang="es">Lo último en tendencias y la mayor calidad la tenemos aquí; nuestra línea de camisas Fascynios cuenta con gran variedad de diseños que mejoran el estilo masculino. Nos preocupamos por su buen vestir.(n)</desc>
+  </programme>
+  <programme start="20220501121500 -0300" stop="20220501124500 -0300" channel="RAI">
+    <title lang="es">Dreams Road. USA South</title>
+    <desc lang="es">Espacio que tiene como objetivo mostrar el mundo sobre dos ruedas. Los conductores, de hecho a bordo de sus motocicletas, descubrirán lugares desconocidos y territorios ocultos del universo.(n)</desc>
+  </programme>
+  <programme start="20220501124500 -0300" stop="20220501130000 -0300" channel="RAI">
+    <title lang="es">Polishop</title>
+    <desc lang="es">Un espacio en donde encontrar inteligentes soluciones para la casa, la salud y la belleza con la presentación de los mejores y más novedosos productos que te permitirán facilitar tu vida.(n)</desc>
+  </programme>
+  <programme start="20220501130000 -0300" stop="20220501130000 -0300" channel="RAI">
+    <title lang="es">Show da saude</title>
+    <desc lang="es">Espacio patrocinado que informa para prevenir y tratar enfermedades y dolencias tales como dolor de espalda, artritis, artrosis, entre otros.(n)</desc>
+  </programme>
+  <programme start="20220501130000 -0300" stop="20220501140000 -0300" channel="RAI">
+    <title lang="es">Pallavolo maschile: SuperLega. Sir Safety Conad Perugia vs. Cucine Lube Civitanova, Finalissima Gara 1</title>
+  </programme>
+  <programme start="20220501140000 -0300" stop="20220501150000 -0300" channel="RAI">
+    <title lang="es">Polishop</title>
+    <desc lang="es">Un espacio en donde encontrar inteligentes soluciones para la casa, la salud y la belleza con la presentación de los mejores y más novedosos productos que te permitirán facilitar tu vida.(n)</desc>
+  </programme>
+  <programme start="20220501150000 -0300" stop="20220501150000 -0300" channel="RAI">
+    <title lang="es">TG1</title>
+    <desc lang="es">Ponte al día con los últimos acontecimientos, en este resumen donde te brindaran la información más relevante del momento y podrás mantenerte informado de los hechos más recientes.(n)</desc>
+  </programme>
+  <programme start="20220501150000 -0300" stop="20220501152500 -0300" channel="RAI">
+    <title lang="es">Mundo empresarial</title>
+    <desc lang="es">Un espacio que tiene como objetivo presentar iniciativas empresariales y empresas que, por un producto o servicio diferenciado, se destaquen en el mercado.(n)</desc>
+  </programme>
+  <programme start="20220501152500 -0300" stop="20220501153000 -0300" channel="RAI">
+    <title lang="es">Polishop</title>
+    <desc lang="es">Un espacio en donde encontrar inteligentes soluciones para la casa, la salud y la belleza con la presentación de los mejores y más novedosos productos que te permitirán facilitar tu vida.(n)</desc>
+  </programme>
+  <programme start="20220501153000 -0300" stop="20220501162500 -0300" channel="RAI">
+    <title lang="es">Primo Maggio 2022 - A Lavoro per la Pace</title>
+    <desc lang="es">Una verdadera celebración en honor a los trabajadores que trae al público un gran momento de unión y una fuerte señal de esperanza, especialmente después de dos años difíciles de pandemia.(n)</desc>
+  </programme>
+  <programme start="20220501162500 -0300" stop="20220501163000 -0300" channel="RAI">
+    <title lang="es">Sky</title>
+  </programme>
+  <programme start="20220501163000 -0300" stop="20220501164500 -0300" channel="RAI">
+    <title lang="es">A hora e a vez da pequena empresa</title>
+    <desc lang="es">Espacio de interés para el espectador que presenta un aspecto moderno y muestra numerosas temáticas que tienen como objetivo informar, aclarar y defender a los micro empresarios brasileños.(n)</desc>
+  </programme>
+  <programme start="20220501164500 -0300" stop="20220501170000 -0300" channel="RAI">
+    <title lang="es">Educação na TV - APEOESP</title>
+    <desc lang="es">Patrocinado por APEOESP, el Sindicato de Profesores de Enseñanza Oficial del Estado de São Paulo, el programa aborda temas relacionados con la educación.(n)</desc>
+  </programme>
+  <programme start="20220501170000 -0300" stop="20220501171500 -0300" channel="RAI">
+    <title lang="es">Polishop</title>
+    <desc lang="es">Un espacio en donde encontrar inteligentes soluciones para la casa, la salud y la belleza con la presentación de los mejores y más novedosos productos que te permitirán facilitar tu vida.(n)</desc>
+  </programme>
+  <programme start="20220501171500 -0300" stop="20220501173000 -0300" channel="RAI">
+    <title lang="es">Educação na TV - APEOESP</title>
+    <desc lang="es">Patrocinado por APEOESP, el Sindicato de Profesores de Enseñanza Oficial del Estado de São Paulo, el programa aborda temas relacionados con la educación.(n)</desc>
+  </programme>
+  <programme start="20220501173000 -0300" stop="20220501180000 -0300" channel="RAI">
+    <title lang="es">Polishop</title>
+    <desc lang="es">Un espacio en donde encontrar inteligentes soluciones para la casa, la salud y la belleza con la presentación de los mejores y más novedosos productos que te permitirán facilitar tu vida.(n)</desc>
+  </programme>
+  <programme start="20220501180000 -0300" stop="20220501184500 -0300" channel="RAI">
+    <title lang="es">João Kléber Show</title>
+    <desc lang="es">Los fines de semana ya no son los mismos con este espacio conducido por João Kléber, quien reúne todo su talento y experiencia para traer más entretenimiento y diversión a toda la familia.(n)</desc>
+  </programme>
+  <programme start="20220501184500 -0300" stop="20220501190000 -0300" channel="RAI">
+    <title lang="es">Dibujos animados</title>
+    <desc lang="es">Exclusivamente para los más chicos del hogar, llega este programa donde la diversión está asegurada. Presenta los mejores dibujos y series animadas, como Avatar, Jimmy Neutrón y Sonic, para que pases una mañana muy entretenida y alegre.(n)</desc>
+  </programme>
+  <programme start="20220501190000 -0300" stop="20220501190000 -0300" channel="RAI">
+    <title lang="es">L'Eredità</title>
+    <desc lang="es">Un grupo de participantes compite en varios retos y desafíos, lo que les permite avanzar hacia la meta final.(n)</desc>
+  </programme>
+  <programme start="20220501190000 -0300" stop="20220501191500 -0300" channel="RAI">
+    <title lang="es">Festival RedeTV Plus</title>
+    <desc lang="es">Presenta un verdadero festival de premios. Únase a toda la familia y compita por televisores, teléfonos celulares, automóviles y más.(n)</desc>
+  </programme>
+  <programme start="20220501191500 -0300" stop="20220501194500 -0300" channel="RAI">
+    <title lang="es">Te peguei</title>
+    <desc lang="es">Un equipo de peculiares personajes te hará gozar de la mejor manera, presentándote diversas bromas realizadas a los habitantes de la ciudad de São Paulo, Brasil, quienes caerán en cada ocasión y te harán llorar de la risa.(n)</desc>
+  </programme>
+  <programme start="20220501194500 -0300" stop="20220501200000 -0300" channel="RAI">
+    <title lang="es">Encrenca</title>
+    <desc lang="es">Humor y muchas travesuras en este espacio que te traen Tatola, Dennys, Ricardinho y Ângelo.(n)</desc>
+  </programme>
+  <programme start="20220501200000 -0300" stop="20220501210000 -0300" channel="RAI">
+    <title lang="es">Speciale TG1</title>
+    <desc lang="es">Te presentamos un análisis profundo sobre los sucesos más impactantes de la actualidad, de la mano de un panel de expertos comunicacionales que se encargan de llevar hasta ti información relevante y de alto calibre.(n)</desc>
+  </programme>
+  <programme start="20220501210000 -0300" stop="20220501230000 -0300" channel="RAI">
+    <title lang="es">Primo Maggio 2022 - A Lavoro per la Pace</title>
+    <desc lang="es">Una verdadera celebración en honor a los trabajadores que trae al público un gran momento de unión y una fuerte señal de esperanza, especialmente después de dos años difíciles de pandemia.(n)</desc>
   </programme>
 </tv>
 
