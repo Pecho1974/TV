@@ -13,6 +13,10 @@ https://edge5-hr.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cinemax.png" group-title="Cine y Series",Cinemax
 https://edge5-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Comedy Central.png" group-title="Cine y Series",Comedy Central
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+#EXTINF:-1 tvg-id="DISCOVERY ID HD" tvg-name="DISCOVERY ID HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/DISCOVERY ID HD.png" group-title="Cine y Series",DISCOVERY ID HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX.png" group-title="Cine y Series",FX
 https://edge5-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX MOVIES.png" group-title="Cine y Series",FX MOVIES
@@ -103,8 +107,6 @@ https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Channel.png" group-title="Documentales",Discovery Channel
 https://edge5-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY ID HD" tvg-name="DISCOVERY ID HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/DISCOVERY ID HD.png" group-title="Documentales",DISCOVERY ID HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Science.png" group-title="Documentales",Discovery Science
 https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
 #EXTINF:-1 tvg-id="Discovery Theatre HD" tvg-name="Discovery Theatre HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Theatre HD.png" group-title="Documentales",Discovery Theatre HD
@@ -123,8 +125,6 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 https://edge5-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 #EXTINF:-1 tvg-id="Tru TV" tvg-name="Tru TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tru TV.png" group-title="Documentales",Tru TV
 https://edge5-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Comedy Central.png" group-title="Estilo de Vida",Comedy Central
-https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 #EXTINF:-1 tvg-id="Discovery Home  Health" tvg-name="Discovery Home  Health" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Home  Health.png" group-title="Estilo de Vida",Discovery Home  Health
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Food Network.png" group-title="Estilo de Vida",Food Network
@@ -171,6 +171,8 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 #EXTINF:-1 tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Encuentro.png" group-title="Interes General",Encuentro
 https://edge3-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
+#EXTINF:-1 tvg-id="KZO" tvg-name="KZO" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/KZO.png" group-title="Interes General",KZO
+https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_240p/index.m3u8
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Net TV.png" group-title="Interes General",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telefe.png" group-title="Interes General",Telefe
@@ -221,12 +223,16 @@ https://edge-live12-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNot
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0219
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 9 Televida.png" group-title="Regionales",Canal 9 Televida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL 9 HD" tvg-name="CANAL 9 HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL 9 HD.png" group-title="Regionales",CANAL 9 HD
+https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="Argentinisima" tvg-name="Argentinisima" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Argentinisima.png" group-title="Variedades",Argentinisima
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Rural.png" group-title="Variedades",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Chacra TV.png" group-title="Variedades",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Orbe 21" tvg-name="Canal Orbe 21" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Orbe 21.png" group-title="Variedades",Canal Orbe 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/PASIONES.png" group-title="Variedades",PASIONES
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telemax.png" group-title="Variedades",Telemax

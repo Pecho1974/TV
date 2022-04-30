@@ -30,6 +30,16 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cinemax.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Comedy Central">
+    <display-name lang="es">Comedy Central</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Comedy Central.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY ID HD">
+    <display-name lang="es">DISCOVERY ID HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DISCOVERY ID HD.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="FX">
     <display-name lang="es">FX</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX.png" />
@@ -245,11 +255,6 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Channel.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
-  <channel id="DISCOVERY ID HD">
-    <display-name lang="es">DISCOVERY ID HD</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DISCOVERY ID HD.png" />
-    <url>http://www.buscadorcablevision.com.ar</url>
-  </channel>
   <channel id="Discovery Science">
     <display-name lang="es">Discovery Science</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Science.png" />
@@ -288,11 +293,6 @@
   <channel id="Tru TV">
     <display-name lang="es">Tru TV</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tru TV.png" />
-    <url>http://www.buscadorcablevision.com.ar</url>
-  </channel>
-  <channel id="Comedy Central">
-    <display-name lang="es">Comedy Central</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Comedy Central.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="Discovery Home  Health">
@@ -410,6 +410,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Encuentro.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="KZO">
+    <display-name lang="es">KZO</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/KZO.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Net TV">
     <display-name lang="es">Net TV</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Net TV.png" />
@@ -515,6 +520,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Rural.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Canal Orbe 21">
+    <display-name lang="es">Canal Orbe 21</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Orbe 21.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="PASIONES">
     <display-name lang="es">PASIONES</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/PASIONES.png" />
@@ -536,6 +546,12 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/RAI.png" />
     <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/604.png" />
     <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="CANAL 9 HD">
+    <display-name lang="es">CANAL 9 HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL 9 HD.png" />
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.reportvMulti.com.ar</url>
   </channel>
   <programme start="20220429000000 -0300" stop="20220429004500 -0300" channel="AE Mundo">
     <title lang="es">Mente criminal</title>
@@ -1625,6 +1641,699 @@
   </programme>
   <programme start="20220501220000 -0300" stop="20220502000000 -0300" channel="Cinemax">
     <title lang="es">El color del crimen</title>
+  </programme>
+  <programme start="20220429000000 -0300" stop="20220429025100 -0300" channel="Comedy Central">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220429025100 -0300" stop="20220429031500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220429031500 -0300" stop="20220429042700 -0300" channel="Comedy Central">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220429042700 -0300" stop="20220429044000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220429044000 -0300" stop="20220429050500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220429050500 -0300" stop="20220429053800 -0300" channel="Comedy Central">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220429053800 -0300" stop="20220429061300 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220429061300 -0300" stop="20220429063700 -0300" channel="Comedy Central">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220429063700 -0300" stop="20220429070000 -0300" channel="Comedy Central">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20220429070000 -0300" stop="20220429073000 -0300" channel="Comedy Central">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20220429073000 -0300" stop="20220429080000 -0300" channel="Comedy Central">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20220429080000 -0300" stop="20220429083000 -0300" channel="Comedy Central">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20220429083000 -0300" stop="20220429090000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220429090000 -0300" stop="20220429093000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220429093000 -0300" stop="20220429100000 -0300" channel="Comedy Central">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20220429100000 -0300" stop="20220429103000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220429103000 -0300" stop="20220429110000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220429110000 -0300" stop="20220429113000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220429113000 -0300" stop="20220429120000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220429120000 -0300" stop="20220429123000 -0300" channel="Comedy Central">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20220429123000 -0300" stop="20220429130000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220429130000 -0300" stop="20220429133000 -0300" channel="Comedy Central">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20220429133000 -0300" stop="20220429140000 -0300" channel="Comedy Central">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20220429140000 -0300" stop="20220429143000 -0300" channel="Comedy Central">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220429143000 -0300" stop="20220429150000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220429150000 -0300" stop="20220429153000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220429153000 -0300" stop="20220429160000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220429160000 -0300" stop="20220429163000 -0300" channel="Comedy Central">
+    <title lang="es">Ren y Stimpy</title>
+  </programme>
+  <programme start="20220429163000 -0300" stop="20220429170000 -0300" channel="Comedy Central">
+    <title lang="es">Sanjay y Craig</title>
+  </programme>
+  <programme start="20220429170000 -0300" stop="20220429173000 -0300" channel="Comedy Central">
+    <title lang="es">Sanjay y Craig</title>
+  </programme>
+  <programme start="20220429173000 -0300" stop="20220429180000 -0300" channel="Comedy Central">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20220429180000 -0300" stop="20220429183000 -0300" channel="Comedy Central">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20220429183000 -0300" stop="20220429190000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220429190000 -0300" stop="20220429193000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220429193000 -0300" stop="20220429200000 -0300" channel="Comedy Central">
+    <title lang="es">The Neighborhood</title>
+  </programme>
+  <programme start="20220429200000 -0300" stop="20220429203000 -0300" channel="Comedy Central">
+    <title lang="es">Loco x vos</title>
+  </programme>
+  <programme start="20220429203000 -0300" stop="20220429210000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220429210000 -0300" stop="20220429213000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220429213000 -0300" stop="20220429220000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220429220000 -0300" stop="20220429223000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220429223000 -0300" stop="20220429230000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220429230000 -0300" stop="20220429233000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220429233000 -0300" stop="20220430000000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220430000000 -0300" stop="20220430002000 -0300" channel="Comedy Central">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20220430002000 -0300" stop="20220430004000 -0300" channel="Comedy Central">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20220430004000 -0300" stop="20220430010000 -0300" channel="Comedy Central">
+    <title lang="es">La casa de los dibujos</title>
+  </programme>
+  <programme start="20220430010000 -0300" stop="20220430013000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430013000 -0300" stop="20220430020000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430020000 -0300" stop="20220430022500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430022500 -0300" stop="20220430025000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430025000 -0300" stop="20220430031500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430031500 -0300" stop="20220430034500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430034500 -0300" stop="20220430041500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430041500 -0300" stop="20220430044000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430044000 -0300" stop="20220430050500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430050500 -0300" stop="20220430053000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430053000 -0300" stop="20220430060000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430060000 -0300" stop="20220430063000 -0300" channel="Comedy Central">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20220430063000 -0300" stop="20220430070000 -0300" channel="Comedy Central">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20220430070000 -0300" stop="20220430073000 -0300" channel="Comedy Central">
+    <title lang="es">Takeshi's Castle</title>
+  </programme>
+  <programme start="20220430073000 -0300" stop="20220430080000 -0300" channel="Comedy Central">
+    <title lang="es">Takeshi's Castle</title>
+  </programme>
+  <programme start="20220430080000 -0300" stop="20220430081400 -0300" channel="Comedy Central">
+    <title lang="es">Takeshi's Castle</title>
+  </programme>
+  <programme start="20220430081400 -0300" stop="20220430083000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430083000 -0300" stop="20220430090000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430090000 -0300" stop="20220430093000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430093000 -0300" stop="20220430100000 -0300" channel="Comedy Central">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20220430100000 -0300" stop="20220430103000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220430103000 -0300" stop="20220430110000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220430110000 -0300" stop="20220430113000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220430113000 -0300" stop="20220430120000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430120000 -0300" stop="20220430123000 -0300" channel="Comedy Central">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20220430123000 -0300" stop="20220430130000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220430130000 -0300" stop="20220430133000 -0300" channel="Comedy Central">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20220430133000 -0300" stop="20220430140000 -0300" channel="Comedy Central">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20220430140000 -0300" stop="20220430143000 -0300" channel="Comedy Central">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220430143000 -0300" stop="20220430150000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430150000 -0300" stop="20220430153000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430153000 -0300" stop="20220430160000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430160000 -0300" stop="20220430163000 -0300" channel="Comedy Central">
+    <title lang="es">Ren y Stimpy</title>
+  </programme>
+  <programme start="20220430163000 -0300" stop="20220430170000 -0300" channel="Comedy Central">
+    <title lang="es">Sanjay y Craig</title>
+  </programme>
+  <programme start="20220430170000 -0300" stop="20220430173000 -0300" channel="Comedy Central">
+    <title lang="es">Sanjay y Craig</title>
+  </programme>
+  <programme start="20220430173000 -0300" stop="20220430180000 -0300" channel="Comedy Central">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20220430180000 -0300" stop="20220430183000 -0300" channel="Comedy Central">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20220430183000 -0300" stop="20220430190000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220430190000 -0300" stop="20220430193000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220430193000 -0300" stop="20220430200000 -0300" channel="Comedy Central">
+    <title lang="es">The Neighborhood</title>
+  </programme>
+  <programme start="20220430200000 -0300" stop="20220430203000 -0300" channel="Comedy Central">
+    <title lang="es">Loco x vos</title>
+  </programme>
+  <programme start="20220430203000 -0300" stop="20220430210000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430210500 -0300" stop="20220430213000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430213000 -0300" stop="20220430220000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220430220000 -0300" stop="20220430223000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430223000 -0300" stop="20220430230000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220430230000 -0300" stop="20220430233000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220430233000 -0300" stop="20220501000000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220501000000 -0300" stop="20220501002000 -0300" channel="Comedy Central">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20220501002000 -0300" stop="20220501004000 -0300" channel="Comedy Central">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20220501004000 -0300" stop="20220501010000 -0300" channel="Comedy Central">
+    <title lang="es">La casa de los dibujos</title>
+  </programme>
+  <programme start="20220501010000 -0300" stop="20220501013000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501013000 -0300" stop="20220501020000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501020000 -0300" stop="20220501022500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501022500 -0300" stop="20220501025000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501025000 -0300" stop="20220501031500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501031500 -0300" stop="20220501034500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501034500 -0300" stop="20220501041500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501041500 -0300" stop="20220501044000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501044000 -0300" stop="20220501050500 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501050500 -0300" stop="20220501053000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501053000 -0300" stop="20220501060000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501060000 -0300" stop="20220501063000 -0300" channel="Comedy Central">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20220501063000 -0300" stop="20220501070000 -0300" channel="Comedy Central">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20220501070000 -0300" stop="20220501073000 -0300" channel="Comedy Central">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20220501073000 -0300" stop="20220501080000 -0300" channel="Comedy Central">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20220501080000 -0300" stop="20220501083000 -0300" channel="Comedy Central">
+    <title lang="es">Takeshi's Castle</title>
+  </programme>
+  <programme start="20220501083000 -0300" stop="20220501090000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501090000 -0300" stop="20220501093000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501093000 -0300" stop="20220501100000 -0300" channel="Comedy Central">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20220501100000 -0300" stop="20220501103000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220501103000 -0300" stop="20220501110000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220501110000 -0300" stop="20220501113000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220501113000 -0300" stop="20220501120000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501120000 -0300" stop="20220501123000 -0300" channel="Comedy Central">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20220501123000 -0300" stop="20220501130000 -0300" channel="Comedy Central">
+    <title lang="es">Betty, la fea</title>
+  </programme>
+  <programme start="20220501130000 -0300" stop="20220501133000 -0300" channel="Comedy Central">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20220501133000 -0300" stop="20220501140000 -0300" channel="Comedy Central">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20220501140000 -0300" stop="20220501143000 -0300" channel="Comedy Central">
+    <title lang="es">La niñera</title>
+  </programme>
+  <programme start="20220501143000 -0300" stop="20220501150000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501150000 -0300" stop="20220501153000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501153000 -0300" stop="20220501160000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501160000 -0300" stop="20220501163000 -0300" channel="Comedy Central">
+    <title lang="es">Ren y Stimpy</title>
+  </programme>
+  <programme start="20220501163000 -0300" stop="20220501170000 -0300" channel="Comedy Central">
+    <title lang="es">Sanjay y Craig</title>
+  </programme>
+  <programme start="20220501170000 -0300" stop="20220501173000 -0300" channel="Comedy Central">
+    <title lang="es">Sanjay y Craig</title>
+  </programme>
+  <programme start="20220501173000 -0300" stop="20220501180000 -0300" channel="Comedy Central">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20220501180000 -0300" stop="20220501183000 -0300" channel="Comedy Central">
+    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
+  </programme>
+  <programme start="20220501183000 -0300" stop="20220501190000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220501190000 -0300" stop="20220501193000 -0300" channel="Comedy Central">
+    <title lang="es">One-Punch Man</title>
+  </programme>
+  <programme start="20220501193000 -0300" stop="20220501200000 -0300" channel="Comedy Central">
+    <title lang="es">The Neighborhood</title>
+  </programme>
+  <programme start="20220501200000 -0300" stop="20220501203000 -0300" channel="Comedy Central">
+    <title lang="es">Loco x vos</title>
+  </programme>
+  <programme start="20220501203000 -0300" stop="20220501204100 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501204100 -0300" stop="20220501210000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501210000 -0300" stop="20220501211600 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501211600 -0300" stop="20220501213000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501213000 -0300" stop="20220501220000 -0300" channel="Comedy Central">
+    <title lang="es">Casados con hijos</title>
+  </programme>
+  <programme start="20220501220000 -0300" stop="20220501223000 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501223000 -0300" stop="20220501225300 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501225300 -0300" stop="20220501232200 -0300" channel="Comedy Central">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20220501232200 -0300" stop="20220502000000 -0300" channel="Comedy Central">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220429000000 -0300" stop="20220429003000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220429003000 -0300" stop="20220429010000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220429010000 -0300" stop="20220429020000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220429020000 -0300" stop="20220429025600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Las verdaderas mujeres asesinas</title>
+  </programme>
+  <programme start="20220429025600 -0300" stop="20220429035200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Las verdaderas mujeres asesinas</title>
+  </programme>
+  <programme start="20220429035200 -0300" stop="20220429044400 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Crimen casi perfecto</title>
+  </programme>
+  <programme start="20220429044400 -0300" stop="20220429053300 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Crimen casi perfecto</title>
+  </programme>
+  <programme start="20220429053300 -0300" stop="20220429062200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Presuntos inocentes</title>
+  </programme>
+  <programme start="20220429062200 -0300" stop="20220429064600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220429064600 -0300" stop="20220429071000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220429071000 -0300" stop="20220429080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220429080000 -0300" stop="20220429090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Los 80: década mortal</title>
+  </programme>
+  <programme start="20220429090000 -0300" stop="20220429100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Vecino asesino</title>
+  </programme>
+  <programme start="20220429100000 -0300" stop="20220429103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220429103000 -0300" stop="20220429110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220429110000 -0300" stop="20220429113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220429113000 -0300" stop="20220429120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220429120000 -0300" stop="20220429130000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Atrapar a un asesino</title>
+  </programme>
+  <programme start="20220429130000 -0300" stop="20220429140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino serial: maldad desencadenada</title>
+  </programme>
+  <programme start="20220429140000 -0300" stop="20220429150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El objeto del crimen</title>
+  </programme>
+  <programme start="20220429150000 -0300" stop="20220429160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El objeto del crimen</title>
+  </programme>
+  <programme start="20220429160000 -0300" stop="20220429170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino al acecho</title>
+  </programme>
+  <programme start="20220429170000 -0300" stop="20220429180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino al acecho</title>
+  </programme>
+  <programme start="20220429180000 -0300" stop="20220429190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220429190000 -0300" stop="20220429200000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220429200000 -0300" stop="20220429210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220429210000 -0300" stop="20220429230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El asesino durmiente: la mente de un monstruo</title>
+  </programme>
+  <programme start="20220429230000 -0300" stop="20220429233000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Rasgos de un psicópata</title>
+  </programme>
+  <programme start="20220429233000 -0300" stop="20220430000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Rasgos de un psicópata</title>
+  </programme>
+  <programme start="20220430000000 -0300" stop="20220430010000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino serial: maldad desencadenada</title>
+  </programme>
+  <programme start="20220430010000 -0300" stop="20220430020000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220430020000 -0300" stop="20220430025600 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesinatos en familia</title>
+  </programme>
+  <programme start="20220430025600 -0300" stop="20220430035200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesinatos en familia</title>
+  </programme>
+  <programme start="20220430035200 -0300" stop="20220430053300 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El asesino durmiente: la mente de un monstruo</title>
+  </programme>
+  <programme start="20220430053300 -0300" stop="20220430055800 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Rasgos de un psicópata</title>
+  </programme>
+  <programme start="20220430055800 -0300" stop="20220430062200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Rasgos de un psicópata</title>
+  </programme>
+  <programme start="20220430062200 -0300" stop="20220430071100 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Asesino serial: maldad desencadenada</title>
+  </programme>
+  <programme start="20220430071100 -0300" stop="20220430080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220430080000 -0300" stop="20220430090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Maldad en el pueblo</title>
+  </programme>
+  <programme start="20220430090000 -0300" stop="20220430100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Maldad en el pueblo</title>
+  </programme>
+  <programme start="20220430100000 -0300" stop="20220430103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220430103000 -0300" stop="20220430110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220430110000 -0300" stop="20220430113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220430113000 -0300" stop="20220430120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220430120000 -0300" stop="20220430130000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal: sombras de muerte</title>
+  </programme>
+  <programme start="20220430130000 -0300" stop="20220430140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220430140000 -0300" stop="20220430150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20220430150000 -0300" stop="20220430160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20220430160000 -0300" stop="20220430170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Secretos enterrados</title>
+  </programme>
+  <programme start="20220430170000 -0300" stop="20220430180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Secretos enterrados</title>
+  </programme>
+  <programme start="20220430180000 -0300" stop="20220430190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220430190000 -0300" stop="20220430203000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal</title>
+  </programme>
+  <programme start="20220430203000 -0300" stop="20220430210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Homicidio en el pueblo</title>
+  </programme>
+  <programme start="20220430210000 -0300" stop="20220430220000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Departamento de homicidios</title>
+  </programme>
+  <programme start="20220430220000 -0300" stop="20220430230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Departamento de homicidios</title>
+  </programme>
+  <programme start="20220430230000 -0300" stop="20220501000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal: sombras de muerte</title>
+  </programme>
+  <programme start="20220501000000 -0300" stop="20220501011000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">El palmar de Troya</title>
+  </programme>
+  <programme start="20220501011000 -0300" stop="20220501021000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220501021000 -0300" stop="20220501030500 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Muerte en el pueblo</title>
+  </programme>
+  <programme start="20220501030500 -0300" stop="20220501040000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Muerte en el pueblo</title>
+  </programme>
+  <programme start="20220501040000 -0300" stop="20220501045200 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Departamento de homicidios</title>
+  </programme>
+  <programme start="20220501045200 -0300" stop="20220501054400 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Departamento de homicidios</title>
+  </programme>
+  <programme start="20220501054400 -0300" stop="20220501063700 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">La casa del mal: sombras de muerte</title>
+  </programme>
+  <programme start="20220501063700 -0300" stop="20220501073000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Cuando el mal se disfraza</title>
+  </programme>
+  <programme start="20220501073000 -0300" stop="20220501080000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Homicidio en el pueblo</title>
+  </programme>
+  <programme start="20220501080000 -0300" stop="20220501090000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Los 80: década mortal</title>
+  </programme>
+  <programme start="20220501090000 -0300" stop="20220501100000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Persecución con John Walsh</title>
+  </programme>
+  <programme start="20220501100000 -0300" stop="20220501103000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Con quién $@!# me casé?</title>
+  </programme>
+  <programme start="20220501103000 -0300" stop="20220501110000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220501110000 -0300" stop="20220501113000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220501113000 -0300" stop="20220501120000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20220501120000 -0300" stop="20220501140000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">¿Quién mató a las hermanas Lyon?</title>
+  </programme>
+  <programme start="20220501140000 -0300" stop="20220501143000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220501143000 -0300" stop="20220501150000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220501150000 -0300" stop="20220501153000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220501153000 -0300" stop="20220501160000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Detrás de los crímenes virales</title>
+  </programme>
+  <programme start="20220501160000 -0300" stop="20220501170000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220501170000 -0300" stop="20220501180000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220501180000 -0300" stop="20220501190000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Revista People investiga</title>
+  </programme>
+  <programme start="20220501190000 -0300" stop="20220501200000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Crímenes del pasado</title>
+  </programme>
+  <programme start="20220501200000 -0300" stop="20220501210000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Crímenes del pasado</title>
+  </programme>
+  <programme start="20220501210000 -0300" stop="20220501220000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Escena del crimen con Tony Harris</title>
+  </programme>
+  <programme start="20220501220000 -0300" stop="20220501230000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Escena del crimen con Tony Harris</title>
+  </programme>
+  <programme start="20220501230000 -0300" stop="20220501233000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+  <programme start="20220501233000 -0300" stop="20220502000000 -0300" channel="DISCOVERY ID HD">
+    <title lang="es">Caos en el tribunal</title>
   </programme>
   <programme start="20220429000000 -0300" stop="20220429020000 -0300" channel="FX">
     <title lang="es">Proyecto Géminis</title>
@@ -8955,261 +9664,6 @@
   <programme start="20220501225300 -0300" stop="20220502000000 -0300" channel="Discovery Channel">
     <title lang="es">Supervivencia al desnudo: edición extrema</title>
   </programme>
-  <programme start="20220429000000 -0300" stop="20220429003000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Detrás de los crímenes virales</title>
-  </programme>
-  <programme start="20220429003000 -0300" stop="20220429010000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Detrás de los crímenes virales</title>
-  </programme>
-  <programme start="20220429010000 -0300" stop="20220429020000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Cuando el mal se disfraza</title>
-  </programme>
-  <programme start="20220429020000 -0300" stop="20220429025600 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Las verdaderas mujeres asesinas</title>
-  </programme>
-  <programme start="20220429025600 -0300" stop="20220429035200 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Las verdaderas mujeres asesinas</title>
-  </programme>
-  <programme start="20220429035200 -0300" stop="20220429044400 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Crimen casi perfecto</title>
-  </programme>
-  <programme start="20220429044400 -0300" stop="20220429053300 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Crimen casi perfecto</title>
-  </programme>
-  <programme start="20220429053300 -0300" stop="20220429062200 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Presuntos inocentes</title>
-  </programme>
-  <programme start="20220429062200 -0300" stop="20220429064600 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Detrás de los crímenes virales</title>
-  </programme>
-  <programme start="20220429064600 -0300" stop="20220429071000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Detrás de los crímenes virales</title>
-  </programme>
-  <programme start="20220429071000 -0300" stop="20220429080000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Cuando el mal se disfraza</title>
-  </programme>
-  <programme start="20220429080000 -0300" stop="20220429090000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Los 80: década mortal</title>
-  </programme>
-  <programme start="20220429090000 -0300" stop="20220429100000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Vecino asesino</title>
-  </programme>
-  <programme start="20220429100000 -0300" stop="20220429103000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">¿Con quién $@!# me casé?</title>
-  </programme>
-  <programme start="20220429103000 -0300" stop="20220429110000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Televentas</title>
-  </programme>
-  <programme start="20220429110000 -0300" stop="20220429113000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Televentas</title>
-  </programme>
-  <programme start="20220429113000 -0300" stop="20220429120000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Televentas</title>
-  </programme>
-  <programme start="20220429120000 -0300" stop="20220429130000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Atrapar a un asesino</title>
-  </programme>
-  <programme start="20220429130000 -0300" stop="20220429140000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Asesino serial: maldad desencadenada</title>
-  </programme>
-  <programme start="20220429140000 -0300" stop="20220429150000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">El objeto del crimen</title>
-  </programme>
-  <programme start="20220429150000 -0300" stop="20220429160000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">El objeto del crimen</title>
-  </programme>
-  <programme start="20220429160000 -0300" stop="20220429170000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Asesino al acecho</title>
-  </programme>
-  <programme start="20220429170000 -0300" stop="20220429180000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Asesino al acecho</title>
-  </programme>
-  <programme start="20220429180000 -0300" stop="20220429190000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Revista People investiga</title>
-  </programme>
-  <programme start="20220429190000 -0300" stop="20220429200000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Cuando el mal se disfraza</title>
-  </programme>
-  <programme start="20220429200000 -0300" stop="20220429210000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Cuando el mal se disfraza</title>
-  </programme>
-  <programme start="20220429210000 -0300" stop="20220429230000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">El asesino durmiente: la mente de un monstruo</title>
-  </programme>
-  <programme start="20220429230000 -0300" stop="20220429233000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Rasgos de un psicópata</title>
-  </programme>
-  <programme start="20220429233000 -0300" stop="20220430000000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Rasgos de un psicópata</title>
-  </programme>
-  <programme start="20220430000000 -0300" stop="20220430010000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Asesino serial: maldad desencadenada</title>
-  </programme>
-  <programme start="20220430010000 -0300" stop="20220430020000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Cuando el mal se disfraza</title>
-  </programme>
-  <programme start="20220430020000 -0300" stop="20220430025600 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Asesinatos en familia</title>
-  </programme>
-  <programme start="20220430025600 -0300" stop="20220430035200 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Asesinatos en familia</title>
-  </programme>
-  <programme start="20220430035200 -0300" stop="20220430053300 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">El asesino durmiente: la mente de un monstruo</title>
-  </programme>
-  <programme start="20220430053300 -0300" stop="20220430055800 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Rasgos de un psicópata</title>
-  </programme>
-  <programme start="20220430055800 -0300" stop="20220430062200 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Rasgos de un psicópata</title>
-  </programme>
-  <programme start="20220430062200 -0300" stop="20220430071100 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Asesino serial: maldad desencadenada</title>
-  </programme>
-  <programme start="20220430071100 -0300" stop="20220430080000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Cuando el mal se disfraza</title>
-  </programme>
-  <programme start="20220430080000 -0300" stop="20220430090000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Maldad en el pueblo</title>
-  </programme>
-  <programme start="20220430090000 -0300" stop="20220430100000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Maldad en el pueblo</title>
-  </programme>
-  <programme start="20220430100000 -0300" stop="20220430103000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">¿Con quién $@!# me casé?</title>
-  </programme>
-  <programme start="20220430103000 -0300" stop="20220430110000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Televentas</title>
-  </programme>
-  <programme start="20220430110000 -0300" stop="20220430113000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Televentas</title>
-  </programme>
-  <programme start="20220430113000 -0300" stop="20220430120000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Televentas</title>
-  </programme>
-  <programme start="20220430120000 -0300" stop="20220430130000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">La casa del mal: sombras de muerte</title>
-  </programme>
-  <programme start="20220430130000 -0300" stop="20220430140000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Cuando el mal se disfraza</title>
-  </programme>
-  <programme start="20220430140000 -0300" stop="20220430150000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">La casa del mal</title>
-  </programme>
-  <programme start="20220430150000 -0300" stop="20220430160000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">La casa del mal</title>
-  </programme>
-  <programme start="20220430160000 -0300" stop="20220430170000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Secretos enterrados</title>
-  </programme>
-  <programme start="20220430170000 -0300" stop="20220430180000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Secretos enterrados</title>
-  </programme>
-  <programme start="20220430180000 -0300" stop="20220430190000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Revista People investiga</title>
-  </programme>
-  <programme start="20220430190000 -0300" stop="20220430203000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">La casa del mal</title>
-  </programme>
-  <programme start="20220430203000 -0300" stop="20220430210000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Homicidio en el pueblo</title>
-  </programme>
-  <programme start="20220430210000 -0300" stop="20220430220000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Departamento de homicidios</title>
-  </programme>
-  <programme start="20220430220000 -0300" stop="20220430230000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Departamento de homicidios</title>
-  </programme>
-  <programme start="20220430230000 -0300" stop="20220501000000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">La casa del mal: sombras de muerte</title>
-  </programme>
-  <programme start="20220501000000 -0300" stop="20220501011000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">El palmar de Troya</title>
-  </programme>
-  <programme start="20220501011000 -0300" stop="20220501021000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Cuando el mal se disfraza</title>
-  </programme>
-  <programme start="20220501021000 -0300" stop="20220501030500 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Muerte en el pueblo</title>
-  </programme>
-  <programme start="20220501030500 -0300" stop="20220501040000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Muerte en el pueblo</title>
-  </programme>
-  <programme start="20220501040000 -0300" stop="20220501045200 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Departamento de homicidios</title>
-  </programme>
-  <programme start="20220501045200 -0300" stop="20220501054400 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Departamento de homicidios</title>
-  </programme>
-  <programme start="20220501054400 -0300" stop="20220501063700 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">La casa del mal: sombras de muerte</title>
-  </programme>
-  <programme start="20220501063700 -0300" stop="20220501073000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Cuando el mal se disfraza</title>
-  </programme>
-  <programme start="20220501073000 -0300" stop="20220501080000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Homicidio en el pueblo</title>
-  </programme>
-  <programme start="20220501080000 -0300" stop="20220501090000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Los 80: década mortal</title>
-  </programme>
-  <programme start="20220501090000 -0300" stop="20220501100000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Persecución con John Walsh</title>
-  </programme>
-  <programme start="20220501100000 -0300" stop="20220501103000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">¿Con quién $@!# me casé?</title>
-  </programme>
-  <programme start="20220501103000 -0300" stop="20220501110000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Televentas</title>
-  </programme>
-  <programme start="20220501110000 -0300" stop="20220501113000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Televentas</title>
-  </programme>
-  <programme start="20220501113000 -0300" stop="20220501120000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Televentas</title>
-  </programme>
-  <programme start="20220501120000 -0300" stop="20220501140000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">¿Quién mató a las hermanas Lyon?</title>
-  </programme>
-  <programme start="20220501140000 -0300" stop="20220501143000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Detrás de los crímenes virales</title>
-  </programme>
-  <programme start="20220501143000 -0300" stop="20220501150000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Detrás de los crímenes virales</title>
-  </programme>
-  <programme start="20220501150000 -0300" stop="20220501153000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Detrás de los crímenes virales</title>
-  </programme>
-  <programme start="20220501153000 -0300" stop="20220501160000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Detrás de los crímenes virales</title>
-  </programme>
-  <programme start="20220501160000 -0300" stop="20220501170000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Caos en el tribunal</title>
-  </programme>
-  <programme start="20220501170000 -0300" stop="20220501180000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Caos en el tribunal</title>
-  </programme>
-  <programme start="20220501180000 -0300" stop="20220501190000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Revista People investiga</title>
-  </programme>
-  <programme start="20220501190000 -0300" stop="20220501200000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Crímenes del pasado</title>
-  </programme>
-  <programme start="20220501200000 -0300" stop="20220501210000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Crímenes del pasado</title>
-  </programme>
-  <programme start="20220501210000 -0300" stop="20220501220000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Escena del crimen con Tony Harris</title>
-  </programme>
-  <programme start="20220501220000 -0300" stop="20220501230000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Escena del crimen con Tony Harris</title>
-  </programme>
-  <programme start="20220501230000 -0300" stop="20220501233000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Caos en el tribunal</title>
-  </programme>
-  <programme start="20220501233000 -0300" stop="20220502000000 -0300" channel="DISCOVERY ID HD">
-    <title lang="es">Caos en el tribunal</title>
-  </programme>
   <programme start="20220429000000 -0300" stop="20220429004800 -0300" channel="Discovery Science">
     <title lang="es">Las invenciones de Adam Savage</title>
   </programme>
@@ -11504,444 +11958,6 @@
   </programme>
   <programme start="20220501235500 -0300" stop="20220502000000 -0300" channel="Tru TV">
     <title lang="es">Los videos más tontos del mundo</title>
-  </programme>
-  <programme start="20220429000000 -0300" stop="20220429025100 -0300" channel="Comedy Central">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20220429025100 -0300" stop="20220429031500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220429031500 -0300" stop="20220429042700 -0300" channel="Comedy Central">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20220429042700 -0300" stop="20220429044000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220429044000 -0300" stop="20220429050500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220429050500 -0300" stop="20220429053800 -0300" channel="Comedy Central">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20220429053800 -0300" stop="20220429061300 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220429061300 -0300" stop="20220429063700 -0300" channel="Comedy Central">
-    <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20220429063700 -0300" stop="20220429070000 -0300" channel="Comedy Central">
-    <title lang="es">Lip Sync Battle</title>
-  </programme>
-  <programme start="20220429070000 -0300" stop="20220429073000 -0300" channel="Comedy Central">
-    <title lang="es">Idiotas por accidente</title>
-  </programme>
-  <programme start="20220429073000 -0300" stop="20220429080000 -0300" channel="Comedy Central">
-    <title lang="es">Idiotas por accidente</title>
-  </programme>
-  <programme start="20220429080000 -0300" stop="20220429083000 -0300" channel="Comedy Central">
-    <title lang="es">Idiotas por accidente</title>
-  </programme>
-  <programme start="20220429083000 -0300" stop="20220429090000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220429090000 -0300" stop="20220429093000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220429093000 -0300" stop="20220429100000 -0300" channel="Comedy Central">
-    <title lang="es">Idiotas por accidente</title>
-  </programme>
-  <programme start="20220429100000 -0300" stop="20220429103000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220429103000 -0300" stop="20220429110000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220429110000 -0300" stop="20220429113000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220429113000 -0300" stop="20220429120000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220429120000 -0300" stop="20220429123000 -0300" channel="Comedy Central">
-    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-  </programme>
-  <programme start="20220429123000 -0300" stop="20220429130000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220429130000 -0300" stop="20220429133000 -0300" channel="Comedy Central">
-    <title lang="es">Schitt's Creek</title>
-  </programme>
-  <programme start="20220429133000 -0300" stop="20220429140000 -0300" channel="Comedy Central">
-    <title lang="es">Schitt's Creek</title>
-  </programme>
-  <programme start="20220429140000 -0300" stop="20220429143000 -0300" channel="Comedy Central">
-    <title lang="es">La niñera</title>
-  </programme>
-  <programme start="20220429143000 -0300" stop="20220429150000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220429150000 -0300" stop="20220429153000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220429153000 -0300" stop="20220429160000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220429160000 -0300" stop="20220429163000 -0300" channel="Comedy Central">
-    <title lang="es">Ren y Stimpy</title>
-  </programme>
-  <programme start="20220429163000 -0300" stop="20220429170000 -0300" channel="Comedy Central">
-    <title lang="es">Sanjay y Craig</title>
-  </programme>
-  <programme start="20220429170000 -0300" stop="20220429173000 -0300" channel="Comedy Central">
-    <title lang="es">Sanjay y Craig</title>
-  </programme>
-  <programme start="20220429173000 -0300" stop="20220429180000 -0300" channel="Comedy Central">
-    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-  </programme>
-  <programme start="20220429180000 -0300" stop="20220429183000 -0300" channel="Comedy Central">
-    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-  </programme>
-  <programme start="20220429183000 -0300" stop="20220429190000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220429190000 -0300" stop="20220429193000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220429193000 -0300" stop="20220429200000 -0300" channel="Comedy Central">
-    <title lang="es">The Neighborhood</title>
-  </programme>
-  <programme start="20220429200000 -0300" stop="20220429203000 -0300" channel="Comedy Central">
-    <title lang="es">Loco x vos</title>
-  </programme>
-  <programme start="20220429203000 -0300" stop="20220429210000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220429210000 -0300" stop="20220429213000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220429213000 -0300" stop="20220429220000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220429220000 -0300" stop="20220429223000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220429223000 -0300" stop="20220429230000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220429230000 -0300" stop="20220429233000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220429233000 -0300" stop="20220430000000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220430000000 -0300" stop="20220430002000 -0300" channel="Comedy Central">
-    <title lang="es">Ugly Americans</title>
-  </programme>
-  <programme start="20220430002000 -0300" stop="20220430004000 -0300" channel="Comedy Central">
-    <title lang="es">Ugly Americans</title>
-  </programme>
-  <programme start="20220430004000 -0300" stop="20220430010000 -0300" channel="Comedy Central">
-    <title lang="es">La casa de los dibujos</title>
-  </programme>
-  <programme start="20220430010000 -0300" stop="20220430013000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430013000 -0300" stop="20220430020000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430020000 -0300" stop="20220430022500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430022500 -0300" stop="20220430025000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430025000 -0300" stop="20220430031500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430031500 -0300" stop="20220430034500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430034500 -0300" stop="20220430041500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430041500 -0300" stop="20220430044000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430044000 -0300" stop="20220430050500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430050500 -0300" stop="20220430053000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430053000 -0300" stop="20220430060000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430060000 -0300" stop="20220430063000 -0300" channel="Comedy Central">
-    <title lang="es">Lip Sync Battle</title>
-  </programme>
-  <programme start="20220430063000 -0300" stop="20220430070000 -0300" channel="Comedy Central">
-    <title lang="es">Lip Sync Battle</title>
-  </programme>
-  <programme start="20220430070000 -0300" stop="20220430073000 -0300" channel="Comedy Central">
-    <title lang="es">Takeshi's Castle</title>
-  </programme>
-  <programme start="20220430073000 -0300" stop="20220430080000 -0300" channel="Comedy Central">
-    <title lang="es">Takeshi's Castle</title>
-  </programme>
-  <programme start="20220430080000 -0300" stop="20220430081400 -0300" channel="Comedy Central">
-    <title lang="es">Takeshi's Castle</title>
-  </programme>
-  <programme start="20220430081400 -0300" stop="20220430083000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430083000 -0300" stop="20220430090000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430090000 -0300" stop="20220430093000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430093000 -0300" stop="20220430100000 -0300" channel="Comedy Central">
-    <title lang="es">Idiotas por accidente</title>
-  </programme>
-  <programme start="20220430100000 -0300" stop="20220430103000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220430103000 -0300" stop="20220430110000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220430110000 -0300" stop="20220430113000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220430113000 -0300" stop="20220430120000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430120000 -0300" stop="20220430123000 -0300" channel="Comedy Central">
-    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-  </programme>
-  <programme start="20220430123000 -0300" stop="20220430130000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220430130000 -0300" stop="20220430133000 -0300" channel="Comedy Central">
-    <title lang="es">Schitt's Creek</title>
-  </programme>
-  <programme start="20220430133000 -0300" stop="20220430140000 -0300" channel="Comedy Central">
-    <title lang="es">Schitt's Creek</title>
-  </programme>
-  <programme start="20220430140000 -0300" stop="20220430143000 -0300" channel="Comedy Central">
-    <title lang="es">La niñera</title>
-  </programme>
-  <programme start="20220430143000 -0300" stop="20220430150000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430150000 -0300" stop="20220430153000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430153000 -0300" stop="20220430160000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430160000 -0300" stop="20220430163000 -0300" channel="Comedy Central">
-    <title lang="es">Ren y Stimpy</title>
-  </programme>
-  <programme start="20220430163000 -0300" stop="20220430170000 -0300" channel="Comedy Central">
-    <title lang="es">Sanjay y Craig</title>
-  </programme>
-  <programme start="20220430170000 -0300" stop="20220430173000 -0300" channel="Comedy Central">
-    <title lang="es">Sanjay y Craig</title>
-  </programme>
-  <programme start="20220430173000 -0300" stop="20220430180000 -0300" channel="Comedy Central">
-    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-  </programme>
-  <programme start="20220430180000 -0300" stop="20220430183000 -0300" channel="Comedy Central">
-    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-  </programme>
-  <programme start="20220430183000 -0300" stop="20220430190000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220430190000 -0300" stop="20220430193000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220430193000 -0300" stop="20220430200000 -0300" channel="Comedy Central">
-    <title lang="es">The Neighborhood</title>
-  </programme>
-  <programme start="20220430200000 -0300" stop="20220430203000 -0300" channel="Comedy Central">
-    <title lang="es">Loco x vos</title>
-  </programme>
-  <programme start="20220430203000 -0300" stop="20220430210000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430210500 -0300" stop="20220430213000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430213000 -0300" stop="20220430220000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220430220000 -0300" stop="20220430223000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430223000 -0300" stop="20220430230000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220430230000 -0300" stop="20220430233000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220430233000 -0300" stop="20220501000000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220501000000 -0300" stop="20220501002000 -0300" channel="Comedy Central">
-    <title lang="es">Ugly Americans</title>
-  </programme>
-  <programme start="20220501002000 -0300" stop="20220501004000 -0300" channel="Comedy Central">
-    <title lang="es">Ugly Americans</title>
-  </programme>
-  <programme start="20220501004000 -0300" stop="20220501010000 -0300" channel="Comedy Central">
-    <title lang="es">La casa de los dibujos</title>
-  </programme>
-  <programme start="20220501010000 -0300" stop="20220501013000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501013000 -0300" stop="20220501020000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501020000 -0300" stop="20220501022500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501022500 -0300" stop="20220501025000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501025000 -0300" stop="20220501031500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501031500 -0300" stop="20220501034500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501034500 -0300" stop="20220501041500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501041500 -0300" stop="20220501044000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501044000 -0300" stop="20220501050500 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501050500 -0300" stop="20220501053000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501053000 -0300" stop="20220501060000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501060000 -0300" stop="20220501063000 -0300" channel="Comedy Central">
-    <title lang="es">Lip Sync Battle</title>
-  </programme>
-  <programme start="20220501063000 -0300" stop="20220501070000 -0300" channel="Comedy Central">
-    <title lang="es">Lip Sync Battle</title>
-  </programme>
-  <programme start="20220501070000 -0300" stop="20220501073000 -0300" channel="Comedy Central">
-    <title lang="es">Idiotas por accidente</title>
-  </programme>
-  <programme start="20220501073000 -0300" stop="20220501080000 -0300" channel="Comedy Central">
-    <title lang="es">Idiotas por accidente</title>
-  </programme>
-  <programme start="20220501080000 -0300" stop="20220501083000 -0300" channel="Comedy Central">
-    <title lang="es">Takeshi's Castle</title>
-  </programme>
-  <programme start="20220501083000 -0300" stop="20220501090000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501090000 -0300" stop="20220501093000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501093000 -0300" stop="20220501100000 -0300" channel="Comedy Central">
-    <title lang="es">Idiotas por accidente</title>
-  </programme>
-  <programme start="20220501100000 -0300" stop="20220501103000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220501103000 -0300" stop="20220501110000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220501110000 -0300" stop="20220501113000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220501113000 -0300" stop="20220501120000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501120000 -0300" stop="20220501123000 -0300" channel="Comedy Central">
-    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-  </programme>
-  <programme start="20220501123000 -0300" stop="20220501130000 -0300" channel="Comedy Central">
-    <title lang="es">Betty, la fea</title>
-  </programme>
-  <programme start="20220501130000 -0300" stop="20220501133000 -0300" channel="Comedy Central">
-    <title lang="es">Schitt's Creek</title>
-  </programme>
-  <programme start="20220501133000 -0300" stop="20220501140000 -0300" channel="Comedy Central">
-    <title lang="es">Schitt's Creek</title>
-  </programme>
-  <programme start="20220501140000 -0300" stop="20220501143000 -0300" channel="Comedy Central">
-    <title lang="es">La niñera</title>
-  </programme>
-  <programme start="20220501143000 -0300" stop="20220501150000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501150000 -0300" stop="20220501153000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501153000 -0300" stop="20220501160000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501160000 -0300" stop="20220501163000 -0300" channel="Comedy Central">
-    <title lang="es">Ren y Stimpy</title>
-  </programme>
-  <programme start="20220501163000 -0300" stop="20220501170000 -0300" channel="Comedy Central">
-    <title lang="es">Sanjay y Craig</title>
-  </programme>
-  <programme start="20220501170000 -0300" stop="20220501173000 -0300" channel="Comedy Central">
-    <title lang="es">Sanjay y Craig</title>
-  </programme>
-  <programme start="20220501173000 -0300" stop="20220501180000 -0300" channel="Comedy Central">
-    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-  </programme>
-  <programme start="20220501180000 -0300" stop="20220501183000 -0300" channel="Comedy Central">
-    <title lang="es">Cerdo, Cabra, Banana, Grillo</title>
-  </programme>
-  <programme start="20220501183000 -0300" stop="20220501190000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220501190000 -0300" stop="20220501193000 -0300" channel="Comedy Central">
-    <title lang="es">One-Punch Man</title>
-  </programme>
-  <programme start="20220501193000 -0300" stop="20220501200000 -0300" channel="Comedy Central">
-    <title lang="es">The Neighborhood</title>
-  </programme>
-  <programme start="20220501200000 -0300" stop="20220501203000 -0300" channel="Comedy Central">
-    <title lang="es">Loco x vos</title>
-  </programme>
-  <programme start="20220501203000 -0300" stop="20220501204100 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501204100 -0300" stop="20220501210000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501210000 -0300" stop="20220501211600 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501211600 -0300" stop="20220501213000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501213000 -0300" stop="20220501220000 -0300" channel="Comedy Central">
-    <title lang="es">Casados con hijos</title>
-  </programme>
-  <programme start="20220501220000 -0300" stop="20220501223000 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501223000 -0300" stop="20220501225300 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501225300 -0300" stop="20220501232200 -0300" channel="Comedy Central">
-    <title lang="es">South Park</title>
-  </programme>
-  <programme start="20220501232200 -0300" stop="20220502000000 -0300" channel="Comedy Central">
-    <title lang="es">A confirmar</title>
   </programme>
   <programme start="20220429000000 -0300" stop="20220429003000 -0300" channel="Discovery Home  Health">
     <title lang="es">Especialistas en pies</title>
@@ -22545,6 +22561,135 @@
   <programme start="20220501233000 -0300" stop="20220502000000 -0300" channel="Encuentro">
     <title lang="es">En el carrousel</title>
   </programme>
+  <programme start="20220429000000 -0300" stop="20220429010000 -0300" channel="KZO">
+    <title lang="es">Las rubias</title>
+  </programme>
+  <programme start="20220429010000 -0300" stop="20220429020000 -0300" channel="KZO">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20220429020000 -0300" stop="20220429033000 -0300" channel="KZO">
+    <title lang="es">Con amigos así</title>
+  </programme>
+  <programme start="20220429033000 -0300" stop="20220429043000 -0300" channel="KZO">
+    <title lang="es">Tenemos Wi-Fi</title>
+  </programme>
+  <programme start="20220429043000 -0300" stop="20220429060000 -0300" channel="KZO">
+    <title lang="es">Las rubias</title>
+  </programme>
+  <programme start="20220429060000 -0300" stop="20220429090000 -0300" channel="KZO">
+    <title lang="es">De acá en más</title>
+  </programme>
+  <programme start="20220429090000 -0300" stop="20220429130000 -0300" channel="KZO">
+    <title lang="es">Perros de la calle</title>
+  </programme>
+  <programme start="20220429130000 -0300" stop="20220429170000 -0300" channel="KZO">
+    <title lang="es">Todo pasa</title>
+  </programme>
+  <programme start="20220429170000 -0300" stop="20220429200000 -0300" channel="KZO">
+    <title lang="es">Vuelta y media</title>
+  </programme>
+  <programme start="20220429200000 -0300" stop="20220429210000 -0300" channel="KZO">
+    <title lang="es">Tenemos Wi-Fi</title>
+  </programme>
+  <programme start="20220429210000 -0300" stop="20220429220000 -0300" channel="KZO">
+    <title lang="es">Con amigos así</title>
+  </programme>
+  <programme start="20220429220000 -0300" stop="20220429223000 -0300" channel="KZO">
+    <title lang="es">Con amigos así</title>
+  </programme>
+  <programme start="20220429223000 -0300" stop="20220429233000 -0300" channel="KZO">
+    <title lang="es">Avanti</title>
+  </programme>
+  <programme start="20220429233000 -0300" stop="20220430000000 -0300" channel="KZO">
+    <title lang="es">Las rubias</title>
+  </programme>
+  <programme start="20220430000000 -0300" stop="20220430010000 -0300" channel="KZO">
+    <title lang="es">Las rubias</title>
+  </programme>
+  <programme start="20220430010000 -0300" stop="20220430013000 -0300" channel="KZO">
+    <title lang="es">Hair Recovery</title>
+  </programme>
+  <programme start="20220430013000 -0300" stop="20220430023000 -0300" channel="KZO">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20220430023000 -0300" stop="20220430033000 -0300" channel="KZO">
+    <title lang="es">Con amigos así</title>
+  </programme>
+  <programme start="20220430033000 -0300" stop="20220430043000 -0300" channel="KZO">
+    <title lang="es">Tenemos Wi-Fi</title>
+  </programme>
+  <programme start="20220430043000 -0300" stop="20220430060000 -0300" channel="KZO">
+    <title lang="es">Las rubias</title>
+  </programme>
+  <programme start="20220430060000 -0300" stop="20220430090000 -0300" channel="KZO">
+    <title lang="es">De acá en más</title>
+  </programme>
+  <programme start="20220430090000 -0300" stop="20220430130000 -0300" channel="KZO">
+    <title lang="es">Perros de la calle</title>
+  </programme>
+  <programme start="20220430130000 -0300" stop="20220430170000 -0300" channel="KZO">
+    <title lang="es">Todo pasa</title>
+  </programme>
+  <programme start="20220430170000 -0300" stop="20220430200000 -0300" channel="KZO">
+    <title lang="es">Vuelta y media</title>
+  </programme>
+  <programme start="20220430200000 -0300" stop="20220430210000 -0300" channel="KZO">
+    <title lang="es">Tenemos Wi-Fi</title>
+  </programme>
+  <programme start="20220430210000 -0300" stop="20220430220000 -0300" channel="KZO">
+    <title lang="es">Con amigos así</title>
+  </programme>
+  <programme start="20220430220000 -0300" stop="20220430223000 -0300" channel="KZO">
+    <title lang="es">Con amigos así</title>
+  </programme>
+  <programme start="20220430223000 -0300" stop="20220430233000 -0300" channel="KZO">
+    <title lang="es">Avanti</title>
+  </programme>
+  <programme start="20220430233000 -0300" stop="20220501000000 -0300" channel="KZO">
+    <title lang="es">Las rubias</title>
+  </programme>
+  <programme start="20220501000000 -0300" stop="20220501010000 -0300" channel="KZO">
+    <title lang="es">Las rubias</title>
+  </programme>
+  <programme start="20220501010000 -0300" stop="20220501020000 -0300" channel="KZO">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20220501020000 -0300" stop="20220501033000 -0300" channel="KZO">
+    <title lang="es">Con amigos así</title>
+  </programme>
+  <programme start="20220501033000 -0300" stop="20220501043000 -0300" channel="KZO">
+    <title lang="es">Tenemos Wi-Fi</title>
+  </programme>
+  <programme start="20220501043000 -0300" stop="20220501060000 -0300" channel="KZO">
+    <title lang="es">Las rubias</title>
+  </programme>
+  <programme start="20220501060000 -0300" stop="20220501090000 -0300" channel="KZO">
+    <title lang="es">De acá en más</title>
+  </programme>
+  <programme start="20220501090000 -0300" stop="20220501130000 -0300" channel="KZO">
+    <title lang="es">Perros de la calle</title>
+  </programme>
+  <programme start="20220501130000 -0300" stop="20220501170000 -0300" channel="KZO">
+    <title lang="es">Todo pasa</title>
+  </programme>
+  <programme start="20220501170000 -0300" stop="20220501200000 -0300" channel="KZO">
+    <title lang="es">Vuelta y media</title>
+  </programme>
+  <programme start="20220501200000 -0300" stop="20220501210000 -0300" channel="KZO">
+    <title lang="es">Tenemos Wi-Fi</title>
+  </programme>
+  <programme start="20220501210000 -0300" stop="20220501220000 -0300" channel="KZO">
+    <title lang="es">Con amigos así</title>
+  </programme>
+  <programme start="20220501220000 -0300" stop="20220501223000 -0300" channel="KZO">
+    <title lang="es">Con amigos así</title>
+  </programme>
+  <programme start="20220501223000 -0300" stop="20220501233000 -0300" channel="KZO">
+    <title lang="es">Avanti</title>
+  </programme>
+  <programme start="20220501233000 -0300" stop="20220502000000 -0300" channel="KZO">
+    <title lang="es">Las rubias</title>
+  </programme>
   <programme start="20220429000000 -0300" stop="20220429013000 -0300" channel="Net TV">
     <title lang="es">Editando tele</title>
   </programme>
@@ -27387,6 +27532,339 @@
   <programme start="20220501233000 -0300" stop="20220502000000 -0300" channel="Canal Rural">
     <title lang="es">Tecnificando el agro</title>
   </programme>
+  <programme start="20220429000000 -0300" stop="20220429010000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Vivo 21</title>
+  </programme>
+  <programme start="20220429010000 -0300" stop="20220429013000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220429013000 -0300" stop="20220429020000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220429020000 -0300" stop="20220429030000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Semanario Orbe 21</title>
+  </programme>
+  <programme start="20220429030000 -0300" stop="20220429040000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Lo mejor de ti</title>
+  </programme>
+  <programme start="20220429040000 -0300" stop="20220429043000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cta. Doc</title>
+  </programme>
+  <programme start="20220429043000 -0300" stop="20220429053000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Los santos vienen marchando</title>
+  </programme>
+  <programme start="20220429053000 -0300" stop="20220429060000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220429060000 -0300" stop="20220429063000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220429063000 -0300" stop="20220429070000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220429070000 -0300" stop="20220429080000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20220429080000 -0300" stop="20220429083000 -0300" channel="Canal Orbe 21">
+    <title lang="es">De fábrica de pan y otros sabores</title>
+  </programme>
+  <programme start="20220429083000 -0300" stop="20220429090000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Bichigan University</title>
+  </programme>
+  <programme start="20220429090000 -0300" stop="20220429093000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220429093000 -0300" stop="20220429100000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Punto covergente TV</title>
+  </programme>
+  <programme start="20220429100000 -0300" stop="20220429103000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Nuestra Misa</title>
+  </programme>
+  <programme start="20220429103000 -0300" stop="20220429110000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Tierra Santa News</title>
+  </programme>
+  <programme start="20220429110000 -0300" stop="20220429120000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Diálogos con la vida</title>
+  </programme>
+  <programme start="20220429120000 -0300" stop="20220429123000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cocina franciscana</title>
+  </programme>
+  <programme start="20220429123000 -0300" stop="20220429130000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Una ventana a la fe</title>
+  </programme>
+  <programme start="20220429130000 -0300" stop="20220429140000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20220429140000 -0300" stop="20220429143000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220429143000 -0300" stop="20220429153000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Vivo 21</title>
+  </programme>
+  <programme start="20220429153000 -0300" stop="20220429160000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220429160000 -0300" stop="20220429170000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Semanario Orbe 21</title>
+  </programme>
+  <programme start="20220429170000 -0300" stop="20220429180000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Lo mejor de ti</title>
+  </programme>
+  <programme start="20220429180000 -0300" stop="20220429183000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Bichigan University</title>
+  </programme>
+  <programme start="20220429183000 -0300" stop="20220429190000 -0300" channel="Canal Orbe 21">
+    <title lang="es">De fábrica de pan y otros sabores</title>
+  </programme>
+  <programme start="20220429190000 -0300" stop="20220429193000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Nuestra Misa</title>
+  </programme>
+  <programme start="20220429193000 -0300" stop="20220429200000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220429200000 -0300" stop="20220429210000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20220429210000 -0300" stop="20220429213000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220429213000 -0300" stop="20220429220000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cocina franciscana</title>
+  </programme>
+  <programme start="20220429220000 -0300" stop="20220429223000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Punto covergente TV</title>
+  </programme>
+  <programme start="20220429223000 -0300" stop="20220429230000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220429230000 -0300" stop="20220430000000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Semanario Orbe 21</title>
+  </programme>
+  <programme start="20220430000000 -0300" stop="20220430010000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20220430010000 -0300" stop="20220430013000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220430013000 -0300" stop="20220430020000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220430020000 -0300" stop="20220430023000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Vaticano Orbe 21</title>
+  </programme>
+  <programme start="20220430023000 -0300" stop="20220430030000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cta. Doc</title>
+  </programme>
+  <programme start="20220430030000 -0300" stop="20220430040000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Lo mejor de ti</title>
+  </programme>
+  <programme start="20220430040000 -0300" stop="20220430043000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Tierra Santa News</title>
+  </programme>
+  <programme start="20220430043000 -0300" stop="20220430053000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20220430053000 -0300" stop="20220430060000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220430060000 -0300" stop="20220430063000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220430063000 -0300" stop="20220430070000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220430070000 -0300" stop="20220430080000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Diálogos con la vida</title>
+  </programme>
+  <programme start="20220430080000 -0300" stop="20220430083000 -0300" channel="Canal Orbe 21">
+    <title lang="es">De fábrica de pan y otros sabores</title>
+  </programme>
+  <programme start="20220430083000 -0300" stop="20220430090000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Bichigan University</title>
+  </programme>
+  <programme start="20220430090000 -0300" stop="20220430093000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220430093000 -0300" stop="20220430100000 -0300" channel="Canal Orbe 21">
+    <title lang="es">HM Salud</title>
+  </programme>
+  <programme start="20220430100000 -0300" stop="20220430103000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Nuestra Misa</title>
+  </programme>
+  <programme start="20220430103000 -0300" stop="20220430110000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cta. Doc</title>
+  </programme>
+  <programme start="20220430110000 -0300" stop="20220430120000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20220430120000 -0300" stop="20220430123000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cocina franciscana</title>
+  </programme>
+  <programme start="20220430123000 -0300" stop="20220430130000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220430130000 -0300" stop="20220430140000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La actualidad de lo bello</title>
+  </programme>
+  <programme start="20220430140000 -0300" stop="20220430143000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Una ventana a la fe</title>
+  </programme>
+  <programme start="20220430143000 -0300" stop="20220430150000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Punto covergente TV</title>
+  </programme>
+  <programme start="20220430150000 -0300" stop="20220430153000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Tierra Santa News</title>
+  </programme>
+  <programme start="20220430153000 -0300" stop="20220430160000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220430160000 -0300" stop="20220430170000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Audiencia Vaticano</title>
+  </programme>
+  <programme start="20220430170000 -0300" stop="20220430180000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Lo mejor de ti</title>
+  </programme>
+  <programme start="20220430180000 -0300" stop="20220430183000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Bichigan University</title>
+  </programme>
+  <programme start="20220430183000 -0300" stop="20220430190000 -0300" channel="Canal Orbe 21">
+    <title lang="es">De fábrica de pan y otros sabores</title>
+  </programme>
+  <programme start="20220430190000 -0300" stop="20220430193000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Nuestra Misa</title>
+  </programme>
+  <programme start="20220430193000 -0300" stop="20220430200000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220430200000 -0300" stop="20220430203000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cta. Doc</title>
+  </programme>
+  <programme start="20220430203000 -0300" stop="20220430210000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220430210000 -0300" stop="20220430213000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220430213000 -0300" stop="20220430220000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cocina franciscana</title>
+  </programme>
+  <programme start="20220430220000 -0300" stop="20220430230000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Audiencia Vaticano</title>
+  </programme>
+  <programme start="20220430230000 -0300" stop="20220501000000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Vox Dei, confesiones del rock</title>
+  </programme>
+  <programme start="20220501000000 -0300" stop="20220501010000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Diálogos con la vida</title>
+  </programme>
+  <programme start="20220501010000 -0300" stop="20220501013000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220501013000 -0300" stop="20220501020000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220501020000 -0300" stop="20220501030000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20220501030000 -0300" stop="20220501040000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Lo mejor de ti</title>
+  </programme>
+  <programme start="20220501040000 -0300" stop="20220501043000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220501043000 -0300" stop="20220501053000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La actualidad de lo bello</title>
+  </programme>
+  <programme start="20220501053000 -0300" stop="20220501060000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Una ventana a la fe</title>
+  </programme>
+  <programme start="20220501060000 -0300" stop="20220501063000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220501063000 -0300" stop="20220501070000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220501070000 -0300" stop="20220501080000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Audiencia Vaticano</title>
+  </programme>
+  <programme start="20220501080000 -0300" stop="20220501083000 -0300" channel="Canal Orbe 21">
+    <title lang="es">De fábrica de pan y otros sabores</title>
+  </programme>
+  <programme start="20220501083000 -0300" stop="20220501090000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Bichigan University</title>
+  </programme>
+  <programme start="20220501090000 -0300" stop="20220501093000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220501093000 -0300" stop="20220501100000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220501100000 -0300" stop="20220501103000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Nuestra Misa</title>
+  </programme>
+  <programme start="20220501103000 -0300" stop="20220501110000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Vaticano Orbe 21</title>
+  </programme>
+  <programme start="20220501110000 -0300" stop="20220501120000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Vox Dei, confesiones del rock</title>
+  </programme>
+  <programme start="20220501120000 -0300" stop="20220501123000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cocina franciscana</title>
+  </programme>
+  <programme start="20220501123000 -0300" stop="20220501130000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Punto covergente TV</title>
+  </programme>
+  <programme start="20220501130000 -0300" stop="20220501140000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Diálogos con la vida</title>
+  </programme>
+  <programme start="20220501140000 -0300" stop="20220501150000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Semanario Orbe 21</title>
+  </programme>
+  <programme start="20220501150000 -0300" stop="20220501153000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Una ventana a la fe</title>
+  </programme>
+  <programme start="20220501153000 -0300" stop="20220501160000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220501160000 -0300" stop="20220501163000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cta. Doc</title>
+  </programme>
+  <programme start="20220501163000 -0300" stop="20220501170000 -0300" channel="Canal Orbe 21">
+    <title lang="es">HM Salud</title>
+  </programme>
+  <programme start="20220501170000 -0300" stop="20220501180000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Lo mejor de ti</title>
+  </programme>
+  <programme start="20220501180000 -0300" stop="20220501183000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Bichigan University</title>
+  </programme>
+  <programme start="20220501183000 -0300" stop="20220501190000 -0300" channel="Canal Orbe 21">
+    <title lang="es">De fábrica de pan y otros sabores</title>
+  </programme>
+  <programme start="20220501190000 -0300" stop="20220501193000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Nuestra Misa</title>
+  </programme>
+  <programme start="20220501193000 -0300" stop="20220501200000 -0300" channel="Canal Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuch</title>
+  </programme>
+  <programme start="20220501200000 -0300" stop="20220501210000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Semanario Orbe 21</title>
+  </programme>
+  <programme start="20220501210000 -0300" stop="20220501213000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220501213000 -0300" stop="20220501220000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Cocina franciscana</title>
+  </programme>
+  <programme start="20220501220000 -0300" stop="20220501230000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Diálogos con la vida</title>
+  </programme>
+  <programme start="20220501230000 -0300" stop="20220501233000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Punto covergente TV</title>
+  </programme>
+  <programme start="20220501233000 -0300" stop="20220502000000 -0300" channel="Canal Orbe 21">
+    <title lang="es">Vaticano Orbe 21</title>
+  </programme>
   <programme start="20220429000000 -0300" stop="20220429010000 -0300" channel="PASIONES">
     <title lang="es">La tempestad</title>
   </programme>
@@ -27783,14 +28261,6 @@
   <programme start="20220501230000 -0300" stop="20220502000000 -0300" channel="Telemax">
     <title lang="es">Datos curiosos</title>
   </programme>
-  <programme start="20220429211000 -0300" stop="20220429220000 -0300" channel="Love Nature HD">
-    <title lang="es">Rescate de vida silvestre de Malawi</title>
-    <desc lang="es">Sigue los esfuerzos de la jefa de veterinaria Amanda Salb y el equipo del único centro de rescate de animales de Malawi, que se dedican a salvar animales heridos y huérfanos para devolverlos a la naturaleza.(n)</desc>
-  </programme>
-  <programme start="20220429220000 -0300" stop="20220429225000 -0300" channel="Love Nature HD">
-    <title lang="es">Mares arabes</title>
-    <desc lang="es">Los mares de Arabia agrupan a numerosas criaturas hermosas y extrañas al mismo tiempo.(n)</desc>
-  </programme>
   <programme start="20220429225000 -0300" stop="20220429234000 -0300" channel="Love Nature HD">
     <title lang="es">Mares arabes</title>
     <desc lang="es">Los mares de Arabia agrupan a numerosas criaturas hermosas y extrañas al mismo tiempo.(n)</desc>
@@ -28018,21 +28488,9 @@
     <title lang="es">Escuela de orangutanes</title>
     <desc lang="es">Unos jóvenes orangutanes han perdido a sus madres debido a la caza furtiva o la deforestación y deben aprender las habilidades que necesitan para sobrevivir.(n)</desc>
   </programme>
-  <programme start="20220429203000 -0300" stop="20220429211500 -0300" channel="RAI">
-    <title lang="es">Igreja internacional da graça de Deus</title>
-    <desc lang="es">Conozca la palabra del Señor a través del programa de la Iglesia Internacional de la Gracia de Dios.(n)</desc>
-  </programme>
-  <programme start="20220429211500 -0300" stop="20220429213000 -0300" channel="RAI">
+  <programme start="20220429211500 -0300" stop="20220429230000 -0300" channel="RAI">
     <title lang="es">The Band</title>
     <desc lang="es">Distintas bandas competirán, apoyadas por tutores experimentados y evaluadas por un jurado, para ganar el título de "Banda del año".(n)</desc>
-  </programme>
-  <programme start="20220429213000 -0300" stop="20220429223000 -0300" channel="RAI">
-    <title lang="es">RedeTV News</title>
-    <desc lang="es">Segmento que trae los principales eventos de Brasil y el mundo, anclado por los periodistas Boris Casoy y Amanda Klein, con corresponsales internacionales y comentaristas de la prensa brasileña.(n)</desc>
-  </programme>
-  <programme start="20220429223000 -0300" stop="20220429230000 -0300" channel="RAI">
-    <title lang="es">Rescate 193</title>
-    <desc lang="es">Rescate 193 sigue de cerca la increíble labor diaria de los equipos de bomberos, médicos y socorristas que trabajan de manera integrada salvando vidas en la ciudad más grande de Sudamérica, San Pablo.(n)</desc>
   </programme>
   <programme start="20220429230000 -0300" stop="20220429233000 -0300" channel="RAI">
     <title lang="es">Operação de Risco</title>
