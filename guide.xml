@@ -545,6 +545,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telemax.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="VIAJAR">
+    <display-name lang="es">VIAJAR</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/VIAJAR.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Love Nature HD">
     <display-name lang="es">Love Nature HD</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Love Nature HD.png" />
@@ -28715,13 +28720,632 @@
   <programme start="20220503230000 -0300" stop="20220504000000 -0300" channel="Telemax">
     <title lang="es">Datos curiosos</title>
   </programme>
-  <programme start="20220501104000 -0300" stop="20220501113000 -0300" channel="Love Nature HD">
-    <title lang="es">Grandes parques de África</title>
-    <desc lang="es">Aquí, la vida silvestre prospera en entornos naturales impresionantes. Viaje a través de algunos de los más espectaculares.(n)</desc>
+  <programme start="20220501000000 -0300" stop="20220501001500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
   </programme>
-  <programme start="20220501113000 -0300" stop="20220501122000 -0300" channel="Love Nature HD">
-    <title lang="es">Grandes parques de África</title>
-    <desc lang="es">Aquí, la vida silvestre prospera en entornos naturales impresionantes. Viaje a través de algunos de los más espectaculares.(n)</desc>
+  <programme start="20220501001500 -0300" stop="20220501003000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501003000 -0300" stop="20220501010000 -0300" channel="VIAJAR">
+    <title lang="es">En claves</title>
+  </programme>
+  <programme start="20220501010000 -0300" stop="20220501013000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220501013000 -0300" stop="20220501020000 -0300" channel="VIAJAR">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+  <programme start="20220501020000 -0300" stop="20220501021500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501021500 -0300" stop="20220501023000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501023000 -0300" stop="20220501030000 -0300" channel="VIAJAR">
+    <title lang="es">Tour Italia</title>
+  </programme>
+  <programme start="20220501030000 -0300" stop="20220501031500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501031500 -0300" stop="20220501033000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501033000 -0300" stop="20220501040000 -0300" channel="VIAJAR">
+    <title lang="es">Los ojos del cielo</title>
+  </programme>
+  <programme start="20220501040000 -0300" stop="20220501041500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220501041500 -0300" stop="20220501043000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501043000 -0300" stop="20220501050000 -0300" channel="VIAJAR">
+    <title lang="es">En claves</title>
+  </programme>
+  <programme start="20220501050000 -0300" stop="20220501053000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220501053000 -0300" stop="20220501060000 -0300" channel="VIAJAR">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+  <programme start="20220501060000 -0300" stop="20220501061500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501061500 -0300" stop="20220501063000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501063000 -0300" stop="20220501070000 -0300" channel="VIAJAR">
+    <title lang="es">Tour Italia</title>
+  </programme>
+  <programme start="20220501070000 -0300" stop="20220501071500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501071500 -0300" stop="20220501073000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501073000 -0300" stop="20220501080000 -0300" channel="VIAJAR">
+    <title lang="es">Los ojos del cielo</title>
+  </programme>
+  <programme start="20220501080000 -0300" stop="20220501081500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220501081500 -0300" stop="20220501083000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501083000 -0300" stop="20220501090000 -0300" channel="VIAJAR">
+    <title lang="es">En claves</title>
+  </programme>
+  <programme start="20220501090000 -0300" stop="20220501093000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220501093000 -0300" stop="20220501100000 -0300" channel="VIAJAR">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+  <programme start="20220501100000 -0300" stop="20220501101500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501101500 -0300" stop="20220501103000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501103000 -0300" stop="20220501110000 -0300" channel="VIAJAR">
+    <title lang="es">Tour Italia</title>
+  </programme>
+  <programme start="20220501110000 -0300" stop="20220501111500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501111500 -0300" stop="20220501113000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501113000 -0300" stop="20220501120000 -0300" channel="VIAJAR">
+    <title lang="es">Los ojos del cielo</title>
+  </programme>
+  <programme start="20220501120000 -0300" stop="20220501121500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220501121500 -0300" stop="20220501123000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501123000 -0300" stop="20220501130000 -0300" channel="VIAJAR">
+    <title lang="es">En claves</title>
+  </programme>
+  <programme start="20220501130000 -0300" stop="20220501133000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220501133000 -0300" stop="20220501140000 -0300" channel="VIAJAR">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+  <programme start="20220501140000 -0300" stop="20220501141500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501141500 -0300" stop="20220501143000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501143000 -0300" stop="20220501150000 -0300" channel="VIAJAR">
+    <title lang="es">Tour Italia</title>
+  </programme>
+  <programme start="20220501150000 -0300" stop="20220501151500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501151500 -0300" stop="20220501153000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501153000 -0300" stop="20220501160000 -0300" channel="VIAJAR">
+    <title lang="es">Los ojos del cielo</title>
+  </programme>
+  <programme start="20220501160000 -0300" stop="20220501161500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220501161500 -0300" stop="20220501163000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501163000 -0300" stop="20220501170000 -0300" channel="VIAJAR">
+    <title lang="es">En claves</title>
+  </programme>
+  <programme start="20220501170000 -0300" stop="20220501173000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220501173000 -0300" stop="20220501180000 -0300" channel="VIAJAR">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+  <programme start="20220501180000 -0300" stop="20220501181500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501181500 -0300" stop="20220501183000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501183000 -0300" stop="20220501190000 -0300" channel="VIAJAR">
+    <title lang="es">Tour Italia</title>
+  </programme>
+  <programme start="20220501190000 -0300" stop="20220501191500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501191500 -0300" stop="20220501193000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501193000 -0300" stop="20220501200000 -0300" channel="VIAJAR">
+    <title lang="es">Los ojos del cielo</title>
+  </programme>
+  <programme start="20220501200000 -0300" stop="20220501201500 -0300" channel="VIAJAR">
+    <title lang="es">Viajo con vos</title>
+  </programme>
+  <programme start="20220501201500 -0300" stop="20220501203000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501203000 -0300" stop="20220501210000 -0300" channel="VIAJAR">
+    <title lang="es">Destino VLA On Tour</title>
+  </programme>
+  <programme start="20220501210000 -0300" stop="20220501213000 -0300" channel="VIAJAR">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20220501213000 -0300" stop="20220501220000 -0300" channel="VIAJAR">
+    <title lang="es">Buen viaje</title>
+  </programme>
+  <programme start="20220501220000 -0300" stop="20220501221500 -0300" channel="VIAJAR">
+    <title lang="es">Turismo interoceánico</title>
+  </programme>
+  <programme start="20220501221500 -0300" stop="20220501223000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220501223000 -0300" stop="20220501230000 -0300" channel="VIAJAR">
+    <title lang="es">Viajando con vos</title>
+  </programme>
+  <programme start="20220501230000 -0300" stop="20220501231500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220501231500 -0300" stop="20220501233000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220501233000 -0300" stop="20220502000000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220502000000 -0300" stop="20220502001500 -0300" channel="VIAJAR">
+    <title lang="es">Viajo con vos</title>
+  </programme>
+  <programme start="20220502001500 -0300" stop="20220502003000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502003000 -0300" stop="20220502010000 -0300" channel="VIAJAR">
+    <title lang="es">Destino VLA On Tour</title>
+  </programme>
+  <programme start="20220502010000 -0300" stop="20220502013000 -0300" channel="VIAJAR">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20220502013000 -0300" stop="20220502020000 -0300" channel="VIAJAR">
+    <title lang="es">Buen viaje</title>
+  </programme>
+  <programme start="20220502020000 -0300" stop="20220502021500 -0300" channel="VIAJAR">
+    <title lang="es">Turismo interoceánico</title>
+  </programme>
+  <programme start="20220502021500 -0300" stop="20220502023000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502023000 -0300" stop="20220502030000 -0300" channel="VIAJAR">
+    <title lang="es">Viajando con vos</title>
+  </programme>
+  <programme start="20220502030000 -0300" stop="20220502031500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220502031500 -0300" stop="20220502033000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220502033000 -0300" stop="20220502040000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220502040000 -0300" stop="20220502041500 -0300" channel="VIAJAR">
+    <title lang="es">Viajo con vos</title>
+  </programme>
+  <programme start="20220502041500 -0300" stop="20220502043000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502043000 -0300" stop="20220502050000 -0300" channel="VIAJAR">
+    <title lang="es">Destino VLA On Tour</title>
+  </programme>
+  <programme start="20220502050000 -0300" stop="20220502053000 -0300" channel="VIAJAR">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20220502053000 -0300" stop="20220502060000 -0300" channel="VIAJAR">
+    <title lang="es">Buen viaje</title>
+  </programme>
+  <programme start="20220502060000 -0300" stop="20220502061500 -0300" channel="VIAJAR">
+    <title lang="es">Turismo interoceánico</title>
+  </programme>
+  <programme start="20220502061500 -0300" stop="20220502063000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502063000 -0300" stop="20220502070000 -0300" channel="VIAJAR">
+    <title lang="es">Viajando con vos</title>
+  </programme>
+  <programme start="20220502070000 -0300" stop="20220502071500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220502071500 -0300" stop="20220502073000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220502073000 -0300" stop="20220502080000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220502080000 -0300" stop="20220502081500 -0300" channel="VIAJAR">
+    <title lang="es">Viajo con vos</title>
+  </programme>
+  <programme start="20220502081500 -0300" stop="20220502083000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502083000 -0300" stop="20220502090000 -0300" channel="VIAJAR">
+    <title lang="es">Destino VLA On Tour</title>
+  </programme>
+  <programme start="20220502090000 -0300" stop="20220502093000 -0300" channel="VIAJAR">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20220502093000 -0300" stop="20220502100000 -0300" channel="VIAJAR">
+    <title lang="es">Buen viaje</title>
+  </programme>
+  <programme start="20220502100000 -0300" stop="20220502101500 -0300" channel="VIAJAR">
+    <title lang="es">Turismo interoceánico</title>
+  </programme>
+  <programme start="20220502101500 -0300" stop="20220502103000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502103000 -0300" stop="20220502110000 -0300" channel="VIAJAR">
+    <title lang="es">Viajando con vos</title>
+  </programme>
+  <programme start="20220502110000 -0300" stop="20220502111500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220502111500 -0300" stop="20220502113000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220502113000 -0300" stop="20220502120000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220502120000 -0300" stop="20220502121500 -0300" channel="VIAJAR">
+    <title lang="es">Viajo con vos</title>
+  </programme>
+  <programme start="20220502121500 -0300" stop="20220502123000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502123000 -0300" stop="20220502130000 -0300" channel="VIAJAR">
+    <title lang="es">Destino VLA On Tour</title>
+  </programme>
+  <programme start="20220502130000 -0300" stop="20220502133000 -0300" channel="VIAJAR">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20220502133000 -0300" stop="20220502140000 -0300" channel="VIAJAR">
+    <title lang="es">Buen viaje</title>
+  </programme>
+  <programme start="20220502140000 -0300" stop="20220502141500 -0300" channel="VIAJAR">
+    <title lang="es">Turismo interoceánico</title>
+  </programme>
+  <programme start="20220502141500 -0300" stop="20220502143000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502143000 -0300" stop="20220502150000 -0300" channel="VIAJAR">
+    <title lang="es">Viajando con vos</title>
+  </programme>
+  <programme start="20220502150000 -0300" stop="20220502151500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220502151500 -0300" stop="20220502153000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220502153000 -0300" stop="20220502160000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220502160000 -0300" stop="20220502161500 -0300" channel="VIAJAR">
+    <title lang="es">Viajo con vos</title>
+  </programme>
+  <programme start="20220502161500 -0300" stop="20220502163000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502163000 -0300" stop="20220502170000 -0300" channel="VIAJAR">
+    <title lang="es">Destino VLA On Tour</title>
+  </programme>
+  <programme start="20220502170000 -0300" stop="20220502173000 -0300" channel="VIAJAR">
+    <title lang="es">City Tour</title>
+  </programme>
+  <programme start="20220502173000 -0300" stop="20220502180000 -0300" channel="VIAJAR">
+    <title lang="es">Buen viaje</title>
+  </programme>
+  <programme start="20220502180000 -0300" stop="20220502181500 -0300" channel="VIAJAR">
+    <title lang="es">Turismo interoceánico</title>
+  </programme>
+  <programme start="20220502181500 -0300" stop="20220502183000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502183000 -0300" stop="20220502190000 -0300" channel="VIAJAR">
+    <title lang="es">Viajando con vos</title>
+  </programme>
+  <programme start="20220502190000 -0300" stop="20220502191500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220502191500 -0300" stop="20220502193000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220502193000 -0300" stop="20220502200000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220502200000 -0300" stop="20220502201500 -0300" channel="VIAJAR">
+    <title lang="es">Viajeras frecuentes</title>
+  </programme>
+  <programme start="20220502201500 -0300" stop="20220502203000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220502203000 -0300" stop="20220502210000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220502210000 -0300" stop="20220502211500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502211500 -0300" stop="20220502213000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220502213000 -0300" stop="20220502214500 -0300" channel="VIAJAR">
+    <title lang="es">Panorama turístico</title>
+  </programme>
+  <programme start="20220502214500 -0300" stop="20220502220000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220502220000 -0300" stop="20220502221500 -0300" channel="VIAJAR">
+    <title lang="es">Inluxus</title>
+  </programme>
+  <programme start="20220502221500 -0300" stop="20220502223000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220502223000 -0300" stop="20220502230000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220502230000 -0300" stop="20220502233000 -0300" channel="VIAJAR">
+    <title lang="es">Sentí Argentina</title>
+  </programme>
+  <programme start="20220502233000 -0300" stop="20220502234500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220502234500 -0300" stop="20220503000000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503000000 -0300" stop="20220503001500 -0300" channel="VIAJAR">
+    <title lang="es">Viajeras frecuentes</title>
+  </programme>
+  <programme start="20220503001500 -0300" stop="20220503003000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503003000 -0300" stop="20220503010000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220503010000 -0300" stop="20220503011500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503011500 -0300" stop="20220503013000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503013000 -0300" stop="20220503014500 -0300" channel="VIAJAR">
+    <title lang="es">Panorama turístico</title>
+  </programme>
+  <programme start="20220503014500 -0300" stop="20220503020000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503020000 -0300" stop="20220503021500 -0300" channel="VIAJAR">
+    <title lang="es">Inluxus</title>
+  </programme>
+  <programme start="20220503021500 -0300" stop="20220503023000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503023000 -0300" stop="20220503030000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220503030000 -0300" stop="20220503033000 -0300" channel="VIAJAR">
+    <title lang="es">Sentí Argentina</title>
+  </programme>
+  <programme start="20220503033000 -0300" stop="20220503034500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503034500 -0300" stop="20220503040000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503040000 -0300" stop="20220503041500 -0300" channel="VIAJAR">
+    <title lang="es">Viajeras frecuentes</title>
+  </programme>
+  <programme start="20220503041500 -0300" stop="20220503043000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503043000 -0300" stop="20220503050000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220503050000 -0300" stop="20220503051500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503051500 -0300" stop="20220503053000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503053000 -0300" stop="20220503054500 -0300" channel="VIAJAR">
+    <title lang="es">Panorama turístico</title>
+  </programme>
+  <programme start="20220503054500 -0300" stop="20220503060000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503060000 -0300" stop="20220503061500 -0300" channel="VIAJAR">
+    <title lang="es">Inluxus</title>
+  </programme>
+  <programme start="20220503061500 -0300" stop="20220503063000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503063000 -0300" stop="20220503070000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220503070000 -0300" stop="20220503073000 -0300" channel="VIAJAR">
+    <title lang="es">Sentí Argentina</title>
+  </programme>
+  <programme start="20220503073000 -0300" stop="20220503074500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503074500 -0300" stop="20220503080000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503080000 -0300" stop="20220503081500 -0300" channel="VIAJAR">
+    <title lang="es">Viajeras frecuentes</title>
+  </programme>
+  <programme start="20220503081500 -0300" stop="20220503083000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503083000 -0300" stop="20220503090000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220503090000 -0300" stop="20220503091500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503091500 -0300" stop="20220503093000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503093000 -0300" stop="20220503094500 -0300" channel="VIAJAR">
+    <title lang="es">Panorama turístico</title>
+  </programme>
+  <programme start="20220503094500 -0300" stop="20220503100000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503100000 -0300" stop="20220503101500 -0300" channel="VIAJAR">
+    <title lang="es">Inluxus</title>
+  </programme>
+  <programme start="20220503101500 -0300" stop="20220503103000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503103000 -0300" stop="20220503110000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220503110000 -0300" stop="20220503113000 -0300" channel="VIAJAR">
+    <title lang="es">Sentí Argentina</title>
+  </programme>
+  <programme start="20220503113000 -0300" stop="20220503114500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503114500 -0300" stop="20220503120000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503120000 -0300" stop="20220503121500 -0300" channel="VIAJAR">
+    <title lang="es">Viajeras frecuentes</title>
+  </programme>
+  <programme start="20220503121500 -0300" stop="20220503123000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503123000 -0300" stop="20220503130000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220503130000 -0300" stop="20220503131500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503131500 -0300" stop="20220503133000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503133000 -0300" stop="20220503134500 -0300" channel="VIAJAR">
+    <title lang="es">Panorama turístico</title>
+  </programme>
+  <programme start="20220503134500 -0300" stop="20220503140000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503140000 -0300" stop="20220503141500 -0300" channel="VIAJAR">
+    <title lang="es">Inluxus</title>
+  </programme>
+  <programme start="20220503141500 -0300" stop="20220503143000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503143000 -0300" stop="20220503150000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220503150000 -0300" stop="20220503153000 -0300" channel="VIAJAR">
+    <title lang="es">Sentí Argentina</title>
+  </programme>
+  <programme start="20220503153000 -0300" stop="20220503154500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503154500 -0300" stop="20220503160000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503160000 -0300" stop="20220503161500 -0300" channel="VIAJAR">
+    <title lang="es">Viajeras frecuentes</title>
+  </programme>
+  <programme start="20220503161500 -0300" stop="20220503163000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503163000 -0300" stop="20220503170000 -0300" channel="VIAJAR">
+    <title lang="es">Check in TV</title>
+  </programme>
+  <programme start="20220503170000 -0300" stop="20220503171500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503171500 -0300" stop="20220503173000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503173000 -0300" stop="20220503174500 -0300" channel="VIAJAR">
+    <title lang="es">Panorama turístico</title>
+  </programme>
+  <programme start="20220503174500 -0300" stop="20220503180000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503180000 -0300" stop="20220503181500 -0300" channel="VIAJAR">
+    <title lang="es">Inluxus</title>
+  </programme>
+  <programme start="20220503181500 -0300" stop="20220503183000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar Argentina</title>
+  </programme>
+  <programme start="20220503183000 -0300" stop="20220503190000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
+  </programme>
+  <programme start="20220503190000 -0300" stop="20220503193000 -0300" channel="VIAJAR">
+    <title lang="es">Sentí Argentina</title>
+  </programme>
+  <programme start="20220503193000 -0300" stop="20220503194500 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503194500 -0300" stop="20220503200000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar por mi país</title>
+  </programme>
+  <programme start="20220503200000 -0300" stop="20220503203000 -0300" channel="VIAJAR">
+    <title lang="es">En claves</title>
+  </programme>
+  <programme start="20220503203000 -0300" stop="20220503210000 -0300" channel="VIAJAR">
+    <title lang="es">Buen viaje</title>
+  </programme>
+  <programme start="20220503210000 -0300" stop="20220503213000 -0300" channel="VIAJAR">
+    <title lang="es">Destino VLA On Tour</title>
+  </programme>
+  <programme start="20220503213000 -0300" stop="20220503220000 -0300" channel="VIAJAR">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+  <programme start="20220503220000 -0300" stop="20220503221500 -0300" channel="VIAJAR">
+    <title lang="es">Turismo interoceánico</title>
+  </programme>
+  <programme start="20220503221500 -0300" stop="20220503223000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503223000 -0300" stop="20220503224500 -0300" channel="VIAJAR">
+    <title lang="es">Viajo con vos</title>
+  </programme>
+  <programme start="20220503224500 -0300" stop="20220503230000 -0300" channel="VIAJAR">
+    <title lang="es">Viajar deportes</title>
+  </programme>
+  <programme start="20220503230000 -0300" stop="20220503233000 -0300" channel="VIAJAR">
+    <title lang="es">Tour Italia</title>
+  </programme>
+  <programme start="20220503233000 -0300" stop="20220504000000 -0300" channel="VIAJAR">
+    <title lang="es">Especiales</title>
   </programme>
   <programme start="20220501122000 -0300" stop="20220501131000 -0300" channel="Love Nature HD">
     <title lang="es">Grandes parques de África</title>

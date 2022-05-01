@@ -95,6 +95,8 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSport
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBA TV.png" group-title="Deportes",NBA TV
 https://d1k4ybyeycgihx.cloudfront.net/hls/nbatv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RedBull TV.png" group-title="Deportes",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT SPORTS.png" group-title="Deportes",TNT SPORTS
 https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TyC Sports.png" group-title="Deportes",TyC Sports
@@ -173,6 +175,8 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-id="TV Pública Argentina" tvg-name="TV Pública Argentina" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Pública Argentina.png" group-title="Interes General",TV Pública Argentina
 https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Unife.png" group-title="Interes General",Unife
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1651419515&e=1651419635&h=d98cd70686482a7a2510aff8609afb5b
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Internacional",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Bloomberg.png" group-title="Internacional",Bloomberg
@@ -239,4 +243,6 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telemax.png" group-title="Variedades",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VIAJAR" tvg-name="VIAJAR" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VIAJAR.png" group-title="Variedades",VIAJAR
+https://37vod-adaptive.akamaized.net/exp=1651433143~acl=%2F676622a5-66bf-491c-adf0-9e05c844c37c%2F%2A~hmac=63dfac542850457a260dcc2a62780a9c54f6555ba6ab838e2b5ea72588cf431f/676622a5-66bf-491c-adf0-9e05c844c37c/sep/video/307f6b46,6feb267e,9cd8667b,a8012177,e1408acc/master.m3u8?absolute=1&query_string_ranges=1
 
