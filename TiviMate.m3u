@@ -179,6 +179,8 @@ https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1651419515&e=1651419635&h=d98cd70686482a7a2510aff8609afb5b
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Internacional",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Arirang Tv" tvg-name="Arirang Tv" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Arirang Tv.png" group-title="Internacional",Arirang Tv
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Bloomberg.png" group-title="Internacional",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cbs News.png" group-title="Internacional",Cbs News
@@ -199,6 +201,8 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesur.png" group-title="Internacional",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="UCL" tvg-name="UCL" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/UCL.png" group-title="Internacional",UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Usa Today.png" group-title="Internacional",Usa Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal de la Musica" tvg-name="Canal de la Musica" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal de la Musica.png" group-title="Musica",Canal de la Musica
@@ -211,6 +215,8 @@ https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Quiero" tvg-name="Quiero" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Quiero.png" group-title="Musica",Quiero
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VH1.png" group-title="Musica",VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="A 24" tvg-name="A 24" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/A 24.png" group-title="Noticias",A 24
 https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 #EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/C5N.png" group-title="Noticias",C5N
@@ -237,6 +243,8 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Chacra TV.png" group-title="Variedades",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/EWTN.png" group-title="Variedades",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Orbe 21" tvg-name="Canal Orbe 21" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Orbe 21.png" group-title="Variedades",Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/PASIONES.png" group-title="Variedades",PASIONES
