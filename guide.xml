@@ -1,10 +1,5 @@
 <?xml version="1.0"encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB  REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Red Bull TV">
-    <display-name lang="de">Red Bull TV</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Red Bull TV.png" />
-    <url>http://www.web.magentatv.de</url>
-  </channel>
   <channel id="AE Mundo">
     <display-name lang="es">AE Mundo</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AE Mundo.png" />
@@ -605,12 +600,6 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Love Nature HD.png" />
     <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/383.png" />
     <url>http://www.tcc.com.uy</url>
-  </channel>
-  <channel id="CANAL 9 HD">
-    <display-name lang="es">CANAL 9 HD</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL 9 HD.png" />
-    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
-    <url>http://www.reportvMulti.com.ar</url>
   </channel>
   <programme start="20220502011000 -0300" stop="20220502020500 -0300" channel="AE Mundo">
     <title lang="es">Esclavos de la cienciología</title>
@@ -43895,30 +43884,6 @@
   </programme>
   <programme start="20220505234500 -0300" stop="20220506000000 -0300" channel="VIAJAR">
     <title lang="es">Play Ibiza</title>
-  </programme>
-  <programme start="20220502113000 -0300" stop="20220502122000 -0300" channel="Love Nature HD">
-    <title lang="es">Aves silvestres de Australia</title>
-    <desc lang="es">Las aves de presa de Australia son algunos de los depredadores más feroces de la región. Estos asesinos altamente especializados son poderosos, ingeniosos y llamativos.(n)</desc>
-  </programme>
-  <programme start="20220502122000 -0300" stop="20220502131000 -0300" channel="Love Nature HD">
-    <title lang="es">Cuentos de Zambia</title>
-    <desc lang="es">Sigue a una familia de elefantes desde el amanecer hasta el atardecer mientras se unen un elenco de personajes en un valle lleno de vida. Pero en la estación seca las temperaturas se disparan.(n)</desc>
-  </programme>
-  <programme start="20220502131000 -0300" stop="20220502140000 -0300" channel="Love Nature HD">
-    <title lang="es">Nueva Zelanda salvaje</title>
-    <desc lang="es">Aislada del resto del mundo durante 80 millones de años, la vida en Nueva Zelanda ha creado su propio camino. Esta serie documental muestra la apasionante vida salvaje del país, como el último lugar descubierto y poblado por humanos.(n)</desc>
-  </programme>
-  <programme start="20220502140000 -0300" stop="20220502145000 -0300" channel="Love Nature HD">
-    <title lang="es">Australianos letales</title>
-    <desc lang="es">En los bosques australianos, los depredadores letales acechan para emboscar a sus presas. Aquí, las pitones de amatista acechan en lo alto del dosel, los Tiger Quolls troll el suelo del bosque.(n)</desc>
-  </programme>
-  <programme start="20220502145000 -0300" stop="20220502154000 -0300" channel="Love Nature HD">
-    <title lang="es">Horizontes salvajes de África</title>
-    <desc lang="es">La provincia de Cabo Oriental está invirtiendo fuertemente en ecoturismo y conservación como una alternativa a la pesca y al desarrollo comercial.(n)</desc>
-  </programme>
-  <programme start="20220502154000 -0300" stop="20220502163000 -0300" channel="Love Nature HD">
-    <title lang="es">Maravillas submarinas de África</title>
-    <desc lang="es">Siga el increíble viaje de una tortuga Carey entre dos mundos distintos.(n)</desc>
   </programme>
   <programme start="20220502163000 -0300" stop="20220502172000 -0300" channel="Love Nature HD">
     <title lang="es">Maravillas submarinas de África</title>

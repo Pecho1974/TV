@@ -95,7 +95,7 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSport
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBA TV.png" group-title="Deportes",NBA TV
 https://d1k4ybyeycgihx.cloudfront.net/hls/nbatv/chunks.m3u8
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Red Bull TV.png" group-title="Deportes",Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RedBull TV.png" group-title="Deportes",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT SPORTS.png" group-title="Deportes",TNT SPORTS
 https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
@@ -178,7 +178,7 @@ https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Unife.png" group-title="Interes General",Unife
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1651419515&e=1651419635&h=d98cd70686482a7a2510aff8609afb5b
 #EXTINF:-1 tvg-id="TVE (España)" tvg-name="TVE (España)" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TVE (España).png" group-title="Internacional",TVE (España)
-https://rtvelivestreamv3.akamaized.net/24h_main_dvr_360.m3u8
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Internacional",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="Arirang Tv" tvg-name="Arirang Tv" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Arirang Tv.png" group-title="Internacional",Arirang Tv
@@ -200,7 +200,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/France 24.png" group-title="Internacional",France 24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Las Estrellas.png" group-title="Internacional",Las Estrellas
-https://edge6-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas-avc1_1306000=10003.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBC News.png" group-title="Internacional",NBC News
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 tvg-id="La Rai" tvg-name="La Rai" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/La Rai.png" group-title="Internacional",La Rai
@@ -208,7 +208,7 @@ https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rain
 #EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesur.png" group-title="Internacional",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde" tvg-name="TV5 Monde" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV5 Monde.png" group-title="Internacional",TV5 Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/07.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="UCL" tvg-name="UCL" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/UCL.png" group-title="Internacional",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Usa Today.png" group-title="Internacional",Usa Today
@@ -243,7 +243,7 @@ https://edge-live12-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNot
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0219
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 9 Televida.png" group-title="Regionales",Canal 9 Televida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
-#EXTINF:-1 tvg-id="CANAL 9 HD" tvg-name="CANAL 9 HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL 9 HD.png" group-title="Regionales",CANAL 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Multivision Federal.png" group-title="Regionales",Multivision Federal
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="Argentinisima" tvg-name="Argentinisima" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Argentinisima.png" group-title="Variedades",Argentinisima
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
