@@ -3,6 +3,8 @@
 https://edge5-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/A3CINE.png" group-title="Cine y Series",A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Atreseries.png" group-title="Cine y Series",Atreseries
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-secure/5cae562e0ca2f30815231c0f/publish/media_4000.m3u8?aid=5b8437d857a34c21a93dd41a&access_token=DST4b676d7da5a2a92ee15f8efcbcd00606&pid=z3XiOZv0TPU0b44V62kVTWTbQzkDbvYV&sid=G40ZTeBsirp0v8ZtrRR0cwhjlc1wGViP&uid=5EdlZPGY8w0HZhNcsNadhrI91lnLYf6v&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1651611524611&ot=bOD0KodHh8W-G-M8YXen0w&proto=https&pz=us
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMC.png" group-title="Cine y Series",AMC
 https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/AXN.png" group-title="Cine y Series",AXN
@@ -19,8 +21,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/Comedy
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX.png" group-title="Cine y Series",FX
 https://edge5-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
-#EXTINF:-1 tvg-id="FX MOVIES" tvg-name="FX MOVIES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX MOVIES.png" group-title="Cine y Series",FX MOVIES
-https://edge-live14-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO.png" group-title="Cine y Series",HBO
 https://edge4-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 #EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Plus.png" group-title="Cine y Series",HBO Plus
@@ -93,6 +93,10 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSport
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Garage.png" group-title="Deportes",El Garage
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
+#EXTINF:-1 tvg-id="The Golf Channel" tvg-name="The Golf Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/The Golf Channel.png" group-title="Deportes",The Golf Channel
+http://streams.x10.mx/n4ie/mp.php/https://sprtlive56.akamaized.net/hls/live/620959/GolfChannel0374cc0d/clear-1/exp=1651609812~acl=%2fhls%2flive%2f620959*~data=hdntl~hmac=3c4da7786ce992faf8c33c8660db46181c7a5d6ce54f55807595200f6c3970cc/VIDEO_0_6596000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MLB.png" group-title="Deportes",MLB
+https://tve-live.mlb.com/1651552347_4f6525bac42e1f1071905fe4bc415194634b94e17b62443ba8e5793a73888aca/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net_a-enc_5472K.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBA TV.png" group-title="Deportes",NBA TV
 https://d1k4ybyeycgihx.cloudfront.net/hls/nbatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RedBull TV.png" group-title="Deportes",RedBull TV
@@ -125,12 +129,18 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 https://edge5-sl.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 #EXTINF:-1 tvg-id="Discovery Home  Health" tvg-name="Discovery Home  Health" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Home  Health.png" group-title="Estilo de Vida",Discovery Home  Health
 https://edge4-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/E! Entertainment Television.png" group-title="Estilo de Vida",E! Entertainment Television
+https://edge2-hr.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Food Network.png" group-title="Estilo de Vida",Food Network
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Glitz.png" group-title="Estilo de Vida",Glitz
+https://edge2-hr.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
 #EXTINF:-1 tvg-id="Gourmet" tvg-name="Gourmet" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Gourmet.png" group-title="Estilo de Vida",Gourmet
 https://edge5-sl.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HGTV.png" group-title="Estilo de Vida",HGTV
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+#EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Hola TV.png" group-title="Estilo de Vida",Hola TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Lifetime.png" group-title="Estilo de Vida",Lifetime
 https://edge5-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
 #EXTINF:-1 tvg-id="Mas Chic" tvg-name="Mas Chic" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Mas Chic.png" group-title="Estilo de Vida",Mas Chic
