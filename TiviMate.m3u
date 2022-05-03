@@ -94,7 +94,7 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSport
 #EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Garage.png" group-title="Deportes",El Garage
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
 #EXTINF:-1 tvg-id="The Golf Channel" tvg-name="The Golf Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/The Golf Channel.png" group-title="Deportes",The Golf Channel
-http://streams.x10.mx/n4ie/mp.php/https://sprtlive56.akamaized.net/hls/live/620959/GolfChannel0374cc0d/clear-1/exp=1651609812~acl=%2fhls%2flive%2f620959*~data=hdntl~hmac=3c4da7786ce992faf8c33c8660db46181c7a5d6ce54f55807595200f6c3970cc/VIDEO_0_6596000.m3u8
+https://edge6-hr.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel-avc1_3900000=10004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MLB.png" group-title="Deportes",MLB
 https://tve-live.mlb.com/1651552347_4f6525bac42e1f1071905fe4bc415194634b94e17b62443ba8e5793a73888aca/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net_a-enc_5472K.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBA TV.png" group-title="Deportes",NBA TV
@@ -105,6 +105,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TyC Sports.png" group-title="Deportes",TyC Sports
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/WWE.png" group-title="Deportes",WWE
+https://h3.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjIgOTo0MjowNyBQTSZoYXNoX3ZhbHVlPWRERkx0TXZxY202YnJ0RWo4RlUyUXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ANIMAL PLANET HD.png" group-title="Documentales",ANIMAL PLANET HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Channel.png" group-title="Documentales",Discovery Channel
@@ -187,7 +189,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3
 https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Unife.png" group-title="Interes General",Unife
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/chunklist_b4628000.m3u8?p=79&s=1651419515&e=1651419635&h=d98cd70686482a7a2510aff8609afb5b
-#EXTINF:-1 tvg-id="TVE (España)" tvg-name="TVE (España)" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TVE (España).png" group-title="Internacional",TVE (España)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/24H.png" group-title="Internacional",24H
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Internacional",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
