@@ -72,7 +72,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/Disco
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN.png" group-title="Deportes",ESPN
 https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Extra.png" group-title="Deportes",ESPN Extra
-https://chupachichi7.website/live/ST15223b3e4a88490.m3u8
+https://ed2.zorrohd.nl/live/ST15223b3e4a88490.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 2.png" group-title="Deportes",ESPN 2
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 3.png" group-title="Deportes",ESPN 3
@@ -88,11 +88,9 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSport
 #EXTINF:-1 tvg-id="Fox Sports 3" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports 3.png" group-title="Deportes",Fox Sports 3
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Garage.png" group-title="Deportes",El Garage
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="The Golf Channel" tvg-name="The Golf Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/The Golf Channel.png" group-title="Deportes",The Golf Channel
 http://streams.x10.mx/n4ie/mp.php/https://sprtlive56.akamaized.net/hls/live/620959/GolfChannel0374cc0d/clear-1/exp=1651699943~acl=%2fhls%2flive%2f620959*~data=hdntl~hmac=014c40e504fa391db32fbfa43542578a9f882e8ec24e605733eed00dd10410c6/VIDEO_0_6596000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MLB.png" group-title="Deportes",MLB
-https://h4.ustvgo.la/MLB/myStream/chunks.m3u8?nimblesessionid=203405346&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjIgMTE6MTk6MTQgUE0maGFzaF92YWx1ZT1OMS9ETVlNT1VxQStoMG5CWm15UTNBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBA TV.png" group-title="Deportes",NBA TV
 https://edge3-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RedBull TV.png" group-title="Deportes",RedBull TV
@@ -101,8 +99,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TyC Sports.png" group-title="Deportes",TyC Sports
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/WWE.png" group-title="Deportes",WWE
-https://h3.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjIgOTo0MjowNyBQTSZoYXNoX3ZhbHVlPWRERkx0TXZxY202YnJ0RWo4RlUyUXc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ANIMAL PLANET HD.png" group-title="Documentales",ANIMAL PLANET HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Channel.png" group-title="Documentales",Discovery Channel
@@ -141,8 +137,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Lifetime.png" group-title="Estilo de Vida",Lifetime
 https://edge5-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Magnolia Network.png" group-title="Estilo de Vida",Magnolia Network
-https://h1.ustvgo.la/DIY/myStream/chunks.m3u8?nimblesessionid=238237288&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjIgMTE6MjY6NTIgUE0maGFzaF92YWx1ZT1IQzJXNVJLU09wcmlBKzN2ajF4OUhRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="Mas Chic" tvg-name="Mas Chic" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Mas Chic.png" group-title="Estilo de Vida",Mas Chic
 https://edge5-sl.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
 #EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TLC HD.png" group-title="Estilo de Vida",TLC HD
@@ -152,7 +146,7 @@ https://edge-vod02-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cartoon Network.png" group-title="Infantil",Cartoon Network
 https://edge-vod02-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 #EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cartoonito.png" group-title="Infantil",Cartoonito
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/Cartoonito/SA_SAGEMCOM/Cartoonito.m3u8
+https://edge3-sl.cvattv.com.ar/live/c7eds/Cartoonito/SA_SAGEMCOM/Cartoonito.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Kids.png" group-title="Infantil",Discovery Kids
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Disney Channel.png" group-title="Infantil",Disney Channel
@@ -272,5 +266,5 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telemundo.png" group-title="Variedades",Telemundo
 https://edge6-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 #EXTINF:-1 tvg-id="VIAJAR" tvg-name="VIAJAR" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VIAJAR.png" group-title="Variedades",VIAJAR
-https://37vod-adaptive.akamaized.net/exp=1651433143~acl=%2F676622a5-66bf-491c-adf0-9e05c844c37c%2F%2A~hmac=63dfac542850457a260dcc2a62780a9c54f6555ba6ab838e2b5ea72588cf431f/676622a5-66bf-491c-adf0-9e05c844c37c/sep/video/307f6b46,6feb267e,9cd8667b,a8012177,e1408acc/master.m3u8?absolute=1&query_string_ranges=1
+https://195vod-adaptive.akamaized.net/exp=1651706354~acl=%2F5a6418cc-df01-4bb6-b64d-ef2c74e07f42%2F%2A~hmac=d47833027612dbad78eade7bc29f7e28966e48c5ad7d793d2e5cf94839a05e8c/5a6418cc-df01-4bb6-b64d-ef2c74e07f42/sep/video/3bd9a6e1/playlist.m3u8?query_string_ranges=1
 
