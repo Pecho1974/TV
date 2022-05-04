@@ -94,9 +94,9 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSport
 #EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Garage.png" group-title="Deportes",El Garage
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w211182607_b1296000_sleng.m3u8
 #EXTINF:-1 tvg-id="The Golf Channel" tvg-name="The Golf Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/The Golf Channel.png" group-title="Deportes",The Golf Channel
-https://edge6-hr.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel-avc1_3900000=10004.m3u8
+http://streams.x10.mx/n4ie/mp.php/https://sprtlive56.akamaized.net/hls/live/620959/GolfChannel0374cc0d/clear-1/exp=1651699943~acl=%2fhls%2flive%2f620959*~data=hdntl~hmac=014c40e504fa391db32fbfa43542578a9f882e8ec24e605733eed00dd10410c6/VIDEO_0_6596000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MLB.png" group-title="Deportes",MLB
-https://tve-live.mlb.com/1651552347_4f6525bac42e1f1071905fe4bc415194634b94e17b62443ba8e5793a73888aca/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net_a-enc_5472K.m3u8
+https://h4.ustvgo.la/MLB/myStream/chunks.m3u8?nimblesessionid=203405346&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjIgMTE6MTk6MTQgUE0maGFzaF92YWx1ZT1OMS9ETVlNT1VxQStoMG5CWm15UTNBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBA TV.png" group-title="Deportes",NBA TV
 https://edge3-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RedBull TV.png" group-title="Deportes",RedBull TV
@@ -145,6 +145,8 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Lifetime.png" group-title="Estilo de Vida",Lifetime
 https://edge5-sl.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Magnolia Network.png" group-title="Estilo de Vida",Magnolia Network
+https://h1.ustvgo.la/DIY/myStream/chunks.m3u8?nimblesessionid=238237288&wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjIgMTE6MjY6NTIgUE0maGFzaF92YWx1ZT1IQzJXNVJLU09wcmlBKzN2ajF4OUhRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-id="Mas Chic" tvg-name="Mas Chic" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Mas Chic.png" group-title="Estilo de Vida",Mas Chic
 https://edge5-sl.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8
 #EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TLC HD.png" group-title="Estilo de Vida",TLC HD
