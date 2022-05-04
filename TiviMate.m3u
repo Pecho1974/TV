@@ -37,6 +37,8 @@ https://edge4-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Xtreme.png" group-title="Cine y Series",HBO Xtreme
 https://edge4-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+#EXTINF:-1 tvg-id="I-Sat" tvg-name="I-Sat" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/I-Sat.png" group-title="Cine y Series",I-Sat
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT.m3u8
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Paramount.png" group-title="Cine y Series",Paramount
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Sony.png" group-title="Cine y Series",Sony
@@ -72,7 +74,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/Disco
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN.png" group-title="Deportes",ESPN
 https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Extra.png" group-title="Deportes",ESPN Extra
-https://ed2.zorrohd.nl/live/ST15223b3e4a88490.m3u8
+https://edge-vod02-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Premium.png" group-title="Deportes",ESPN Premium
 https://edge-vod04-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-mp4a_145200_spa=20001.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 2.png" group-title="Deportes",ESPN 2
@@ -175,6 +177,8 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 https://edge3-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8
 #EXTINF:-1 tvg-id="KZO" tvg-name="KZO" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/KZO.png" group-title="Interes General",KZO
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_240p/index.m3u8
+#EXTINF:-1 tvg-id="Metro" tvg-name="Metro" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Metro.png" group-title="Interes General",Metro
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Metro/SA_SAGEMCOM/Metro.m3u8
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Net TV.png" group-title="Interes General",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telefe.png" group-title="Interes General",Telefe
@@ -219,10 +223,16 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Usa Today.png" group-title="Internacional",Usa Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="Allegro" tvg-name="Allegro" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Allegro.png" group-title="Musica",Allegro
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/AllegroHD/SA_SAGEMCOM/AllegroHD.m3u8
 #EXTINF:-1 tvg-id="Canal de la Musica" tvg-name="Canal de la Musica" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal de la Musica.png" group-title="Musica",Canal de la Musica
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HTV.png" group-title="Musica",HTV
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV.png" group-title="Musica",MTV
 https://edge3-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV Hits.png" group-title="Musica",MTV Hits
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 #EXTINF:-1 tvg-id="Much Music" tvg-name="Much Music" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Much Music.png" group-title="Musica",Much Music
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Music Top.png" group-title="Musica",Music Top
@@ -243,6 +253,8 @@ https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m
 https://edge5-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 #EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/IP.png" group-title="Noticias",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+#EXTINF:-1 tvg-id="La Nación" tvg-name="La Nación" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/La Nación.png" group-title="Noticias",La Nación
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Todo Noticias.png" group-title="Noticias",Todo Noticias
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Acequia.png" group-title="Regionales",Acequia
@@ -261,6 +273,8 @@ https://streaming.telered.com.ar/santa-maria/streaming/mystreamSantaMariaHSMed.m
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/EWTN.png" group-title="Variedades",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Nueva Imagen" tvg-name="Nueva Imagen" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nueva Imagen.png" group-title="Variedades",Nueva Imagen
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen.m3u8
 #EXTINF:-1 tvg-id="Canal Orbe 21" tvg-name="Canal Orbe 21" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Orbe 21.png" group-title="Variedades",Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/PASIONES.png" group-title="Variedades",PASIONES
@@ -271,4 +285,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 https://edge6-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 #EXTINF:-1 tvg-id="VIAJAR" tvg-name="VIAJAR" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VIAJAR.png" group-title="Variedades",VIAJAR
 https://195vod-adaptive.akamaized.net/exp=1651706354~acl=%2F5a6418cc-df01-4bb6-b64d-ef2c74e07f42%2F%2A~hmac=d47833027612dbad78eade7bc29f7e28966e48c5ad7d793d2e5cf94839a05e8c/5a6418cc-df01-4bb6-b64d-ef2c74e07f42/sep/video/3bd9a6e1/playlist.m3u8?query_string_ranges=1
+#EXTINF:-1 tvg-id="WOBI" tvg-name="WOBI" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/WOBI.png" group-title="Variedades",WOBI
+https://edge-vod02-sl.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
 

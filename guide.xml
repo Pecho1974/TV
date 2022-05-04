@@ -90,6 +90,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Xtreme.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="I-Sat">
+    <display-name lang="es">I-Sat</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/I-Sat.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Paramount">
     <display-name lang="es">Paramount</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Paramount.png" />
@@ -415,6 +420,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/KZO.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Metro">
+    <display-name lang="es">Metro</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Metro.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Net TV">
     <display-name lang="es">Net TV</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Net TV.png" />
@@ -500,14 +510,29 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/UCL.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Allegro">
+    <display-name lang="es">Allegro</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Allegro.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Canal de la Musica">
     <display-name lang="es">Canal de la Musica</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal de la Musica.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="HTV">
+    <display-name lang="es">HTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HTV.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="MTV">
     <display-name lang="es">MTV</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="es">MTV Hits</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV Hits.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="Much Music">
@@ -555,6 +580,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/IP.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="La Nación">
+    <display-name lang="es">La Nación</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/La Nación.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Todo Noticias">
     <display-name lang="es">Todo Noticias</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Todo Noticias.png" />
@@ -580,6 +610,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/EWTN.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
+  <channel id="Nueva Imagen">
+    <display-name lang="es">Nueva Imagen</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nueva Imagen.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
   <channel id="Canal Orbe 21">
     <display-name lang="es">Canal Orbe 21</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Orbe 21.png" />
@@ -603,6 +638,11 @@
   <channel id="VIAJAR">
     <display-name lang="es">VIAJAR</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/VIAJAR.png" />
+    <url>http://www.buscadorcablevision.com.ar</url>
+  </channel>
+  <channel id="WOBI">
+    <display-name lang="es">WOBI</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/WOBI.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="Love Nature HD">
@@ -4837,6 +4877,297 @@
   </programme>
   <programme start="20220507235700 -0300" stop="20220508000000 -0300" channel="HBO Xtreme">
     <title lang="es">Uno de nosotros</title>
+  </programme>
+  <programme start="20220504000000 -0300" stop="20220504014500 -0300" channel="I-Sat">
+    <title lang="es">T2 Trainspotting: La vida en el abismo</title>
+  </programme>
+  <programme start="20220504014500 -0300" stop="20220504030200 -0300" channel="I-Sat">
+    <title lang="es">Nada culmina en la víspera</title>
+  </programme>
+  <programme start="20220504030200 -0300" stop="20220504043300 -0300" channel="I-Sat">
+    <title lang="es">UPA! Una película argentina</title>
+  </programme>
+  <programme start="20220504043300 -0300" stop="20220504060000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220504060000 -0300" stop="20220504074700 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220504074700 -0300" stop="20220504085100 -0300" channel="I-Sat">
+    <title lang="es">Novias - Madrinas - 15 años</title>
+  </programme>
+  <programme start="20220504085100 -0300" stop="20220504100000 -0300" channel="I-Sat">
+    <title lang="es">Cosano: la vida secreta de un vestido</title>
+  </programme>
+  <programme start="20220504100000 -0300" stop="20220504110000 -0300" channel="I-Sat">
+    <title lang="es">Poke</title>
+  </programme>
+  <programme start="20220504110000 -0300" stop="20220504131300 -0300" channel="I-Sat">
+    <title lang="es">La desaparición de Eleanor Rigby</title>
+  </programme>
+  <programme start="20220504131300 -0300" stop="20220504143300 -0300" channel="I-Sat">
+    <title lang="es">Las cinéphilas</title>
+  </programme>
+  <programme start="20220504143300 -0300" stop="20220504155200 -0300" channel="I-Sat">
+    <title lang="es">Vida en Marte</title>
+  </programme>
+  <programme start="20220504155200 -0300" stop="20220504171000 -0300" channel="I-Sat">
+    <title lang="es">Buscando a Reynolds</title>
+  </programme>
+  <programme start="20220504171000 -0300" stop="20220504183200 -0300" channel="I-Sat">
+    <title lang="es">La hora de la siesta</title>
+  </programme>
+  <programme start="20220504183200 -0300" stop="20220504195100 -0300" channel="I-Sat">
+    <title lang="es">El mercado</title>
+  </programme>
+  <programme start="20220504195100 -0300" stop="20220504220000 -0300" channel="I-Sat">
+    <title lang="es">Red social</title>
+  </programme>
+  <programme start="20220504220000 -0300" stop="20220505000100 -0300" channel="I-Sat">
+    <title lang="es">T2 Trainspotting: La vida en el abismo</title>
+  </programme>
+  <programme start="20220505000100 -0300" stop="20220505014700 -0300" channel="I-Sat">
+    <title lang="es">El plan de Maggie</title>
+  </programme>
+  <programme start="20220505014700 -0300" stop="20220505030500 -0300" channel="I-Sat">
+    <title lang="es">Amateur</title>
+  </programme>
+  <programme start="20220505030500 -0300" stop="20220505042400 -0300" channel="I-Sat">
+    <title lang="es">Upa! 2: el regreso</title>
+  </programme>
+  <programme start="20220505042400 -0300" stop="20220505043600 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220505043600 -0300" stop="20220505044800 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220505044800 -0300" stop="20220505050000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220505050000 -0300" stop="20220505051200 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220505051200 -0300" stop="20220505052400 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220505052400 -0300" stop="20220505053600 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220505053600 -0300" stop="20220505054800 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220505054800 -0300" stop="20220505060000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220505060000 -0300" stop="20220505061500 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220505061500 -0300" stop="20220505072600 -0300" channel="I-Sat">
+    <title lang="es">Bailar la sangre</title>
+  </programme>
+  <programme start="20220505072600 -0300" stop="20220505081900 -0300" channel="I-Sat">
+    <title lang="es">Gené en escena</title>
+  </programme>
+  <programme start="20220505081900 -0300" stop="20220505095000 -0300" channel="I-Sat">
+    <title lang="es">El objeto de mi amor</title>
+  </programme>
+  <programme start="20220505095000 -0300" stop="20220505115900 -0300" channel="I-Sat">
+    <title lang="es">Red social</title>
+  </programme>
+  <programme start="20220505115900 -0300" stop="20220505133500 -0300" channel="I-Sat">
+    <title lang="es">Construcción de una ciudad</title>
+  </programme>
+  <programme start="20220505133500 -0300" stop="20220505151400 -0300" channel="I-Sat">
+    <title lang="es">La chica del sur</title>
+  </programme>
+  <programme start="20220505151400 -0300" stop="20220505170400 -0300" channel="I-Sat">
+    <title lang="es">Soldado argentino solo conocido por Dios</title>
+  </programme>
+  <programme start="20220505170400 -0300" stop="20220505183200 -0300" channel="I-Sat">
+    <title lang="es">Masterplan</title>
+  </programme>
+  <programme start="20220505183200 -0300" stop="20220505200900 -0300" channel="I-Sat">
+    <title lang="es">UPA! Una película argentina</title>
+  </programme>
+  <programme start="20220505200900 -0300" stop="20220505220000 -0300" channel="I-Sat">
+    <title lang="es">Los buscadores</title>
+  </programme>
+  <programme start="20220505220000 -0300" stop="20220505233900 -0300" channel="I-Sat">
+    <title lang="es">El plan de Maggie</title>
+  </programme>
+  <programme start="20220505233900 -0300" stop="20220506000000 -0300" channel="I-Sat">
+    <title lang="es">Manchester junto al mar</title>
+  </programme>
+  <programme start="20220506000000 -0300" stop="20220506020900 -0300" channel="I-Sat">
+    <title lang="es">Manchester junto al mar</title>
+  </programme>
+  <programme start="20220506020900 -0300" stop="20220506032700 -0300" channel="I-Sat">
+    <title lang="es">Upa! 2: el regreso</title>
+  </programme>
+  <programme start="20220506032700 -0300" stop="20220506044000 -0300" channel="I-Sat">
+    <title lang="es">Here Kitty Kitty!</title>
+  </programme>
+  <programme start="20220506044000 -0300" stop="20220506044800 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506044800 -0300" stop="20220506045600 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506045600 -0300" stop="20220506050400 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506050400 -0300" stop="20220506051200 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506051200 -0300" stop="20220506052000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506052000 -0300" stop="20220506052800 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506052800 -0300" stop="20220506053600 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506053600 -0300" stop="20220506054400 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506054400 -0300" stop="20220506055200 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506055200 -0300" stop="20220506060000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506060000 -0300" stop="20220506075400 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220506075400 -0300" stop="20220506090900 -0300" channel="I-Sat">
+    <title lang="es">Here Kitty Kitty!</title>
+  </programme>
+  <programme start="20220506090900 -0300" stop="20220506103400 -0300" channel="I-Sat">
+    <title lang="es">Pichuco</title>
+  </programme>
+  <programme start="20220506103400 -0300" stop="20220506115500 -0300" channel="I-Sat">
+    <title lang="es">Carne propia</title>
+  </programme>
+  <programme start="20220506115500 -0300" stop="20220506134500 -0300" channel="I-Sat">
+    <title lang="es">Los buscadores</title>
+  </programme>
+  <programme start="20220506134500 -0300" stop="20220506150600 -0300" channel="I-Sat">
+    <title lang="es">Ónix</title>
+  </programme>
+  <programme start="20220506150600 -0300" stop="20220506161700 -0300" channel="I-Sat">
+    <title lang="es">BirriLata, una vuelta en tren</title>
+  </programme>
+  <programme start="20220506161700 -0300" stop="20220506173700 -0300" channel="I-Sat">
+    <title lang="es">Mauro</title>
+  </programme>
+  <programme start="20220506173700 -0300" stop="20220506185200 -0300" channel="I-Sat">
+    <title lang="es">Escuela de sordos</title>
+  </programme>
+  <programme start="20220506185200 -0300" stop="20220506200100 -0300" channel="I-Sat">
+    <title lang="es">La siesta del tigre</title>
+  </programme>
+  <programme start="20220506200100 -0300" stop="20220506220000 -0300" channel="I-Sat">
+    <title lang="es">El ilusionista</title>
+  </programme>
+  <programme start="20220506220000 -0300" stop="20220507000000 -0300" channel="I-Sat">
+    <title lang="es">Manchester junto al mar</title>
+  </programme>
+  <programme start="20220507000000 -0300" stop="20220507002300 -0300" channel="I-Sat">
+    <title lang="es">Manchester junto al mar</title>
+  </programme>
+  <programme start="20220507002300 -0300" stop="20220507020100 -0300" channel="I-Sat">
+    <title lang="es">21, la gran fiesta</title>
+  </programme>
+  <programme start="20220507020100 -0300" stop="20220507031200 -0300" channel="I-Sat">
+    <title lang="es">La Paz en Buenos Aires</title>
+  </programme>
+  <programme start="20220507031200 -0300" stop="20220507043300 -0300" channel="I-Sat">
+    <title lang="es">Pichuco</title>
+  </programme>
+  <programme start="20220507043300 -0300" stop="20220507060000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507060000 -0300" stop="20220507061000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507061000 -0300" stop="20220507062000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507062000 -0300" stop="20220507063000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507063000 -0300" stop="20220507064000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507064000 -0300" stop="20220507065000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507065000 -0300" stop="20220507070000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507070000 -0300" stop="20220507071000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507071000 -0300" stop="20220507072000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507072000 -0300" stop="20220507073000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507073000 -0300" stop="20220507074000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507074000 -0300" stop="20220507075000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507075000 -0300" stop="20220507080000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507080000 -0300" stop="20220507081000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507081000 -0300" stop="20220507082000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507082000 -0300" stop="20220507083000 -0300" channel="I-Sat">
+    <title lang="es">Cuentos de terror</title>
+  </programme>
+  <programme start="20220507083000 -0300" stop="20220507093700 -0300" channel="I-Sat">
+    <title lang="es">Crespo</title>
+  </programme>
+  <programme start="20220507093700 -0300" stop="20220507110000 -0300" channel="I-Sat">
+    <title lang="es">Tan cerca como pueda</title>
+  </programme>
+  <programme start="20220507110000 -0300" stop="20220507120700 -0300" channel="I-Sat">
+    <title lang="es">La gente del río</title>
+  </programme>
+  <programme start="20220507120700 -0300" stop="20220507140600 -0300" channel="I-Sat">
+    <title lang="es">El ilusionista</title>
+  </programme>
+  <programme start="20220507140600 -0300" stop="20220507152700 -0300" channel="I-Sat">
+    <title lang="es">Los índalos</title>
+  </programme>
+  <programme start="20220507152700 -0300" stop="20220507164700 -0300" channel="I-Sat">
+    <title lang="es">Nada culmina en la víspera</title>
+  </programme>
+  <programme start="20220507164700 -0300" stop="20220507175300 -0300" channel="I-Sat">
+    <title lang="es">Novias - Madrinas - 15 años</title>
+  </programme>
+  <programme start="20220507175300 -0300" stop="20220507190300 -0300" channel="I-Sat">
+    <title lang="es">Cosano: la vida secreta de un vestido</title>
+  </programme>
+  <programme start="20220507190300 -0300" stop="20220507200400 -0300" channel="I-Sat">
+    <title lang="es">Poke</title>
+  </programme>
+  <programme start="20220507200400 -0300" stop="20220507220000 -0300" channel="I-Sat">
+    <title lang="es">Efectos personales</title>
+  </programme>
+  <programme start="20220507220000 -0300" stop="20220507233100 -0300" channel="I-Sat">
+    <title lang="es">21, la gran fiesta</title>
+  </programme>
+  <programme start="20220507233100 -0300" stop="20220508000000 -0300" channel="I-Sat">
+    <title lang="es">La fiesta de las salchichas</title>
   </programme>
   <programme start="20220504000000 -0300" stop="20220504020500 -0300" channel="Paramount">
     <title lang="es">El pacificador</title>
@@ -30635,6 +30966,531 @@
   <programme start="20220507233000 -0300" stop="20220508000000 -0300" channel="KZO">
     <title lang="es">Las rubias</title>
   </programme>
+  <programme start="20220504000000 -0300" stop="20220504003000 -0300" channel="Metro">
+    <title lang="es">Autofans TV</title>
+  </programme>
+  <programme start="20220504003000 -0300" stop="20220504010000 -0300" channel="Metro">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220504010000 -0300" stop="20220504013000 -0300" channel="Metro">
+    <title lang="es">En forma total</title>
+  </programme>
+  <programme start="20220504013000 -0300" stop="20220504020000 -0300" channel="Metro">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20220504020000 -0300" stop="20220504023000 -0300" channel="Metro">
+    <title lang="es">En forma - Avances científicos</title>
+  </programme>
+  <programme start="20220504023000 -0300" stop="20220504030000 -0300" channel="Metro">
+    <title lang="es">Derecho médico</title>
+  </programme>
+  <programme start="20220504030000 -0300" stop="20220504033000 -0300" channel="Metro">
+    <title lang="es">Electrogremio TV</title>
+  </programme>
+  <programme start="20220504033000 -0300" stop="20220504040000 -0300" channel="Metro">
+    <title lang="es">Pool económico</title>
+  </programme>
+  <programme start="20220504040000 -0300" stop="20220504043000 -0300" channel="Metro">
+    <title lang="es">La gran vidriera</title>
+  </programme>
+  <programme start="20220504043000 -0300" stop="20220504050000 -0300" channel="Metro">
+    <title lang="es">Corrientes de pensamiento</title>
+  </programme>
+  <programme start="20220504050000 -0300" stop="20220504053000 -0300" channel="Metro">
+    <title lang="es">Estamos de turno</title>
+  </programme>
+  <programme start="20220504053000 -0300" stop="20220504060000 -0300" channel="Metro">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220504060000 -0300" stop="20220504063000 -0300" channel="Metro">
+    <title lang="es">Adelantando las noticias</title>
+  </programme>
+  <programme start="20220504063000 -0300" stop="20220504070000 -0300" channel="Metro">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20220504070000 -0300" stop="20220504080000 -0300" channel="Metro">
+    <title lang="es">MXE por la mañana</title>
+  </programme>
+  <programme start="20220504080000 -0300" stop="20220504083000 -0300" channel="Metro">
+    <title lang="es">En forma - Medicina de vanguardia</title>
+  </programme>
+  <programme start="20220504083000 -0300" stop="20220504090000 -0300" channel="Metro">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220504090000 -0300" stop="20220504093000 -0300" channel="Metro">
+    <title lang="es">Mariana de viaje</title>
+  </programme>
+  <programme start="20220504093000 -0300" stop="20220504100000 -0300" channel="Metro">
+    <title lang="es">En forma total</title>
+  </programme>
+  <programme start="20220504100000 -0300" stop="20220504103000 -0300" channel="Metro">
+    <title lang="es">Re-velados</title>
+  </programme>
+  <programme start="20220504103000 -0300" stop="20220504110000 -0300" channel="Metro">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20220504110000 -0300" stop="20220504113000 -0300" channel="Metro">
+    <title lang="es">EF Elena Fortabat</title>
+  </programme>
+  <programme start="20220504113000 -0300" stop="20220504120000 -0300" channel="Metro">
+    <title lang="es">En forma - Innovación médica</title>
+  </programme>
+  <programme start="20220504120000 -0300" stop="20220504123000 -0300" channel="Metro">
+    <title lang="es">Perros en acción</title>
+  </programme>
+  <programme start="20220504123000 -0300" stop="20220504130000 -0300" channel="Metro">
+    <title lang="es">Weekend</title>
+  </programme>
+  <programme start="20220504130000 -0300" stop="20220504133000 -0300" channel="Metro">
+    <title lang="es">Salud en todas las políticas</title>
+  </programme>
+  <programme start="20220504133000 -0300" stop="20220504140000 -0300" channel="Metro">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20220504140000 -0300" stop="20220504143000 -0300" channel="Metro">
+    <title lang="es">A la vista</title>
+  </programme>
+  <programme start="20220504143000 -0300" stop="20220504150000 -0300" channel="Metro">
+    <title lang="es">Reporte publicidad</title>
+  </programme>
+  <programme start="20220504150000 -0300" stop="20220504160000 -0300" channel="Metro">
+    <title lang="es">Medicina para vivir 100 años</title>
+  </programme>
+  <programme start="20220504160000 -0300" stop="20220504170000 -0300" channel="Metro">
+    <title lang="es">Consorcios en la mira</title>
+  </programme>
+  <programme start="20220504170000 -0300" stop="20220504180000 -0300" channel="Metro">
+    <title lang="es">MXE por la mañana</title>
+  </programme>
+  <programme start="20220504180000 -0300" stop="20220504183000 -0300" channel="Metro">
+    <title lang="es">Sexto sentido</title>
+  </programme>
+  <programme start="20220504183000 -0300" stop="20220504190000 -0300" channel="Metro">
+    <title lang="es">100% seguro</title>
+  </programme>
+  <programme start="20220504190000 -0300" stop="20220504193000 -0300" channel="Metro">
+    <title lang="es">Pizarro en 30'</title>
+  </programme>
+  <programme start="20220504193000 -0300" stop="20220504200000 -0300" channel="Metro">
+    <title lang="es">Finanzas digitales</title>
+  </programme>
+  <programme start="20220504200000 -0300" stop="20220504210000 -0300" channel="Metro">
+    <title lang="es">Agro TV</title>
+  </programme>
+  <programme start="20220504210000 -0300" stop="20220504213000 -0300" channel="Metro">
+    <title lang="es">Corrientes de pensamiento</title>
+  </programme>
+  <programme start="20220504213000 -0300" stop="20220504220000 -0300" channel="Metro">
+    <title lang="es">Los Marconi</title>
+  </programme>
+  <programme start="20220504220000 -0300" stop="20220504223000 -0300" channel="Metro">
+    <title lang="es">Data</title>
+  </programme>
+  <programme start="20220504223000 -0300" stop="20220504230000 -0300" channel="Metro">
+    <title lang="es">Protagonistas</title>
+  </programme>
+  <programme start="20220504230000 -0300" stop="20220504233000 -0300" channel="Metro">
+    <title lang="es">Tal como son</title>
+  </programme>
+  <programme start="20220504233000 -0300" stop="20220505000000 -0300" channel="Metro">
+    <title lang="es">Todo riesgo</title>
+  </programme>
+  <programme start="20220505000000 -0300" stop="20220505003000 -0300" channel="Metro">
+    <title lang="es">ADN moda</title>
+  </programme>
+  <programme start="20220505003000 -0300" stop="20220505010000 -0300" channel="Metro">
+    <title lang="es">LP Moda</title>
+  </programme>
+  <programme start="20220505010000 -0300" stop="20220505013000 -0300" channel="Metro">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20220505013000 -0300" stop="20220505020000 -0300" channel="Metro">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220505020000 -0300" stop="20220505023000 -0300" channel="Metro">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20220505023000 -0300" stop="20220505030000 -0300" channel="Metro">
+    <title lang="es">OdontoTV</title>
+  </programme>
+  <programme start="20220505030000 -0300" stop="20220505033000 -0300" channel="Metro">
+    <title lang="es">Sensación térmica</title>
+  </programme>
+  <programme start="20220505033000 -0300" stop="20220505040000 -0300" channel="Metro">
+    <title lang="es">Actualidad y psicoanálisis</title>
+  </programme>
+  <programme start="20220505040000 -0300" stop="20220505043000 -0300" channel="Metro">
+    <title lang="es">En forma total</title>
+  </programme>
+  <programme start="20220505043000 -0300" stop="20220505050000 -0300" channel="Metro">
+    <title lang="es">Café financiero</title>
+  </programme>
+  <programme start="20220505050000 -0300" stop="20220505053000 -0300" channel="Metro">
+    <title lang="es">Aires constitucionales</title>
+  </programme>
+  <programme start="20220505053000 -0300" stop="20220505060000 -0300" channel="Metro">
+    <title lang="es">Adelantando las noticias</title>
+  </programme>
+  <programme start="20220505060000 -0300" stop="20220505063000 -0300" channel="Metro">
+    <title lang="es">Electrogremio TV</title>
+  </programme>
+  <programme start="20220505063000 -0300" stop="20220505070000 -0300" channel="Metro">
+    <title lang="es">Agronoticias</title>
+  </programme>
+  <programme start="20220505070000 -0300" stop="20220505073000 -0300" channel="Metro">
+    <title lang="es">Feedback</title>
+  </programme>
+  <programme start="20220505073000 -0300" stop="20220505080000 -0300" channel="Metro">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220505080000 -0300" stop="20220505083000 -0300" channel="Metro">
+    <title lang="es">En forma - Ciencia y tecnología</title>
+  </programme>
+  <programme start="20220505083000 -0300" stop="20220505090000 -0300" channel="Metro">
+    <title lang="es">La gran vidriera</title>
+  </programme>
+  <programme start="20220505090000 -0300" stop="20220505093000 -0300" channel="Metro">
+    <title lang="es">Línea privada</title>
+  </programme>
+  <programme start="20220505093000 -0300" stop="20220505100000 -0300" channel="Metro">
+    <title lang="es">Mariana de viaje</title>
+  </programme>
+  <programme start="20220505100000 -0300" stop="20220505103000 -0300" channel="Metro">
+    <title lang="es">LP Moda</title>
+  </programme>
+  <programme start="20220505103000 -0300" stop="20220505110000 -0300" channel="Metro">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20220505110000 -0300" stop="20220505120000 -0300" channel="Metro">
+    <title lang="es">Consorcios en la mira</title>
+  </programme>
+  <programme start="20220505120000 -0300" stop="20220505123000 -0300" channel="Metro">
+    <title lang="es">MXE con tal de hablar</title>
+  </programme>
+  <programme start="20220505123000 -0300" stop="20220505130000 -0300" channel="Metro">
+    <title lang="es">Bichos de campo</title>
+  </programme>
+  <programme start="20220505130000 -0300" stop="20220505140000 -0300" channel="Metro">
+    <title lang="es">Agro TV</title>
+  </programme>
+  <programme start="20220505140000 -0300" stop="20220505143000 -0300" channel="Metro">
+    <title lang="es">La sala</title>
+  </programme>
+  <programme start="20220505143000 -0300" stop="20220505150000 -0300" channel="Metro">
+    <title lang="es">Historias de ascensor</title>
+  </programme>
+  <programme start="20220505150000 -0300" stop="20220505153000 -0300" channel="Metro">
+    <title lang="es">Noticias en salud</title>
+  </programme>
+  <programme start="20220505153000 -0300" stop="20220505160000 -0300" channel="Metro">
+    <title lang="es">Actualidad y psicoanálisis</title>
+  </programme>
+  <programme start="20220505160000 -0300" stop="20220505163000 -0300" channel="Metro">
+    <title lang="es">Mirta te acompaña</title>
+  </programme>
+  <programme start="20220505163000 -0300" stop="20220505170000 -0300" channel="Metro">
+    <title lang="es">Universo deportivo</title>
+  </programme>
+  <programme start="20220505170000 -0300" stop="20220505173000 -0300" channel="Metro">
+    <title lang="es">Celebración de las musas</title>
+  </programme>
+  <programme start="20220505173000 -0300" stop="20220505180000 -0300" channel="Metro">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20220505180000 -0300" stop="20220505183000 -0300" channel="Metro">
+    <title lang="es">Vamos de fiesta</title>
+  </programme>
+  <programme start="20220505183000 -0300" stop="20220505190000 -0300" channel="Metro">
+    <title lang="es">Escuela de valores</title>
+  </programme>
+  <programme start="20220505190000 -0300" stop="20220505200000 -0300" channel="Metro">
+    <title lang="es">Economía y Real Estate</title>
+  </programme>
+  <programme start="20220505200000 -0300" stop="20220505203000 -0300" channel="Metro">
+    <title lang="es">Sobre la vida y los sueños</title>
+  </programme>
+  <programme start="20220505203000 -0300" stop="20220505210000 -0300" channel="Metro">
+    <title lang="es">Contragolpe</title>
+  </programme>
+  <programme start="20220505210000 -0300" stop="20220505213000 -0300" channel="Metro">
+    <title lang="es">Autofans TV</title>
+  </programme>
+  <programme start="20220505213000 -0300" stop="20220505220000 -0300" channel="Metro">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20220505220000 -0300" stop="20220505223000 -0300" channel="Metro">
+    <title lang="es">Protagonistas</title>
+  </programme>
+  <programme start="20220505223000 -0300" stop="20220505230000 -0300" channel="Metro">
+    <title lang="es">Gritalo con Grandio</title>
+  </programme>
+  <programme start="20220505230000 -0300" stop="20220505233000 -0300" channel="Metro">
+    <title lang="es">Data</title>
+  </programme>
+  <programme start="20220505233000 -0300" stop="20220506000000 -0300" channel="Metro">
+    <title lang="es">ADN moda</title>
+  </programme>
+  <programme start="20220506000000 -0300" stop="20220506003000 -0300" channel="Metro">
+    <title lang="es">La sala</title>
+  </programme>
+  <programme start="20220506003000 -0300" stop="20220506010000 -0300" channel="Metro">
+    <title lang="es">EF Elena Fortabat</title>
+  </programme>
+  <programme start="20220506010000 -0300" stop="20220506013000 -0300" channel="Metro">
+    <title lang="es">En forma de vivir mejor</title>
+  </programme>
+  <programme start="20220506013000 -0300" stop="20220506020000 -0300" channel="Metro">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220506020000 -0300" stop="20220506023000 -0300" channel="Metro">
+    <title lang="es">Modo avión</title>
+  </programme>
+  <programme start="20220506023000 -0300" stop="20220506030000 -0300" channel="Metro">
+    <title lang="es">En Forma - Medicina Farmacéutica</title>
+  </programme>
+  <programme start="20220506030000 -0300" stop="20220506033000 -0300" channel="Metro">
+    <title lang="es">En forma total</title>
+  </programme>
+  <programme start="20220506033000 -0300" stop="20220506040000 -0300" channel="Metro">
+    <title lang="es">OdontoTV</title>
+  </programme>
+  <programme start="20220506040000 -0300" stop="20220506050000 -0300" channel="Metro">
+    <title lang="es">Agro TV</title>
+  </programme>
+  <programme start="20220506050000 -0300" stop="20220506053000 -0300" channel="Metro">
+    <title lang="es">Contragolpe</title>
+  </programme>
+  <programme start="20220506053000 -0300" stop="20220506060000 -0300" channel="Metro">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20220506060000 -0300" stop="20220506063000 -0300" channel="Metro">
+    <title lang="es">En forma - Salud plena</title>
+  </programme>
+  <programme start="20220506063000 -0300" stop="20220506070000 -0300" channel="Metro">
+    <title lang="es">Data</title>
+  </programme>
+  <programme start="20220506070000 -0300" stop="20220506073000 -0300" channel="Metro">
+    <title lang="es">Vida y estética</title>
+  </programme>
+  <programme start="20220506073000 -0300" stop="20220506080000 -0300" channel="Metro">
+    <title lang="es">Sobre la vida y los sueños</title>
+  </programme>
+  <programme start="20220506080000 -0300" stop="20220506083000 -0300" channel="Metro">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220506083000 -0300" stop="20220506090000 -0300" channel="Metro">
+    <title lang="es">Turismo Argentina</title>
+  </programme>
+  <programme start="20220506090000 -0300" stop="20220506093000 -0300" channel="Metro">
+    <title lang="es">Agronoticias</title>
+  </programme>
+  <programme start="20220506093000 -0300" stop="20220506100000 -0300" channel="Metro">
+    <title lang="es">Re-velados</title>
+  </programme>
+  <programme start="20220506100000 -0300" stop="20220506103000 -0300" channel="Metro">
+    <title lang="es">Mariana de viaje</title>
+  </programme>
+  <programme start="20220506103000 -0300" stop="20220506110000 -0300" channel="Metro">
+    <title lang="es">Mundo turístico</title>
+  </programme>
+  <programme start="20220506110000 -0300" stop="20220506113000 -0300" channel="Metro">
+    <title lang="es">Electrogremio TV</title>
+  </programme>
+  <programme start="20220506113000 -0300" stop="20220506120000 -0300" channel="Metro">
+    <title lang="es">Modo avión</title>
+  </programme>
+  <programme start="20220506120000 -0300" stop="20220506123000 -0300" channel="Metro">
+    <title lang="es">Dicen que dicen</title>
+  </programme>
+  <programme start="20220506123000 -0300" stop="20220506130000 -0300" channel="Metro">
+    <title lang="es">Educación y sociedad</title>
+  </programme>
+  <programme start="20220506130000 -0300" stop="20220506133000 -0300" channel="Metro">
+    <title lang="es">Weekend</title>
+  </programme>
+  <programme start="20220506133000 -0300" stop="20220506140000 -0300" channel="Metro">
+    <title lang="es">Viví Corrientes</title>
+  </programme>
+  <programme start="20220506140000 -0300" stop="20220506143000 -0300" channel="Metro">
+    <title lang="es">Yes</title>
+  </programme>
+  <programme start="20220506143000 -0300" stop="20220506150000 -0300" channel="Metro">
+    <title lang="es">Vamos de fiesta</title>
+  </programme>
+  <programme start="20220506150000 -0300" stop="20220506153000 -0300" channel="Metro">
+    <title lang="es">Actualidad política TV</title>
+  </programme>
+  <programme start="20220506153000 -0300" stop="20220506160000 -0300" channel="Metro">
+    <title lang="es">Universo deportivo</title>
+  </programme>
+  <programme start="20220506160000 -0300" stop="20220506163000 -0300" channel="Metro">
+    <title lang="es">Perros en acción</title>
+  </programme>
+  <programme start="20220506163000 -0300" stop="20220506170000 -0300" channel="Metro">
+    <title lang="es">Agronoticias</title>
+  </programme>
+  <programme start="20220506170000 -0300" stop="20220506173000 -0300" channel="Metro">
+    <title lang="es">Salud en todas las políticas</title>
+  </programme>
+  <programme start="20220506173000 -0300" stop="20220506180000 -0300" channel="Metro">
+    <title lang="es">Mirta te acompaña</title>
+  </programme>
+  <programme start="20220506180000 -0300" stop="20220506183000 -0300" channel="Metro">
+    <title lang="es">Autofans TV</title>
+  </programme>
+  <programme start="20220506183000 -0300" stop="20220506190000 -0300" channel="Metro">
+    <title lang="es">TMT Conversaciones</title>
+  </programme>
+  <programme start="20220506190000 -0300" stop="20220506200000 -0300" channel="Metro">
+    <title lang="es">Consorcios en la mira</title>
+  </programme>
+  <programme start="20220506200000 -0300" stop="20220506203000 -0300" channel="Metro">
+    <title lang="es">Café financiero</title>
+  </programme>
+  <programme start="20220506203000 -0300" stop="20220506210000 -0300" channel="Metro">
+    <title lang="es">Enlace Turístico</title>
+  </programme>
+  <programme start="20220506210000 -0300" stop="20220506213000 -0300" channel="Metro">
+    <title lang="es">Industria Argentina P.E.M.</title>
+  </programme>
+  <programme start="20220506213000 -0300" stop="20220506220000 -0300" channel="Metro">
+    <title lang="es">Bazar TV pasaporte</title>
+  </programme>
+  <programme start="20220506220000 -0300" stop="20220506223000 -0300" channel="Metro">
+    <title lang="es">La hora de Maquiavelo</title>
+  </programme>
+  <programme start="20220506223000 -0300" stop="20220506230000 -0300" channel="Metro">
+    <title lang="es">Criptovisión</title>
+  </programme>
+  <programme start="20220506230000 -0300" stop="20220506233000 -0300" channel="Metro">
+    <title lang="es">Dicen que dicen</title>
+  </programme>
+  <programme start="20220506233000 -0300" stop="20220507000000 -0300" channel="Metro">
+    <title lang="es">La sala</title>
+  </programme>
+  <programme start="20220507000000 -0300" stop="20220507003000 -0300" channel="Metro">
+    <title lang="es">EF Elena Fortabat</title>
+  </programme>
+  <programme start="20220507003000 -0300" stop="20220507010000 -0300" channel="Metro">
+    <title lang="es">Celebración de las musas</title>
+  </programme>
+  <programme start="20220507010000 -0300" stop="20220507013000 -0300" channel="Metro">
+    <title lang="es">Medical Hair TV</title>
+  </programme>
+  <programme start="20220507013000 -0300" stop="20220507020000 -0300" channel="Metro">
+    <title lang="es">En forma - Medicina de vanguardia</title>
+  </programme>
+  <programme start="20220507020000 -0300" stop="20220507023000 -0300" channel="Metro">
+    <title lang="es">En forma total</title>
+  </programme>
+  <programme start="20220507023000 -0300" stop="20220507030000 -0300" channel="Metro">
+    <title lang="es">En forma - Tecnología estética</title>
+  </programme>
+  <programme start="20220507030000 -0300" stop="20220507033000 -0300" channel="Metro">
+    <title lang="es">OdontoTV</title>
+  </programme>
+  <programme start="20220507033000 -0300" stop="20220507040000 -0300" channel="Metro">
+    <title lang="es">Universo deportivo</title>
+  </programme>
+  <programme start="20220507040000 -0300" stop="20220507043000 -0300" channel="Metro">
+    <title lang="es">La gran vidriera</title>
+  </programme>
+  <programme start="20220507043000 -0300" stop="20220507050000 -0300" channel="Metro">
+    <title lang="es">Actualidad y psicoanálisis</title>
+  </programme>
+  <programme start="20220507050000 -0300" stop="20220507053000 -0300" channel="Metro">
+    <title lang="es">Celebración de las musas</title>
+  </programme>
+  <programme start="20220507053000 -0300" stop="20220507063000 -0300" channel="Metro">
+    <title lang="es">En forma - Medicina preventiva</title>
+  </programme>
+  <programme start="20220507063000 -0300" stop="20220507073000 -0300" channel="Metro">
+    <title lang="es">Economía y Real Estate</title>
+  </programme>
+  <programme start="20220507073000 -0300" stop="20220507080000 -0300" channel="Metro">
+    <title lang="es">Enlace Turístico</title>
+  </programme>
+  <programme start="20220507080000 -0300" stop="20220507083000 -0300" channel="Metro">
+    <title lang="es">Finanzas digitales</title>
+  </programme>
+  <programme start="20220507083000 -0300" stop="20220507093000 -0300" channel="Metro">
+    <title lang="es">En forma - Medicina del futuro</title>
+  </programme>
+  <programme start="20220507093000 -0300" stop="20220507100000 -0300" channel="Metro">
+    <title lang="es">En Forma - Medicina Integrativa</title>
+  </programme>
+  <programme start="20220507100000 -0300" stop="20220507103000 -0300" channel="Metro">
+    <title lang="es">En forma - Innovación médica</title>
+  </programme>
+  <programme start="20220507103000 -0300" stop="20220507110000 -0300" channel="Metro">
+    <title lang="es">Construyendo sueños TV</title>
+  </programme>
+  <programme start="20220507110000 -0300" stop="20220507113000 -0300" channel="Metro">
+    <title lang="es">Vida y estética</title>
+  </programme>
+  <programme start="20220507113000 -0300" stop="20220507120000 -0300" channel="Metro">
+    <title lang="es">En forma de vivir mejor</title>
+  </programme>
+  <programme start="20220507120000 -0300" stop="20220507123000 -0300" channel="Metro">
+    <title lang="es">ADN moda</title>
+  </programme>
+  <programme start="20220507123000 -0300" stop="20220507130000 -0300" channel="Metro">
+    <title lang="es">Viví Corrientes</title>
+  </programme>
+  <programme start="20220507130000 -0300" stop="20220507140000 -0300" channel="Metro">
+    <title lang="es">MXE por la mañana</title>
+  </programme>
+  <programme start="20220507140000 -0300" stop="20220507143000 -0300" channel="Metro">
+    <title lang="es">Universo deportivo</title>
+  </programme>
+  <programme start="20220507143000 -0300" stop="20220507150000 -0300" channel="Metro">
+    <title lang="es">Weekend</title>
+  </programme>
+  <programme start="20220507150000 -0300" stop="20220507160000 -0300" channel="Metro">
+    <title lang="es">Agro TV</title>
+  </programme>
+  <programme start="20220507160000 -0300" stop="20220507170000 -0300" channel="Metro">
+    <title lang="es">Medicina para vivir 100 años</title>
+  </programme>
+  <programme start="20220507170000 -0300" stop="20220507173000 -0300" channel="Metro">
+    <title lang="es">Intelexis mujer</title>
+  </programme>
+  <programme start="20220507173000 -0300" stop="20220507180000 -0300" channel="Metro">
+    <title lang="es">Alimenta tu vida</title>
+  </programme>
+  <programme start="20220507180000 -0300" stop="20220507183000 -0300" channel="Metro">
+    <title lang="es">Consorcios en la mira</title>
+  </programme>
+  <programme start="20220507183000 -0300" stop="20220507190000 -0300" channel="Metro">
+    <title lang="es">Consorcios en la mira</title>
+  </programme>
+  <programme start="20220507190000 -0300" stop="20220507193000 -0300" channel="Metro">
+    <title lang="es">Todo riesgo</title>
+  </programme>
+  <programme start="20220507193000 -0300" stop="20220507200000 -0300" channel="Metro">
+    <title lang="es">La hora de Maquiavelo</title>
+  </programme>
+  <programme start="20220507200000 -0300" stop="20220507210000 -0300" channel="Metro">
+    <title lang="es">Economía y Real Estate</title>
+  </programme>
+  <programme start="20220507210000 -0300" stop="20220507213000 -0300" channel="Metro">
+    <title lang="es">Actualidad política TV</title>
+  </programme>
+  <programme start="20220507213000 -0300" stop="20220507220000 -0300" channel="Metro">
+    <title lang="es">Criptovisión</title>
+  </programme>
+  <programme start="20220507220000 -0300" stop="20220507223000 -0300" channel="Metro">
+    <title lang="es">TMT Conversaciones</title>
+  </programme>
+  <programme start="20220507223000 -0300" stop="20220507230000 -0300" channel="Metro">
+    <title lang="es">Dicen que dicen</title>
+  </programme>
+  <programme start="20220507230000 -0300" stop="20220507233000 -0300" channel="Metro">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20220507233000 -0300" stop="20220508000000 -0300" channel="Metro">
+    <title lang="es">Gritalo con Grandio</title>
+  </programme>
   <programme start="20220504000000 -0300" stop="20220504013000 -0300" channel="Net TV">
     <title lang="es">Editando tele</title>
   </programme>
@@ -38555,6 +39411,231 @@
   <programme start="20220507233000 -0300" stop="20220508000000 -0300" channel="UCL">
     <title lang="es">We x We</title>
   </programme>
+  <programme start="20220504000000 -0300" stop="20220504004500 -0300" channel="Allegro">
+    <title lang="es">Yo-Yo Ma, Filarmónica de Berlín  Manfred Honeck -</title>
+  </programme>
+  <programme start="20220504004500 -0300" stop="20220504020000 -0300" channel="Allegro">
+    <title lang="es">Swan Lakes - 3 coreografías inspiradas en Tchaikov</title>
+  </programme>
+  <programme start="20220504020000 -0300" stop="20220504032000 -0300" channel="Allegro">
+    <title lang="es">Johannes Brahms: Un requiem alemán</title>
+  </programme>
+  <programme start="20220504032000 -0300" stop="20220504051500 -0300" channel="Allegro">
+    <title lang="es">Martha Argerich  Daniel Barenboim en el Teatro Co</title>
+  </programme>
+  <programme start="20220504051500 -0300" stop="20220504070000 -0300" channel="Allegro">
+    <title lang="es">Una velada con G.P. Telemann - Diego Fasolis, I Ba</title>
+  </programme>
+  <programme start="20220504070000 -0300" stop="20220504081500 -0300" channel="Allegro">
+    <title lang="es">Swan Lakes - 3 coreografías inspiradas en Tchaikov</title>
+  </programme>
+  <programme start="20220504081500 -0300" stop="20220504093000 -0300" channel="Allegro">
+    <title lang="es">Johannes Brahms: Un requiem alemán</title>
+  </programme>
+  <programme start="20220504093000 -0300" stop="20220504102500 -0300" channel="Allegro">
+    <title lang="es">Barroco en la tierra de los hijos del cielo</title>
+  </programme>
+  <programme start="20220504102500 -0300" stop="20220504121000 -0300" channel="Allegro">
+    <title lang="es">Una velada con G.P. Telemann - Diego Fasolis, I Ba</title>
+  </programme>
+  <programme start="20220504121000 -0300" stop="20220504133000 -0300" channel="Allegro">
+    <title lang="es">Velada camerística de cuerdas desde la Escuela Rei</title>
+  </programme>
+  <programme start="20220504133000 -0300" stop="20220504153000 -0300" channel="Allegro">
+    <title lang="es">Martha Argerich  Daniel Barenboim en el Teatro Co</title>
+  </programme>
+  <programme start="20220504153000 -0300" stop="20220504170000 -0300" channel="Allegro">
+    <title lang="es">Jóvenes talentos al piano desde la Escuela Reina S</title>
+  </programme>
+  <programme start="20220504170000 -0300" stop="20220504183000 -0300" channel="Allegro">
+    <title lang="es">Cavallería Rusticana y Pagliacci</title>
+  </programme>
+  <programme start="20220504183000 -0300" stop="20220504200000 -0300" channel="Allegro">
+    <title lang="es">I Pagliacci, ópera en dos actos de Ruggero Leoncav</title>
+  </programme>
+  <programme start="20220504200000 -0300" stop="20220504210000 -0300" channel="Allegro">
+    <title lang="es">Olga Peretyatko: Mi amor por Rossini, un documenta</title>
+  </programme>
+  <programme start="20220504210000 -0300" stop="20220504213500 -0300" channel="Allegro">
+    <title lang="es">Buenos Aires, el vértigo y la luna</title>
+  </programme>
+  <programme start="20220504213500 -0300" stop="20220504231000 -0300" channel="Allegro">
+    <title lang="es">Barenboim en Beethoven: Nueve sinfonías que cambia</title>
+  </programme>
+  <programme start="20220504231000 -0300" stop="20220505000000 -0300" channel="Allegro">
+    <title lang="es">Lang Lang en el Royal Albert Hall</title>
+  </programme>
+  <programme start="20220505000000 -0300" stop="20220505012000 -0300" channel="Allegro">
+    <title lang="es">Lang Lang en el Royal Albert Hall</title>
+  </programme>
+  <programme start="20220505012000 -0300" stop="20220505023000 -0300" channel="Allegro">
+    <title lang="es">Jóvenes talentos al piano desde la Escuela Reina S</title>
+  </programme>
+  <programme start="20220505023000 -0300" stop="20220505030500 -0300" channel="Allegro">
+    <title lang="es">Buenos Aires, el vértigo y la luna</title>
+  </programme>
+  <programme start="20220505030500 -0300" stop="20220505042500 -0300" channel="Allegro">
+    <title lang="es">Cavallería Rusticana y Pagliacci</title>
+  </programme>
+  <programme start="20220505042500 -0300" stop="20220505055500 -0300" channel="Allegro">
+    <title lang="es">I Pagliacci, ópera en dos actos de Ruggero Leoncav</title>
+  </programme>
+  <programme start="20220505055500 -0300" stop="20220505070000 -0300" channel="Allegro">
+    <title lang="es">Olga Peretyatko: Mi amor por Rossini, un documenta</title>
+  </programme>
+  <programme start="20220505070000 -0300" stop="20220505081000 -0300" channel="Allegro">
+    <title lang="es">Jóvenes talentos al piano desde la Escuela Reina S</title>
+  </programme>
+  <programme start="20220505081000 -0300" stop="20220505093000 -0300" channel="Allegro">
+    <title lang="es">Cavallería Rusticana y Pagliacci</title>
+  </programme>
+  <programme start="20220505093000 -0300" stop="20220505105500 -0300" channel="Allegro">
+    <title lang="es">I Pagliacci, ópera en dos actos de Ruggero Leoncav</title>
+  </programme>
+  <programme start="20220505105500 -0300" stop="20220505120000 -0300" channel="Allegro">
+    <title lang="es">Olga Peretyatko: Mi amor por Rossini, un documenta</title>
+  </programme>
+  <programme start="20220505120000 -0300" stop="20220505130000 -0300" channel="Allegro">
+    <title lang="es">Buenos Aires, el vértigo y la luna</title>
+  </programme>
+  <programme start="20220505130000 -0300" stop="20220505151000 -0300" channel="Allegro">
+    <title lang="es">Lang Lang en el Royal Albert Hall</title>
+  </programme>
+  <programme start="20220505151000 -0300" stop="20220505170000 -0300" channel="Allegro">
+    <title lang="es">La Traviata</title>
+  </programme>
+  <programme start="20220505170000 -0300" stop="20220505173000 -0300" channel="Allegro">
+    <title lang="es">Sofía Falkovitch: Tres momentos de la liturgia jud</title>
+  </programme>
+  <programme start="20220505173000 -0300" stop="20220505190000 -0300" channel="Allegro">
+    <title lang="es">Vox Orchester  Lorenzo Ghirlanda - Obras de Telem</title>
+  </programme>
+  <programme start="20220505190000 -0300" stop="20220505200500 -0300" channel="Allegro">
+    <title lang="es">Maria Callas: Nacida para cantar</title>
+  </programme>
+  <programme start="20220505200500 -0300" stop="20220505210000 -0300" channel="Allegro">
+    <title lang="es">La consagración de la primavera, de Igor Stravinsk</title>
+  </programme>
+  <programme start="20220505210000 -0300" stop="20220505215000 -0300" channel="Allegro">
+    <title lang="es">Marina López - Clarinete requinto solista Orquesta</title>
+  </programme>
+  <programme start="20220505215000 -0300" stop="20220505234000 -0300" channel="Allegro">
+    <title lang="es">Lang Lang en Schönbrunn: Orquesta Filarmónica de V</title>
+  </programme>
+  <programme start="20220505234000 -0300" stop="20220506000000 -0300" channel="Allegro">
+    <title lang="es">Lou doillon en la fleche d'or de París</title>
+  </programme>
+  <programme start="20220506000000 -0300" stop="20220506005000 -0300" channel="Allegro">
+    <title lang="es">Lou doillon en la fleche d'or de París</title>
+  </programme>
+  <programme start="20220506005000 -0300" stop="20220506024500 -0300" channel="Allegro">
+    <title lang="es">La Traviata</title>
+  </programme>
+  <programme start="20220506024500 -0300" stop="20220506033500 -0300" channel="Allegro">
+    <title lang="es">Marina López - Clarinete requinto solista Orquesta</title>
+  </programme>
+  <programme start="20220506033500 -0300" stop="20220506045500 -0300" channel="Allegro">
+    <title lang="es">Vox Orchester  Lorenzo Ghirlanda - Obras de Telem</title>
+  </programme>
+  <programme start="20220506045500 -0300" stop="20220506061000 -0300" channel="Allegro">
+    <title lang="es">Maria Callas: Nacida para cantar</title>
+  </programme>
+  <programme start="20220506061000 -0300" stop="20220506070000 -0300" channel="Allegro">
+    <title lang="es">La consagración de la primavera, de Igor Stravinsk</title>
+  </programme>
+  <programme start="20220506070000 -0300" stop="20220506085000 -0300" channel="Allegro">
+    <title lang="es">La Traviata</title>
+  </programme>
+  <programme start="20220506085000 -0300" stop="20220506091500 -0300" channel="Allegro">
+    <title lang="es">Sofía Falkovitch: Tres momentos de la liturgia jud</title>
+  </programme>
+  <programme start="20220506091500 -0300" stop="20220506102500 -0300" channel="Allegro">
+    <title lang="es">Vox Orchester  Lorenzo Ghirlanda - Obras de Telem</title>
+  </programme>
+  <programme start="20220506102500 -0300" stop="20220506113000 -0300" channel="Allegro">
+    <title lang="es">Maria Callas: Nacida para cantar</title>
+  </programme>
+  <programme start="20220506113000 -0300" stop="20220506131500 -0300" channel="Allegro">
+    <title lang="es">Lang Lang en Schönbrunn: Orquesta Filarmónica de V</title>
+  </programme>
+  <programme start="20220506131500 -0300" stop="20220506140000 -0300" channel="Allegro">
+    <title lang="es">Marina López - Clarinete requinto solista Orquesta</title>
+  </programme>
+  <programme start="20220506140000 -0300" stop="20220506155000 -0300" channel="Allegro">
+    <title lang="es">Gustav Mahler: Sinfonía nº 3 - Leonard Bernstein </title>
+  </programme>
+  <programme start="20220506155000 -0300" stop="20220506165000 -0300" channel="Allegro">
+    <title lang="es">Gustav Mahler: Sinfonía nº 4 - Leonard Bernstein </title>
+  </programme>
+  <programme start="20220506165000 -0300" stop="20220506173000 -0300" channel="Allegro">
+    <title lang="es">Sinfonía nº 3, Escocesa, de Felix Mendelssohn - Or</title>
+  </programme>
+  <programme start="20220506173000 -0300" stop="20220506184500 -0300" channel="Allegro">
+    <title lang="es">Requiem de Mozart desde la Arena de Verona</title>
+  </programme>
+  <programme start="20220506184500 -0300" stop="20220506210000 -0300" channel="Allegro">
+    <title lang="es">Maria Callas - Una vida de ópera</title>
+  </programme>
+  <programme start="20220506210000 -0300" stop="20220506220000 -0300" channel="Allegro">
+    <title lang="es">Sinfónica Juvenil Nacional José de San Martín  Ma</title>
+  </programme>
+  <programme start="20220506220000 -0300" stop="20220506231500 -0300" channel="Allegro">
+    <title lang="es">Filarmónica de Múnich, con Matias Piñeira  Valery</title>
+  </programme>
+  <programme start="20220506231500 -0300" stop="20220507000000 -0300" channel="Allegro">
+    <title lang="es">Manon, ópera en cinco actos de Jules Massenet (Tea</title>
+  </programme>
+  <programme start="20220507000000 -0300" stop="20220507020000 -0300" channel="Allegro">
+    <title lang="es">Manon, ópera en cinco actos de Jules Massenet (Tea</title>
+  </programme>
+  <programme start="20220507020000 -0300" stop="20220507031000 -0300" channel="Allegro">
+    <title lang="es">Requiem de Mozart desde la Arena de Verona</title>
+  </programme>
+  <programme start="20220507031000 -0300" stop="20220507041000 -0300" channel="Allegro">
+    <title lang="es">Sinfónica Juvenil Nacional José de San Martín  Ma</title>
+  </programme>
+  <programme start="20220507041000 -0300" stop="20220507052500 -0300" channel="Allegro">
+    <title lang="es">Filarmónica de Múnich, con Matias Piñeira  Valery</title>
+  </programme>
+  <programme start="20220507052500 -0300" stop="20220507060500 -0300" channel="Allegro">
+    <title lang="es">Sinfonía nº 3, Escocesa, de Felix Mendelssohn - Or</title>
+  </programme>
+  <programme start="20220507060500 -0300" stop="20220507070000 -0300" channel="Allegro">
+    <title lang="es">Barroco en la tierra de los hijos del cielo</title>
+  </programme>
+  <programme start="20220507070000 -0300" stop="20220507085000 -0300" channel="Allegro">
+    <title lang="es">Gustav Mahler: Sinfonía nº 3 - Leonard Bernstein </title>
+  </programme>
+  <programme start="20220507085000 -0300" stop="20220507095500 -0300" channel="Allegro">
+    <title lang="es">Gustav Mahler: Sinfonía nº 4 - Leonard Bernstein </title>
+  </programme>
+  <programme start="20220507095500 -0300" stop="20220507104000 -0300" channel="Allegro">
+    <title lang="es">Sinfonía nº 3, Escocesa, de Felix Mendelssohn - Or</title>
+  </programme>
+  <programme start="20220507104000 -0300" stop="20220507115000 -0300" channel="Allegro">
+    <title lang="es">Requiem de Mozart desde la Arena de Verona</title>
+  </programme>
+  <programme start="20220507115000 -0300" stop="20220507140000 -0300" channel="Allegro">
+    <title lang="es">Maria Callas - Una vida de ópera</title>
+  </programme>
+  <programme start="20220507140000 -0300" stop="20220507150000 -0300" channel="Allegro">
+    <title lang="es">Sinfónica Juvenil Nacional José de San Martín  Ma</title>
+  </programme>
+  <programme start="20220507150000 -0300" stop="20220507161500 -0300" channel="Allegro">
+    <title lang="es">Filarmónica de Múnich, con Matias Piñeira  Valery</title>
+  </programme>
+  <programme start="20220507161500 -0300" stop="20220507190000 -0300" channel="Allegro">
+    <title lang="es">Manon, ópera en cinco actos de Jules Massenet (Tea</title>
+  </programme>
+  <programme start="20220507190000 -0300" stop="20220507210000 -0300" channel="Allegro">
+    <title lang="es">Lang Lang en Versalles - Obras de Chopin  Tchaiko</title>
+  </programme>
+  <programme start="20220507210000 -0300" stop="20220507213000 -0300" channel="Allegro">
+    <title lang="es">Ensamble Concentus BA  Ricardo Sciammarella inter</title>
+  </programme>
+  <programme start="20220507213000 -0300" stop="20220508000000 -0300" channel="Allegro">
+    <title lang="es">Cendrillon, ópera en cuatro actos de Jules Massene</title>
+  </programme>
   <programme start="20220504000000 -0300" stop="20220504020000 -0300" channel="Canal de la Musica">
     <title lang="es">Iglesia universal del reino de Dios</title>
   </programme>
@@ -38906,6 +39987,123 @@
   <programme start="20220507230000 -0300" stop="20220508000000 -0300" channel="Canal de la Musica">
     <title lang="es">Pare de sufrir</title>
   </programme>
+  <programme start="20220504000000 -0300" stop="20220504010000 -0300" channel="HTV">
+    <title lang="es">Hurbano</title>
+  </programme>
+  <programme start="20220504010000 -0300" stop="20220504030000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220504030000 -0300" stop="20220504050000 -0300" channel="HTV">
+    <title lang="es">HTV pasión</title>
+  </programme>
+  <programme start="20220504050000 -0300" stop="20220504090000 -0300" channel="HTV">
+    <title lang="es">HTV esencial</title>
+  </programme>
+  <programme start="20220504090000 -0300" stop="20220504110000 -0300" channel="HTV">
+    <title lang="es">HTV raíces</title>
+  </programme>
+  <programme start="20220504110000 -0300" stop="20220504130000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220504130000 -0300" stop="20220504190000 -0300" channel="HTV">
+    <title lang="es">HTV fiesta</title>
+  </programme>
+  <programme start="20220504190000 -0300" stop="20220504210000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220504210000 -0300" stop="20220504220000 -0300" channel="HTV">
+    <title lang="es">HTV fiesta</title>
+  </programme>
+  <programme start="20220504220000 -0300" stop="20220504230000 -0300" channel="HTV">
+    <title lang="es">HTV sexy</title>
+  </programme>
+  <programme start="20220504230000 -0300" stop="20220505000000 -0300" channel="HTV">
+    <title lang="es">Fórmula HTV</title>
+  </programme>
+  <programme start="20220505000000 -0300" stop="20220505010000 -0300" channel="HTV">
+    <title lang="es">Hurbano</title>
+  </programme>
+  <programme start="20220505010000 -0300" stop="20220505030000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220505030000 -0300" stop="20220505110000 -0300" channel="HTV">
+    <title lang="es">HTV esencial</title>
+  </programme>
+  <programme start="20220505110000 -0300" stop="20220505130000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220505130000 -0300" stop="20220505180000 -0300" channel="HTV">
+    <title lang="es">HTV fiesta</title>
+  </programme>
+  <programme start="20220505180000 -0300" stop="20220505190000 -0300" channel="HTV">
+    <title lang="es">HTV esencial</title>
+  </programme>
+  <programme start="20220505190000 -0300" stop="20220505210000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220505210000 -0300" stop="20220505220000 -0300" channel="HTV">
+    <title lang="es">HTV fiesta</title>
+  </programme>
+  <programme start="20220505220000 -0300" stop="20220506000000 -0300" channel="HTV">
+    <title lang="es">HTV sexy</title>
+  </programme>
+  <programme start="20220506000000 -0300" stop="20220506010000 -0300" channel="HTV">
+    <title lang="es">Hurbano</title>
+  </programme>
+  <programme start="20220506010000 -0300" stop="20220506030000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220506030000 -0300" stop="20220506110000 -0300" channel="HTV">
+    <title lang="es">HTV esencial</title>
+  </programme>
+  <programme start="20220506110000 -0300" stop="20220506130000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220506130000 -0300" stop="20220506190000 -0300" channel="HTV">
+    <title lang="es">HTV fiesta</title>
+  </programme>
+  <programme start="20220506190000 -0300" stop="20220506210000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220506210000 -0300" stop="20220506220000 -0300" channel="HTV">
+    <title lang="es">HTV fiesta</title>
+  </programme>
+  <programme start="20220506220000 -0300" stop="20220507000000 -0300" channel="HTV">
+    <title lang="es">HTV sexy</title>
+  </programme>
+  <programme start="20220507000000 -0300" stop="20220507010000 -0300" channel="HTV">
+    <title lang="es">Hurbano</title>
+  </programme>
+  <programme start="20220507010000 -0300" stop="20220507030000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220507030000 -0300" stop="20220507050000 -0300" channel="HTV">
+    <title lang="es">HTV pasión</title>
+  </programme>
+  <programme start="20220507050000 -0300" stop="20220507090000 -0300" channel="HTV">
+    <title lang="es">HTV esencial</title>
+  </programme>
+  <programme start="20220507090000 -0300" stop="20220507110000 -0300" channel="HTV">
+    <title lang="es">HTV raíces</title>
+  </programme>
+  <programme start="20220507110000 -0300" stop="20220507130000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220507130000 -0300" stop="20220507190000 -0300" channel="HTV">
+    <title lang="es">HTV fiesta</title>
+  </programme>
+  <programme start="20220507190000 -0300" stop="20220507210000 -0300" channel="HTV">
+    <title lang="es">Hot Ranking</title>
+  </programme>
+  <programme start="20220507210000 -0300" stop="20220507220000 -0300" channel="HTV">
+    <title lang="es">HTV fiesta</title>
+  </programme>
+  <programme start="20220507220000 -0300" stop="20220507230000 -0300" channel="HTV">
+    <title lang="es">HTV sexy</title>
+  </programme>
+  <programme start="20220507230000 -0300" stop="20220508000000 -0300" channel="HTV">
+    <title lang="es">Fórmula HTV</title>
+  </programme>
   <programme start="20220504000000 -0300" stop="20220504005500 -0300" channel="MTV">
     <title lang="es">Celebrity Ex on the Beach</title>
   </programme>
@@ -39151,6 +40349,135 @@
   </programme>
   <programme start="20220507230500 -0300" stop="20220508000000 -0300" channel="MTV">
     <title lang="es">La venganza de los ex: Caribe</title>
+  </programme>
+  <programme start="20220504000000 -0300" stop="20220504020000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
+  </programme>
+  <programme start="20220504020000 -0300" stop="20220504050000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
+  </programme>
+  <programme start="20220504050000 -0300" stop="20220504060000 -0300" channel="MTV Hits">
+    <title lang="es">MTV Top 20</title>
+  </programme>
+  <programme start="20220504060000 -0300" stop="20220504070000 -0300" channel="MTV Hits">
+    <title lang="es">Worldwide Hits</title>
+  </programme>
+  <programme start="20220504070000 -0300" stop="20220504100000 -0300" channel="MTV Hits">
+    <title lang="es">Totally 10s!</title>
+  </programme>
+  <programme start="20220504100000 -0300" stop="20220504110000 -0300" channel="MTV Hits">
+    <title lang="es">Today's Top Hits</title>
+  </programme>
+  <programme start="20220504110000 -0300" stop="20220504130000 -0300" channel="MTV Hits">
+    <title lang="es">Totally 10s!</title>
+  </programme>
+  <programme start="20220504130000 -0300" stop="20220504150000 -0300" channel="MTV Hits">
+    <title lang="es">Worldwide Hits</title>
+  </programme>
+  <programme start="20220504150000 -0300" stop="20220504160000 -0300" channel="MTV Hits">
+    <title lang="es">Today's Top Hits</title>
+  </programme>
+  <programme start="20220504160000 -0300" stop="20220504170000 -0300" channel="MTV Hits">
+    <title lang="es">Totally 10s!</title>
+  </programme>
+  <programme start="20220504170000 -0300" stop="20220504200000 -0300" channel="MTV Hits">
+    <title lang="es">Euro vs. Global Pop Stars! Top 50</title>
+  </programme>
+  <programme start="20220504200000 -0300" stop="20220504210000 -0300" channel="MTV Hits">
+    <title lang="es">Today's Top Hits</title>
+  </programme>
+  <programme start="20220504210000 -0300" stop="20220505000000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
+  </programme>
+  <programme start="20220505000000 -0300" stop="20220505020000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
+  </programme>
+  <programme start="20220505020000 -0300" stop="20220505060000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
+  </programme>
+  <programme start="20220505060000 -0300" stop="20220505070000 -0300" channel="MTV Hits">
+    <title lang="es">MTV Top 20</title>
+  </programme>
+  <programme start="20220505070000 -0300" stop="20220505080000 -0300" channel="MTV Hits">
+    <title lang="es">Worldwide Hits</title>
+  </programme>
+  <programme start="20220505080000 -0300" stop="20220505100000 -0300" channel="MTV Hits">
+    <title lang="es">Totally 10s!</title>
+  </programme>
+  <programme start="20220505100000 -0300" stop="20220505110000 -0300" channel="MTV Hits">
+    <title lang="es">Avicii vs. Calvin vs. Guetta</title>
+  </programme>
+  <programme start="20220505110000 -0300" stop="20220505150000 -0300" channel="MTV Hits">
+    <title lang="es">Welcome to the Weekend! Hitlist</title>
+  </programme>
+  <programme start="20220505150000 -0300" stop="20220505160000 -0300" channel="MTV Hits">
+    <title lang="es">Adele vs. Sam Smith vs. Ed Sheeran</title>
+  </programme>
+  <programme start="20220505160000 -0300" stop="20220505220000 -0300" channel="MTV Hits">
+    <title lang="es">Party Hits</title>
+  </programme>
+  <programme start="20220505220000 -0300" stop="20220506000000 -0300" channel="MTV Hits">
+    <title lang="es">Party Hits</title>
+  </programme>
+  <programme start="20220506000000 -0300" stop="20220506020000 -0300" channel="MTV Hits">
+    <title lang="es">Party Hits</title>
+  </programme>
+  <programme start="20220506020000 -0300" stop="20220506060000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
+  </programme>
+  <programme start="20220506060000 -0300" stop="20220506070000 -0300" channel="MTV Hits">
+    <title lang="es">Adele vs. Sam Smith vs. Ed Sheeran</title>
+  </programme>
+  <programme start="20220506070000 -0300" stop="20220506100000 -0300" channel="MTV Hits">
+    <title lang="es">Welcome to the Weekend! Hitlist</title>
+  </programme>
+  <programme start="20220506100000 -0300" stop="20220506110000 -0300" channel="MTV Hits">
+    <title lang="es">Today's Top Hits</title>
+  </programme>
+  <programme start="20220506110000 -0300" stop="20220506140000 -0300" channel="MTV Hits">
+    <title lang="es">Euro vs. Global Pop Stars! Top 50</title>
+  </programme>
+  <programme start="20220506140000 -0300" stop="20220506150000 -0300" channel="MTV Hits">
+    <title lang="es">Today's Top Hits</title>
+  </programme>
+  <programme start="20220506150000 -0300" stop="20220506190000 -0300" channel="MTV Hits">
+    <title lang="es">Worldwide Hits</title>
+  </programme>
+  <programme start="20220506190000 -0300" stop="20220507000000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
+  </programme>
+  <programme start="20220507000000 -0300" stop="20220507020000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
+  </programme>
+  <programme start="20220507020000 -0300" stop="20220507060000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
+  </programme>
+  <programme start="20220507060000 -0300" stop="20220507070000 -0300" channel="MTV Hits">
+    <title lang="es">Today's Top Hits</title>
+  </programme>
+  <programme start="20220507070000 -0300" stop="20220507100000 -0300" channel="MTV Hits">
+    <title lang="es">Totally 10s!</title>
+  </programme>
+  <programme start="20220507100000 -0300" stop="20220507110000 -0300" channel="MTV Hits">
+    <title lang="es">Euro Hits!</title>
+  </programme>
+  <programme start="20220507110000 -0300" stop="20220507130000 -0300" channel="MTV Hits">
+    <title lang="es">Totally 10s!</title>
+  </programme>
+  <programme start="20220507130000 -0300" stop="20220507150000 -0300" channel="MTV Hits">
+    <title lang="es">Worldwide Hits</title>
+  </programme>
+  <programme start="20220507150000 -0300" stop="20220507160000 -0300" channel="MTV Hits">
+    <title lang="es">MTV Top 20</title>
+  </programme>
+  <programme start="20220507160000 -0300" stop="20220507170000 -0300" channel="MTV Hits">
+    <title lang="es">Totally 10s!</title>
+  </programme>
+  <programme start="20220507170000 -0300" stop="20220507210000 -0300" channel="MTV Hits">
+    <title lang="es">Worldwide Hits</title>
+  </programme>
+  <programme start="20220507210000 -0300" stop="20220508000000 -0300" channel="MTV Hits">
+    <title lang="es">Non-Stop Hits!</title>
   </programme>
   <programme start="20220504000000 -0300" stop="20220504010000 -0300" channel="Much Music">
     <title lang="es">Last Night</title>
@@ -41111,6 +42438,204 @@
   <programme start="20220507233000 -0300" stop="20220508000000 -0300" channel="IP">
     <title lang="es">Malditos nerds</title>
   </programme>
+  <programme start="20220504000000 -0300" stop="20220504010000 -0300" channel="La Nación">
+    <title lang="es">Resumen de la semana</title>
+  </programme>
+  <programme start="20220504010000 -0300" stop="20220504033000 -0300" channel="La Nación">
+    <title lang="es">+Info a la tarde</title>
+  </programme>
+  <programme start="20220504033000 -0300" stop="20220504053000 -0300" channel="La Nación">
+    <title lang="es">El noticiero de LN+</title>
+  </programme>
+  <programme start="20220504053000 -0300" stop="20220504063000 -0300" channel="La Nación">
+    <title lang="es">+ Realidad</title>
+  </programme>
+  <programme start="20220504063000 -0300" stop="20220504083000 -0300" channel="La Nación">
+    <title lang="es">Noticiero AM</title>
+  </programme>
+  <programme start="20220504083000 -0300" stop="20220504100000 -0300" channel="La Nación">
+    <title lang="es">08:30 AM</title>
+  </programme>
+  <programme start="20220504100000 -0300" stop="20220504130000 -0300" channel="La Nación">
+    <title lang="es">Buen día Nación</title>
+  </programme>
+  <programme start="20220504130000 -0300" stop="20220504143000 -0300" channel="La Nación">
+    <title lang="es">+Noticias</title>
+  </programme>
+  <programme start="20220504143000 -0300" stop="20220504170000 -0300" channel="La Nación">
+    <title lang="es">+Info a la tarde</title>
+  </programme>
+  <programme start="20220504170000 -0300" stop="20220504180000 -0300" channel="La Nación">
+    <title lang="es">Hora 17</title>
+  </programme>
+  <programme start="20220504180000 -0300" stop="20220504200000 -0300" channel="La Nación">
+    <title lang="es">El noticiero de LN+</title>
+  </programme>
+  <programme start="20220504200000 -0300" stop="20220504210000 -0300" channel="La Nación">
+    <title lang="es">+ Realidad</title>
+  </programme>
+  <programme start="20220504210000 -0300" stop="20220504220000 -0300" channel="La Nación">
+    <title lang="es">El diario de Leuco</title>
+  </programme>
+  <programme start="20220504220000 -0300" stop="20220504230000 -0300" channel="La Nación">
+    <title lang="es">+ Voces</title>
+  </programme>
+  <programme start="20220504230000 -0300" stop="20220505000000 -0300" channel="La Nación">
+    <title lang="es">Casi patriotas</title>
+  </programme>
+  <programme start="20220505000000 -0300" stop="20220505010000 -0300" channel="La Nación">
+    <title lang="es">Resumen de la semana</title>
+  </programme>
+  <programme start="20220505010000 -0300" stop="20220505033000 -0300" channel="La Nación">
+    <title lang="es">+Info a la tarde</title>
+  </programme>
+  <programme start="20220505033000 -0300" stop="20220505053000 -0300" channel="La Nación">
+    <title lang="es">El noticiero de LN+</title>
+  </programme>
+  <programme start="20220505053000 -0300" stop="20220505063000 -0300" channel="La Nación">
+    <title lang="es">+ Realidad</title>
+  </programme>
+  <programme start="20220505063000 -0300" stop="20220505070000 -0300" channel="La Nación">
+    <title lang="es">Protagonistas del cambio</title>
+  </programme>
+  <programme start="20220505070000 -0300" stop="20220505100000 -0300" channel="La Nación">
+    <title lang="es">+info - Fin de semana</title>
+  </programme>
+  <programme start="20220505100000 -0300" stop="20220505130000 -0300" channel="La Nación">
+    <title lang="es">+noticias - Fin de semana</title>
+  </programme>
+  <programme start="20220505130000 -0300" stop="20220505140000 -0300" channel="La Nación">
+    <title lang="es">Resumen de la semana</title>
+  </programme>
+  <programme start="20220505140000 -0300" stop="20220505160000 -0300" channel="La Nación">
+    <title lang="es">Simon Reeve</title>
+  </programme>
+  <programme start="20220505160000 -0300" stop="20220505170000 -0300" channel="La Nación">
+    <title lang="es">Hambre de futuro</title>
+  </programme>
+  <programme start="20220505170000 -0300" stop="20220505180000 -0300" channel="La Nación">
+    <title lang="es">Resumen de la semana</title>
+  </programme>
+  <programme start="20220505180000 -0300" stop="20220505190000 -0300" channel="La Nación">
+    <title lang="es">+Salud</title>
+  </programme>
+  <programme start="20220505190000 -0300" stop="20220505200000 -0300" channel="La Nación">
+    <title lang="es">Simon Reeve</title>
+  </programme>
+  <programme start="20220505200000 -0300" stop="20220505210000 -0300" channel="La Nación">
+    <title lang="es">Resumen de la semana</title>
+  </programme>
+  <programme start="20220505210000 -0300" stop="20220505220000 -0300" channel="La Nación">
+    <title lang="es">Casi patriotas</title>
+  </programme>
+  <programme start="20220505220000 -0300" stop="20220505230000 -0300" channel="La Nación">
+    <title lang="es">Hablemos de otra cosa</title>
+  </programme>
+  <programme start="20220505230000 -0300" stop="20220506000000 -0300" channel="La Nación">
+    <title lang="es">+Salud</title>
+  </programme>
+  <programme start="20220506000000 -0300" stop="20220506010000 -0300" channel="La Nación">
+    <title lang="es">Simon Reeve</title>
+  </programme>
+  <programme start="20220506010000 -0300" stop="20220506020000 -0300" channel="La Nación">
+    <title lang="es">Hambre de futuro</title>
+  </programme>
+  <programme start="20220506020000 -0300" stop="20220506030000 -0300" channel="La Nación">
+    <title lang="es">Protagonistas del cambio</title>
+  </programme>
+  <programme start="20220506030000 -0300" stop="20220506040000 -0300" channel="La Nación">
+    <title lang="es">Resumen de la semana</title>
+  </programme>
+  <programme start="20220506040000 -0300" stop="20220506050000 -0300" channel="La Nación">
+    <title lang="es">Hambre de futuro</title>
+  </programme>
+  <programme start="20220506050000 -0300" stop="20220506060000 -0300" channel="La Nación">
+    <title lang="es">Protagonistas del cambio</title>
+  </programme>
+  <programme start="20220506060000 -0300" stop="20220506070000 -0300" channel="La Nación">
+    <title lang="es">Resumen de la semana</title>
+  </programme>
+  <programme start="20220506070000 -0300" stop="20220506100000 -0300" channel="La Nación">
+    <title lang="es">+info - Fin de semana</title>
+  </programme>
+  <programme start="20220506100000 -0300" stop="20220506130000 -0300" channel="La Nación">
+    <title lang="es">+noticias - Fin de semana</title>
+  </programme>
+  <programme start="20220506130000 -0300" stop="20220506140000 -0300" channel="La Nación">
+    <title lang="es">LN + Campo</title>
+  </programme>
+  <programme start="20220506140000 -0300" stop="20220506150000 -0300" channel="La Nación">
+    <title lang="es">Resumen de la semana</title>
+  </programme>
+  <programme start="20220506150000 -0300" stop="20220506160000 -0300" channel="La Nación">
+    <title lang="es">Simon Reeve</title>
+  </programme>
+  <programme start="20220506160000 -0300" stop="20220506170000 -0300" channel="La Nación">
+    <title lang="es">Hambre de futuro</title>
+  </programme>
+  <programme start="20220506170000 -0300" stop="20220506180000 -0300" channel="La Nación">
+    <title lang="es">Hablemos de otra cosa</title>
+  </programme>
+  <programme start="20220506180000 -0300" stop="20220506203000 -0300" channel="La Nación">
+    <title lang="es">Especial domingo</title>
+  </programme>
+  <programme start="20220506203000 -0300" stop="20220506220000 -0300" channel="La Nación">
+    <title lang="es">La cornisa</title>
+  </programme>
+  <programme start="20220506220000 -0300" stop="20220507000000 -0300" channel="La Nación">
+    <title lang="es">Comunidad de negocios</title>
+  </programme>
+  <programme start="20220507000000 -0300" stop="20220507010000 -0300" channel="La Nación">
+    <title lang="es">Hablemos de otra cosa</title>
+  </programme>
+  <programme start="20220507010000 -0300" stop="20220507020000 -0300" channel="La Nación">
+    <title lang="es">Hambre de futuro</title>
+  </programme>
+  <programme start="20220507020000 -0300" stop="20220507030000 -0300" channel="La Nación">
+    <title lang="es">Resumen de la semana</title>
+  </programme>
+  <programme start="20220507030000 -0300" stop="20220507040000 -0300" channel="La Nación">
+    <title lang="es">Protagonistas del cambio</title>
+  </programme>
+  <programme start="20220507040000 -0300" stop="20220507050000 -0300" channel="La Nación">
+    <title lang="es">Hambre de futuro</title>
+  </programme>
+  <programme start="20220507050000 -0300" stop="20220507060000 -0300" channel="La Nación">
+    <title lang="es">Hablemos de otra cosa</title>
+  </programme>
+  <programme start="20220507060000 -0300" stop="20220507063000 -0300" channel="La Nación">
+    <title lang="es">Protagonistas del cambio</title>
+  </programme>
+  <programme start="20220507063000 -0300" stop="20220507083000 -0300" channel="La Nación">
+    <title lang="es">Noticiero AM</title>
+  </programme>
+  <programme start="20220507083000 -0300" stop="20220507100000 -0300" channel="La Nación">
+    <title lang="es">08:30 AM</title>
+  </programme>
+  <programme start="20220507100000 -0300" stop="20220507130000 -0300" channel="La Nación">
+    <title lang="es">Buen día Nación</title>
+  </programme>
+  <programme start="20220507130000 -0300" stop="20220507150000 -0300" channel="La Nación">
+    <title lang="es">+Noticias</title>
+  </programme>
+  <programme start="20220507150000 -0300" stop="20220507170000 -0300" channel="La Nación">
+    <title lang="es">+Info a la tarde</title>
+  </programme>
+  <programme start="20220507170000 -0300" stop="20220507180000 -0300" channel="La Nación">
+    <title lang="es">Hora 17</title>
+  </programme>
+  <programme start="20220507180000 -0300" stop="20220507200000 -0300" channel="La Nación">
+    <title lang="es">El noticiero de LN+</title>
+  </programme>
+  <programme start="20220507200000 -0300" stop="20220507210000 -0300" channel="La Nación">
+    <title lang="es">+ Realidad</title>
+  </programme>
+  <programme start="20220507210000 -0300" stop="20220507220000 -0300" channel="La Nación">
+    <title lang="es">El diario de Leuco</title>
+  </programme>
+  <programme start="20220507220000 -0300" stop="20220508000000 -0300" channel="La Nación">
+    <title lang="es">Odisea Argentina</title>
+  </programme>
   <programme start="20220504000000 -0300" stop="20220504010000 -0300" channel="Todo Noticias">
     <title lang="es">TN de noche</title>
   </programme>
@@ -42673,6 +44198,360 @@
   </programme>
   <programme start="20220507230000 -0300" stop="20220508000000 -0300" channel="EWTN">
     <title lang="es">Lo mejor de la madre Angélica</title>
+  </programme>
+  <programme start="20220504000000 -0300" stop="20220504003000 -0300" channel="Nueva Imagen">
+    <title lang="es">Talento empresario</title>
+  </programme>
+  <programme start="20220504003000 -0300" stop="20220504010000 -0300" channel="Nueva Imagen">
+    <title lang="es">Panorama vela</title>
+  </programme>
+  <programme start="20220504010000 -0300" stop="20220504020000 -0300" channel="Nueva Imagen">
+    <title lang="es">Jenny Live</title>
+  </programme>
+  <programme start="20220504020000 -0300" stop="20220504030000 -0300" channel="Nueva Imagen">
+    <title lang="es">Estando contigo</title>
+  </programme>
+  <programme start="20220504030000 -0300" stop="20220504033000 -0300" channel="Nueva Imagen">
+    <title lang="es">Creaciones del hombre</title>
+  </programme>
+  <programme start="20220504033000 -0300" stop="20220504040000 -0300" channel="Nueva Imagen">
+    <title lang="es">Arte Universal</title>
+  </programme>
+  <programme start="20220504040000 -0300" stop="20220504070000 -0300" channel="Nueva Imagen">
+    <title lang="es">Cine católico</title>
+  </programme>
+  <programme start="20220504070000 -0300" stop="20220504073000 -0300" channel="Nueva Imagen">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20220504073000 -0300" stop="20220504080000 -0300" channel="Nueva Imagen">
+    <title lang="es">Creaciones del hombre</title>
+  </programme>
+  <programme start="20220504080000 -0300" stop="20220504090000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220504090000 -0300" stop="20220504093000 -0300" channel="Nueva Imagen">
+    <title lang="es">Arte Universal</title>
+  </programme>
+  <programme start="20220504093000 -0300" stop="20220504100000 -0300" channel="Nueva Imagen">
+    <title lang="es">Creaciones del hombre</title>
+  </programme>
+  <programme start="20220504100000 -0300" stop="20220504103000 -0300" channel="Nueva Imagen">
+    <title lang="es">El show de Porky</title>
+  </programme>
+  <programme start="20220504103000 -0300" stop="20220504110000 -0300" channel="Nueva Imagen">
+    <title lang="es">Don Gato y su pandilla</title>
+  </programme>
+  <programme start="20220504110000 -0300" stop="20220504113000 -0300" channel="Nueva Imagen">
+    <title lang="es">Creaciones del hombre</title>
+  </programme>
+  <programme start="20220504113000 -0300" stop="20220504120000 -0300" channel="Nueva Imagen">
+    <title lang="es">Come bien</title>
+  </programme>
+  <programme start="20220504120000 -0300" stop="20220504123000 -0300" channel="Nueva Imagen">
+    <title lang="es">Talento empresario</title>
+  </programme>
+  <programme start="20220504123000 -0300" stop="20220504130000 -0300" channel="Nueva Imagen">
+    <title lang="es">Política actual</title>
+  </programme>
+  <programme start="20220504130000 -0300" stop="20220504140000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220504140000 -0300" stop="20220504143000 -0300" channel="Nueva Imagen">
+    <title lang="es">Educación de virtudes humanas</title>
+  </programme>
+  <programme start="20220504143000 -0300" stop="20220504150000 -0300" channel="Nueva Imagen">
+    <title lang="es">Creaciones del hombre</title>
+  </programme>
+  <programme start="20220504150000 -0300" stop="20220504153000 -0300" channel="Nueva Imagen">
+    <title lang="es">Come bien</title>
+  </programme>
+  <programme start="20220504153000 -0300" stop="20220504170000 -0300" channel="Nueva Imagen">
+    <title lang="es">Ecofilms</title>
+  </programme>
+  <programme start="20220504170000 -0300" stop="20220504173000 -0300" channel="Nueva Imagen">
+    <title lang="es">Informe NASA</title>
+  </programme>
+  <programme start="20220504173000 -0300" stop="20220504180000 -0300" channel="Nueva Imagen">
+    <title lang="es">Televisión con amigos</title>
+  </programme>
+  <programme start="20220504180000 -0300" stop="20220504183000 -0300" channel="Nueva Imagen">
+    <title lang="es">El show de Porky</title>
+  </programme>
+  <programme start="20220504183000 -0300" stop="20220504190000 -0300" channel="Nueva Imagen">
+    <title lang="es">Don Gato y su pandilla</title>
+  </programme>
+  <programme start="20220504190000 -0300" stop="20220504200000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220504200000 -0300" stop="20220504203000 -0300" channel="Nueva Imagen">
+    <title lang="es">Lucía Iurcovich</title>
+  </programme>
+  <programme start="20220504203000 -0300" stop="20220504210000 -0300" channel="Nueva Imagen">
+    <title lang="es">Rosa crea</title>
+  </programme>
+  <programme start="20220504210000 -0300" stop="20220504213000 -0300" channel="Nueva Imagen">
+    <title lang="es">Política actual</title>
+  </programme>
+  <programme start="20220504213000 -0300" stop="20220504220000 -0300" channel="Nueva Imagen">
+    <title lang="es">Jam Sesion</title>
+  </programme>
+  <programme start="20220504220000 -0300" stop="20220504230000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220504230000 -0300" stop="20220505000000 -0300" channel="Nueva Imagen">
+    <title lang="es">Estando contigo</title>
+  </programme>
+  <programme start="20220505000000 -0300" stop="20220505003000 -0300" channel="Nueva Imagen">
+    <title lang="es">Sexualizados</title>
+  </programme>
+  <programme start="20220505003000 -0300" stop="20220505020000 -0300" channel="Nueva Imagen">
+    <title lang="es">Toni Rovira y tú</title>
+  </programme>
+  <programme start="20220505020000 -0300" stop="20220505050000 -0300" channel="Nueva Imagen">
+    <title lang="es">Cine nocturno</title>
+  </programme>
+  <programme start="20220505050000 -0300" stop="20220505060000 -0300" channel="Nueva Imagen">
+    <title lang="es">Ecofilms</title>
+  </programme>
+  <programme start="20220505060000 -0300" stop="20220505070000 -0300" channel="Nueva Imagen">
+    <title lang="es">Informe UNESCO</title>
+  </programme>
+  <programme start="20220505070000 -0300" stop="20220505073000 -0300" channel="Nueva Imagen">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20220505073000 -0300" stop="20220505080000 -0300" channel="Nueva Imagen">
+    <title lang="es">Ecovida</title>
+  </programme>
+  <programme start="20220505080000 -0300" stop="20220505090000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220505090000 -0300" stop="20220505100000 -0300" channel="Nueva Imagen">
+    <title lang="es">Informe UNESCO</title>
+  </programme>
+  <programme start="20220505100000 -0300" stop="20220505103000 -0300" channel="Nueva Imagen">
+    <title lang="es">El show de Porky</title>
+  </programme>
+  <programme start="20220505103000 -0300" stop="20220505110000 -0300" channel="Nueva Imagen">
+    <title lang="es">Don Gato y su pandilla</title>
+  </programme>
+  <programme start="20220505110000 -0300" stop="20220505123000 -0300" channel="Nueva Imagen">
+    <title lang="es">Por la vida</title>
+  </programme>
+  <programme start="20220505123000 -0300" stop="20220505130000 -0300" channel="Nueva Imagen">
+    <title lang="es">Puro Heavy</title>
+  </programme>
+  <programme start="20220505130000 -0300" stop="20220505140000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220505140000 -0300" stop="20220505150000 -0300" channel="Nueva Imagen">
+    <title lang="es">Entrelazando en Abya Yala</title>
+  </programme>
+  <programme start="20220505150000 -0300" stop="20220505153000 -0300" channel="Nueva Imagen">
+    <title lang="es">Come bien</title>
+  </programme>
+  <programme start="20220505153000 -0300" stop="20220505180000 -0300" channel="Nueva Imagen">
+    <title lang="es">Cine para todos</title>
+  </programme>
+  <programme start="20220505180000 -0300" stop="20220505183000 -0300" channel="Nueva Imagen">
+    <title lang="es">El show de Porky</title>
+  </programme>
+  <programme start="20220505183000 -0300" stop="20220505190000 -0300" channel="Nueva Imagen">
+    <title lang="es">Don Gato y su pandilla</title>
+  </programme>
+  <programme start="20220505190000 -0300" stop="20220505200000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220505200000 -0300" stop="20220505210000 -0300" channel="Nueva Imagen">
+    <title lang="es">Mega Pop</title>
+  </programme>
+  <programme start="20220505210000 -0300" stop="20220505213000 -0300" channel="Nueva Imagen">
+    <title lang="es">Panorama vela</title>
+  </programme>
+  <programme start="20220505213000 -0300" stop="20220505220000 -0300" channel="Nueva Imagen">
+    <title lang="es">Rosa crea</title>
+  </programme>
+  <programme start="20220505220000 -0300" stop="20220506000000 -0300" channel="Nueva Imagen">
+    <title lang="es">Cine nocturno</title>
+  </programme>
+  <programme start="20220506000000 -0300" stop="20220506020000 -0300" channel="Nueva Imagen">
+    <title lang="es">Toni Rovira y tú</title>
+  </programme>
+  <programme start="20220506020000 -0300" stop="20220506050000 -0300" channel="Nueva Imagen">
+    <title lang="es">Cine nocturno</title>
+  </programme>
+  <programme start="20220506050000 -0300" stop="20220506060000 -0300" channel="Nueva Imagen">
+    <title lang="es">Ecofilms</title>
+  </programme>
+  <programme start="20220506060000 -0300" stop="20220506070000 -0300" channel="Nueva Imagen">
+    <title lang="es">Informe UNESCO</title>
+  </programme>
+  <programme start="20220506070000 -0300" stop="20220506073000 -0300" channel="Nueva Imagen">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20220506073000 -0300" stop="20220506080000 -0300" channel="Nueva Imagen">
+    <title lang="es">El jardín viviente</title>
+  </programme>
+  <programme start="20220506080000 -0300" stop="20220506090000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220506090000 -0300" stop="20220506100000 -0300" channel="Nueva Imagen">
+    <title lang="es">Entrelazando en Abya Yala</title>
+  </programme>
+  <programme start="20220506100000 -0300" stop="20220506103000 -0300" channel="Nueva Imagen">
+    <title lang="es">El show de Porky</title>
+  </programme>
+  <programme start="20220506103000 -0300" stop="20220506110000 -0300" channel="Nueva Imagen">
+    <title lang="es">Don Gato y su pandilla</title>
+  </programme>
+  <programme start="20220506110000 -0300" stop="20220506113000 -0300" channel="Nueva Imagen">
+    <title lang="es">El jardín viviente</title>
+  </programme>
+  <programme start="20220506113000 -0300" stop="20220506120000 -0300" channel="Nueva Imagen">
+    <title lang="es">Ecovida</title>
+  </programme>
+  <programme start="20220506120000 -0300" stop="20220506123000 -0300" channel="Nueva Imagen">
+    <title lang="es">Cultura DJ</title>
+  </programme>
+  <programme start="20220506123000 -0300" stop="20220506130000 -0300" channel="Nueva Imagen">
+    <title lang="es">Atando cabos</title>
+  </programme>
+  <programme start="20220506130000 -0300" stop="20220506140000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220506140000 -0300" stop="20220506143000 -0300" channel="Nueva Imagen">
+    <title lang="es">Televisión con amigos</title>
+  </programme>
+  <programme start="20220506143000 -0300" stop="20220506150000 -0300" channel="Nueva Imagen">
+    <title lang="es">Rosa crea</title>
+  </programme>
+  <programme start="20220506150000 -0300" stop="20220506153000 -0300" channel="Nueva Imagen">
+    <title lang="es">Come bien</title>
+  </programme>
+  <programme start="20220506153000 -0300" stop="20220506180000 -0300" channel="Nueva Imagen">
+    <title lang="es">Cine para todos</title>
+  </programme>
+  <programme start="20220506180000 -0300" stop="20220506183000 -0300" channel="Nueva Imagen">
+    <title lang="es">El show de Porky</title>
+  </programme>
+  <programme start="20220506183000 -0300" stop="20220506190000 -0300" channel="Nueva Imagen">
+    <title lang="es">Don Gato y su pandilla</title>
+  </programme>
+  <programme start="20220506190000 -0300" stop="20220506200000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220506200000 -0300" stop="20220506210000 -0300" channel="Nueva Imagen">
+    <title lang="es">Mega Show</title>
+  </programme>
+  <programme start="20220506210000 -0300" stop="20220506213000 -0300" channel="Nueva Imagen">
+    <title lang="es">Atando cabos</title>
+  </programme>
+  <programme start="20220506213000 -0300" stop="20220506220000 -0300" channel="Nueva Imagen">
+    <title lang="es">Jam Sesion</title>
+  </programme>
+  <programme start="20220506220000 -0300" stop="20220507000000 -0300" channel="Nueva Imagen">
+    <title lang="es">Cine nocturno</title>
+  </programme>
+  <programme start="20220507000000 -0300" stop="20220507020000 -0300" channel="Nueva Imagen">
+    <title lang="es">Toni Rovira y tú</title>
+  </programme>
+  <programme start="20220507020000 -0300" stop="20220507023000 -0300" channel="Nueva Imagen">
+    <title lang="es">Televisión con amigos</title>
+  </programme>
+  <programme start="20220507023000 -0300" stop="20220507030000 -0300" channel="Nueva Imagen">
+    <title lang="es">Mejor cada día - Familia</title>
+  </programme>
+  <programme start="20220507030000 -0300" stop="20220507040000 -0300" channel="Nueva Imagen">
+    <title lang="es">Entrelazando en Abya Yala</title>
+  </programme>
+  <programme start="20220507040000 -0300" stop="20220507043000 -0300" channel="Nueva Imagen">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20220507043000 -0300" stop="20220507050000 -0300" channel="Nueva Imagen">
+    <title lang="es">CTA presenta</title>
+  </programme>
+  <programme start="20220507050000 -0300" stop="20220507070000 -0300" channel="Nueva Imagen">
+    <title lang="es">Cine católico</title>
+  </programme>
+  <programme start="20220507070000 -0300" stop="20220507073000 -0300" channel="Nueva Imagen">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20220507073000 -0300" stop="20220507080000 -0300" channel="Nueva Imagen">
+    <title lang="es">CTA presenta</title>
+  </programme>
+  <programme start="20220507080000 -0300" stop="20220507090000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220507090000 -0300" stop="20220507093000 -0300" channel="Nueva Imagen">
+    <title lang="es">Creaciones del hombre</title>
+  </programme>
+  <programme start="20220507093000 -0300" stop="20220507100000 -0300" channel="Nueva Imagen">
+    <title lang="es">Mejor cada día - Familia</title>
+  </programme>
+  <programme start="20220507100000 -0300" stop="20220507103000 -0300" channel="Nueva Imagen">
+    <title lang="es">El show de Porky</title>
+  </programme>
+  <programme start="20220507103000 -0300" stop="20220507110000 -0300" channel="Nueva Imagen">
+    <title lang="es">Don Gato y su pandilla</title>
+  </programme>
+  <programme start="20220507110000 -0300" stop="20220507113000 -0300" channel="Nueva Imagen">
+    <title lang="es">Ecovida</title>
+  </programme>
+  <programme start="20220507113000 -0300" stop="20220507120000 -0300" channel="Nueva Imagen">
+    <title lang="es">Come bien</title>
+  </programme>
+  <programme start="20220507120000 -0300" stop="20220507130000 -0300" channel="Nueva Imagen">
+    <title lang="es">Informe UNESCO</title>
+  </programme>
+  <programme start="20220507130000 -0300" stop="20220507140000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220507140000 -0300" stop="20220507143000 -0300" channel="Nueva Imagen">
+    <title lang="es">Mejor cada día - Familia</title>
+  </programme>
+  <programme start="20220507143000 -0300" stop="20220507150000 -0300" channel="Nueva Imagen">
+    <title lang="es">Ecovida</title>
+  </programme>
+  <programme start="20220507150000 -0300" stop="20220507153000 -0300" channel="Nueva Imagen">
+    <title lang="es">Come bien</title>
+  </programme>
+  <programme start="20220507153000 -0300" stop="20220507160000 -0300" channel="Nueva Imagen">
+    <title lang="es">Informe NASA</title>
+  </programme>
+  <programme start="20220507160000 -0300" stop="20220507163000 -0300" channel="Nueva Imagen">
+    <title lang="es">Creaciones del hombre</title>
+  </programme>
+  <programme start="20220507163000 -0300" stop="20220507170000 -0300" channel="Nueva Imagen">
+    <title lang="es">Arte Universal</title>
+  </programme>
+  <programme start="20220507170000 -0300" stop="20220507173000 -0300" channel="Nueva Imagen">
+    <title lang="es">El jardín viviente</title>
+  </programme>
+  <programme start="20220507173000 -0300" stop="20220507180000 -0300" channel="Nueva Imagen">
+    <title lang="es">Mejor cada día - Familia</title>
+  </programme>
+  <programme start="20220507180000 -0300" stop="20220507183000 -0300" channel="Nueva Imagen">
+    <title lang="es">El show de Porky</title>
+  </programme>
+  <programme start="20220507183000 -0300" stop="20220507190000 -0300" channel="Nueva Imagen">
+    <title lang="es">Don Gato y su pandilla</title>
+  </programme>
+  <programme start="20220507190000 -0300" stop="20220507200000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220507200000 -0300" stop="20220507203000 -0300" channel="Nueva Imagen">
+    <title lang="es">Mejor cada día - Familia</title>
+  </programme>
+  <programme start="20220507203000 -0300" stop="20220507210000 -0300" channel="Nueva Imagen">
+    <title lang="es">Haciendo familia</title>
+  </programme>
+  <programme start="20220507210000 -0300" stop="20220507220000 -0300" channel="Nueva Imagen">
+    <title lang="es">Entrelazando en Abya Yala</title>
+  </programme>
+  <programme start="20220507220000 -0300" stop="20220507230000 -0300" channel="Nueva Imagen">
+    <title lang="es">Tierra de sueños</title>
+  </programme>
+  <programme start="20220507230000 -0300" stop="20220508000000 -0300" channel="Nueva Imagen">
+    <title lang="es">Informe UNESCO</title>
   </programme>
   <programme start="20220504000000 -0300" stop="20220504010000 -0300" channel="Canal Orbe 21">
     <title lang="es">Biblia, diálogo vigente</title>
@@ -44804,13 +46683,521 @@
   <programme start="20220507233000 -0300" stop="20220508000000 -0300" channel="VIAJAR">
     <title lang="es">Especiales</title>
   </programme>
-  <programme start="20220504154000 -0300" stop="20220504163000 -0300" channel="Love Nature HD">
-    <title lang="es">Aves silvestres de Australia</title>
-    <desc lang="es">Conoce la historia de Harry y Sally, un par de pingüinos azules. Estas aves no voladoras y con aletas crean vecindades de las más ruidosas de la naturaleza.(n)</desc>
+  <programme start="20220504000000 -0300" stop="20220504003000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
   </programme>
-  <programme start="20220504163000 -0300" stop="20220504172000 -0300" channel="Love Nature HD">
-    <title lang="es">Aves silvestres de Australia</title>
-    <desc lang="es">Conoce a un Emú macho que se prepara para los meses de escasez, luego de la temporada de apareamiento.(n)</desc>
+  <programme start="20220504003000 -0300" stop="20220504010000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220504010000 -0300" stop="20220504013000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220504013000 -0300" stop="20220504020000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220504020000 -0300" stop="20220504030000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220504030000 -0300" stop="20220504033000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220504033000 -0300" stop="20220504040000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220504040000 -0300" stop="20220504043000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220504043000 -0300" stop="20220504050000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220504050000 -0300" stop="20220504053000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220504053000 -0300" stop="20220504060000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220504060000 -0300" stop="20220504063000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220504063000 -0300" stop="20220504070000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220504070000 -0300" stop="20220504073000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220504073000 -0300" stop="20220504080000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220504080000 -0300" stop="20220504090000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220504090000 -0300" stop="20220504093000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220504093000 -0300" stop="20220504100000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220504100000 -0300" stop="20220504103000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220504103000 -0300" stop="20220504110000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220504110000 -0300" stop="20220504113000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220504113000 -0300" stop="20220504120000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220504120000 -0300" stop="20220504123000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220504123000 -0300" stop="20220504130000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220504130000 -0300" stop="20220504133000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220504133000 -0300" stop="20220504140000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220504140000 -0300" stop="20220504150000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220504150000 -0300" stop="20220504153000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220504153000 -0300" stop="20220504160000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220504160000 -0300" stop="20220504163000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220504163000 -0300" stop="20220504170000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220504170000 -0300" stop="20220504173000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220504173000 -0300" stop="20220504180000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220504180000 -0300" stop="20220504183000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220504183000 -0300" stop="20220504190000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220504190000 -0300" stop="20220504193000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220504193000 -0300" stop="20220504200000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220504200000 -0300" stop="20220504210000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220504210000 -0300" stop="20220504213000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220504213000 -0300" stop="20220504220000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220504220000 -0300" stop="20220504223000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220504223000 -0300" stop="20220504230000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220504230000 -0300" stop="20220504233000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220504233000 -0300" stop="20220505000000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220505000000 -0300" stop="20220505003000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220505003000 -0300" stop="20220505010000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220505010000 -0300" stop="20220505013000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220505013000 -0300" stop="20220505020000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220505020000 -0300" stop="20220505030000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220505030000 -0300" stop="20220505033000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220505033000 -0300" stop="20220505040000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220505040000 -0300" stop="20220505043000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220505043000 -0300" stop="20220505050000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220505050000 -0300" stop="20220505053000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220505053000 -0300" stop="20220505060000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220505060000 -0300" stop="20220505063000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220505063000 -0300" stop="20220505070000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220505070000 -0300" stop="20220505073000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220505073000 -0300" stop="20220505080000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220505080000 -0300" stop="20220505090000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220505090000 -0300" stop="20220505093000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220505093000 -0300" stop="20220505100000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220505100000 -0300" stop="20220505103000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220505103000 -0300" stop="20220505110000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220505110000 -0300" stop="20220505113000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220505113000 -0300" stop="20220505120000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220505120000 -0300" stop="20220505123000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220505123000 -0300" stop="20220505130000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220505130000 -0300" stop="20220505133000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220505133000 -0300" stop="20220505140000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220505140000 -0300" stop="20220505150000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220505150000 -0300" stop="20220505153000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220505153000 -0300" stop="20220505160000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220505160000 -0300" stop="20220505163000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220505163000 -0300" stop="20220505170000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220505170000 -0300" stop="20220505173000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220505173000 -0300" stop="20220505180000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220505180000 -0300" stop="20220505183000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220505183000 -0300" stop="20220505190000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220505190000 -0300" stop="20220505193000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220505193000 -0300" stop="20220505200000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220505200000 -0300" stop="20220505210000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220505210000 -0300" stop="20220505213000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220505213000 -0300" stop="20220505220000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220505220000 -0300" stop="20220505223000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220505223000 -0300" stop="20220505230000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220505230000 -0300" stop="20220505233000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220505233000 -0300" stop="20220506000000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220506000000 -0300" stop="20220506003000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220506003000 -0300" stop="20220506010000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220506010000 -0300" stop="20220506013000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220506013000 -0300" stop="20220506020000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220506020000 -0300" stop="20220506030000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220506030000 -0300" stop="20220506033000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220506033000 -0300" stop="20220506040000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220506040000 -0300" stop="20220506043000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220506043000 -0300" stop="20220506050000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220506050000 -0300" stop="20220506053000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220506053000 -0300" stop="20220506060000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220506060000 -0300" stop="20220506063000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220506063000 -0300" stop="20220506070000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220506070000 -0300" stop="20220506073000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220506073000 -0300" stop="20220506080000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220506080000 -0300" stop="20220506090000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220506090000 -0300" stop="20220506093000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220506093000 -0300" stop="20220506100000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220506100000 -0300" stop="20220506103000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220506103000 -0300" stop="20220506110000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220506110000 -0300" stop="20220506113000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220506113000 -0300" stop="20220506120000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220506120000 -0300" stop="20220506123000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220506123000 -0300" stop="20220506130000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220506130000 -0300" stop="20220506133000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220506133000 -0300" stop="20220506140000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220506140000 -0300" stop="20220506150000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220506150000 -0300" stop="20220506153000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220506153000 -0300" stop="20220506160000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220506160000 -0300" stop="20220506163000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220506163000 -0300" stop="20220506170000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220506170000 -0300" stop="20220506173000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220506173000 -0300" stop="20220506180000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220506180000 -0300" stop="20220506183000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220506183000 -0300" stop="20220506190000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220506190000 -0300" stop="20220506193000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220506193000 -0300" stop="20220506200000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220506200000 -0300" stop="20220506210000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220506210000 -0300" stop="20220506211500 -0300" channel="WOBI">
+    <title lang="es">World Changing Agencies</title>
+  </programme>
+  <programme start="20220506211500 -0300" stop="20220506213000 -0300" channel="WOBI">
+    <title lang="es">World Changing Agencies</title>
+  </programme>
+  <programme start="20220506213000 -0300" stop="20220506220000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220506220000 -0300" stop="20220506223000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220506223000 -0300" stop="20220506230000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220506230000 -0300" stop="20220506233000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220506233000 -0300" stop="20220507000000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220507000000 -0300" stop="20220507003000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220507003000 -0300" stop="20220507010000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220507010000 -0300" stop="20220507013000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220507013000 -0300" stop="20220507020000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220507020000 -0300" stop="20220507030000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220507030000 -0300" stop="20220507031500 -0300" channel="WOBI">
+    <title lang="es">World Changing Agencies</title>
+  </programme>
+  <programme start="20220507031500 -0300" stop="20220507033000 -0300" channel="WOBI">
+    <title lang="es">World Changing Agencies</title>
+  </programme>
+  <programme start="20220507033000 -0300" stop="20220507040000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220507040000 -0300" stop="20220507043000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220507043000 -0300" stop="20220507050000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220507050000 -0300" stop="20220507053000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220507053000 -0300" stop="20220507060000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220507060000 -0300" stop="20220507063000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220507063000 -0300" stop="20220507070000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220507070000 -0300" stop="20220507073000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220507073000 -0300" stop="20220507080000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220507080000 -0300" stop="20220507090000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220507090000 -0300" stop="20220507091500 -0300" channel="WOBI">
+    <title lang="es">World Changing Agencies</title>
+  </programme>
+  <programme start="20220507091500 -0300" stop="20220507093000 -0300" channel="WOBI">
+    <title lang="es">World Changing Agencies</title>
+  </programme>
+  <programme start="20220507093000 -0300" stop="20220507100000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220507100000 -0300" stop="20220507103000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220507103000 -0300" stop="20220507110000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220507110000 -0300" stop="20220507113000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220507113000 -0300" stop="20220507120000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220507120000 -0300" stop="20220507123000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220507123000 -0300" stop="20220507130000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220507130000 -0300" stop="20220507133000 -0300" channel="WOBI">
+    <title lang="es">Ad Factory</title>
+  </programme>
+  <programme start="20220507133000 -0300" stop="20220507140000 -0300" channel="WOBI">
+    <title lang="es">Innovation Lab</title>
+  </programme>
+  <programme start="20220507140000 -0300" stop="20220507150000 -0300" channel="WOBI">
+    <title lang="es">Revolution</title>
+  </programme>
+  <programme start="20220507150000 -0300" stop="20220507151500 -0300" channel="WOBI">
+    <title lang="es">World Changing Agencies</title>
+  </programme>
+  <programme start="20220507151500 -0300" stop="20220507153000 -0300" channel="WOBI">
+    <title lang="es">World Changing Agencies</title>
+  </programme>
+  <programme start="20220507153000 -0300" stop="20220507160000 -0300" channel="WOBI">
+    <title lang="es">World Innovation Enterprises</title>
+  </programme>
+  <programme start="20220507160000 -0300" stop="20220507163000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220507163000 -0300" stop="20220507170000 -0300" channel="WOBI">
+    <title lang="es">Experts in Seven</title>
+  </programme>
+  <programme start="20220507170000 -0300" stop="20220507173000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220507173000 -0300" stop="20220507180000 -0300" channel="WOBI">
+    <title lang="es">Ideas on Stage</title>
+  </programme>
+  <programme start="20220507180000 -0300" stop="20220507183000 -0300" channel="WOBI">
+    <title lang="es">Spotlight</title>
+  </programme>
+  <programme start="20220507183000 -0300" stop="20220507200000 -0300" channel="WOBI">
+    <title lang="es">On the Record</title>
+  </programme>
+  <programme start="20220507200000 -0300" stop="20220508000000 -0300" channel="WOBI">
+    <title lang="es">WOBI</title>
   </programme>
   <programme start="20220504172000 -0300" stop="20220504181000 -0300" channel="Love Nature HD">
     <title lang="es">Aves silvestres de Australia</title>
