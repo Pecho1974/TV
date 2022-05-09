@@ -223,6 +223,8 @@ https://edge6-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Can
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 tvg-id="La Rai" tvg-name="La Rai" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/La Rai.png" group-title="Internacional",La Rai
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RT.png" group-title="Internacional",RT
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesur.png" group-title="Internacional",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde" tvg-name="TV5 Monde" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV5 Monde.png" group-title="Internacional",TV5 Monde
@@ -269,10 +271,36 @@ https://edge-vod02-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Acequia.png" group-title="Regionales",Acequia
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0219
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 10 Rio Negro.png" group-title="Regionales",Canal 10 Rio Negro
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 10 San Rafael.png" group-title="Regionales",Canal 10 San Rafael
+https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 13 Max (Corrientes).png" group-title="Regionales",Canal 13 Max (Corrientes)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w1430702926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 6 Posadas.png" group-title="Regionales",Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 9 Televida.png" group-title="Regionales",Canal 9 Televida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canaltrece San Luis.png" group-title="Regionales",Canaltrece San Luis
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Diez Mar del Plata.png" group-title="Regionales",Diez Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Doce Misiones.png" group-title="Regionales",Doce Misiones
+https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Mercedes Television.png" group-title="Regionales",Mercedes Television
+https://stmvideo1.livecastv.com/mercedestv/mercedestv/chunklist_w1554618817.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Multivision Federal.png" group-title="Regionales",Multivision Federal
 https://panel.dattalive.com/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telefe Cordoba.png" group-title="Regionales",Telefe Cordoba
+https://tlfcapitalhls-lh.akamaihd.net/i/telefecanal8cordoba_1@685726/master.m3u8?hdnea=st=1652054775~exp=1652231175~acl=/i/telefecanal8cordoba_1@685726/*~hmac=db20800cbac07d4a1ad0571e5cd78831de74f246915ceeee3e9bac6e5412f5a9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesol San Juan.png" group-title="Regionales",Telesol San Juan
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telpin.png" group-title="Regionales",Telpin
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Publica Fueguina.png" group-title="Regionales",TV Publica Fueguina
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TVdos Salta.png" group-title="Regionales",TVdos Salta
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1 tvg-id="Argentinisima" tvg-name="Argentinisima" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Argentinisima.png" group-title="Variedades",Argentinisima
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Rural.png" group-title="Variedades",Canal Rural
