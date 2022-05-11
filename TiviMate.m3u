@@ -67,6 +67,8 @@ https://edge5-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1 tvg-id="America Sports" tvg-name="America Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/America Sports.png" group-title="Deportes",America Sports
 https://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Channel Fight.png" group-title="Deportes",Channel Fight
+https://stream.ads.ottera.tv/cl/32484e7f-e577-475f-b2a5-1207bf86675b/1280x720_2300000_4_false.m3u8
 #EXTINF:-1 tvg-id="DEPORTV" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/DEPORTV.png" group-title="Deportes",DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w444302302.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Directv Sports.png" group-title="Deportes",Directv Sports
@@ -225,10 +227,14 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RT.png" group-title="Internacional",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RTP.png" group-title="Internacional",RTP
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesur.png" group-title="Internacional",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde" tvg-name="TV5 Monde" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV5 Monde.png" group-title="Internacional",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TVI Internacional.png" group-title="Internacional",TVI Internacional
+https://video-auth4.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=254607991&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDEyOjE6NTUgQU0maGFzaF92YWx1ZT1FV0x2RHFIeVBVaGw5bTVtZlZEYnl3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTA2ZWE5NjAtMWY4Yi00YTljLTk1ZTItNTUxYjI0ZTVhNTdk
 #EXTINF:-1 tvg-id="UCL" tvg-name="UCL" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/UCL.png" group-title="Internacional",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Usa Today.png" group-title="Internacional",Usa Today
