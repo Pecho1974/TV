@@ -237,7 +237,7 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="La Rai" tvg-name="La Rai" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/La Rai.png" group-title="Internacional",La Rai
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RT.png" group-title="Internacional",RT
+#EXTINF:-1 tvg-id="RT en español" tvg-name="RT en español" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RT en español.png" group-title="Internacional",RT en español
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RTP.png" group-title="Internacional",RTP
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -247,7 +247,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV5 Monde" tvg-name="TV5 Monde" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV5 Monde.png" group-title="Internacional",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TVG America.png" group-title="Internacional",TVG America
+#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV Galicia" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Galicia.png" group-title="Internacional",TV Galicia
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="UCL" tvg-name="UCL" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/UCL.png" group-title="Internacional",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
@@ -347,7 +347,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w13374
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Doce Misiones.png" group-title="Regionales",Doce Misiones
 https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Once (Parana).png" group-title="Regionales",El Once (Parana)
+#EXTINF:-1 tvg-id="CANAL 11 PARANÁ" tvg-name="CANAL 11 PARANÁ" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL 11 PARANÁ.png" group-title="Regionales",CANAL 11 PARANÁ
 https://elonceovh.elonce.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Palomar TV Tucuman.png" group-title="Regionales",El Palomar TV Tucuman
 http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
@@ -385,6 +385,8 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1 tvg-id="Argentinisima" tvg-name="Argentinisima" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Argentinisima.png" group-title="Variedades",Argentinisima
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
+#EXTINF:-1 tvg-id="CANAL LUZ" tvg-name="CANAL LUZ" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL LUZ.png" group-title="Variedades",CANAL LUZ
+https://edge-vod02-sl.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_SAGEMCOM/CANAL_LUZ.m3u8
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Rural.png" group-title="Variedades",Canal Rural
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Canal_Rural/SA_SAGEMCOM/Canal_Rural.m3u8
 #EXTINF:-1 tvg-id="Canal Santa Maria" tvg-name="Canal Santa Maria" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Santa Maria.png" group-title="Variedades",Canal Santa Maria
@@ -393,13 +395,13 @@ https://streaming.telered.com.ar/santa-maria/streaming/mystreamSantaMariaHSMed.m
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Enlace Juvenil TV.png" group-title="Variedades",Enlace Juvenil TV
 https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Enlace TV.png" group-title="Variedades",Enlace TV
+#EXTINF:-1 tvg-id="ENLACE TBN" tvg-name="ENLACE TBN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ENLACE TBN.png" group-title="Variedades",ENLACE TBN
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/EWTN.png" group-title="Variedades",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Nueva Imagen" tvg-name="Nueva Imagen" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nueva Imagen.png" group-title="Variedades",Nueva Imagen
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nuevo Tiempo.png" group-title="Variedades",Nuevo Tiempo
+#EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="NUEVO TIEMPO" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NUEVO TIEMPO.png" group-title="Variedades",NUEVO TIEMPO
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Orbe 21" tvg-name="Canal Orbe 21" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Orbe 21.png" group-title="Variedades",Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
