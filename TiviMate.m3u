@@ -109,8 +109,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TyC Sports.png" group-title="Deportes",TyC Sports
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes",UFC
-https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/hdntl=exp=1652616325~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/*~data=hdntl~hmac=39bea54d53df0cca20101bd0eadef94078f405bc11f5e214c37a4c7ae31f2754/start/1652562000/index_9.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ANIMAL PLANET HD.png" group-title="Documentales",ANIMAL PLANET HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Channel.png" group-title="Documentales",Discovery Channel
@@ -211,6 +209,8 @@ https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Internacional",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Antena 3" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Antena 3.png" group-title="Internacional",Antena 3
+https://duznbfgtsfjukwpw.wzcdn654.net:8443/hls/bubawn6gg.m3u8?s=fJmEjrLLWvg_NeETsGgPYg&e=1652636500
 #EXTINF:-1 tvg-id="Arirang Tv" tvg-name="Arirang Tv" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Arirang Tv.png" group-title="Internacional",Arirang Tv
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/BBC.png" group-title="Internacional",BBC
@@ -349,7 +349,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w13374
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Doce Misiones.png" group-title="Regionales",Doce Misiones
 https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="CANAL 11 PARANÁ" tvg-name="CANAL 11 PARANÁ" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL 11 PARANÁ.png" group-title="Regionales",CANAL 11 PARANÁ
+#EXTINF:-1 tvg-id="CANAL 11 PARANA" tvg-name="CANAL 11 PARANA" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL 11 PARANA.png" group-title="Regionales",CANAL 11 PARANA
 https://elonceovh.elonce.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Palomar TV Tucuman.png" group-title="Regionales",El Palomar TV Tucuman
 http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8
