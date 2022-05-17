@@ -240,7 +240,7 @@ https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rain
 #EXTINF:-1 tvg-id="RT en español" tvg-name="RT en español" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RT en español.png" group-title="Internacional",RT en español
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RTP Internacional.png" group-title="Internacional",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telesur.png" group-title="Internacional",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TRT.png" group-title="Internacional",TRT
@@ -311,6 +311,8 @@ https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 13 Max (Corrientes).png" group-title="Regionales",Canal 13 Max (Corrientes)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/chunklist_w1430702926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 22.png" group-title="Regionales",Canal 22
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 3 Rosario.png" group-title="Regionales",Canal 3 Rosario
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 34 San Juan.png" group-title="Regionales",Canal 34 San Juan
@@ -345,7 +347,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w13374
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Doce Misiones.png" group-title="Regionales",Doce Misiones
 https://g3.vxral-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
-#EXTINF:-1 tvg-id="CANAL 11 PARANA" tvg-name="CANAL 11 PARANA" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL 11 PARANA.png" group-title="Regionales",CANAL 11 PARANA
+#EXTINF:-1 tvg-id="elonce" tvg-name="elonce" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/elonce.png" group-title="Regionales",elonce
 https://elonceovh.elonce.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Palomar TV Tucuman.png" group-title="Regionales",El Palomar TV Tucuman
 http://video.streamtvradio.com:8081/uv038/uv038/playlist.m3u8

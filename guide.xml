@@ -668,9 +668,9 @@
     <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/634.png" />
     <url>http://www.tcc.com.uy</url>
   </channel>
-  <channel id="CANAL 11 PARANA">
-    <display-name lang="es">CANAL 11 PARANA</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL 11 PARANA.png" />
+  <channel id="elonce">
+    <display-name lang="es">elonce</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/elonce.png" />
     <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
     <url>http://www.reportvMulti.com.ar</url>
   </channel>
@@ -68927,26 +68927,6 @@
   <programme start="20220521120000 -0300" stop="20220522000000 -0300" channel="WOBI">
     <title lang="es">WOBI</title>
   </programme>
-  <programme start="20220516113500 -0300" stop="20220516132000 -0300" channel="A3 Cine HD">
-    <title lang="es">Marta y alrededores</title>
-    <desc lang="es">Un grupo de amigos un día se reúnen en casa de Julio, uno de ellos, para ayudarle a pintarla. Durante las horas que están juntos, salen a relucir sus problemas, sus envidias, sus fracasos, y sus rencillas.(n)</desc>
-  </programme>
-  <programme start="20220516132000 -0300" stop="20220516145000 -0300" channel="A3 Cine HD">
-    <title lang="es">El factor Pilgrim</title>
-    <desc lang="es">Francisco es un ciudadano español que lleva años viviendo en Londres, un día le ofrecen una gran cantidad de dinero por una barajita que compró en un mercadillo de barrio. Francisco sospecha que vale más, así que comienza una investigación.(n)</desc>
-  </programme>
-  <programme start="20220516145000 -0300" stop="20220516162000 -0300" channel="A3 Cine HD">
-    <title lang="es">Tramontana</title>
-    <desc lang="es">En el siglo XIII y ante la desolación y la miseria que azota a un poblado de los Pirineos, los habitantes del lugar emprenden una larga marcha hacia Valencia, región que consideran la Tierra Prometida.(n)</desc>
-  </programme>
-  <programme start="20220516162000 -0300" stop="20220516180000 -0300" channel="A3 Cine HD">
-    <title lang="es">Edipo alcalde</title>
-    <desc lang="es">Un alcalde es enviado a un pueblo conflictivo de la cordillera andina como representante de la autoridad civil. Allí debe emprender un diálogo entre las partes que se enfrentan violentamente.(n)</desc>
-  </programme>
-  <programme start="20220516180000 -0300" stop="20220516195000 -0300" channel="A3 Cine HD">
-    <title lang="es">La vida que te espera</title>
-    <desc lang="es">En los valles del norte de España se desata una disputa mortal: Gildo mata a su vecino por una vaca. Al entierro de la víctima llega el hijo del difunto, Rai, quien se siente atraído por Val, la hija del asesino de su padre.(n)</desc>
-  </programme>
   <programme start="20220516195000 -0300" stop="20220516214000 -0300" channel="A3 Cine HD">
     <title lang="es">La suerte dormida</title>
     <desc lang="es">Amparo, una mujer que huye del dolor causado por una traumática pérdida en el pasado, se refugia en una rutina de trabajo y vida sin sobresaltos.(n)</desc>
@@ -69234,41 +69214,6 @@
   <programme start="20220521214000 -0300" stop="20220521233000 -0300" channel="A3 Cine HD">
     <title lang="es">La lengua de las mariposas</title>
     <desc lang="es">Los valores y principios que Don Gregorio, un maestro de pensamiento liberal y antifascista le ha inculcado a Moncho, su pequeño alumno, se verán truncados con el inicio de la Guerra Civil española.(n)</desc>
-  </programme>
-  <programme start="20220516122000 -0300" stop="20220516131000 -0300" channel="Love Nature HD">
-    <title lang="es">Nómadas del Serengueti</title>
-    <desc lang="es">Pocas personas conocen el Parque Nacional del Serengueti como Jean Du Plessis, un guía con más de veinte años de experiencia. De la mano de este experto se mostrará en profundidad uno de los lugares más espectaculares del planeta.(n)</desc>
-  </programme>
-  <programme start="20220516131000 -0300" stop="20220516140000 -0300" channel="Love Nature HD">
-    <title lang="es">Tierra de primates</title>
-    <desc lang="es">Visitamos las tierras salvajes de Sudáfrica para tener una mirada íntima de uno de los primates más incomprendidos del continente.(n)</desc>
-  </programme>
-  <programme start="20220516140000 -0300" stop="20220516145000 -0300" channel="Love Nature HD">
-    <title lang="es">Rescate de vida silvestre de Malawi</title>
-    <desc lang="es">Sigue los esfuerzos de la jefa de veterinaria Amanda Salb y el equipo del único centro de rescate de animales de Malawi, que se dedican a salvar animales heridos y huérfanos para devolverlos a la naturaleza.(n)</desc>
-  </programme>
-  <programme start="20220516145000 -0300" stop="20220516154000 -0300" channel="Love Nature HD">
-    <title lang="es">Un año salvaje de África</title>
-    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
-  </programme>
-  <programme start="20220516154000 -0300" stop="20220516163000 -0300" channel="Love Nature HD">
-    <title lang="es">Un año salvaje de África</title>
-    <desc lang="es">La espectacular biodiversidad de África se extiende a través de una vasta y numerosa red de ecosistemas. Explore el increíble paisaje del continente y la fauna única que llama hogar a sus diferentes entornos.(n)</desc>
-  </programme>
-  <programme start="20220516163000 -0300" stop="20220516172000 -0300" channel="Love Nature HD">
-    <title lang="es">Grandes parques de África</title>
-    <desc lang="es">Aquí, la vida silvestre prospera en entornos naturales impresionantes. Viaje a través de algunos de los más espectaculares.(n)</desc>
-  </programme>
-  <programme start="20220516172000 -0300" stop="20220516181000 -0300" channel="Love Nature HD">
-    <title lang="es">Grandes parques de África</title>
-    <desc lang="es">Aquí, la vida silvestre prospera en entornos naturales impresionantes. Viaje a través de algunos de los más espectaculares.(n)</desc>
-  </programme>
-  <programme start="20220516181000 -0300" stop="20220516184000 -0300" channel="Love Nature HD">
-    <title lang="es">Extrañas criaturas</title>
-  </programme>
-  <programme start="20220516184000 -0300" stop="20220516193000 -0300" channel="Love Nature HD">
-    <title lang="es">Nómadas del Serengueti</title>
-    <desc lang="es">Pocas personas conocen el Parque Nacional del Serengueti como Jean Du Plessis, un guía con más de veinte años de experiencia. De la mano de este experto se mostrará en profundidad uno de los lugares más espectaculares del planeta.(n)</desc>
   </programme>
   <programme start="20220516193000 -0300" stop="20220516202000 -0300" channel="Love Nature HD">
     <title lang="es">Tierra de primates</title>
@@ -69859,65 +69804,6 @@
   <programme start="20220521225000 -0300" stop="20220521234000 -0300" channel="Love Nature HD">
     <title lang="es">Montañas salvajes</title>
     <desc lang="es">Los lagos, ríos y pantanos de las Montañas Rocosas son como arterias que pulsan a través del paisaje, alimentando a las criaturas que llaman hogar a las montañas.(n)</desc>
-  </programme>
-  <programme start="20220516120000 -0300" stop="20220516123000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220516123000 -0300" stop="20220516130000 -0300" channel="RT en español">
-    <title lang="es">Odio en la red</title>
-  </programme>
-  <programme start="20220516130000 -0300" stop="20220516133000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220516133000 -0300" stop="20220516140000 -0300" channel="RT en español">
-    <title lang="es">Entrevista. Nacho Duato</title>
-    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.(n)</desc>
-  </programme>
-  <programme start="20220516140000 -0300" stop="20220516143000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220516143000 -0300" stop="20220516150000 -0300" channel="RT en español">
-    <title lang="es">China: la restauración de la naturaleza</title>
-  </programme>
-  <programme start="20220516150000 -0300" stop="20220516153000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220516153000 -0300" stop="20220516160000 -0300" channel="RT en español">
-    <title lang="es">Odio en la red</title>
-  </programme>
-  <programme start="20220516160000 -0300" stop="20220516163000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220516163000 -0300" stop="20220516170000 -0300" channel="RT en español">
-    <title lang="es">Entrevista. Nacho Duato</title>
-    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.(n)</desc>
-  </programme>
-  <programme start="20220516170000 -0300" stop="20220516173000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220516173000 -0300" stop="20220516180000 -0300" channel="RT en español">
-    <title lang="es">China: la restauración de la naturaleza</title>
-  </programme>
-  <programme start="20220516180000 -0300" stop="20220516183000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220516183000 -0300" stop="20220516190000 -0300" channel="RT en español">
-    <title lang="es">Odio en la red</title>
-  </programme>
-  <programme start="20220516190000 -0300" stop="20220516193000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220516193000 -0300" stop="20220516200000 -0300" channel="RT en español">
-    <title lang="es">Entrevista. Nacho Duato</title>
-    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.(n)</desc>
   </programme>
   <programme start="20220516200000 -0300" stop="20220516203000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70522,7 +70408,7 @@
     <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
   </programme>
   <programme start="20220520093000 -0300" stop="20220520100000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220520100000 -0300" stop="20220520103000 -0300" channel="RT en español">
     <title lang="es">China: la restauración de la naturaleza</title>
@@ -70536,7 +70422,7 @@
     <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
   </programme>
   <programme start="20220520113000 -0300" stop="20220520120000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220520120000 -0300" stop="20220520123000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70558,7 +70444,7 @@
     <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
   </programme>
   <programme start="20220520143000 -0300" stop="20220520150000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220520150000 -0300" stop="20220520153000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70580,7 +70466,7 @@
     <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
   </programme>
   <programme start="20220520173000 -0300" stop="20220520180000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220520180000 -0300" stop="20220520183000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70602,7 +70488,7 @@
     <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
   </programme>
   <programme start="20220520203000 -0300" stop="20220520210000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220520210000 -0300" stop="20220520213000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70624,7 +70510,7 @@
     <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
   </programme>
   <programme start="20220520233000 -0300" stop="20220521000000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521000000 -0300" stop="20220521003000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70634,7 +70520,7 @@
     <title lang="es">China: la restauración de la naturaleza</title>
   </programme>
   <programme start="20220521010000 -0300" stop="20220521013000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521013000 -0300" stop="20220521020000 -0300" channel="RT en español">
     <title lang="es">China: la restauración de la naturaleza</title>
@@ -70644,7 +70530,7 @@
     <desc lang="es">Cuando Iván decidió adoptar un cachorro de lobo y llevárselo a vivir con él y su hija a la ciudad, su vida cambió por completo.(n)</desc>
   </programme>
   <programme start="20220521023000 -0300" stop="20220521030000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521030000 -0300" stop="20220521033000 -0300" channel="RT en español">
     <title lang="es">China: la restauración de la naturaleza</title>
@@ -70654,7 +70540,7 @@
     <desc lang="es">Cuando Iván decidió adoptar un cachorro de lobo y llevárselo a vivir con él y su hija a la ciudad, su vida cambió por completo.(n)</desc>
   </programme>
   <programme start="20220521040000 -0300" stop="20220521043000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521043000 -0300" stop="20220521050000 -0300" channel="RT en español">
     <title lang="es">China: la restauración de la naturaleza</title>
@@ -70664,7 +70550,7 @@
     <desc lang="es">Cuando Iván decidió adoptar un cachorro de lobo y llevárselo a vivir con él y su hija a la ciudad, su vida cambió por completo.(n)</desc>
   </programme>
   <programme start="20220521053000 -0300" stop="20220521060000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521060000 -0300" stop="20220521063000 -0300" channel="RT en español">
     <title lang="es">China: la restauración de la naturaleza</title>
@@ -70674,7 +70560,7 @@
     <desc lang="es">Cuando Iván decidió adoptar un cachorro de lobo y llevárselo a vivir con él y su hija a la ciudad, su vida cambió por completo.(n)</desc>
   </programme>
   <programme start="20220521070000 -0300" stop="20220521073000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521073000 -0300" stop="20220521080000 -0300" channel="RT en español">
     <title lang="es">China: la restauración de la naturaleza</title>
@@ -70684,7 +70570,7 @@
     <desc lang="es">En lo profundo de las minas del Congo, la gente extrae el mineral de cobalto a mano, lo cual supone un oficio muy agotador e insalubre. El cobalto se usa para fabricar baterías de iones de litio para diversos dispositivos.(n)</desc>
   </programme>
   <programme start="20220521083000 -0300" stop="20220521090000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521090000 -0300" stop="20220521093000 -0300" channel="RT en español">
     <title lang="es">Cartas sobre la mesa</title>
@@ -70698,7 +70584,7 @@
     <desc lang="es">En lo profundo de las minas del Congo, la gente extrae el mineral de cobalto a mano, lo cual supone un oficio muy agotador e insalubre. El cobalto se usa para fabricar baterías de iones de litio para diversos dispositivos.(n)</desc>
   </programme>
   <programme start="20220521103000 -0300" stop="20220521110000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521110000 -0300" stop="20220521113000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70712,7 +70598,7 @@
     <desc lang="es">En lo profundo de las minas del Congo, la gente extrae el mineral de cobalto a mano, lo cual supone un oficio muy agotador e insalubre. El cobalto se usa para fabricar baterías de iones de litio para diversos dispositivos.(n)</desc>
   </programme>
   <programme start="20220521123000 -0300" stop="20220521130000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521130000 -0300" stop="20220521133000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70726,7 +70612,7 @@
     <desc lang="es">En lo profundo de las minas del Congo, la gente extrae el mineral de cobalto a mano, lo cual supone un oficio muy agotador e insalubre. El cobalto se usa para fabricar baterías de iones de litio para diversos dispositivos.(n)</desc>
   </programme>
   <programme start="20220521143000 -0300" stop="20220521150000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521150000 -0300" stop="20220521153000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70740,7 +70626,7 @@
     <desc lang="es">En lo profundo de las minas del Congo, la gente extrae el mineral de cobalto a mano, lo cual supone un oficio muy agotador e insalubre. El cobalto se usa para fabricar baterías de iones de litio para diversos dispositivos.(n)</desc>
   </programme>
   <programme start="20220521163000 -0300" stop="20220521170000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521170000 -0300" stop="20220521173000 -0300" channel="RT en español">
     <title lang="es">Cartas sobre la mesa</title>
@@ -70754,7 +70640,7 @@
     <desc lang="es">En lo profundo de las minas del Congo, la gente extrae el mineral de cobalto a mano, lo cual supone un oficio muy agotador e insalubre. El cobalto se usa para fabricar baterías de iones de litio para diversos dispositivos.(n)</desc>
   </programme>
   <programme start="20220521183000 -0300" stop="20220521190000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521190000 -0300" stop="20220521193000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70768,7 +70654,7 @@
     <desc lang="es">En lo profundo de las minas del Congo, la gente extrae el mineral de cobalto a mano, lo cual supone un oficio muy agotador e insalubre. El cobalto se usa para fabricar baterías de iones de litio para diversos dispositivos.(n)</desc>
   </programme>
   <programme start="20220521203000 -0300" stop="20220521210000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521210000 -0300" stop="20220521213000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -70782,7 +70668,7 @@
     <desc lang="es">En lo profundo de las minas del Congo, la gente extrae el mineral de cobalto a mano, lo cual supone un oficio muy agotador e insalubre. El cobalto se usa para fabricar baterías de iones de litio para diversos dispositivos.(n)</desc>
   </programme>
   <programme start="20220521223000 -0300" stop="20220521230000 -0300" channel="RT en español">
-    <title lang="es">México: La magia de la lucha libre</title>
+    <title lang="es">México: la magia de la lucha libre</title>
   </programme>
   <programme start="20220521230000 -0300" stop="20220521233000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
