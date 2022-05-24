@@ -671,10 +671,28 @@
     <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/244.png" />
     <url>http://www.tcc.com.uy</url>
   </channel>
+  <channel id="VTV HD">
+    <display-name lang="es">VTV HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/VTV HD.png" />
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/424.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="VTVPlus">
+    <display-name lang="es">VTVPlus</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/VTVPlus.png" />
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/425.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
   <channel id="Love Nature HD">
     <display-name lang="es">Love Nature HD</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Love Nature HD.png" />
     <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/383.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="Canal 10 HD">
+    <display-name lang="es">Canal 10 HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 10 HD.png" />
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/421.png" />
     <url>http://www.tcc.com.uy</url>
   </channel>
   <channel id="RT en español">
@@ -22001,222 +22019,6 @@
   <programme start="20220524233000 -0300" stop="20220525000000 -0300" channel="EWTN">
     <title lang="es">Clásicos católicos: Viviendo las escrituras</title>
   </programme>
-  <programme start="20220523000000 -0300" stop="20220523020000 -0300" channel="Nueva Imagen">
-    <title lang="es">Toni Rovira y tú</title>
-  </programme>
-  <programme start="20220523020000 -0300" stop="20220523023000 -0300" channel="Nueva Imagen">
-    <title lang="es">Televisión con amigos</title>
-  </programme>
-  <programme start="20220523023000 -0300" stop="20220523030000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Familia</title>
-  </programme>
-  <programme start="20220523030000 -0300" stop="20220523040000 -0300" channel="Nueva Imagen">
-    <title lang="es">Entrelazando en Abya Yala</title>
-  </programme>
-  <programme start="20220523040000 -0300" stop="20220523043000 -0300" channel="Nueva Imagen">
-    <title lang="es">Santo Rosario</title>
-  </programme>
-  <programme start="20220523043000 -0300" stop="20220523050000 -0300" channel="Nueva Imagen">
-    <title lang="es">CTA presenta</title>
-  </programme>
-  <programme start="20220523050000 -0300" stop="20220523070000 -0300" channel="Nueva Imagen">
-    <title lang="es">Cine católico</title>
-  </programme>
-  <programme start="20220523070000 -0300" stop="20220523073000 -0300" channel="Nueva Imagen">
-    <title lang="es">Santo Rosario</title>
-  </programme>
-  <programme start="20220523073000 -0300" stop="20220523080000 -0300" channel="Nueva Imagen">
-    <title lang="es">CTA presenta</title>
-  </programme>
-  <programme start="20220523080000 -0300" stop="20220523090000 -0300" channel="Nueva Imagen">
-    <title lang="es">Tierra de sueños</title>
-  </programme>
-  <programme start="20220523090000 -0300" stop="20220523093000 -0300" channel="Nueva Imagen">
-    <title lang="es">Creaciones del hombre</title>
-  </programme>
-  <programme start="20220523093000 -0300" stop="20220523100000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Familia</title>
-  </programme>
-  <programme start="20220523100000 -0300" stop="20220523103000 -0300" channel="Nueva Imagen">
-    <title lang="es">El show de Porky</title>
-  </programme>
-  <programme start="20220523103000 -0300" stop="20220523110000 -0300" channel="Nueva Imagen">
-    <title lang="es">Don Gato y su pandilla</title>
-  </programme>
-  <programme start="20220523110000 -0300" stop="20220523113000 -0300" channel="Nueva Imagen">
-    <title lang="es">Ecovida</title>
-  </programme>
-  <programme start="20220523113000 -0300" stop="20220523120000 -0300" channel="Nueva Imagen">
-    <title lang="es">Come bien</title>
-  </programme>
-  <programme start="20220523120000 -0300" stop="20220523130000 -0300" channel="Nueva Imagen">
-    <title lang="es">Informe UNESCO</title>
-  </programme>
-  <programme start="20220523130000 -0300" stop="20220523140000 -0300" channel="Nueva Imagen">
-    <title lang="es">Tierra de sueños</title>
-  </programme>
-  <programme start="20220523140000 -0300" stop="20220523143000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Familia</title>
-  </programme>
-  <programme start="20220523143000 -0300" stop="20220523150000 -0300" channel="Nueva Imagen">
-    <title lang="es">Ecovida</title>
-  </programme>
-  <programme start="20220523150000 -0300" stop="20220523153000 -0300" channel="Nueva Imagen">
-    <title lang="es">Come bien</title>
-  </programme>
-  <programme start="20220523153000 -0300" stop="20220523160000 -0300" channel="Nueva Imagen">
-    <title lang="es">Informe NASA</title>
-  </programme>
-  <programme start="20220523160000 -0300" stop="20220523163000 -0300" channel="Nueva Imagen">
-    <title lang="es">Creaciones del hombre</title>
-  </programme>
-  <programme start="20220523163000 -0300" stop="20220523170000 -0300" channel="Nueva Imagen">
-    <title lang="es">Arte Universal</title>
-  </programme>
-  <programme start="20220523170000 -0300" stop="20220523173000 -0300" channel="Nueva Imagen">
-    <title lang="es">El jardín viviente</title>
-  </programme>
-  <programme start="20220523173000 -0300" stop="20220523180000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Familia</title>
-  </programme>
-  <programme start="20220523180000 -0300" stop="20220523183000 -0300" channel="Nueva Imagen">
-    <title lang="es">El show de Porky</title>
-  </programme>
-  <programme start="20220523183000 -0300" stop="20220523190000 -0300" channel="Nueva Imagen">
-    <title lang="es">Don Gato y su pandilla</title>
-  </programme>
-  <programme start="20220523190000 -0300" stop="20220523200000 -0300" channel="Nueva Imagen">
-    <title lang="es">Tierra de sueños</title>
-  </programme>
-  <programme start="20220523200000 -0300" stop="20220523203000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Familia</title>
-  </programme>
-  <programme start="20220523203000 -0300" stop="20220523210000 -0300" channel="Nueva Imagen">
-    <title lang="es">Haciendo familia</title>
-  </programme>
-  <programme start="20220523210000 -0300" stop="20220523220000 -0300" channel="Nueva Imagen">
-    <title lang="es">Entrelazando en Abya Yala</title>
-  </programme>
-  <programme start="20220523220000 -0300" stop="20220523230000 -0300" channel="Nueva Imagen">
-    <title lang="es">Tierra de sueños</title>
-  </programme>
-  <programme start="20220523230000 -0300" stop="20220524000000 -0300" channel="Nueva Imagen">
-    <title lang="es">Informe UNESCO</title>
-  </programme>
-  <programme start="20220524000000 -0300" stop="20220524003000 -0300" channel="Nueva Imagen">
-    <title lang="es">Sexualizados</title>
-  </programme>
-  <programme start="20220524003000 -0300" stop="20220524010000 -0300" channel="Nueva Imagen">
-    <title lang="es">Política actual</title>
-  </programme>
-  <programme start="20220524010000 -0300" stop="20220524013000 -0300" channel="Nueva Imagen">
-    <title lang="es">Ecovida</title>
-  </programme>
-  <programme start="20220524013000 -0300" stop="20220524020000 -0300" channel="Nueva Imagen">
-    <title lang="es">Creaciones del hombre</title>
-  </programme>
-  <programme start="20220524020000 -0300" stop="20220524023000 -0300" channel="Nueva Imagen">
-    <title lang="es">Cultura DJ</title>
-  </programme>
-  <programme start="20220524023000 -0300" stop="20220524030000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Alimentación</title>
-  </programme>
-  <programme start="20220524030000 -0300" stop="20220524040000 -0300" channel="Nueva Imagen">
-    <title lang="es">Arte hispánico</title>
-  </programme>
-  <programme start="20220524040000 -0300" stop="20220524043000 -0300" channel="Nueva Imagen">
-    <title lang="es">Santo Rosario</title>
-  </programme>
-  <programme start="20220524043000 -0300" stop="20220524050000 -0300" channel="Nueva Imagen">
-    <title lang="es">Haciendo familia</title>
-  </programme>
-  <programme start="20220524050000 -0300" stop="20220524060000 -0300" channel="Nueva Imagen">
-    <title lang="es">Habemus Papam</title>
-  </programme>
-  <programme start="20220524060000 -0300" stop="20220524070000 -0300" channel="Nueva Imagen">
-    <title lang="es">Los caminos de la iglesia</title>
-  </programme>
-  <programme start="20220524070000 -0300" stop="20220524073000 -0300" channel="Nueva Imagen">
-    <title lang="es">Santo Rosario</title>
-  </programme>
-  <programme start="20220524073000 -0300" stop="20220524080000 -0300" channel="Nueva Imagen">
-    <title lang="es">Haciendo familia</title>
-  </programme>
-  <programme start="20220524080000 -0300" stop="20220524090000 -0300" channel="Nueva Imagen">
-    <title lang="es">Tierra de sueños</title>
-  </programme>
-  <programme start="20220524090000 -0300" stop="20220524093000 -0300" channel="Nueva Imagen">
-    <title lang="es">Rosa crea</title>
-  </programme>
-  <programme start="20220524093000 -0300" stop="20220524100000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Alimentación</title>
-  </programme>
-  <programme start="20220524100000 -0300" stop="20220524103000 -0300" channel="Nueva Imagen">
-    <title lang="es">El show de Porky</title>
-  </programme>
-  <programme start="20220524103000 -0300" stop="20220524110000 -0300" channel="Nueva Imagen">
-    <title lang="es">Don Gato y su pandilla</title>
-  </programme>
-  <programme start="20220524110000 -0300" stop="20220524113000 -0300" channel="Nueva Imagen">
-    <title lang="es">Creaciones del hombre</title>
-  </programme>
-  <programme start="20220524113000 -0300" stop="20220524120000 -0300" channel="Nueva Imagen">
-    <title lang="es">Come bien</title>
-  </programme>
-  <programme start="20220524120000 -0300" stop="20220524130000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mega Pop</title>
-  </programme>
-  <programme start="20220524130000 -0300" stop="20220524140000 -0300" channel="Nueva Imagen">
-    <title lang="es">Tierra de sueños</title>
-  </programme>
-  <programme start="20220524140000 -0300" stop="20220524143000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Alimentación</title>
-  </programme>
-  <programme start="20220524143000 -0300" stop="20220524150000 -0300" channel="Nueva Imagen">
-    <title lang="es">Rosa crea</title>
-  </programme>
-  <programme start="20220524150000 -0300" stop="20220524153000 -0300" channel="Nueva Imagen">
-    <title lang="es">Come bien</title>
-  </programme>
-  <programme start="20220524153000 -0300" stop="20220524160000 -0300" channel="Nueva Imagen">
-    <title lang="es">Educación de virtudes humanas</title>
-  </programme>
-  <programme start="20220524160000 -0300" stop="20220524170000 -0300" channel="Nueva Imagen">
-    <title lang="es">Arte hispánico</title>
-  </programme>
-  <programme start="20220524170000 -0300" stop="20220524173000 -0300" channel="Nueva Imagen">
-    <title lang="es">Haciendo familia</title>
-  </programme>
-  <programme start="20220524173000 -0300" stop="20220524180000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Alimentación</title>
-  </programme>
-  <programme start="20220524180000 -0300" stop="20220524183000 -0300" channel="Nueva Imagen">
-    <title lang="es">El show de Porky</title>
-  </programme>
-  <programme start="20220524183000 -0300" stop="20220524190000 -0300" channel="Nueva Imagen">
-    <title lang="es">Don Gato y su pandilla</title>
-  </programme>
-  <programme start="20220524190000 -0300" stop="20220524200000 -0300" channel="Nueva Imagen">
-    <title lang="es">Tierra de sueños</title>
-  </programme>
-  <programme start="20220524200000 -0300" stop="20220524203000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mejor cada día - Alimentación</title>
-  </programme>
-  <programme start="20220524203000 -0300" stop="20220524210000 -0300" channel="Nueva Imagen">
-    <title lang="es">VOA - Foro de noticias</title>
-  </programme>
-  <programme start="20220524210000 -0300" stop="20220524213000 -0300" channel="Nueva Imagen">
-    <title lang="es">Somos protagonistas</title>
-  </programme>
-  <programme start="20220524213000 -0300" stop="20220524220000 -0300" channel="Nueva Imagen">
-    <title lang="es">El jardín viviente</title>
-  </programme>
-  <programme start="20220524220000 -0300" stop="20220524230000 -0300" channel="Nueva Imagen">
-    <title lang="es">Tierra de sueños</title>
-  </programme>
-  <programme start="20220524230000 -0300" stop="20220525000000 -0300" channel="Nueva Imagen">
-    <title lang="es">Mega Pop</title>
-  </programme>
   <programme start="20220523000000 -0300" stop="20220523010000 -0300" channel="Canal Orbe 21">
     <title lang="es">Biblia, diálogo vigente</title>
   </programme>
@@ -23294,38 +23096,6 @@
   <programme start="20220524120000 -0300" stop="20220525000000 -0300" channel="WOBI">
     <title lang="es">WOBI</title>
   </programme>
-  <programme start="20220523074500 -0300" stop="20220523090000 -0300" channel="A3 Cine HD">
-    <title lang="es">El fantasma y doña Juanita</title>
-    <desc lang="es">Juanita se enamora de un payaso, pero éste muere tras salvarla de las llamas de un incendio en el circo. Pasado el tiempo, el payaso se convierte en un fantasma.(n)</desc>
-  </programme>
-  <programme start="20220523090000 -0300" stop="20220523105500 -0300" channel="A3 Cine HD">
-    <title lang="es">En la ciudad</title>
-    <desc lang="es">Un grupo de amigos en Barcelona. Allí se generan historias sobre sus relaciones, sus valores. Como buenos amigos, se ven casi a diario. Pero detrás de esa fachada de cotidianidad siguen manteniendo parte de sus vidas ocultas.(n)</desc>
-  </programme>
-  <programme start="20220523105500 -0300" stop="20220523122500 -0300" channel="A3 Cine HD">
-    <title lang="es">Fulano y Mengano</title>
-    <desc lang="es">Eudosio y Carlos fueron encarcelados por error. Ahora, fuera de la prisión, intentan conseguir un trabajo y adaptarse a una sociedad que les rechaza.(n)</desc>
-  </programme>
-  <programme start="20220523122500 -0300" stop="20220523142500 -0300" channel="A3 Cine HD">
-    <title lang="es">Novios</title>
-    <desc lang="es">Arturo tiene una doble vida. Cada viernes disfruta de una noche gloriosa con su ayudante de cocina y amante Cristal, que es a su vez, la hija de su mejor amigo, el policía José.(n)</desc>
-  </programme>
-  <programme start="20220523142500 -0300" stop="20220523161500 -0300" channel="A3 Cine HD">
-    <title lang="es">El año de las luces</title>
-    <desc lang="es">Dos muchachos con síntomas de tuberculosis son enviados a un sanatorio cerca de la frontera portuguesa. Durante su estancia allí, Manolo, el mayor de los dos, vive su despertar sexual.(n)</desc>
-  </programme>
-  <programme start="20220523161500 -0300" stop="20220523175000 -0300" channel="A3 Cine HD">
-    <title lang="es">Miss Caribe</title>
-    <desc lang="es">Alejandra recibe en herencia un galeón: el "Miss Caribe". Alejandra viaja para hacerse cargo de su herencia. El galeón está tripulado por mujeres que ofrecen sus favores a lo largo del río fronterizo. Alejandra decide convertirlo en una esc.(n)</desc>
-  </programme>
-  <programme start="20220523175000 -0300" stop="20220523193000 -0300" channel="A3 Cine HD">
-    <title lang="es">7 minutos</title>
-    <desc lang="es">Una historia sobre el amor en tiempos de internet, en que hombres y mujeres que quieren conocer gente, acuden a una sesión de citas rápidas de sólo 7 minutos de duración.(n)</desc>
-  </programme>
-  <programme start="20220523193000 -0300" stop="20220523214000 -0300" channel="A3 Cine HD">
-    <title lang="es">El otro barrio</title>
-    <desc lang="es">Tras verse envuelto en una serie de accidentes mortales y mientras dura la investigación, Ramón, un chaval de 15 años, huérfano de padre, ingresa en un centro de acogida. Allí encuentra un compañero en el parlanchín y débil Aníbal.(n)</desc>
-  </programme>
   <programme start="20220523214000 -0300" stop="20220523232500 -0300" channel="A3 Cine HD">
     <title lang="es">El cuerno de la abundancia</title>
     <desc lang="es">En Cuba, los que se apelliden Castiñeiras recibirán una jugosa herencia. Bernardito, se convierte en el líder de la disparatada búsqueda del tesoro.(n)</desc>
@@ -23678,69 +23448,801 @@
     <title lang="es">Animales de compañía</title>
     <desc lang="es">Rafa cumple 65 años y sabe que las cosas salen siempre peor de lo que espera. Que su hijo pequeño esté con el móvil. Su hija mediana llegue tarde. Su hija mayor meta cizaña sobre la mediana, y que su mujer simule una familia perfecta.(n)</desc>
   </programme>
-  <programme start="20220523080000 -0300" stop="20220523090000 -0300" channel="Love Nature HD">
-    <title lang="es">Paisajes naturales</title>
+  <programme start="20220523220000 -0300" stop="20220523230000 -0300" channel="VTV HD">
+    <title lang="es">La mesa de motores</title>
+    <desc lang="es">Debate sobre el mundo de los automóviles.(n)</desc>
   </programme>
-  <programme start="20220523090000 -0300" stop="20220523095000 -0300" channel="Love Nature HD">
-    <title lang="es">Vida secreta do Wombat</title>
-    <desc lang="es">Cerca de las Montañas Nevadas de Australia hay un centenar de madrigueras conocidas como Bosque Vombatido.(n)</desc>
+  <programme start="20220523230000 -0300" stop="20220524000000 -0300" channel="VTV HD">
+    <title lang="es">Días de Gloria</title>
+    <desc lang="es">"Días de Gloria" es el programa que recuerda los mejores oldies con la conducción de Nacho Rius.(n)</desc>
   </programme>
-  <programme start="20220523095000 -0300" stop="20220523104000 -0300" channel="Love Nature HD">
-    <title lang="es">Vida secreta do Wombat</title>
-    <desc lang="es">Los Vombatidos son criaturas lentas, pero el tiempo de reproducción saca a relucir su agresividad.(n)</desc>
+  <programme start="20220524000000 -0300" stop="20220524010000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
   </programme>
-  <programme start="20220523104000 -0300" stop="20220523113000 -0300" channel="Love Nature HD">
-    <title lang="es">Vida secreta de koalas</title>
-    <desc lang="es">A pesar de su reputación como los animales más conocidos de Australia, las poblaciones de koala solo se encuentran en las partes este y sureste del país.(n)</desc>
+  <programme start="20220524010000 -0300" stop="20220524030000 -0300" channel="VTV HD">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Trouville, Semifinales, Juego 3</title>
   </programme>
-  <programme start="20220523113000 -0300" stop="20220523122000 -0300" channel="Love Nature HD">
-    <title lang="es">Vida secreta de koalas</title>
-    <desc lang="es">Los koalas a menudo parecen estáticos y solitarios, pero la temporada de apareamiento marca un cambio dramático en su comportamiento, lo que significa más movimiento, contacto y conflicto entre ellos.(n)</desc>
+  <programme start="20220524030000 -0300" stop="20220524050000 -0300" channel="VTV HD">
+    <title lang="es">OFI - Copa de Selecciones 2019. San José Capital vs. Lavalleja Capital, Final, ida</title>
+    <desc lang="es">La Copa Nacional de Selecciones es el máximo evento a nivel de selecciones del fútbol del interior uruguayo. Su desarrollo depende de la Organización del Fútbol del Interior.(n)</desc>
   </programme>
-  <programme start="20220523122000 -0300" stop="20220523131000 -0300" channel="Love Nature HD">
-    <title lang="es">Israel salvaje</title>
+  <programme start="20220524050000 -0300" stop="20220524060000 -0300" channel="VTV HD">
+    <title lang="es">La mesa de motores</title>
+    <desc lang="es">Debate sobre el mundo de los automóviles.(n)</desc>
   </programme>
-  <programme start="20220523131000 -0300" stop="20220523140000 -0300" channel="Love Nature HD">
-    <title lang="es">Sobreviviendo al Amazonas</title>
-    <desc lang="es">Abarcando nueve países de América del Sur, el Amazonas es la selva tropical más grande del planeta. Hogar de más de 2 millones y medio de especies, cada una adaptada para sobrevivir en un paisaje de exuberante jungla tropical.(n)</desc>
+  <programme start="20220524060000 -0300" stop="20220524070000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
   </programme>
-  <programme start="20220523140000 -0300" stop="20220523145000 -0300" channel="Love Nature HD">
-    <title lang="es">Rescate de vida silvestre de Malawi</title>
-    <desc lang="es">Sigue los esfuerzos de la jefa de veterinaria Amanda Salb y el equipo del único centro de rescate de animales de Malawi, que se dedican a salvar animales heridos y huérfanos para devolverlos a la naturaleza.(n)</desc>
+  <programme start="20220524070000 -0300" stop="20220524080000 -0300" channel="VTV HD">
+    <title lang="es">Valor agregado</title>
+    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
   </programme>
-  <programme start="20220523145000 -0300" stop="20220523154000 -0300" channel="Love Nature HD">
-    <title lang="es">Grandes parques de África</title>
-    <desc lang="es">Aquí, la vida silvestre prospera en entornos naturales impresionantes. Viaje a través de algunos de los más espectaculares.(n)</desc>
+  <programme start="20220524080000 -0300" stop="20220524100000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
   </programme>
-  <programme start="20220523154000 -0300" stop="20220523163000 -0300" channel="Love Nature HD">
-    <title lang="es">Grandes parques de África</title>
-    <desc lang="es">Aquí, la vida silvestre prospera en entornos naturales impresionantes. Viaje a través de algunos de los más espectaculares.(n)</desc>
+  <programme start="20220524100000 -0300" stop="20220524120000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
   </programme>
-  <programme start="20220523163000 -0300" stop="20220523172000 -0300" channel="Love Nature HD">
-    <title lang="es">Grandes parques de África</title>
-    <desc lang="es">Aquí, la vida silvestre prospera en entornos naturales impresionantes. Viaje a través de algunos de los más espectaculares.(n)</desc>
+  <programme start="20220524120000 -0300" stop="20220524130000 -0300" channel="VTV HD">
+    <title lang="es">Valor agregado</title>
+    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
   </programme>
-  <programme start="20220523172000 -0300" stop="20220523181000 -0300" channel="Love Nature HD">
-    <title lang="es">Grandes parques de África</title>
-    <desc lang="es">Aquí, la vida silvestre prospera en entornos naturales impresionantes. Viaje a través de algunos de los más espectaculares.(n)</desc>
+  <programme start="20220524130000 -0300" stop="20220524140000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Segunda edición</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
   </programme>
-  <programme start="20220523181000 -0300" stop="20220523184000 -0300" channel="Love Nature HD">
-    <title lang="es">Extrañas criaturas</title>
+  <programme start="20220524140000 -0300" stop="20220524160000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
   </programme>
-  <programme start="20220523184000 -0300" stop="20220523193000 -0300" channel="Love Nature HD">
-    <title lang="es">Israel salvaje</title>
+  <programme start="20220524160000 -0300" stop="20220524180000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
   </programme>
-  <programme start="20220523193000 -0300" stop="20220523202000 -0300" channel="Love Nature HD">
-    <title lang="es">Sobreviviendo al Amazonas</title>
-    <desc lang="es">Abarcando nueve países de América del Sur, el Amazonas es la selva tropical más grande del planeta. Hogar de más de 2 millones y medio de especies, cada una adaptada para sobrevivir en un paisaje de exuberante jungla tropical.(n)</desc>
+  <programme start="20220524180000 -0300" stop="20220524190000 -0300" channel="VTV HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
   </programme>
-  <programme start="20220523202000 -0300" stop="20220523211000 -0300" channel="Love Nature HD">
-    <title lang="es">Rescate de vida silvestre de Malawi</title>
-    <desc lang="es">Sigue los esfuerzos de la jefa de veterinaria Amanda Salb y el equipo del único centro de rescate de animales de Malawi, que se dedican a salvar animales heridos y huérfanos para devolverlos a la naturaleza.(n)</desc>
+  <programme start="20220524190000 -0300" stop="20220524200000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
   </programme>
-  <programme start="20220523211000 -0300" stop="20220523220000 -0300" channel="Love Nature HD">
-    <title lang="es">Vida secreta do Wombat</title>
-    <desc lang="es">Cerca de las Montañas Nevadas de Australia hay un centenar de madrigueras conocidas como Bosque Vombatido.(n)</desc>
+  <programme start="20220524200000 -0300" stop="20220524203000 -0300" channel="VTV HD">
+    <title lang="es">Free Time</title>
+    <desc lang="es">Free Time es un programa que busca un enfoque distinto de las entrevistas y apunta al entretenimiento de los televidentes a través de consignas y juegos con una importante animación desde el punto de vista de la edición.(n)</desc>
+  </programme>
+  <programme start="20220524203000 -0300" stop="20220524210000 -0300" channel="VTV HD">
+    <title lang="es">Todo liga</title>
+    <desc lang="es">Espacio donde te vamos a mostrar lo principal, lo que sucede, las emociones y la pasión de la liga universitaria. No te pierdas este segmento que estará lleno de mucho fútbol, con entrevistas y análisis correspondientes a este torneo.(n)</desc>
+  </programme>
+  <programme start="20220524210000 -0300" stop="20220524211500 -0300" channel="VTV HD">
+    <title lang="es">Previa - Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+    <desc lang="es">La previa de la liga uruguaya de básquet y se jugará una rueda en formato todos contra todos para ir los primeros seis equipos a la Liguilla y los últimos seis a la Reclasificación.(n)</desc>
+  </programme>
+  <programme start="20220524211500 -0300" stop="20220524233000 -0300" channel="VTV HD">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220524233000 -0300" stop="20220525003000 -0300" channel="VTV HD">
+    <title lang="es">Cicerone</title>
+    <desc lang="es">Revista televisiva que cada semana incluye informes de turismo nacional, internacional, moda, belleza, eventos sociales, empresariales, fiestas, gastronomía, música, cine, teatro y deportes.(n)</desc>
+  </programme>
+  <programme start="20220525003000 -0300" stop="20220525013000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220525013000 -0300" stop="20220525020000 -0300" channel="VTV HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220525020000 -0300" stop="20220525040000 -0300" channel="VTV HD">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220525040000 -0300" stop="20220525060000 -0300" channel="VTV HD">
+    <title lang="es">Baby deportivo</title>
+    <desc lang="es">Los sábados a la mañana, dos horas junto a los más chicos para recorrer el mundo de los deportes en sus distintas modalidades y categorías. Un programa entretenida y didáctica para disfrutar aprendiendo.(n)</desc>
+  </programme>
+  <programme start="20220525060000 -0300" stop="20220525070000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220525070000 -0300" stop="20220525080000 -0300" channel="VTV HD">
+    <title lang="es">Valor agregado</title>
+    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
+  </programme>
+  <programme start="20220525080000 -0300" stop="20220525100000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220525100000 -0300" stop="20220525120000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
+  </programme>
+  <programme start="20220525120000 -0300" stop="20220525130000 -0300" channel="VTV HD">
+    <title lang="es">Valor agregado</title>
+    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
+  </programme>
+  <programme start="20220525130000 -0300" stop="20220525140000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Segunda edición</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220525140000 -0300" stop="20220525160000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220525160000 -0300" stop="20220525180000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
+  </programme>
+  <programme start="20220525180000 -0300" stop="20220525190000 -0300" channel="VTV HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220525190000 -0300" stop="20220525200000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220525200000 -0300" stop="20220525213000 -0300" channel="VTV HD">
+    <title lang="es">En la mira</title>
+    <desc lang="es">Gabriel Pereyra conduce este programa con un enfoque centrado en la actualidad. El programa aborda y profundiza en temas propios además de tener invitados de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20220525213000 -0300" stop="20220525223000 -0300" channel="VTV HD">
+    <title lang="es">Pura sangre</title>
+  </programme>
+  <programme start="20220525223000 -0300" stop="20220525233000 -0300" channel="VTV HD">
+    <title lang="es">Knockout</title>
+    <desc lang="es">Edición de boxeo dedicada a repasar lo más importante del arte pugilístico a nivel nacional e internacional, conociendo a fondo los gimnasios que promueven este deporte en Uruguay y datos interesantes sobre el arte de la pelea.(n)</desc>
+  </programme>
+  <programme start="20220525233000 -0300" stop="20220526003000 -0300" channel="VTV HD">
+    <title lang="es">Voces anónimas</title>
+    <desc lang="es">Guillermo Lockhart te presenta una nueva forma de acercarte a historias increíbles, llenas de misterio y suspenso, acerca de leyendas y mitos urbanos, donde se cuenta el drama, el terror y el suspenso vividos por sus protagonistas.(n)</desc>
+  </programme>
+  <programme start="20220526003000 -0300" stop="20220526013000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220526013000 -0300" stop="20220526033000 -0300" channel="VTV HD">
+    <title lang="es">Danubio vs. Def. Sporting, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220526033000 -0300" stop="20220526043000 -0300" channel="VTV HD">
+    <title lang="es">Knockout</title>
+    <desc lang="es">Edición de boxeo dedicada a repasar lo más importante del arte pugilístico a nivel nacional e internacional, conociendo a fondo los gimnasios que promueven este deporte en Uruguay y datos interesantes sobre el arte de la pelea.(n)</desc>
+  </programme>
+  <programme start="20220526043000 -0300" stop="20220526060000 -0300" channel="VTV HD">
+    <title lang="es">En la mira</title>
+    <desc lang="es">Gabriel Pereyra conduce este programa con un enfoque centrado en la actualidad. El programa aborda y profundiza en temas propios además de tener invitados de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20220526060000 -0300" stop="20220526070000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220526070000 -0300" stop="20220526080000 -0300" channel="VTV HD">
+    <title lang="es">Valor agregado</title>
+    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
+  </programme>
+  <programme start="20220526080000 -0300" stop="20220526100000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220526100000 -0300" stop="20220526120000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
+  </programme>
+  <programme start="20220526120000 -0300" stop="20220526130000 -0300" channel="VTV HD">
+    <title lang="es">Transporte al día</title>
+    <desc lang="es">Un programa que cuenta con la actualidad y noticias sobre logística y transporte, tanto nacional como internacional.(n)</desc>
+  </programme>
+  <programme start="20220526130000 -0300" stop="20220526140000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Segunda edición</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220526140000 -0300" stop="20220526160000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220526160000 -0300" stop="20220526180000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
+  </programme>
+  <programme start="20220526180000 -0300" stop="20220526190000 -0300" channel="VTV HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220526190000 -0300" stop="20220526200000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220526200000 -0300" stop="20220526230000 -0300" channel="VTV HD">
+    <title lang="es">Oribe Remates - Haras El Arbolito, La Aldea, Chacra La Soñada</title>
+    <desc lang="es">Remates en vivo.(n)</desc>
+  </programme>
+  <programme start="20220526230000 -0300" stop="20220527000000 -0300" channel="VTV HD">
+    <title lang="es">Motores en punta</title>
+    <desc lang="es">Motores en punta lleva a la pantalla todo lo que pasa en el mundo del automovilismo en Uruguay, tanto en las actividades de pista como en las distintas especialidades del deporte del motor.(n)</desc>
+  </programme>
+  <programme start="20220527000000 -0300" stop="20220527010000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220527010000 -0300" stop="20220527020000 -0300" channel="VTV HD">
+    <title lang="es">La mesa de motores</title>
+    <desc lang="es">Debate sobre el mundo de los automóviles.(n)</desc>
+  </programme>
+  <programme start="20220527020000 -0300" stop="20220527040000 -0300" channel="VTV HD">
+    <title lang="es">Segunda División. Rampla vs. Progreso, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220527040000 -0300" stop="20220527050000 -0300" channel="VTV HD">
+    <title lang="es">Pura sangre</title>
+  </programme>
+  <programme start="20220527050000 -0300" stop="20220527060000 -0300" channel="VTV HD">
+    <title lang="es">Motores en punta</title>
+    <desc lang="es">Motores en punta lleva a la pantalla todo lo que pasa en el mundo del automovilismo en Uruguay, tanto en las actividades de pista como en las distintas especialidades del deporte del motor.(n)</desc>
+  </programme>
+  <programme start="20220527060000 -0300" stop="20220527070000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220527070000 -0300" stop="20220527080000 -0300" channel="VTV HD">
+    <title lang="es">Valor agregado</title>
+    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
+  </programme>
+  <programme start="20220527080000 -0300" stop="20220527100000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220527100000 -0300" stop="20220527120000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
+  </programme>
+  <programme start="20220527120000 -0300" stop="20220527130000 -0300" channel="VTV HD">
+    <title lang="es">Valor agregado</title>
+    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
+  </programme>
+  <programme start="20220527130000 -0300" stop="20220527140000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Segunda edición</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220527140000 -0300" stop="20220527160000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220527160000 -0300" stop="20220527180000 -0300" channel="VTV HD">
+    <title lang="es">Día a día</title>
+    <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
+  </programme>
+  <programme start="20220527180000 -0300" stop="20220527190000 -0300" channel="VTV HD">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220527190000 -0300" stop="20220527200000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220527200000 -0300" stop="20220527230000 -0300" channel="VTV HD">
+    <title lang="es">CampoTV remates. 2º Paint Horse Uruguay</title>
+    <desc lang="es">Remates en vivo.(n)</desc>
+  </programme>
+  <programme start="20220527230000 -0300" stop="20220528000000 -0300" channel="VTV HD">
+    <title lang="es">La noche del pela</title>
+    <desc lang="es">Programa de humor, música en vivo e invitados. Conducido por Nelson Burgos.(n)</desc>
+  </programme>
+  <programme start="20220528000000 -0300" stop="20220528010000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220528010000 -0300" stop="20220528023000 -0300" channel="VTV HD">
+    <title lang="es">En la mira</title>
+    <desc lang="es">Gabriel Pereyra conduce este programa con un enfoque centrado en la actualidad. El programa aborda y profundiza en temas propios además de tener invitados de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20220528023000 -0300" stop="20220528033000 -0300" channel="VTV HD">
+    <title lang="es">Pura sangre</title>
+  </programme>
+  <programme start="20220528033000 -0300" stop="20220528043000 -0300" channel="VTV HD">
+    <title lang="es">Voces anónimas</title>
+    <desc lang="es">Guillermo Lockhart te presenta una nueva forma de acercarte a historias increíbles, llenas de misterio y suspenso, acerca de leyendas y mitos urbanos, donde se cuenta el drama, el terror y el suspenso vividos por sus protagonistas.(n)</desc>
+  </programme>
+  <programme start="20220528043000 -0300" stop="20220528053000 -0300" channel="VTV HD">
+    <title lang="es">La noche del pela</title>
+    <desc lang="es">Programa de humor, música en vivo e invitados. Conducido por Nelson Burgos.(n)</desc>
+  </programme>
+  <programme start="20220528053000 -0300" stop="20220528060000 -0300" channel="VTV HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220528060000 -0300" stop="20220528070000 -0300" channel="VTV HD">
+    <title lang="es">VTV Noticias - Edición central</title>
+    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
+  </programme>
+  <programme start="20220528070000 -0300" stop="20220528090000 -0300" channel="VTV HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
+  </programme>
+  <programme start="20220528090000 -0300" stop="20220528100000 -0300" channel="VTV HD">
+    <title lang="es">Ferias y mercados</title>
+    <desc lang="es">Ferias y Mercados tiene como tema central y excluyente, los negocios, el comercio, la industria, las exportaciones pero también la generación de empleo y la salud laboral.(n)</desc>
+  </programme>
+  <programme start="20220528100000 -0300" stop="20220528120000 -0300" channel="VTV HD">
+    <title lang="es">Baby deportivo</title>
+    <desc lang="es">Los sábados a la mañana, dos horas junto a los más chicos para recorrer el mundo de los deportes en sus distintas modalidades y categorías. Un programa entretenida y didáctica para disfrutar aprendiendo.(n)</desc>
+  </programme>
+  <programme start="20220528120000 -0300" stop="20220528123000 -0300" channel="VTV HD">
+    <title lang="es">Locos por las mascotas</title>
+    <desc lang="es">Ahora podrás ver toda la movida mascotera; exposiciones, consejos sobre bienestar animal en general, alimentación, crianza, protección y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220528123000 -0300" stop="20220528130000 -0300" channel="VTV HD">
+    <title lang="es">Mundo ecuestre</title>
+    <desc lang="es">Todas las novedades de la escena hípica.(n)</desc>
+  </programme>
+  <programme start="20220528130000 -0300" stop="20220528150000 -0300" channel="VTV HD">
+    <title lang="es">Rumbo a la cancha</title>
+    <desc lang="es">Los ídolos del fútbol, el basketball y el carnaval comparten junto a los espectadores su vida, anécdotas, experiencias, triunfos y derrotas, dando a conocer sus tres principales pasiones.(n)</desc>
+  </programme>
+  <programme start="20220528150000 -0300" stop="20220528160000 -0300" channel="VTV HD">
+    <title lang="es">Motores en punta</title>
+    <desc lang="es">Motores en punta lleva a la pantalla todo lo que pasa en el mundo del automovilismo en Uruguay, tanto en las actividades de pista como en las distintas especialidades del deporte del motor.(n)</desc>
+  </programme>
+  <programme start="20220528160000 -0300" stop="20220528180000 -0300" channel="VTV HD">
+    <title lang="es">Liga uruguaya de básquet. Semifinales</title>
+  </programme>
+  <programme start="20220528180000 -0300" stop="20220528190000 -0300" channel="VTV HD">
+    <title lang="es">Fanáticos. MLS - Parte 1</title>
+    <desc lang="es">“JC” recorre el mundo entrando en los clubes más importantes del fútbol del planeta, y entrevistando a las principales figuras del fútbol mundial, de hoy y de siempre.(n)</desc>
+  </programme>
+  <programme start="20220528190000 -0300" stop="20220528193000 -0300" channel="VTV HD">
+    <title lang="es">Twister</title>
+    <desc lang="es">Un Magazine de una hora con 100% producción nacional. Orientado a difundir actividades y emprendimientos nacionales destacados y de interés general con un formato Magazine Internacional, donde se cuidan tiempos, ritmo, información y estética.(n)</desc>
+  </programme>
+  <programme start="20220528193000 -0300" stop="20220528200000 -0300" channel="VTV HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220528200000 -0300" stop="20220528210000 -0300" channel="VTV HD">
+    <title lang="es">Cicerone</title>
+    <desc lang="es">Revista televisiva que cada semana incluye informes de turismo nacional, internacional, moda, belleza, eventos sociales, empresariales, fiestas, gastronomía, música, cine, teatro y deportes.(n)</desc>
+  </programme>
+  <programme start="20220528210000 -0300" stop="20220528213000 -0300" channel="VTV HD">
+    <title lang="es">Free Time</title>
+    <desc lang="es">Free Time es un programa que busca un enfoque distinto de las entrevistas y apunta al entretenimiento de los televidentes a través de consignas y juegos con una importante animación desde el punto de vista de la edición.(n)</desc>
+  </programme>
+  <programme start="20220528213000 -0300" stop="20220528220000 -0300" channel="VTV HD">
+    <title lang="es">Todo liga</title>
+    <desc lang="es">Espacio donde te vamos a mostrar lo principal, lo que sucede, las emociones y la pasión de la liga universitaria. No te pierdas este segmento que estará lleno de mucho fútbol, con entrevistas y análisis correspondientes a este torneo.(n)</desc>
+  </programme>
+  <programme start="20220528220000 -0300" stop="20220529003000 -0300" channel="VTV HD">
+    <title lang="es">Liga uruguaya de básquet. Semifinales</title>
+  </programme>
+  <programme start="20220529003000 -0300" stop="20220529023000 -0300" channel="VTV HD">
+    <title lang="es">Nacional vs. Cerrito, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529023000 -0300" stop="20220529043000 -0300" channel="VTV HD">
+    <title lang="es">Rumbo a la cancha</title>
+    <desc lang="es">Los ídolos del fútbol, el basketball y el carnaval comparten junto a los espectadores su vida, anécdotas, experiencias, triunfos y derrotas, dando a conocer sus tres principales pasiones.(n)</desc>
+  </programme>
+  <programme start="20220529043000 -0300" stop="20220529063000 -0300" channel="VTV HD">
+    <title lang="es">Baby deportivo</title>
+    <desc lang="es">Los sábados a la mañana, dos horas junto a los más chicos para recorrer el mundo de los deportes en sus distintas modalidades y categorías. Un programa entretenida y didáctica para disfrutar aprendiendo.(n)</desc>
+  </programme>
+  <programme start="20220529063000 -0300" stop="20220529073000 -0300" channel="VTV HD">
+    <title lang="es">Knockout</title>
+    <desc lang="es">Edición de boxeo dedicada a repasar lo más importante del arte pugilístico a nivel nacional e internacional, conociendo a fondo los gimnasios que promueven este deporte en Uruguay y datos interesantes sobre el arte de la pelea.(n)</desc>
+  </programme>
+  <programme start="20220529073000 -0300" stop="20220529083000 -0300" channel="VTV HD">
+    <title lang="es">Transporte al día</title>
+    <desc lang="es">Un programa que cuenta con la actualidad y noticias sobre logística y transporte, tanto nacional como internacional.(n)</desc>
+  </programme>
+  <programme start="20220529083000 -0300" stop="20220529090000 -0300" channel="VTV HD">
+    <title lang="es">Twister</title>
+    <desc lang="es">Un Magazine de una hora con 100% producción nacional. Orientado a difundir actividades y emprendimientos nacionales destacados y de interés general con un formato Magazine Internacional, donde se cuidan tiempos, ritmo, información y estética.(n)</desc>
+  </programme>
+  <programme start="20220529090000 -0300" stop="20220529093000 -0300" channel="VTV HD">
+    <title lang="es">Locos por las mascotas</title>
+    <desc lang="es">Ahora podrás ver toda la movida mascotera; exposiciones, consejos sobre bienestar animal en general, alimentación, crianza, protección y mucho más.(n)</desc>
+  </programme>
+  <programme start="20220529093000 -0300" stop="20220529100000 -0300" channel="VTV HD">
+    <title lang="es">Free Time</title>
+    <desc lang="es">Free Time es un programa que busca un enfoque distinto de las entrevistas y apunta al entretenimiento de los televidentes a través de consignas y juegos con una importante animación desde el punto de vista de la edición.(n)</desc>
+  </programme>
+  <programme start="20220529100000 -0300" stop="20220529120000 -0300" channel="VTV HD">
+    <title lang="es">El futuro del fútbol</title>
+    <desc lang="es">Espacio para el deporte que mueve pasiones en Uruguay, en el que se muestran las futuras estrellas del balompié, recorriendo todas las categorías del fútbol infantil en todo el país, con datos de interés y entrevistas exclusivas.(n)</desc>
+  </programme>
+  <programme start="20220529120000 -0300" stop="20220529130000 -0300" channel="VTV HD">
+    <title lang="es">Todo a la parrilla</title>
+    <desc lang="es">Los referentes del sector ganadero y agrícola, en una charla amena analizan los temas actuales del sector cárnico y su impacto en el mercado.(n)</desc>
+  </programme>
+  <programme start="20220529130000 -0300" stop="20220529150000 -0300" channel="VTV HD">
+    <title lang="es">Rumbo a la cancha</title>
+    <desc lang="es">Los ídolos del fútbol, el basketball y el carnaval comparten junto a los espectadores su vida, anécdotas, experiencias, triunfos y derrotas, dando a conocer sus tres principales pasiones.(n)</desc>
+  </programme>
+  <programme start="20220529150000 -0300" stop="20220529160000 -0300" channel="VTV HD">
+    <title lang="es">Fanáticos. MLS - Parte 1</title>
+    <desc lang="es">“JC” recorre el mundo entrando en los clubes más importantes del fútbol del planeta, y entrevistando a las principales figuras del fútbol mundial, de hoy y de siempre.(n)</desc>
+  </programme>
+  <programme start="20220529160000 -0300" stop="20220529170000 -0300" channel="VTV HD">
+    <title lang="es">Previa - OFI - Copa de selecciones. Final, vuelta</title>
+  </programme>
+  <programme start="20220529170000 -0300" stop="20220529190000 -0300" channel="VTV HD">
+    <title lang="es">OFI - Copa de Selecciones 2019. Final, vuelta</title>
+    <desc lang="es">La Copa Nacional de Selecciones es el máximo evento a nivel de selecciones del fútbol del interior uruguayo. Su desarrollo depende de la Organización del Fútbol del Interior.(n)</desc>
+  </programme>
+  <programme start="20220529190000 -0300" stop="20220529193000 -0300" channel="VTV HD">
+    <title lang="es">Todo liga</title>
+    <desc lang="es">Espacio donde te vamos a mostrar lo principal, lo que sucede, las emociones y la pasión de la liga universitaria. No te pierdas este segmento que estará lleno de mucho fútbol, con entrevistas y análisis correspondientes a este torneo.(n)</desc>
+  </programme>
+  <programme start="20220529193000 -0300" stop="20220529200000 -0300" channel="VTV HD">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220529200000 -0300" stop="20220529210000 -0300" channel="VTV HD">
+    <title lang="es">La noche del pela</title>
+    <desc lang="es">Programa de humor, música en vivo e invitados. Conducido por Nelson Burgos.(n)</desc>
+  </programme>
+  <programme start="20220529210000 -0300" stop="20220529220000 -0300" channel="VTV HD">
+    <title lang="es">Cicerone</title>
+    <desc lang="es">Revista televisiva que cada semana incluye informes de turismo nacional, internacional, moda, belleza, eventos sociales, empresariales, fiestas, gastronomía, música, cine, teatro y deportes.(n)</desc>
+  </programme>
+  <programme start="20220529220000 -0300" stop="20220529230000 -0300" channel="VTV HD">
+    <title lang="es">Días de Gloria</title>
+    <desc lang="es">"Días de Gloria" es el programa que recuerda los mejores oldies con la conducción de Nacho Rius.(n)</desc>
+  </programme>
+  <programme start="20220523211500 -0300" stop="20220523233000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Trouville, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220523233000 -0300" stop="20220524003000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220524003000 -0300" stop="20220524023000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Cerro vs. Miramar, Fecha 4</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220524023000 -0300" stop="20220524043000 -0300" channel="VTVPlus">
+    <title lang="es">Danubio vs. Def. Sporting, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220524043000 -0300" stop="20220524053000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220524053000 -0300" stop="20220524073000 -0300" channel="VTVPlus">
+    <title lang="es">Rentistas vs. Cerro Largo, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220524073000 -0300" stop="20220524093000 -0300" channel="VTVPlus">
+    <title lang="es">City Torque vs. Plaza Colonia, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220524093000 -0300" stop="20220524103000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220524103000 -0300" stop="20220524123000 -0300" channel="VTVPlus">
+    <title lang="es">Dep. Maldonado vs. Fénix, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220524123000 -0300" stop="20220524144500 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Trouville, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220524144500 -0300" stop="20220524150000 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Segunda División. Juventud vs. Atenas, Fecha 5</title>
+    <desc lang="es">Previa del Campeonato Uruguayo de Segunda División Profesional de 2022, es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220524150000 -0300" stop="20220524170000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Juventud vs. Atenas, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220524170000 -0300" stop="20220524180000 -0300" channel="VTVPlus">
+    <title lang="es">Especial - Finales uruguayos</title>
+  </programme>
+  <programme start="20220524180000 -0300" stop="20220524190000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220524190000 -0300" stop="20220524210000 -0300" channel="VTVPlus">
+    <title lang="es">OFI - Copa de Selecciones 2019. San José Capital vs. Lavalleja Capital, Final, ida</title>
+    <desc lang="es">La Copa Nacional de Selecciones es el máximo evento a nivel de selecciones del fútbol del interior uruguayo. Su desarrollo depende de la Organización del Fútbol del Interior.(n)</desc>
+  </programme>
+  <programme start="20220524210000 -0300" stop="20220524211500 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+    <desc lang="es">La previa de la liga uruguaya de básquet y se jugará una rueda en formato todos contra todos para ir los primeros seis equipos a la Liguilla y los últimos seis a la Reclasificación.(n)</desc>
+  </programme>
+  <programme start="20220524211500 -0300" stop="20220524233000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220524233000 -0300" stop="20220525003000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220525003000 -0300" stop="20220525023000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Juventud vs. Atenas, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220525023000 -0300" stop="20220525043000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Trouville, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220525043000 -0300" stop="20220525053000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220525053000 -0300" stop="20220525073000 -0300" channel="VTVPlus">
+    <title lang="es">OFI - Copa de Selecciones 2019. San José Capital vs. Lavalleja Capital, Final, ida</title>
+    <desc lang="es">La Copa Nacional de Selecciones es el máximo evento a nivel de selecciones del fútbol del interior uruguayo. Su desarrollo depende de la Organización del Fútbol del Interior.(n)</desc>
+  </programme>
+  <programme start="20220525073000 -0300" stop="20220525093000 -0300" channel="VTVPlus">
+    <title lang="es">Peñarol vs. Boston River, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220525093000 -0300" stop="20220525103000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220525103000 -0300" stop="20220525124500 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220525124500 -0300" stop="20220525130000 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Segunda División. Racing vs. La Luz, Fecha 5</title>
+    <desc lang="es">Previa del Campeonato Uruguayo de Segunda División Profesional de 2022, es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220525130000 -0300" stop="20220525150000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Racing vs. La Luz, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220525150000 -0300" stop="20220525151500 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Segunda División. Rampla vs. Progreso, Fecha 5</title>
+    <desc lang="es">Previa del Campeonato Uruguayo de Segunda División Profesional de 2022, es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220525151500 -0300" stop="20220525173000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Rampla vs. Progreso, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220525173000 -0300" stop="20220525180000 -0300" channel="VTVPlus">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220525180000 -0300" stop="20220525190000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220525190000 -0300" stop="20220525210000 -0300" channel="VTVPlus">
+    <title lang="es">Nacional vs. Albion FC, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220525210000 -0300" stop="20220525230000 -0300" channel="VTVPlus">
+    <title lang="es">Danubio vs. Def. Sporting, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220525230000 -0300" stop="20220526000000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220526000000 -0300" stop="20220526020000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Racing vs. La Luz, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220526020000 -0300" stop="20220526040000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220526040000 -0300" stop="20220526050000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220526050000 -0300" stop="20220526070000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Rampla vs. Progreso, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220526070000 -0300" stop="20220526090000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Trouville, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220526090000 -0300" stop="20220526100000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220526100000 -0300" stop="20220526120000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Juventud vs. Atenas, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220526120000 -0300" stop="20220526140000 -0300" channel="VTVPlus">
+    <title lang="es">Danubio vs. Def. Sporting, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220526140000 -0300" stop="20220526160000 -0300" channel="VTVPlus">
+    <title lang="es">Cerrito vs. Wanderers, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220526160000 -0300" stop="20220526180000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220526180000 -0300" stop="20220526190000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220526190000 -0300" stop="20220526200000 -0300" channel="VTVPlus">
+    <title lang="es">Lanzamiento - Copa Nacional de Clubes</title>
+  </programme>
+  <programme start="20220526200000 -0300" stop="20220526220000 -0300" channel="VTVPlus">
+    <title lang="es">Peñarol vs. Boston River, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220526220000 -0300" stop="20220527000000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Bigua vs. Trouville, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220527000000 -0300" stop="20220527010000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220527010000 -0300" stop="20220527030000 -0300" channel="VTVPlus">
+    <title lang="es">OFI - Copa de Selecciones 2019. San José Capital vs. Lavalleja Capital, Final, ida</title>
+    <desc lang="es">La Copa Nacional de Selecciones es el máximo evento a nivel de selecciones del fútbol del interior uruguayo. Su desarrollo depende de la Organización del Fútbol del Interior.(n)</desc>
+  </programme>
+  <programme start="20220527030000 -0300" stop="20220527050000 -0300" channel="VTVPlus">
+    <title lang="es">Nacional vs. Albion FC, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220527050000 -0300" stop="20220527070000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220527070000 -0300" stop="20220527090000 -0300" channel="VTVPlus">
+    <title lang="es">Danubio vs. Def. Sporting, Fecha 13. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220527090000 -0300" stop="20220527093000 -0300" channel="VTVPlus">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220527093000 -0300" stop="20220527103000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220527103000 -0300" stop="20220527123000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Racing vs. La Luz, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220527123000 -0300" stop="20220527144500 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Rampla vs. Progreso, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220527144500 -0300" stop="20220527150000 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Campeonato uruguayo. Albion FC vs. Danubio, Fecha 14</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220527150000 -0300" stop="20220527170000 -0300" channel="VTVPlus">
+    <title lang="es">Albion FC vs. Danubio, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220527170000 -0300" stop="20220527173000 -0300" channel="VTVPlus">
+    <title lang="es">Fechas pasadas. Goleadas</title>
+    <desc lang="es">Miguel Pastorino te propone disfrutar y recordar con emoción los mejores recuerdos de encuentros memorables del fútbol. Un espacio para revivir esos grandes partidos que, para muchos, son inolvidables.(n)</desc>
+  </programme>
+  <programme start="20220527173000 -0300" stop="20220527180000 -0300" channel="VTVPlus">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220527180000 -0300" stop="20220527190000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220527190000 -0300" stop="20220527210000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220527210000 -0300" stop="20220527233000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Semifinales</title>
+  </programme>
+  <programme start="20220527233000 -0300" stop="20220528003000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220528003000 -0300" stop="20220528023000 -0300" channel="VTVPlus">
+    <title lang="es">Albion FC vs. Danubio, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220528023000 -0300" stop="20220528043000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Rampla vs. Progreso, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220528043000 -0300" stop="20220528050000 -0300" channel="VTVPlus">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220528050000 -0300" stop="20220528070000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Juventud vs. Atenas, Fecha 5</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220528070000 -0300" stop="20220528090000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Peñarol vs. Aguada, Semifinales, Juego 3</title>
+  </programme>
+  <programme start="20220528090000 -0300" stop="20220528100000 -0300" channel="VTVPlus">
+    <title lang="es">Pasión noticias</title>
+    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220528100000 -0300" stop="20220528120000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Semifinales</title>
+  </programme>
+  <programme start="20220528120000 -0300" stop="20220528144500 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Fecha 6</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220528144500 -0300" stop="20220528150000 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Campeonato uruguayo. Cerro Largo vs. Liverpool, Fecha 14</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220528150000 -0300" stop="20220528171500 -0300" channel="VTVPlus">
+    <title lang="es">Cerro Largo vs. Liverpool, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220528171500 -0300" stop="20220528173000 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Campeonato uruguayo. Boston River vs. City Torque, Fecha 14</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220528173000 -0300" stop="20220528193000 -0300" channel="VTVPlus">
+    <title lang="es">Boston River vs. City Torque, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220528193000 -0300" stop="20220528200000 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Campeonato uruguayo. Nacional vs. Cerrito, Fecha 14</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220528200000 -0300" stop="20220528220000 -0300" channel="VTVPlus">
+    <title lang="es">Nacional vs. Cerrito, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220528220000 -0300" stop="20220529003000 -0300" channel="VTVPlus">
+    <title lang="es">Liga uruguaya de básquet. Semifinales</title>
+  </programme>
+  <programme start="20220529003000 -0300" stop="20220529023000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Fecha 6</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220529023000 -0300" stop="20220529030000 -0300" channel="VTVPlus">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220529030000 -0300" stop="20220529050000 -0300" channel="VTVPlus">
+    <title lang="es">Cerro Largo vs. Liverpool, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529050000 -0300" stop="20220529070000 -0300" channel="VTVPlus">
+    <title lang="es">Boston River vs. City Torque, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529070000 -0300" stop="20220529073000 -0300" channel="VTVPlus">
+    <title lang="es">Fechas pasadas. Clásicos</title>
+  </programme>
+  <programme start="20220529073000 -0300" stop="20220529093000 -0300" channel="VTVPlus">
+    <title lang="es">Nacional vs. Cerrito, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529093000 -0300" stop="20220529121500 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Fecha 6</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
+  </programme>
+  <programme start="20220529121500 -0300" stop="20220529123000 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Campeonato uruguayo. Plaza Colonia vs. Wanderers, Fecha 14</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529123000 -0300" stop="20220529143000 -0300" channel="VTVPlus">
+    <title lang="es">Plaza Colonia vs. Wanderers, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529143000 -0300" stop="20220529150000 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Campeonato uruguayo. River Plate vs. Peñarol, Fecha 14</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529150000 -0300" stop="20220529171500 -0300" channel="VTVPlus">
+    <title lang="es">River Plate vs. Peñarol, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529171500 -0300" stop="20220529173000 -0300" channel="VTVPlus">
+    <title lang="es">Previa - Campeonato uruguayo. Def. Sporting vs. Dep. Maldonado, Fecha 14</title>
+    <desc lang="es">Viví la previa de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529173000 -0300" stop="20220529193000 -0300" channel="VTVPlus">
+    <title lang="es">Def. Sporting vs. Dep. Maldonado, Fecha 14. Campeonato uruguayo</title>
+    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529193000 -0300" stop="20220529203000 -0300" channel="VTVPlus">
+    <title lang="es">Post partido - Campeonato uruguayo. Def. Sporting vs. Dep. Maldonado, Fecha 14</title>
+    <desc lang="es">Viví el post partido y todo el análisis de los partidos del Torneo Apertura 2022, que constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
+  </programme>
+  <programme start="20220529203000 -0300" stop="20220529230000 -0300" channel="VTVPlus">
+    <title lang="es">Segunda División. Fecha 6</title>
+    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
   </programme>
   <programme start="20220523220000 -0300" stop="20220523225000 -0300" channel="Love Nature HD">
     <title lang="es">Vida secreta do Wombat</title>
@@ -24425,108 +24927,438 @@
     <title lang="es">Escuela de orangutanes</title>
     <desc lang="es">Unos jóvenes orangutanes han perdido a sus madres debido a la caza furtiva o la deforestación y deben aprender las habilidades que necesitan para sobrevivir.(n)</desc>
   </programme>
-  <programme start="20220523083000 -0300" stop="20220523090000 -0300" channel="RT en español">
-    <title lang="es">Entrevista. Eduardo del Llano</title>
-    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.(n)</desc>
+  <programme start="20220523210000 -0300" stop="20220523230000 -0300" channel="Canal 10 HD">
+    <title lang="es">La Voz Uruguay. Batallas</title>
+    <desc lang="es">El reality musical más importante del mundo, ¡ahora hecho en Uruguay! Con la conducción de Natalia Oreiro y cuatro coaches de lujo: Ruben Rada, Valeria Lynch, Agustín Casanova y Lucas Sugo.(n)</desc>
   </programme>
-  <programme start="20220523090000 -0300" stop="20220523093000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220523230000 -0300" stop="20220524000000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
   </programme>
-  <programme start="20220523093000 -0300" stop="20220523100000 -0300" channel="RT en español">
-    <title lang="es">Arte Chino: La tradición renovada</title>
+  <programme start="20220524000000 -0300" stop="20220524010000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
   </programme>
-  <programme start="20220523100000 -0300" stop="20220523103000 -0300" channel="RT en español">
-    <title lang="es">Rusofobia: la derrota de la razón</title>
-    <desc lang="es">La rusofobia que se extiende por Occidente no se puede negar y atajarla es cada vez más difícil, si es que hay alguien interesado en hacerlo. ¿Qué repercusiones tiene.(n)</desc>
+  <programme start="20220524010000 -0300" stop="20220524030000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
   </programme>
-  <programme start="20220523103000 -0300" stop="20220523110000 -0300" channel="RT en español">
-    <title lang="es">Entrevista. Eduardo del Llano</title>
-    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.(n)</desc>
+  <programme start="20220524030000 -0300" stop="20220524043000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
   </programme>
-  <programme start="20220523110000 -0300" stop="20220523113000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220524043000 -0300" stop="20220524060000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
   </programme>
-  <programme start="20220523113000 -0300" stop="20220523120000 -0300" channel="RT en español">
-    <title lang="es">Arte Chino: La tradición renovada</title>
+  <programme start="20220524060000 -0300" stop="20220524063000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
   </programme>
-  <programme start="20220523120000 -0300" stop="20220523123000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220524063000 -0300" stop="20220524070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
   </programme>
-  <programme start="20220523123000 -0300" stop="20220523130000 -0300" channel="RT en español">
-    <title lang="es">Rusofobia: la derrota de la razón</title>
-    <desc lang="es">La rusofobia que se extiende por Occidente no se puede negar y atajarla es cada vez más difícil, si es que hay alguien interesado en hacerlo. ¿Qué repercusiones tiene.(n)</desc>
+  <programme start="20220524070000 -0300" stop="20220524080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Informativo Carve 850</title>
+    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
   </programme>
-  <programme start="20220523130000 -0300" stop="20220523133000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220524080000 -0300" stop="20220524103000 -0300" channel="Canal 10 HD">
+    <title lang="es">Arriba gente</title>
+    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
   </programme>
-  <programme start="20220523133000 -0300" stop="20220523140000 -0300" channel="RT en español">
-    <title lang="es">Entrevista. Eduardo del Llano</title>
-    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.(n)</desc>
+  <programme start="20220524103000 -0300" stop="20220524123000 -0300" channel="Canal 10 HD">
+    <title lang="es">La mañana en casa</title>
+    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
   </programme>
-  <programme start="20220523140000 -0300" stop="20220523143000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220524123000 -0300" stop="20220524143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
   </programme>
-  <programme start="20220523143000 -0300" stop="20220523150000 -0300" channel="RT en español">
-    <title lang="es">Arte Chino: La tradición renovada</title>
+  <programme start="20220524143000 -0300" stop="20220524163000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
   </programme>
-  <programme start="20220523150000 -0300" stop="20220523153000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220524163000 -0300" stop="20220524170000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
   </programme>
-  <programme start="20220523153000 -0300" stop="20220523160000 -0300" channel="RT en español">
-    <title lang="es">Rusofobia: la derrota de la razón</title>
-    <desc lang="es">La rusofobia que se extiende por Occidente no se puede negar y atajarla es cada vez más difícil, si es que hay alguien interesado en hacerlo. ¿Qué repercusiones tiene.(n)</desc>
+  <programme start="20220524170000 -0300" stop="20220524180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
   </programme>
-  <programme start="20220523160000 -0300" stop="20220523163000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220524180000 -0300" stop="20220524190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado tarde</title>
+    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
   </programme>
-  <programme start="20220523163000 -0300" stop="20220523170000 -0300" channel="RT en español">
-    <title lang="es">Entrevista. Eduardo del Llano</title>
-    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.(n)</desc>
+  <programme start="20220524190000 -0300" stop="20220524210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
   </programme>
-  <programme start="20220523170000 -0300" stop="20220523173000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220524210000 -0300" stop="20220524230000 -0300" channel="Canal 10 HD">
+    <title lang="es">Masterchef Celebrity</title>
+    <desc lang="es">Los celebridades más queridas por los uruguayos compiten en la cocina más famosa del país.(n)</desc>
   </programme>
-  <programme start="20220523173000 -0300" stop="20220523180000 -0300" channel="RT en español">
-    <title lang="es">Arte Chino: La tradición renovada</title>
+  <programme start="20220524230000 -0300" stop="20220525000000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
   </programme>
-  <programme start="20220523180000 -0300" stop="20220523183000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220525000000 -0300" stop="20220525010000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
   </programme>
-  <programme start="20220523183000 -0300" stop="20220523190000 -0300" channel="RT en español">
-    <title lang="es">Rusofobia: la derrota de la razón</title>
-    <desc lang="es">La rusofobia que se extiende por Occidente no se puede negar y atajarla es cada vez más difícil, si es que hay alguien interesado en hacerlo. ¿Qué repercusiones tiene.(n)</desc>
+  <programme start="20220525010000 -0300" stop="20220525030000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
   </programme>
-  <programme start="20220523190000 -0300" stop="20220523193000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220525030000 -0300" stop="20220525043000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
   </programme>
-  <programme start="20220523193000 -0300" stop="20220523200000 -0300" channel="RT en español">
-    <title lang="es">Entrevista. Eduardo del Llano</title>
-    <desc lang="es">Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.(n)</desc>
+  <programme start="20220525043000 -0300" stop="20220525060000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
   </programme>
-  <programme start="20220523200000 -0300" stop="20220523203000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220525060000 -0300" stop="20220525063000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
   </programme>
-  <programme start="20220523203000 -0300" stop="20220523210000 -0300" channel="RT en español">
-    <title lang="es">Arte Chino: La tradición renovada</title>
+  <programme start="20220525063000 -0300" stop="20220525070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
   </programme>
-  <programme start="20220523210000 -0300" stop="20220523213000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
+  <programme start="20220525070000 -0300" stop="20220525080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Informativo Carve 850</title>
+    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
   </programme>
-  <programme start="20220523213000 -0300" stop="20220523220000 -0300" channel="RT en español">
-    <title lang="es">Rusofobia: la derrota de la razón</title>
-    <desc lang="es">La rusofobia que se extiende por Occidente no se puede negar y atajarla es cada vez más difícil, si es que hay alguien interesado en hacerlo. ¿Qué repercusiones tiene.(n)</desc>
+  <programme start="20220525080000 -0300" stop="20220525103000 -0300" channel="Canal 10 HD">
+    <title lang="es">Arriba gente</title>
+    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20220525103000 -0300" stop="20220525123000 -0300" channel="Canal 10 HD">
+    <title lang="es">La mañana en casa</title>
+    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220525123000 -0300" stop="20220525143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
+  </programme>
+  <programme start="20220525143000 -0300" stop="20220525163000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220525163000 -0300" stop="20220525170000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220525170000 -0300" stop="20220525180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220525180000 -0300" stop="20220525190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado tarde</title>
+    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
+  </programme>
+  <programme start="20220525190000 -0300" stop="20220525210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220525210000 -0300" stop="20220525230000 -0300" channel="Canal 10 HD">
+    <title lang="es">Sonríe, te estamos grabando</title>
+    <desc lang="es">Un clásico de la televisión uruguaya, con informes de archivo, actualidad, humor, invitados y nuevos espacios que darán que hablar.(n)</desc>
+  </programme>
+  <programme start="20220525230000 -0300" stop="20220526000000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220526000000 -0300" stop="20220526010000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220526010000 -0300" stop="20220526030000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220526030000 -0300" stop="20220526043000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220526043000 -0300" stop="20220526060000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20220526060000 -0300" stop="20220526062500 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220526062500 -0300" stop="20220526063000 -0300" channel="Canal 10 HD">
+    <title lang="es">TV Educativa - Secundaria</title>
+    <desc lang="es">Espacio en el cual se presentan contenidos audiovisuales en los cuales se exponen diferentes temas de interés general que son abordados en la actualidad con el propósito de educar al espectador.(n)</desc>
+  </programme>
+  <programme start="20220526063000 -0300" stop="20220526070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220526070000 -0300" stop="20220526080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Informativo Carve 850</title>
+    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
+  </programme>
+  <programme start="20220526080000 -0300" stop="20220526103000 -0300" channel="Canal 10 HD">
+    <title lang="es">Arriba gente</title>
+    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20220526103000 -0300" stop="20220526123000 -0300" channel="Canal 10 HD">
+    <title lang="es">La mañana en casa</title>
+    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220526123000 -0300" stop="20220526143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
+  </programme>
+  <programme start="20220526143000 -0300" stop="20220526163000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220526163000 -0300" stop="20220526170000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220526170000 -0300" stop="20220526180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220526180000 -0300" stop="20220526190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado tarde</title>
+    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
+  </programme>
+  <programme start="20220526190000 -0300" stop="20220526210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220526210000 -0300" stop="20220526230000 -0300" channel="Canal 10 HD">
+    <title lang="es">¿Quién quiere ser millonario</title>
+    <desc lang="es">El formato de preguntas y respuestas más importante del mundo, ahora hecho en Uruguay con la conducción del Lic. Orlando Petinatti.(n)</desc>
+  </programme>
+  <programme start="20220526230000 -0300" stop="20220527000000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220527000000 -0300" stop="20220527010000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220527010000 -0300" stop="20220527030000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220527030000 -0300" stop="20220527043000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220527043000 -0300" stop="20220527060000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20220527060000 -0300" stop="20220527063000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220527063000 -0300" stop="20220527070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220527070000 -0300" stop="20220527080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Informativo Carve 850</title>
+    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
+  </programme>
+  <programme start="20220527080000 -0300" stop="20220527103000 -0300" channel="Canal 10 HD">
+    <title lang="es">Arriba gente</title>
+    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20220527103000 -0300" stop="20220527123000 -0300" channel="Canal 10 HD">
+    <title lang="es">La mañana en casa</title>
+    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220527123000 -0300" stop="20220527143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
+  </programme>
+  <programme start="20220527143000 -0300" stop="20220527163000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220527163000 -0300" stop="20220527170000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220527170000 -0300" stop="20220527180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220527180000 -0300" stop="20220527190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado tarde</title>
+    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
+  </programme>
+  <programme start="20220527190000 -0300" stop="20220527210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220527210000 -0300" stop="20220527230000 -0300" channel="Canal 10 HD">
+    <title lang="es">Polémica en el bar</title>
+    <desc lang="es">El espacio refleja la típica mesa de bar donde un grupo de amigos se encuentra en su café favorito para debatir los temas de la semana con humor, picardía e inteligencia. El programa tendrá actualidad, debate, invitados y momentos emotivos.(n)</desc>
+  </programme>
+  <programme start="20220527230000 -0300" stop="20220528010000 -0300" channel="Canal 10 HD">
+    <title lang="es">Festival de cine</title>
+    <desc lang="es">Lo mejor del cine mundial trae diversión, emoción y entretenimiento, en un ciclo de películas pensado para todo tipo de público.(n)</desc>
+  </programme>
+  <programme start="20220528010000 -0300" stop="20220528030000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220528030000 -0300" stop="20220528043000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220528043000 -0300" stop="20220528070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20220528070000 -0300" stop="20220528073000 -0300" channel="Canal 10 HD">
+    <title lang="es">a+V Agropecuario</title>
+    <desc lang="es">Programa agropecuario de la señal de cable A + V.(n)</desc>
+  </programme>
+  <programme start="20220528073000 -0300" stop="20220528080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Home Sweet Home</title>
+    <desc lang="es">Programa de TV 100% dedicado a la construcción, hogar y decoración en el país.(n)</desc>
+  </programme>
+  <programme start="20220528080000 -0300" stop="20220528090000 -0300" channel="Canal 10 HD">
+    <title lang="es">Entre mates y guitarras</title>
+    <desc lang="es">¡Un programa de la canción y la música "uruguayo y artiguista".(n)</desc>
+  </programme>
+  <programme start="20220528090000 -0300" stop="20220528093000 -0300" channel="Canal 10 HD">
+    <title lang="es">Hablemos de salud</title>
+    <desc lang="es">Busca transmitir, a través de los profesionales, todo lo referente a nuestra salud, para que la población incorpore hábitos saludables que optimicen su calidad de vida, educándonos para reforzar la cultura de la prevención de enfermedades.(n)</desc>
+  </programme>
+  <programme start="20220528093000 -0300" stop="20220528110000 -0300" channel="Canal 10 HD">
+    <title lang="es">De pago en pago</title>
+    <desc lang="es">Una recorrida por el país, sus fiestas, lugares, historias y personajes, a través del trabajo de decenas de productoras audiovisuales independientes.(n)</desc>
+  </programme>
+  <programme start="20220528110000 -0300" stop="20220528113000 -0300" channel="Canal 10 HD">
+    <title lang="es">Mundo de caballos</title>
+  </programme>
+  <programme start="20220528113000 -0300" stop="20220528115500 -0300" channel="Canal 10 HD">
+    <title lang="es">Mundo cooperativo</title>
+    <desc lang="es">Mundo Cooperativo es el primer espacio dedicado, exclusivamente, a mostrar la realidad del cooperativismo en todo Uruguay y en otros países de la región.(n)</desc>
+  </programme>
+  <programme start="20220528115500 -0300" stop="20220528120000 -0300" channel="Canal 10 HD">
+    <title lang="es">Quién da más</title>
+    <desc lang="es">Las mejores oportunidades de remate las ve por la mayor cobertura y máxima audiencia.(n)</desc>
+  </programme>
+  <programme start="20220528120000 -0300" stop="20220528130000 -0300" channel="Canal 10 HD">
+    <title lang="es">Mejor con música</title>
+    <desc lang="es">Convertí tu sábado en una fiesta.(n)</desc>
+  </programme>
+  <programme start="20220528130000 -0300" stop="20220528133000 -0300" channel="Canal 10 HD">
+    <title lang="es">Secretos de Ana Durán</title>
+    <desc lang="es">Ana Durán la referente del hogar, la practicidad, los consejos y las recetas nos comparte todos sus secretos.(n)</desc>
+  </programme>
+  <programme start="20220528133000 -0300" stop="20220528153000 -0300" channel="Canal 10 HD">
+    <title lang="es">Puglia invita</title>
+    <desc lang="es">Cuatro personalidades de ámbitos diferentes integran la mesa del Puglia este próximo sábado.(n)</desc>
+  </programme>
+  <programme start="20220528153000 -0300" stop="20220528180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Dale que va</title>
+    <desc lang="es">Espacio juvenil en el que disfrutarás de la más variada música, artistas, bailes e invitados especiales que harán tus tardes más divertidas y amenas.(n)</desc>
+  </programme>
+  <programme start="20220528180000 -0300" stop="20220528190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Saber vivir mejor</title>
+    <desc lang="es">Soledad Ortega y la Dra. Alejandra Rey presentan un ciclo que aborda la salud y el bienestar, enfocado en la prevención y los hábitos saludables.(n)</desc>
+  </programme>
+  <programme start="20220528190000 -0300" stop="20220528203000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado sábado</title>
+    <desc lang="es">Un espacio de noticias y con cobertura de lo que pasa en la actualidad.(n)</desc>
+  </programme>
+  <programme start="20220528203000 -0300" stop="20220528213000 -0300" channel="Canal 10 HD">
+    <title lang="es">La peluquería de Don Mateo</title>
+    <desc lang="es">La peluquería de Don Mateo contará con un gran elenco y, en cada programa, reconocidas personalidades de Uruguay tendrán un turno para cortarse el pelo o afeitarse, en un local donde desfilarán divertidos y excéntricos personajes.(n)</desc>
+  </programme>
+  <programme start="20220528213000 -0300" stop="20220528223000 -0300" channel="Canal 10 HD">
+    <title lang="es">Máximo 90</title>
+    <desc lang="es">Sebastián Almada y Soledad Ortega en un recorrido imperdible por todo el país. Una experiencia de viaje única y divertida, conociendo los lugares más lindos del Uruguay con personajes e historias que te van a cautivar.(n)</desc>
+  </programme>
+  <programme start="20220528223000 -0300" stop="20220529000000 -0300" channel="Canal 10 HD">
+    <title lang="es">Mejor con música</title>
+    <desc lang="es">Convertí tu sábado en una fiesta.(n)</desc>
+  </programme>
+  <programme start="20220529000000 -0300" stop="20220529010000 -0300" channel="Canal 10 HD">
+    <title lang="es">C.S.I</title>
+    <desc lang="es">Durante una persecución policial, todos los perseguidos y un agente de policía resultan muertos. Un chico que paseaba con su bicicleta es herido gravemente en la misma.(n)</desc>
+  </programme>
+  <programme start="20220529010000 -0300" stop="20220529020000 -0300" channel="Canal 10 HD">
+    <title lang="es">C.S.I</title>
+    <desc lang="es">Durante una persecución policial, todos los perseguidos y un agente de policía resultan muertos. Un chico que paseaba con su bicicleta es herido gravemente en la misma.(n)</desc>
+  </programme>
+  <programme start="20220529020000 -0300" stop="20220529060000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado sábado</title>
+    <desc lang="es">Un espacio de noticias y con cobertura de lo que pasa en la actualidad.(n)</desc>
+  </programme>
+  <programme start="20220529060000 -0300" stop="20220529063000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20220529063000 -0300" stop="20220529070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Mejor con música</title>
+    <desc lang="es">Convertí tu sábado en una fiesta.(n)</desc>
+  </programme>
+  <programme start="20220529070000 -0300" stop="20220529073000 -0300" channel="Canal 10 HD">
+    <title lang="es">Mejor con música</title>
+    <desc lang="es">Convertí tu sábado en una fiesta.(n)</desc>
+  </programme>
+  <programme start="20220529073000 -0300" stop="20220529080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tecnovial</title>
+  </programme>
+  <programme start="20220529080000 -0300" stop="20220529083000 -0300" channel="Canal 10 HD">
+    <title lang="es">Hablemos de agro</title>
+    <desc lang="es">Un nuevo espacio vinculado al sector agropecuario.(n)</desc>
+  </programme>
+  <programme start="20220529083000 -0300" stop="20220529090000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tecnovial</title>
+  </programme>
+  <programme start="20220529090000 -0300" stop="20220529100000 -0300" channel="Canal 10 HD">
+    <title lang="es">De pago en pago</title>
+    <desc lang="es">Una recorrida por el país, sus fiestas, lugares, historias y personajes, a través del trabajo de decenas de productoras audiovisuales independientes.(n)</desc>
+  </programme>
+  <programme start="20220529100000 -0300" stop="20220529140000 -0300" channel="Canal 10 HD">
+    <title lang="es">Punto penal</title>
+    <desc lang="es">Punto Penal, "el clásico de los domingos.(n)</desc>
+  </programme>
+  <programme start="20220529140000 -0300" stop="20220529143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Punto penal - El alargue</title>
+    <desc lang="es">Programa deportivo.(n)</desc>
+  </programme>
+  <programme start="20220529143000 -0300" stop="20220529153000 -0300" channel="Canal 10 HD">
+    <title lang="es">Saber vivir mejor</title>
+    <desc lang="es">Soledad Ortega y la Dra. Alejandra Rey presentan un ciclo que aborda la salud y el bienestar, enfocado en la prevención y los hábitos saludables.(n)</desc>
+  </programme>
+  <programme start="20220529153000 -0300" stop="20220529161500 -0300" channel="Canal 10 HD">
+    <title lang="es">FBI</title>
+    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
+  </programme>
+  <programme start="20220529161500 -0300" stop="20220529170000 -0300" channel="Canal 10 HD">
+    <title lang="es">FBI</title>
+    <desc lang="es">La agente especial Maggie Bell y su compañero, Omar Adom 'OA' Zidan, aportan todo su talento, intelecto y experiencia técnica para investigar con tenacidad casos de gran magnitud y mantener a salvo a Nueva York y al país.(n)</desc>
+  </programme>
+  <programme start="20220529170000 -0300" stop="20220529190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Vivila otra vez</title>
+    <desc lang="es">Un formato que a partir del archivo televisivo del canal apela a recordar momentos memorables, hechos históricos, figuras inolvidables, sucesos importantes de nuestra vida colectiva; así como también la música de todos los tiempos y las anécdotas que siempre hacen a la memoria de la tele audiencia. La presentación de una diversidad de acontecimientos, promete revivir hechos que no pueden pasar inadvertidos.(n)</desc>
+  </programme>
+  <programme start="20220529190000 -0300" stop="20220529210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado domingo</title>
+    <desc lang="es">La información nacional e internacional tratada con criterio periodístico responsable a partir de la labor de un equipo de hombres y mujeres cubriendo distintas areas, perfilandose como un referente en la televisión uruguaya.(n)</desc>
+  </programme>
+  <programme start="20220529210000 -0300" stop="20220529230000 -0300" channel="Canal 10 HD">
+    <title lang="es">Polémica en el bar</title>
+    <desc lang="es">El espacio refleja la típica mesa de bar donde un grupo de amigos se encuentra en su café favorito para debatir los temas de la semana con humor, picardía e inteligencia. El programa tendrá actualidad, debate, invitados y momentos emotivos.(n)</desc>
   </programme>
   <programme start="20220523220000 -0300" stop="20220523223000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -24620,6 +25452,7 @@
   </programme>
   <programme start="20220524100000 -0300" stop="20220524103000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220524103000 -0300" stop="20220524110000 -0300" channel="RT en español">
     <title lang="es">Entrevista. Pablo Emilio Iturralde Baquero</title>
@@ -24639,6 +25472,7 @@
   </programme>
   <programme start="20220524123000 -0300" stop="20220524130000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220524130000 -0300" stop="20220524133000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -24662,6 +25496,7 @@
   </programme>
   <programme start="20220524153000 -0300" stop="20220524160000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220524160000 -0300" stop="20220524163000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -24685,6 +25520,7 @@
   </programme>
   <programme start="20220524183000 -0300" stop="20220524190000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220524190000 -0300" stop="20220524193000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -24708,6 +25544,7 @@
   </programme>
   <programme start="20220524213000 -0300" stop="20220524220000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220524220000 -0300" stop="20220524223000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -24731,6 +25568,7 @@
   </programme>
   <programme start="20220525003000 -0300" stop="20220525010000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220525010000 -0300" stop="20220525013000 -0300" channel="RT en español">
     <title lang="es">Cartas sobre la mesa</title>
@@ -24738,6 +25576,7 @@
   </programme>
   <programme start="20220525013000 -0300" stop="20220525020000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220525020000 -0300" stop="20220525023000 -0300" channel="RT en español">
     <title lang="es">Entrevista. Pablo Emilio Iturralde Baquero</title>
@@ -24749,6 +25588,7 @@
   </programme>
   <programme start="20220525030000 -0300" stop="20220525033000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220525033000 -0300" stop="20220525040000 -0300" channel="RT en español">
     <title lang="es">Entrevista. Pablo Emilio Iturralde Baquero</title>
@@ -24760,6 +25600,7 @@
   </programme>
   <programme start="20220525043000 -0300" stop="20220525050000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220525050000 -0300" stop="20220525053000 -0300" channel="RT en español">
     <title lang="es">Entrevista. Pablo Emilio Iturralde Baquero</title>
@@ -24771,6 +25612,7 @@
   </programme>
   <programme start="20220525060000 -0300" stop="20220525063000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220525063000 -0300" stop="20220525070000 -0300" channel="RT en español">
     <title lang="es">Entrevista. Pablo Emilio Iturralde Baquero</title>
@@ -24782,6 +25624,7 @@
   </programme>
   <programme start="20220525073000 -0300" stop="20220525080000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220525080000 -0300" stop="20220525083000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -25163,6 +26006,7 @@
   </programme>
   <programme start="20220527100000 -0300" stop="20220527103000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220527103000 -0300" stop="20220527110000 -0300" channel="RT en español">
     <title lang="es">Del trastorno al arte</title>
@@ -25181,6 +26025,7 @@
   </programme>
   <programme start="20220527123000 -0300" stop="20220527130000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220527130000 -0300" stop="20220527133000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -25203,6 +26048,7 @@
   </programme>
   <programme start="20220527153000 -0300" stop="20220527160000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220527160000 -0300" stop="20220527163000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -25225,6 +26071,7 @@
   </programme>
   <programme start="20220527183000 -0300" stop="20220527190000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220527190000 -0300" stop="20220527193000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -25247,6 +26094,7 @@
   </programme>
   <programme start="20220527213000 -0300" stop="20220527220000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220527220000 -0300" stop="20220527223000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
@@ -25269,12 +26117,14 @@
   </programme>
   <programme start="20220528003000 -0300" stop="20220528010000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220528010000 -0300" stop="20220528013000 -0300" channel="RT en español">
     <title lang="es">Donbass: Apoyo humanitario</title>
   </programme>
   <programme start="20220528013000 -0300" stop="20220528020000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220528020000 -0300" stop="20220528023000 -0300" channel="RT en español">
     <title lang="es">Del trastorno al arte</title>
@@ -25285,6 +26135,7 @@
   </programme>
   <programme start="20220528030000 -0300" stop="20220528033000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220528033000 -0300" stop="20220528040000 -0300" channel="RT en español">
     <title lang="es">Del trastorno al arte</title>
@@ -25295,6 +26146,7 @@
   </programme>
   <programme start="20220528043000 -0300" stop="20220528050000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220528050000 -0300" stop="20220528053000 -0300" channel="RT en español">
     <title lang="es">Del trastorno al arte</title>
@@ -25305,6 +26157,7 @@
   </programme>
   <programme start="20220528060000 -0300" stop="20220528063000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220528063000 -0300" stop="20220528070000 -0300" channel="RT en español">
     <title lang="es">Del trastorno al arte</title>
@@ -25315,6 +26168,7 @@
   </programme>
   <programme start="20220528073000 -0300" stop="20220528080000 -0300" channel="RT en español">
     <title lang="es">Occidente: La abolición de la cultura Rusa</title>
+    <desc lang="es">La esencia de lo que le está sucediendo a la cultura rusa se refleja en el título: ''El espectáculo no puede continuar''. Los deportes y las artes, áreas en las que Rusia se ha destacado tradicionalmente, ahora están bajo ataque.(n)</desc>
   </programme>
   <programme start="20220528080000 -0300" stop="20220528083000 -0300" channel="RT en español">
     <title lang="es">Ahí les va</title>
