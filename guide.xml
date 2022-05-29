@@ -460,11 +460,6 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Arirang Tv.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
-  <channel id="BBC">
-    <display-name lang="es">BBC</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/BBC.png" />
-    <url>http://www.buscadorcablevision.com.ar</url>
-  </channel>
   <channel id="Bloomberg">
     <display-name lang="es">Bloomberg</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Bloomberg.png" />
@@ -483,11 +478,6 @@
   <channel id="Fox News">
     <display-name lang="es">Fox News</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox News.png" />
-    <url>http://www.buscadorcablevision.com.ar</url>
-  </channel>
-  <channel id="France 24">
-    <display-name lang="es">France 24</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/France 24.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="Las Estrellas">
@@ -1414,10 +1404,6 @@
     <title lang="es">Nacional vs. Cerrito, Fecha 14. Campeonato uruguayo</title>
     <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
   </programme>
-  <programme start="20220529095000 -0300" stop="20220529104000 -0300" channel="Love Nature HD">
-    <title lang="es">Rescate de vida silvestre de Malawi</title>
-    <desc lang="es">Sigue los esfuerzos de la jefa de veterinaria Amanda Salb y el equipo del único centro de rescate de animales de Malawi, que se dedican a salvar animales heridos y huérfanos para devolverlos a la naturaleza.(n)</desc>
-  </programme>
   <programme start="20220529104000 -0300" stop="20220529113000 -0300" channel="Love Nature HD">
     <title lang="es">Rescate de vida silvestre de Malawi</title>
     <desc lang="es">Sigue los esfuerzos de la jefa de veterinaria Amanda Salb y el equipo del único centro de rescate de animales de Malawi, que se dedican a salvar animales heridos y huérfanos para devolverlos a la naturaleza.(n)</desc>
@@ -2052,9 +2038,6 @@
   <programme start="20220601210000 -0300" stop="20220601230000 -0300" channel="Canal 10 HD">
     <title lang="es">Sonríe, te estamos grabando</title>
     <desc lang="es">Un clásico de la televisión uruguaya, con informes de archivo, actualidad, humor, invitados y nuevos espacios que darán que hablar.(n)</desc>
-  </programme>
-  <programme start="20220529100000 -0300" stop="20220529103000 -0300" channel="RT en español">
-    <title lang="es">Trabajadores invisibles: la otra cara de la inteligencia artificial</title>
   </programme>
   <programme start="20220529103000 -0300" stop="20220529110000 -0300" channel="RT en español">
     <title lang="es">Trabajadores invisibles: la otra cara de la inteligencia artificial</title>
