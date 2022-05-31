@@ -214,14 +214,14 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO 2.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="HBO family">
-    <display-name lang="es">HBO family</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO family.png" />
+  <channel id="HBO Family">
+    <display-name lang="es">HBO Family</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Family.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="HBO MUNDI">
-    <display-name lang="es">HBO MUNDI</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO MUNDI.png" />
+  <channel id="HBO Mundi">
+    <display-name lang="es">HBO Mundi</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Mundi.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="HBO POP">
@@ -484,9 +484,9 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cartoon Network.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="Cartoonito">
-    <display-name lang="es">BOOMERANG</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cartoonito.png" />
+  <channel id="Boomerang">
+    <display-name lang="es">Cartoonito</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Boomerang.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="Discovery Kids">
@@ -524,9 +524,9 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tooncast.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="AMÉRICA">
-    <display-name lang="es">AMÉRICA</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMÉRICA.png" />
+  <channel id="AMERICA">
+    <display-name lang="es">AMERICA</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMERICA.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="El Nueve">
@@ -564,9 +564,9 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telefe.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="TV PÚBLICA">
-    <display-name lang="es">TV PÚBLICA</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV PÚBLICA.png" />
+  <channel id="TV PUBLICA">
+    <display-name lang="es">TV PUBLICA</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV PUBLICA.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="Arirang">
@@ -709,10 +709,6 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Orbe 21.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <programme start="20220531175500 -0300" stop="20220531193500 -0300" channel="A3 Cine HD">
-    <title lang="es">Barrio</title>
-    <desc lang="es">Javi, Manu y Rai son tres adolescentes que viven en un barrio periférico de Madrid que ven como el verano pasará monótono y aburrido en el suburbio. La falta de dinero, las chicas y sus ilusiones serán los temas que centren la vida de estos.(n)</desc>
-  </programme>
   <programme start="20220531193500 -0300" stop="20220531214000 -0300" channel="A3 Cine HD">
     <title lang="es">El género femenino</title>
     <desc lang="es">Un director de teatro acepta el encargo de dirigir una película que extrañamente enlazará con su propia realidad y sus deseos. Sufrirá una crisis de identidad que intentará catalizar a través de la creación fílmica.(n)</desc>
@@ -897,14 +893,6 @@
   <programme start="20220603214000 -0300" stop="20220603234000 -0300" channel="A3 Cine HD">
     <title lang="es">El camino de los ingleses</title>
     <desc lang="es">Málaga, años ´70. Miguelito es un joven a quien le acaban de quitar un riñón. Ese verano, él y sus amigos experimentan la vida al extremo.(n)</desc>
-  </programme>
-  <programme start="20220531180000 -0300" stop="20220531190000 -0300" channel="VTV HD">
-    <title lang="es">Pasión noticias</title>
-    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
-  </programme>
-  <programme start="20220531190000 -0300" stop="20220531200000 -0300" channel="VTV HD">
-    <title lang="es">VTV Noticias - Edición central</title>
-    <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
   </programme>
   <programme start="20220531200000 -0300" stop="20220531210000 -0300" channel="VTV HD">
     <title lang="es">La mesa de motores</title>
@@ -1140,10 +1128,6 @@
     <title lang="es">La noche del pela</title>
     <desc lang="es">Programa de humor, música en vivo e invitados. Conducido por Nelson Burgos.(n)</desc>
   </programme>
-  <programme start="20220531180000 -0300" stop="20220531190000 -0300" channel="VTVPlus">
-    <title lang="es">Pasión noticias</title>
-    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
-  </programme>
   <programme start="20220531190000 -0300" stop="20220531210000 -0300" channel="VTVPlus">
     <title lang="es">River Plate vs. Peñarol, Fecha 14. Campeonato uruguayo</title>
     <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
@@ -1324,13 +1308,6 @@
   </programme>
   <programme start="20220603210000 -0300" stop="20220603230000 -0300" channel="VTVPlus">
     <title lang="es">Liga uruguaya de básquet. Bigua vs. Peñarol, Finales, Juego 3</title>
-  </programme>
-  <programme start="20220531184000 -0300" stop="20220531193000 -0300" channel="Love Nature HD">
-    <title lang="es">Montañas salvajes</title>
-    <desc lang="es">El aire es frío, los árboles no pueden incluso vivir aquí. Este no es exactamente un lugar acogedor para vivir. Pero animales como cabras de montaña y ovejas de cuerno grande e incluso osos negros logran esquivar estos picos con facilidad.(n)</desc>
-  </programme>
-  <programme start="20220531193000 -0300" stop="20220531202000 -0300" channel="Love Nature HD">
-    <title lang="es">Dentro de la selva: Colombia</title>
   </programme>
   <programme start="20220531202000 -0300" stop="20220531211000 -0300" channel="Love Nature HD">
     <title lang="es">Rescate de vida silvestre de Malawi</title>
@@ -1679,10 +1656,6 @@
     <title lang="es">Azul salvaje</title>
     <desc lang="es">A 40 kilómetros de la ciudad de Belice existe un reino submarino con más de 200 cuevas que albergan una variedad inigualable de vida marina y formaciones de coral.(n)</desc>
   </programme>
-  <programme start="20220531180000 -0300" stop="20220531190000 -0300" channel="Canal 10 HD">
-    <title lang="es">Subrayado tarde</title>
-    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
-  </programme>
   <programme start="20220531190000 -0300" stop="20220531210000 -0300" channel="Canal 10 HD">
     <title lang="es">Subrayado</title>
     <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
@@ -1898,21 +1871,6 @@
   <programme start="20220603210000 -0300" stop="20220603230000 -0300" channel="Canal 10 HD">
     <title lang="es">Polémica en el bar</title>
     <desc lang="es">El espacio refleja la típica mesa de bar donde un grupo de amigos se encuentra en su café favorito para debatir los temas de la semana con humor, picardía e inteligencia. El programa tendrá actualidad, debate, invitados y momentos emotivos.(n)</desc>
-  </programme>
-  <programme start="20220531184500 -0300" stop="20220531190000 -0300" channel="RT en español">
-    <title lang="es">Rusofobia: Odio en Auge Bangladés: Los esclavos del barro</title>
-  </programme>
-  <programme start="20220531190000 -0300" stop="20220531193000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220531193000 -0300" stop="20220531200000 -0300" channel="RT en español">
-    <title lang="es">Entrevista. María Florencia Freijo</title>
-    <desc lang="es">Gente de las más variadas esferas, políticos, deportistas, artistas relatan parte de su vida. Juntos descubriremos el lado desconocido, historias de ídolos de todas las generaciones.(n)</desc>
-  </programme>
-  <programme start="20220531200000 -0300" stop="20220531203000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
   </programme>
   <programme start="20220531203000 -0300" stop="20220531210000 -0300" channel="RT en español">
     <title lang="es">Cartas sobre la mesa</title>
@@ -4656,187 +4614,187 @@
   <programme start="20220604220100 -0300" stop="20220605002600 -0300" channel="HBO 2">
     <title lang="es">Batman inicia</title>
   </programme>
-  <programme start="20220531234600 -0300" stop="20220601013000 -0300" channel="HBO family">
+  <programme start="20220531234600 -0300" stop="20220601013000 -0300" channel="HBO Family">
     <title lang="es">Si te casas... te mato</title>
   </programme>
-  <programme start="20220601013000 -0300" stop="20220601032600 -0300" channel="HBO family">
+  <programme start="20220601013000 -0300" stop="20220601032600 -0300" channel="HBO Family">
     <title lang="es">Una boda complicada</title>
   </programme>
-  <programme start="20220601032600 -0300" stop="20220601045600 -0300" channel="HBO family">
+  <programme start="20220601032600 -0300" stop="20220601045600 -0300" channel="HBO Family">
     <title lang="es">Locademia de policía 2: Su primera misión</title>
   </programme>
-  <programme start="20220601045600 -0300" stop="20220601062400 -0300" channel="HBO family">
+  <programme start="20220601045600 -0300" stop="20220601062400 -0300" channel="HBO Family">
     <title lang="es">El árbol del ángel</title>
   </programme>
-  <programme start="20220601062400 -0300" stop="20220601080200 -0300" channel="HBO family">
+  <programme start="20220601062400 -0300" stop="20220601080200 -0300" channel="HBO Family">
     <title lang="es">Ricky Ricón</title>
   </programme>
-  <programme start="20220601080200 -0300" stop="20220601083100 -0300" channel="HBO family">
+  <programme start="20220601080200 -0300" stop="20220601083100 -0300" channel="HBO Family">
     <title lang="es">El nuevo traje nuevo del emperador</title>
   </programme>
-  <programme start="20220601083100 -0300" stop="20220601095800 -0300" channel="HBO family">
+  <programme start="20220601083100 -0300" stop="20220601095800 -0300" channel="HBO Family">
     <title lang="es">Dinosaur Train: Adventure Island</title>
   </programme>
-  <programme start="20220601095800 -0300" stop="20220601112700 -0300" channel="HBO family">
+  <programme start="20220601095800 -0300" stop="20220601112700 -0300" channel="HBO Family">
     <title lang="es">Spirit: El indomable</title>
   </programme>
-  <programme start="20220601112700 -0300" stop="20220601124300 -0300" channel="HBO family">
+  <programme start="20220601112700 -0300" stop="20220601124300 -0300" channel="HBO Family">
     <title lang="es">Tom y Jerry: ¡Arriba, vaquero!</title>
   </programme>
-  <programme start="20220601124300 -0300" stop="20220601141600 -0300" channel="HBO family">
+  <programme start="20220601124300 -0300" stop="20220601141600 -0300" channel="HBO Family">
     <title lang="es">Hotel Transylvania</title>
   </programme>
-  <programme start="20220601141600 -0300" stop="20220601153900 -0300" channel="HBO family">
+  <programme start="20220601141600 -0300" stop="20220601153900 -0300" channel="HBO Family">
     <title lang="es">Albert</title>
   </programme>
-  <programme start="20220601153900 -0300" stop="20220601170900 -0300" channel="HBO family">
+  <programme start="20220601153900 -0300" stop="20220601170900 -0300" channel="HBO Family">
     <title lang="es">Madagascar</title>
   </programme>
-  <programme start="20220601170900 -0300" stop="20220601190800 -0300" channel="HBO family">
+  <programme start="20220601170900 -0300" stop="20220601190800 -0300" channel="HBO Family">
     <title lang="es">Luna de miel en familia</title>
   </programme>
-  <programme start="20220601190800 -0300" stop="20220601203000 -0300" channel="HBO family">
+  <programme start="20220601190800 -0300" stop="20220601203000 -0300" channel="HBO Family">
     <title lang="es">Emma</title>
   </programme>
-  <programme start="20220601203000 -0300" stop="20220601220200 -0300" channel="HBO family">
+  <programme start="20220601203000 -0300" stop="20220601220200 -0300" channel="HBO Family">
     <title lang="es">Trolls 2: Gira mundial</title>
   </programme>
-  <programme start="20220601220200 -0300" stop="20220601231800 -0300" channel="HBO family">
+  <programme start="20220601220200 -0300" stop="20220601231800 -0300" channel="HBO Family">
     <title lang="es">Tom y Jerry: ¡Arriba, vaquero!</title>
   </programme>
-  <programme start="20220601231800 -0300" stop="20220602005100 -0300" channel="HBO family">
+  <programme start="20220601231800 -0300" stop="20220602005100 -0300" channel="HBO Family">
     <title lang="es">Hotel Transylvania</title>
   </programme>
-  <programme start="20220602231800 -0300" stop="20220603005100 -0300" channel="HBO family">
+  <programme start="20220602231800 -0300" stop="20220603005100 -0300" channel="HBO Family">
     <title lang="es">Hotel Transylvania</title>
   </programme>
-  <programme start="20220603005100 -0300" stop="20220603030400 -0300" channel="HBO family">
+  <programme start="20220603005100 -0300" stop="20220603030400 -0300" channel="HBO Family">
     <title lang="es">Somos Marshall</title>
   </programme>
-  <programme start="20220603030400 -0300" stop="20220603045200 -0300" channel="HBO family">
+  <programme start="20220603030400 -0300" stop="20220603045200 -0300" channel="HBO Family">
     <title lang="es">10.000 A.C.</title>
   </programme>
-  <programme start="20220603045200 -0300" stop="20220603061900 -0300" channel="HBO family">
+  <programme start="20220603045200 -0300" stop="20220603061900 -0300" channel="HBO Family">
     <title lang="es">Dr. Seuss’ the Grinch Musical</title>
   </programme>
-  <programme start="20220603061900 -0300" stop="20220603080200 -0300" channel="HBO family">
+  <programme start="20220603061900 -0300" stop="20220603080200 -0300" channel="HBO Family">
     <title lang="es">Magia en el agua</title>
   </programme>
-  <programme start="20220603080200 -0300" stop="20220603091500 -0300" channel="HBO family">
+  <programme start="20220603080200 -0300" stop="20220603091500 -0300" channel="HBO Family">
     <title lang="es">Roald and Beatrix: Tail of the Curious Mouse</title>
   </programme>
-  <programme start="20220603091500 -0300" stop="20220603104000 -0300" channel="HBO family">
+  <programme start="20220603091500 -0300" stop="20220603104000 -0300" channel="HBO Family">
     <title lang="es">La princesa encantada: una boda real</title>
   </programme>
-  <programme start="20220603104000 -0300" stop="20220603121200 -0300" channel="HBO family">
+  <programme start="20220603104000 -0300" stop="20220603121200 -0300" channel="HBO Family">
     <title lang="es">El Rey y yo</title>
   </programme>
-  <programme start="20220603121200 -0300" stop="20220603140900 -0300" channel="HBO family">
+  <programme start="20220603121200 -0300" stop="20220603140900 -0300" channel="HBO Family">
     <title lang="es">Space Jam: Una nueva era</title>
   </programme>
-  <programme start="20220603140900 -0300" stop="20220603153900 -0300" channel="HBO family">
+  <programme start="20220603140900 -0300" stop="20220603153900 -0300" channel="HBO Family">
     <title lang="es">Zoom y los superhéroes</title>
   </programme>
-  <programme start="20220603153900 -0300" stop="20220603171200 -0300" channel="HBO family">
+  <programme start="20220603153900 -0300" stop="20220603171200 -0300" channel="HBO Family">
     <title lang="es">Nadando por el oro</title>
   </programme>
-  <programme start="20220603171200 -0300" stop="20220603184600 -0300" channel="HBO family">
+  <programme start="20220603171200 -0300" stop="20220603184600 -0300" channel="HBO Family">
     <title lang="es">Viaje 2: La isla misteriosa</title>
   </programme>
-  <programme start="20220603184600 -0300" stop="20220603202100 -0300" channel="HBO family">
+  <programme start="20220603184600 -0300" stop="20220603202100 -0300" channel="HBO Family">
     <title lang="es">Minions</title>
   </programme>
-  <programme start="20220603202100 -0300" stop="20220603220200 -0300" channel="HBO family">
+  <programme start="20220603202100 -0300" stop="20220603220200 -0300" channel="HBO Family">
     <title lang="es">Happy Feet 2: El pingüino</title>
   </programme>
-  <programme start="20220603220200 -0300" stop="20220603235900 -0300" channel="HBO family">
+  <programme start="20220603220200 -0300" stop="20220603235900 -0300" channel="HBO Family">
     <title lang="es">Space Jam: Una nueva era</title>
   </programme>
-  <programme start="20220603235900 -0300" stop="20220604015600 -0300" channel="HBO family">
+  <programme start="20220603235900 -0300" stop="20220604015600 -0300" channel="HBO Family">
     <title lang="es">Miss Simpatía 2: Armada y fabulosa</title>
   </programme>
-  <programme start="20220604235900 -0300" stop="20220605015600 -0300" channel="HBO family">
+  <programme start="20220604235900 -0300" stop="20220605015600 -0300" channel="HBO Family">
     <title lang="es">Miss Simpatía 2: Armada y fabulosa</title>
   </programme>
-  <programme start="20220531234700 -0300" stop="20220601012600 -0300" channel="HBO MUNDI">
+  <programme start="20220531234700 -0300" stop="20220601012600 -0300" channel="HBO Mundi">
     <title lang="es">Últimas noticias en Yuba County</title>
   </programme>
-  <programme start="20220601012600 -0300" stop="20220601031000 -0300" channel="HBO MUNDI">
+  <programme start="20220601012600 -0300" stop="20220601031000 -0300" channel="HBO Mundi">
     <title lang="es">El cazador</title>
   </programme>
-  <programme start="20220601031000 -0300" stop="20220601044900 -0300" channel="HBO MUNDI">
+  <programme start="20220601031000 -0300" stop="20220601044900 -0300" channel="HBO Mundi">
     <title lang="es">Asesino invisible</title>
   </programme>
-  <programme start="20220601044900 -0300" stop="20220601060200 -0300" channel="HBO MUNDI">
+  <programme start="20220601044900 -0300" stop="20220601060200 -0300" channel="HBO Mundi">
     <title lang="es">War Dog: el mejor amigo de un soldado</title>
   </programme>
-  <programme start="20220601060200 -0300" stop="20220601074200 -0300" channel="HBO MUNDI">
+  <programme start="20220601060200 -0300" stop="20220601074200 -0300" channel="HBO Mundi">
     <title lang="es">La ganadora</title>
   </programme>
-  <programme start="20220601074200 -0300" stop="20220601094700 -0300" channel="HBO MUNDI">
+  <programme start="20220601074200 -0300" stop="20220601094700 -0300" channel="HBO Mundi">
     <title lang="es">Recortes de mi vida</title>
   </programme>
-  <programme start="20220601094700 -0300" stop="20220601130200 -0300" channel="HBO MUNDI">
+  <programme start="20220601094700 -0300" stop="20220601130200 -0300" channel="HBO Mundi">
     <title lang="es">Magnolia</title>
   </programme>
-  <programme start="20220601130200 -0300" stop="20220601151700 -0300" channel="HBO MUNDI">
+  <programme start="20220601130200 -0300" stop="20220601151700 -0300" channel="HBO Mundi">
     <title lang="es">Green Book: Una amistad sin fronteras</title>
   </programme>
-  <programme start="20220601151700 -0300" stop="20220601170700 -0300" channel="HBO MUNDI">
+  <programme start="20220601151700 -0300" stop="20220601170700 -0300" channel="HBO Mundi">
     <title lang="es">Falsos millonarios</title>
   </programme>
-  <programme start="20220601170700 -0300" stop="20220601194200 -0300" channel="HBO MUNDI">
+  <programme start="20220601170700 -0300" stop="20220601194200 -0300" channel="HBO Mundi">
     <title lang="es">Vicio propio</title>
   </programme>
-  <programme start="20220601194200 -0300" stop="20220601220200 -0300" channel="HBO MUNDI">
+  <programme start="20220601194200 -0300" stop="20220601220200 -0300" channel="HBO Mundi">
     <title lang="es">La promesa</title>
   </programme>
-  <programme start="20220601220200 -0300" stop="20220602001700 -0300" channel="HBO MUNDI">
+  <programme start="20220601220200 -0300" stop="20220602001700 -0300" channel="HBO Mundi">
     <title lang="es">En el nombre del padre</title>
   </programme>
-  <programme start="20220602220200 -0300" stop="20220603001700 -0300" channel="HBO MUNDI">
+  <programme start="20220602220200 -0300" stop="20220603001700 -0300" channel="HBO Mundi">
     <title lang="es">En el nombre del padre</title>
   </programme>
-  <programme start="20220603001700 -0300" stop="20220603021200 -0300" channel="HBO MUNDI">
+  <programme start="20220603001700 -0300" stop="20220603021200 -0300" channel="HBO Mundi">
     <title lang="es">Secretos de Estado</title>
   </programme>
-  <programme start="20220603021200 -0300" stop="20220603035700 -0300" channel="HBO MUNDI">
+  <programme start="20220603021200 -0300" stop="20220603035700 -0300" channel="HBO Mundi">
     <title lang="es">Nunca, rara vez, a veces, siempre</title>
   </programme>
-  <programme start="20220603035700 -0300" stop="20220603060200 -0300" channel="HBO MUNDI">
+  <programme start="20220603035700 -0300" stop="20220603060200 -0300" channel="HBO Mundi">
     <title lang="es">Apóyate en mí</title>
   </programme>
-  <programme start="20220603060200 -0300" stop="20220603075700 -0300" channel="HBO MUNDI">
+  <programme start="20220603060200 -0300" stop="20220603075700 -0300" channel="HBO Mundi">
     <title lang="es">Guerra de las corrientes</title>
   </programme>
-  <programme start="20220603075700 -0300" stop="20220603103700 -0300" channel="HBO MUNDI">
+  <programme start="20220603075700 -0300" stop="20220603103700 -0300" channel="HBO Mundi">
     <title lang="es">Baaria</title>
   </programme>
-  <programme start="20220603103700 -0300" stop="20220603124700 -0300" channel="HBO MUNDI">
+  <programme start="20220603103700 -0300" stop="20220603124700 -0300" channel="HBO Mundi">
     <title lang="es">La esperanza vive en mí</title>
   </programme>
-  <programme start="20220603124700 -0300" stop="20220603142700 -0300" channel="HBO MUNDI">
+  <programme start="20220603124700 -0300" stop="20220603142700 -0300" channel="HBO Mundi">
     <title lang="es">Río perdido</title>
   </programme>
-  <programme start="20220603142700 -0300" stop="20220603163700 -0300" channel="HBO MUNDI">
+  <programme start="20220603142700 -0300" stop="20220603163700 -0300" channel="HBO Mundi">
     <title lang="es">Tierra fría</title>
   </programme>
-  <programme start="20220603163700 -0300" stop="20220603190700 -0300" channel="HBO MUNDI">
+  <programme start="20220603163700 -0300" stop="20220603190700 -0300" channel="HBO Mundi">
     <title lang="es">Biutiful</title>
   </programme>
-  <programme start="20220603190700 -0300" stop="20220603200700 -0300" channel="HBO MUNDI">
+  <programme start="20220603190700 -0300" stop="20220603200700 -0300" channel="HBO Mundi">
     <title lang="es">30 segundos</title>
   </programme>
-  <programme start="20220603200700 -0300" stop="20220603220200 -0300" channel="HBO MUNDI">
+  <programme start="20220603200700 -0300" stop="20220603220200 -0300" channel="HBO Mundi">
     <title lang="es">Un reino unido</title>
   </programme>
-  <programme start="20220603220200 -0300" stop="20220603230700 -0300" channel="HBO MUNDI">
+  <programme start="20220603220200 -0300" stop="20220603230700 -0300" channel="HBO Mundi">
     <title lang="es">Gentleman Jack</title>
   </programme>
-  <programme start="20220603230700 -0300" stop="20220604010200 -0300" channel="HBO MUNDI">
+  <programme start="20220603230700 -0300" stop="20220604010200 -0300" channel="HBO Mundi">
     <title lang="es">Mientras dure la guerra</title>
   </programme>
-  <programme start="20220604230700 -0300" stop="20220605010200 -0300" channel="HBO MUNDI">
+  <programme start="20220604230700 -0300" stop="20220605010200 -0300" channel="HBO Mundi">
     <title lang="es">Mientras dure la guerra</title>
   </programme>
   <programme start="20220531235500 -0300" stop="20220601014000 -0300" channel="HBO POP">
@@ -13242,856 +13200,856 @@
   <programme start="20220604234800 -0300" stop="20220605000000 -0300" channel="Cartoon Network">
     <title lang="es">Drama total: la guardería</title>
   </programme>
-  <programme start="20220531235300 -0300" stop="20220601000000 -0300" channel="Cartoonito">
+  <programme start="20220531235300 -0300" stop="20220601000000 -0300" channel="Boomerang">
     <title lang="es">Cleo y Cuquín: familia Telerín</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601000700 -0300" channel="Cartoonito">
+  <programme start="20220601000000 -0300" stop="20220601000700 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601000700 -0300" stop="20220601001800 -0300" channel="Cartoonito">
+  <programme start="20220601000700 -0300" stop="20220601001800 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601001800 -0300" stop="20220601002600 -0300" channel="Cartoonito">
+  <programme start="20220601001800 -0300" stop="20220601002600 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601002600 -0300" stop="20220601003300 -0300" channel="Cartoonito">
+  <programme start="20220601002600 -0300" stop="20220601003300 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601003300 -0300" stop="20220601004100 -0300" channel="Cartoonito">
+  <programme start="20220601003300 -0300" stop="20220601004100 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220601004100 -0300" stop="20220601005400 -0300" channel="Cartoonito">
+  <programme start="20220601004100 -0300" stop="20220601005400 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220601005400 -0300" stop="20220601010200 -0300" channel="Cartoonito">
+  <programme start="20220601005400 -0300" stop="20220601010200 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220601010200 -0300" stop="20220601010900 -0300" channel="Cartoonito">
+  <programme start="20220601010200 -0300" stop="20220601010900 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601010900 -0300" stop="20220601012000 -0300" channel="Cartoonito">
+  <programme start="20220601010900 -0300" stop="20220601012000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601012000 -0300" stop="20220601012700 -0300" channel="Cartoonito">
+  <programme start="20220601012000 -0300" stop="20220601012700 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601012700 -0300" stop="20220601013400 -0300" channel="Cartoonito">
+  <programme start="20220601012700 -0300" stop="20220601013400 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601013400 -0300" stop="20220601014200 -0300" channel="Cartoonito">
+  <programme start="20220601013400 -0300" stop="20220601014200 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601014200 -0300" stop="20220601015300 -0300" channel="Cartoonito">
+  <programme start="20220601014200 -0300" stop="20220601015300 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601015300 -0300" stop="20220601020100 -0300" channel="Cartoonito">
+  <programme start="20220601015300 -0300" stop="20220601020100 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601020100 -0300" stop="20220601020800 -0300" channel="Cartoonito">
+  <programme start="20220601020100 -0300" stop="20220601020800 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601020800 -0300" stop="20220601021500 -0300" channel="Cartoonito">
+  <programme start="20220601020800 -0300" stop="20220601021500 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601021500 -0300" stop="20220601022600 -0300" channel="Cartoonito">
+  <programme start="20220601021500 -0300" stop="20220601022600 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601022600 -0300" stop="20220601023300 -0300" channel="Cartoonito">
+  <programme start="20220601022600 -0300" stop="20220601023300 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601023300 -0300" stop="20220601024000 -0300" channel="Cartoonito">
+  <programme start="20220601023300 -0300" stop="20220601024000 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601024000 -0300" stop="20220601025000 -0300" channel="Cartoonito">
+  <programme start="20220601024000 -0300" stop="20220601025000 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601025000 -0300" stop="20220601025700 -0300" channel="Cartoonito">
+  <programme start="20220601025000 -0300" stop="20220601025700 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601025700 -0300" stop="20220601030400 -0300" channel="Cartoonito">
+  <programme start="20220601025700 -0300" stop="20220601030400 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601030400 -0300" stop="20220601031200 -0300" channel="Cartoonito">
+  <programme start="20220601030400 -0300" stop="20220601031200 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220601031200 -0300" stop="20220601032200 -0300" channel="Cartoonito">
+  <programme start="20220601031200 -0300" stop="20220601032200 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220601032200 -0300" stop="20220601033000 -0300" channel="Cartoonito">
+  <programme start="20220601032200 -0300" stop="20220601033000 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220601033000 -0300" stop="20220601034000 -0300" channel="Cartoonito">
+  <programme start="20220601033000 -0300" stop="20220601034000 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220601034000 -0300" stop="20220601034800 -0300" channel="Cartoonito">
+  <programme start="20220601034000 -0300" stop="20220601034800 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220601034800 -0300" stop="20220601035600 -0300" channel="Cartoonito">
+  <programme start="20220601034800 -0300" stop="20220601035600 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220601035600 -0300" stop="20220601040700 -0300" channel="Cartoonito">
+  <programme start="20220601035600 -0300" stop="20220601040700 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601040700 -0300" stop="20220601041900 -0300" channel="Cartoonito">
+  <programme start="20220601040700 -0300" stop="20220601041900 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601041900 -0300" stop="20220601043000 -0300" channel="Cartoonito">
+  <programme start="20220601041900 -0300" stop="20220601043000 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601043000 -0300" stop="20220601043900 -0300" channel="Cartoonito">
+  <programme start="20220601043000 -0300" stop="20220601043900 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601043900 -0300" stop="20220601044700 -0300" channel="Cartoonito">
+  <programme start="20220601043900 -0300" stop="20220601044700 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601044700 -0300" stop="20220601045500 -0300" channel="Cartoonito">
+  <programme start="20220601044700 -0300" stop="20220601045500 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601045500 -0300" stop="20220601051900 -0300" channel="Cartoonito">
+  <programme start="20220601045500 -0300" stop="20220601051900 -0300" channel="Boomerang">
     <title lang="es">Scooby-Doo y ¿quién crees tú?</title>
   </programme>
-  <programme start="20220601051900 -0300" stop="20220601054300 -0300" channel="Cartoonito">
+  <programme start="20220601051900 -0300" stop="20220601054300 -0300" channel="Boomerang">
     <title lang="es">Scooby-Doo y ¿quién crees tú?</title>
   </programme>
-  <programme start="20220601054300 -0300" stop="20220601060500 -0300" channel="Cartoonito">
+  <programme start="20220601054300 -0300" stop="20220601060500 -0300" channel="Boomerang">
     <title lang="es">Scooby-Doo y ¿quién crees tú?</title>
   </programme>
-  <programme start="20220601060500 -0300" stop="20220601061200 -0300" channel="Cartoonito">
+  <programme start="20220601060500 -0300" stop="20220601061200 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601061200 -0300" stop="20220601062200 -0300" channel="Cartoonito">
+  <programme start="20220601061200 -0300" stop="20220601062200 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601062200 -0300" stop="20220601062900 -0300" channel="Cartoonito">
+  <programme start="20220601062200 -0300" stop="20220601062900 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601062900 -0300" stop="20220601063600 -0300" channel="Cartoonito">
+  <programme start="20220601062900 -0300" stop="20220601063600 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601063600 -0300" stop="20220601064500 -0300" channel="Cartoonito">
+  <programme start="20220601063600 -0300" stop="20220601064500 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601064500 -0300" stop="20220601065200 -0300" channel="Cartoonito">
+  <programme start="20220601064500 -0300" stop="20220601065200 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601065200 -0300" stop="20220601070000 -0300" channel="Cartoonito">
+  <programme start="20220601065200 -0300" stop="20220601070000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601070600 -0300" channel="Cartoonito">
+  <programme start="20220601070000 -0300" stop="20220601070600 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601070600 -0300" stop="20220601071200 -0300" channel="Cartoonito">
+  <programme start="20220601070600 -0300" stop="20220601071200 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601071200 -0300" stop="20220601071800 -0300" channel="Cartoonito">
+  <programme start="20220601071200 -0300" stop="20220601071800 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601071800 -0300" stop="20220601072400 -0300" channel="Cartoonito">
+  <programme start="20220601071800 -0300" stop="20220601072400 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601072400 -0300" stop="20220601073000 -0300" channel="Cartoonito">
+  <programme start="20220601072400 -0300" stop="20220601073000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601073000 -0300" stop="20220601073600 -0300" channel="Cartoonito">
+  <programme start="20220601073000 -0300" stop="20220601073600 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220601073600 -0300" stop="20220601074200 -0300" channel="Cartoonito">
+  <programme start="20220601073600 -0300" stop="20220601074200 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220601074200 -0300" stop="20220601074800 -0300" channel="Cartoonito">
+  <programme start="20220601074200 -0300" stop="20220601074800 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220601074800 -0300" stop="20220601075400 -0300" channel="Cartoonito">
+  <programme start="20220601074800 -0300" stop="20220601075400 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601075400 -0300" stop="20220601080000 -0300" channel="Cartoonito">
+  <programme start="20220601075400 -0300" stop="20220601080000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601080000 -0300" stop="20220601081000 -0300" channel="Cartoonito">
+  <programme start="20220601080000 -0300" stop="20220601081000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220601081000 -0300" stop="20220601082000 -0300" channel="Cartoonito">
+  <programme start="20220601081000 -0300" stop="20220601082000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220601082000 -0300" stop="20220601083000 -0300" channel="Cartoonito">
+  <programme start="20220601082000 -0300" stop="20220601083000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220601083000 -0300" stop="20220601083600 -0300" channel="Cartoonito">
+  <programme start="20220601083000 -0300" stop="20220601083600 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601083600 -0300" stop="20220601084200 -0300" channel="Cartoonito">
+  <programme start="20220601083600 -0300" stop="20220601084200 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601084200 -0300" stop="20220601084800 -0300" channel="Cartoonito">
+  <programme start="20220601084200 -0300" stop="20220601084800 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601084800 -0300" stop="20220601085400 -0300" channel="Cartoonito">
+  <programme start="20220601084800 -0300" stop="20220601085400 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601085400 -0300" stop="20220601090000 -0300" channel="Cartoonito">
+  <programme start="20220601085400 -0300" stop="20220601090000 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601090600 -0300" channel="Cartoonito">
+  <programme start="20220601090000 -0300" stop="20220601090600 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601090600 -0300" stop="20220601091200 -0300" channel="Cartoonito">
+  <programme start="20220601090600 -0300" stop="20220601091200 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601091200 -0300" stop="20220601091800 -0300" channel="Cartoonito">
+  <programme start="20220601091200 -0300" stop="20220601091800 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601091800 -0300" stop="20220601092400 -0300" channel="Cartoonito">
+  <programme start="20220601091800 -0300" stop="20220601092400 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601092400 -0300" stop="20220601093000 -0300" channel="Cartoonito">
+  <programme start="20220601092400 -0300" stop="20220601093000 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601093000 -0300" stop="20220601093600 -0300" channel="Cartoonito">
+  <programme start="20220601093000 -0300" stop="20220601093600 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601093600 -0300" stop="20220601094200 -0300" channel="Cartoonito">
+  <programme start="20220601093600 -0300" stop="20220601094200 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601094200 -0300" stop="20220601094800 -0300" channel="Cartoonito">
+  <programme start="20220601094200 -0300" stop="20220601094800 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601094800 -0300" stop="20220601095400 -0300" channel="Cartoonito">
+  <programme start="20220601094800 -0300" stop="20220601095400 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601095400 -0300" stop="20220601100000 -0300" channel="Cartoonito">
+  <programme start="20220601095400 -0300" stop="20220601100000 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601100000 -0300" stop="20220601101000 -0300" channel="Cartoonito">
+  <programme start="20220601100000 -0300" stop="20220601101000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220601101000 -0300" stop="20220601102000 -0300" channel="Cartoonito">
+  <programme start="20220601101000 -0300" stop="20220601102000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220601102000 -0300" stop="20220601103000 -0300" channel="Cartoonito">
+  <programme start="20220601102000 -0300" stop="20220601103000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220601103000 -0300" stop="20220601104000 -0300" channel="Cartoonito">
+  <programme start="20220601103000 -0300" stop="20220601104000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220601104000 -0300" stop="20220601105000 -0300" channel="Cartoonito">
+  <programme start="20220601104000 -0300" stop="20220601105000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220601105000 -0300" stop="20220601110000 -0300" channel="Cartoonito">
+  <programme start="20220601105000 -0300" stop="20220601110000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220601110000 -0300" stop="20220601111000 -0300" channel="Cartoonito">
+  <programme start="20220601110000 -0300" stop="20220601111000 -0300" channel="Boomerang">
     <title lang="es">Mush-Mush y los Mushables</title>
   </programme>
-  <programme start="20220601111000 -0300" stop="20220601112000 -0300" channel="Cartoonito">
+  <programme start="20220601111000 -0300" stop="20220601112000 -0300" channel="Boomerang">
     <title lang="es">Mush-Mush y los Mushables</title>
   </programme>
-  <programme start="20220601112000 -0300" stop="20220601113000 -0300" channel="Cartoonito">
+  <programme start="20220601112000 -0300" stop="20220601113000 -0300" channel="Boomerang">
     <title lang="es">Mush-Mush y los Mushables</title>
   </programme>
-  <programme start="20220601113000 -0300" stop="20220601120000 -0300" channel="Cartoonito">
+  <programme start="20220601113000 -0300" stop="20220601120000 -0300" channel="Boomerang">
     <title lang="es">Mónica y su pandilla</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601120600 -0300" channel="Cartoonito">
+  <programme start="20220601120000 -0300" stop="20220601120600 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601120600 -0300" stop="20220601121200 -0300" channel="Cartoonito">
+  <programme start="20220601120600 -0300" stop="20220601121200 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601121200 -0300" stop="20220601121800 -0300" channel="Cartoonito">
+  <programme start="20220601121200 -0300" stop="20220601121800 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601121800 -0300" stop="20220601122400 -0300" channel="Cartoonito">
+  <programme start="20220601121800 -0300" stop="20220601122400 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601122400 -0300" stop="20220601123000 -0300" channel="Cartoonito">
+  <programme start="20220601122400 -0300" stop="20220601123000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601123000 -0300" stop="20220601123600 -0300" channel="Cartoonito">
+  <programme start="20220601123000 -0300" stop="20220601123600 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220601123600 -0300" stop="20220601124200 -0300" channel="Cartoonito">
+  <programme start="20220601123600 -0300" stop="20220601124200 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220601124200 -0300" stop="20220601124800 -0300" channel="Cartoonito">
+  <programme start="20220601124200 -0300" stop="20220601124800 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220601124800 -0300" stop="20220601125400 -0300" channel="Cartoonito">
+  <programme start="20220601124800 -0300" stop="20220601125400 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601125400 -0300" stop="20220601130000 -0300" channel="Cartoonito">
+  <programme start="20220601125400 -0300" stop="20220601130000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601131000 -0300" channel="Cartoonito">
+  <programme start="20220601130000 -0300" stop="20220601131000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220601131000 -0300" stop="20220601132000 -0300" channel="Cartoonito">
+  <programme start="20220601131000 -0300" stop="20220601132000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220601132000 -0300" stop="20220601133000 -0300" channel="Cartoonito">
+  <programme start="20220601132000 -0300" stop="20220601133000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220601133000 -0300" stop="20220601140000 -0300" channel="Cartoonito">
+  <programme start="20220601133000 -0300" stop="20220601140000 -0300" channel="Boomerang">
     <title lang="es">Cartoonito</title>
   </programme>
-  <programme start="20220601140000 -0300" stop="20220601140600 -0300" channel="Cartoonito">
+  <programme start="20220601140000 -0300" stop="20220601140600 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601140600 -0300" stop="20220601141200 -0300" channel="Cartoonito">
+  <programme start="20220601140600 -0300" stop="20220601141200 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601141200 -0300" stop="20220601141800 -0300" channel="Cartoonito">
+  <programme start="20220601141200 -0300" stop="20220601141800 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601141800 -0300" stop="20220601142400 -0300" channel="Cartoonito">
+  <programme start="20220601141800 -0300" stop="20220601142400 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601142400 -0300" stop="20220601143000 -0300" channel="Cartoonito">
+  <programme start="20220601142400 -0300" stop="20220601143000 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220601143000 -0300" stop="20220601150000 -0300" channel="Cartoonito">
+  <programme start="20220601143000 -0300" stop="20220601150000 -0300" channel="Boomerang">
     <title lang="es">Hey Duggee</title>
   </programme>
-  <programme start="20220601150000 -0300" stop="20220601150600 -0300" channel="Cartoonito">
+  <programme start="20220601150000 -0300" stop="20220601150600 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601150600 -0300" stop="20220601151200 -0300" channel="Cartoonito">
+  <programme start="20220601150600 -0300" stop="20220601151200 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601151200 -0300" stop="20220601151800 -0300" channel="Cartoonito">
+  <programme start="20220601151200 -0300" stop="20220601151800 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601151800 -0300" stop="20220601152400 -0300" channel="Cartoonito">
+  <programme start="20220601151800 -0300" stop="20220601152400 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601152400 -0300" stop="20220601153000 -0300" channel="Cartoonito">
+  <programme start="20220601152400 -0300" stop="20220601153000 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601153000 -0300" stop="20220601154000 -0300" channel="Cartoonito">
+  <programme start="20220601153000 -0300" stop="20220601154000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220601154000 -0300" stop="20220601155000 -0300" channel="Cartoonito">
+  <programme start="20220601154000 -0300" stop="20220601155000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220601155000 -0300" stop="20220601160000 -0300" channel="Cartoonito">
+  <programme start="20220601155000 -0300" stop="20220601160000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220601160000 -0300" stop="20220601160600 -0300" channel="Cartoonito">
+  <programme start="20220601160000 -0300" stop="20220601160600 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601160600 -0300" stop="20220601161200 -0300" channel="Cartoonito">
+  <programme start="20220601160600 -0300" stop="20220601161200 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601161200 -0300" stop="20220601161800 -0300" channel="Cartoonito">
+  <programme start="20220601161200 -0300" stop="20220601161800 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601161800 -0300" stop="20220601162400 -0300" channel="Cartoonito">
+  <programme start="20220601161800 -0300" stop="20220601162400 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601162400 -0300" stop="20220601163000 -0300" channel="Cartoonito">
+  <programme start="20220601162400 -0300" stop="20220601163000 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601163000 -0300" stop="20220601164000 -0300" channel="Cartoonito">
+  <programme start="20220601163000 -0300" stop="20220601164000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220601164000 -0300" stop="20220601165000 -0300" channel="Cartoonito">
+  <programme start="20220601164000 -0300" stop="20220601165000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220601165000 -0300" stop="20220601170000 -0300" channel="Cartoonito">
+  <programme start="20220601165000 -0300" stop="20220601170000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220601170000 -0300" stop="20220601171500 -0300" channel="Cartoonito">
+  <programme start="20220601170000 -0300" stop="20220601171500 -0300" channel="Boomerang">
     <title lang="es">Cocomelon: ¡A cantar!</title>
   </programme>
-  <programme start="20220601171500 -0300" stop="20220601173000 -0300" channel="Cartoonito">
+  <programme start="20220601171500 -0300" stop="20220601173000 -0300" channel="Boomerang">
     <title lang="es">Cleo y Cuquín: familia Telerín</title>
   </programme>
-  <programme start="20220601173000 -0300" stop="20220601173500 -0300" channel="Cartoonito">
+  <programme start="20220601173000 -0300" stop="20220601173500 -0300" channel="Boomerang">
     <title lang="es">Mi mascota mágica Morphle</title>
   </programme>
-  <programme start="20220601173500 -0300" stop="20220601174000 -0300" channel="Cartoonito">
+  <programme start="20220601173500 -0300" stop="20220601174000 -0300" channel="Boomerang">
     <title lang="es">Mi mascota mágica Morphle</title>
   </programme>
-  <programme start="20220601174000 -0300" stop="20220601174500 -0300" channel="Cartoonito">
+  <programme start="20220601174000 -0300" stop="20220601174500 -0300" channel="Boomerang">
     <title lang="es">Mi mascota mágica Morphle</title>
   </programme>
-  <programme start="20220601174500 -0300" stop="20220601180000 -0300" channel="Cartoonito">
+  <programme start="20220601174500 -0300" stop="20220601180000 -0300" channel="Boomerang">
     <title lang="es">Blippi</title>
   </programme>
-  <programme start="20220601180000 -0300" stop="20220601180600 -0300" channel="Cartoonito">
+  <programme start="20220601180000 -0300" stop="20220601180600 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601180600 -0300" stop="20220601181200 -0300" channel="Cartoonito">
+  <programme start="20220601180600 -0300" stop="20220601181200 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601181200 -0300" stop="20220601181800 -0300" channel="Cartoonito">
+  <programme start="20220601181200 -0300" stop="20220601181800 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220601181800 -0300" stop="20220601182400 -0300" channel="Cartoonito">
+  <programme start="20220601181800 -0300" stop="20220601182400 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220601182400 -0300" stop="20220601183000 -0300" channel="Cartoonito">
+  <programme start="20220601182400 -0300" stop="20220601183000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220601183000 -0300" stop="20220601190000 -0300" channel="Cartoonito">
+  <programme start="20220601183000 -0300" stop="20220601190000 -0300" channel="Boomerang">
     <title lang="es">Odo</title>
   </programme>
-  <programme start="20220601190000 -0300" stop="20220601190600 -0300" channel="Cartoonito">
+  <programme start="20220601190000 -0300" stop="20220601190600 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601190600 -0300" stop="20220601191200 -0300" channel="Cartoonito">
+  <programme start="20220601190600 -0300" stop="20220601191200 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601191200 -0300" stop="20220601191800 -0300" channel="Cartoonito">
+  <programme start="20220601191200 -0300" stop="20220601191800 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601191800 -0300" stop="20220601192400 -0300" channel="Cartoonito">
+  <programme start="20220601191800 -0300" stop="20220601192400 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601192400 -0300" stop="20220601193000 -0300" channel="Cartoonito">
+  <programme start="20220601192400 -0300" stop="20220601193000 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220601193000 -0300" stop="20220601200000 -0300" channel="Cartoonito">
+  <programme start="20220601193000 -0300" stop="20220601200000 -0300" channel="Boomerang">
     <title lang="es">Scooby-Doo y ¿quién crees tú?</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601201000 -0300" channel="Cartoonito">
+  <programme start="20220601200000 -0300" stop="20220601201000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220601201000 -0300" stop="20220601202000 -0300" channel="Cartoonito">
+  <programme start="20220601201000 -0300" stop="20220601202000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220601202000 -0300" stop="20220601203000 -0300" channel="Cartoonito">
+  <programme start="20220601202000 -0300" stop="20220601203000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220601203000 -0300" stop="20220601204000 -0300" channel="Cartoonito">
+  <programme start="20220601203000 -0300" stop="20220601204000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220601204000 -0300" stop="20220601205000 -0300" channel="Cartoonito">
+  <programme start="20220601204000 -0300" stop="20220601205000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220601205000 -0300" stop="20220601210000 -0300" channel="Cartoonito">
+  <programme start="20220601205000 -0300" stop="20220601210000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220601210000 -0300" stop="20220601210600 -0300" channel="Cartoonito">
+  <programme start="20220601210000 -0300" stop="20220601210600 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601210600 -0300" stop="20220601211200 -0300" channel="Cartoonito">
+  <programme start="20220601210600 -0300" stop="20220601211200 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601211200 -0300" stop="20220601211800 -0300" channel="Cartoonito">
+  <programme start="20220601211200 -0300" stop="20220601211800 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601211800 -0300" stop="20220601212400 -0300" channel="Cartoonito">
+  <programme start="20220601211800 -0300" stop="20220601212400 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601212400 -0300" stop="20220601213000 -0300" channel="Cartoonito">
+  <programme start="20220601212400 -0300" stop="20220601213000 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220601213000 -0300" stop="20220601213600 -0300" channel="Cartoonito">
+  <programme start="20220601213000 -0300" stop="20220601213600 -0300" channel="Boomerang">
     <title lang="es">Hey Duggee</title>
   </programme>
-  <programme start="20220601213600 -0300" stop="20220601214200 -0300" channel="Cartoonito">
+  <programme start="20220601213600 -0300" stop="20220601214200 -0300" channel="Boomerang">
     <title lang="es">Hey Duggee</title>
   </programme>
-  <programme start="20220601214200 -0300" stop="20220601214800 -0300" channel="Cartoonito">
+  <programme start="20220601214200 -0300" stop="20220601214800 -0300" channel="Boomerang">
     <title lang="es">Hey Duggee</title>
   </programme>
-  <programme start="20220601214800 -0300" stop="20220601215400 -0300" channel="Cartoonito">
+  <programme start="20220601214800 -0300" stop="20220601215400 -0300" channel="Boomerang">
     <title lang="es">Hey Duggee</title>
   </programme>
-  <programme start="20220601215400 -0300" stop="20220601220000 -0300" channel="Cartoonito">
+  <programme start="20220601215400 -0300" stop="20220601220000 -0300" channel="Boomerang">
     <title lang="es">Hey Duggee</title>
   </programme>
-  <programme start="20220601220000 -0300" stop="20220601223000 -0300" channel="Cartoonito">
+  <programme start="20220601220000 -0300" stop="20220601223000 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220601223000 -0300" stop="20220601224500 -0300" channel="Cartoonito">
+  <programme start="20220601223000 -0300" stop="20220601224500 -0300" channel="Boomerang">
     <title lang="es">Cocomelon: ¡A cantar!</title>
   </programme>
-  <programme start="20220601224500 -0300" stop="20220601230000 -0300" channel="Cartoonito">
+  <programme start="20220601224500 -0300" stop="20220601230000 -0300" channel="Boomerang">
     <title lang="es">Cleo y Cuquín: familia Telerín</title>
   </programme>
-  <programme start="20220601230000 -0300" stop="20220601230600 -0300" channel="Cartoonito">
+  <programme start="20220601230000 -0300" stop="20220601230600 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601230600 -0300" stop="20220601231200 -0300" channel="Cartoonito">
+  <programme start="20220601230600 -0300" stop="20220601231200 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601231200 -0300" stop="20220601231800 -0300" channel="Cartoonito">
+  <programme start="20220601231200 -0300" stop="20220601231800 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601231800 -0300" stop="20220601232400 -0300" channel="Cartoonito">
+  <programme start="20220601231800 -0300" stop="20220601232400 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601232400 -0300" stop="20220601233000 -0300" channel="Cartoonito">
+  <programme start="20220601232400 -0300" stop="20220601233000 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601233000 -0300" stop="20220601233600 -0300" channel="Cartoonito">
+  <programme start="20220601233000 -0300" stop="20220601233600 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601233600 -0300" stop="20220601234200 -0300" channel="Cartoonito">
+  <programme start="20220601233600 -0300" stop="20220601234200 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601234200 -0300" stop="20220601234800 -0300" channel="Cartoonito">
+  <programme start="20220601234200 -0300" stop="20220601234800 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601234800 -0300" stop="20220601235400 -0300" channel="Cartoonito">
+  <programme start="20220601234800 -0300" stop="20220601235400 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220601235400 -0300" stop="20220602000000 -0300" channel="Cartoonito">
+  <programme start="20220601235400 -0300" stop="20220602000000 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220602235400 -0300" stop="20220603000000 -0300" channel="Cartoonito">
+  <programme start="20220602235400 -0300" stop="20220603000000 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603000000 -0300" stop="20220603010000 -0300" channel="Cartoonito">
+  <programme start="20220603000000 -0300" stop="20220603010000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220603010000 -0300" stop="20220603010600 -0300" channel="Cartoonito">
+  <programme start="20220603010000 -0300" stop="20220603010600 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603010600 -0300" stop="20220603011200 -0300" channel="Cartoonito">
+  <programme start="20220603010600 -0300" stop="20220603011200 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603011200 -0300" stop="20220603011800 -0300" channel="Cartoonito">
+  <programme start="20220603011200 -0300" stop="20220603011800 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603011800 -0300" stop="20220603012400 -0300" channel="Cartoonito">
+  <programme start="20220603011800 -0300" stop="20220603012400 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603012400 -0300" stop="20220603013000 -0300" channel="Cartoonito">
+  <programme start="20220603012400 -0300" stop="20220603013000 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603013000 -0300" stop="20220603013600 -0300" channel="Cartoonito">
+  <programme start="20220603013000 -0300" stop="20220603013600 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603013600 -0300" stop="20220603014200 -0300" channel="Cartoonito">
+  <programme start="20220603013600 -0300" stop="20220603014200 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603014200 -0300" stop="20220603014800 -0300" channel="Cartoonito">
+  <programme start="20220603014200 -0300" stop="20220603014800 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603014800 -0300" stop="20220603015400 -0300" channel="Cartoonito">
+  <programme start="20220603014800 -0300" stop="20220603015400 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603015400 -0300" stop="20220603020000 -0300" channel="Cartoonito">
+  <programme start="20220603015400 -0300" stop="20220603020000 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603020000 -0300" stop="20220603030000 -0300" channel="Cartoonito">
+  <programme start="20220603020000 -0300" stop="20220603030000 -0300" channel="Boomerang">
     <title lang="es">Oddbods</title>
   </programme>
-  <programme start="20220603030000 -0300" stop="20220603040000 -0300" channel="Cartoonito">
+  <programme start="20220603030000 -0300" stop="20220603040000 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220603040000 -0300" stop="20220603042000 -0300" channel="Cartoonito">
+  <programme start="20220603040000 -0300" stop="20220603042000 -0300" channel="Boomerang">
     <title lang="es">Scooby-Doo y ¿quién crees tú?</title>
   </programme>
-  <programme start="20220603042000 -0300" stop="20220603044000 -0300" channel="Cartoonito">
+  <programme start="20220603042000 -0300" stop="20220603044000 -0300" channel="Boomerang">
     <title lang="es">Scooby-Doo y ¿quién crees tú?</title>
   </programme>
-  <programme start="20220603044000 -0300" stop="20220603050000 -0300" channel="Cartoonito">
+  <programme start="20220603044000 -0300" stop="20220603050000 -0300" channel="Boomerang">
     <title lang="es">Scooby-Doo y ¿quién crees tú?</title>
   </programme>
-  <programme start="20220603050000 -0300" stop="20220603060000 -0300" channel="Cartoonito">
+  <programme start="20220603050000 -0300" stop="20220603060000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220603060000 -0300" stop="20220603061500 -0300" channel="Cartoonito">
+  <programme start="20220603060000 -0300" stop="20220603061500 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603061500 -0300" stop="20220603063000 -0300" channel="Cartoonito">
+  <programme start="20220603061500 -0300" stop="20220603063000 -0300" channel="Boomerang">
     <title lang="es">Cocomelon: ¡A cantar!</title>
   </programme>
-  <programme start="20220603063000 -0300" stop="20220603064500 -0300" channel="Cartoonito">
+  <programme start="20220603063000 -0300" stop="20220603064500 -0300" channel="Boomerang">
     <title lang="es">Cleo y Cuquín: familia Telerín</title>
   </programme>
-  <programme start="20220603064500 -0300" stop="20220603070000 -0300" channel="Cartoonito">
+  <programme start="20220603064500 -0300" stop="20220603070000 -0300" channel="Boomerang">
     <title lang="es">Mundo Bita</title>
   </programme>
-  <programme start="20220603070000 -0300" stop="20220603080000 -0300" channel="Cartoonito">
+  <programme start="20220603070000 -0300" stop="20220603080000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220603080000 -0300" stop="20220603081000 -0300" channel="Cartoonito">
+  <programme start="20220603080000 -0300" stop="20220603081000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220603081000 -0300" stop="20220603082000 -0300" channel="Cartoonito">
+  <programme start="20220603081000 -0300" stop="20220603082000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220603082000 -0300" stop="20220603083000 -0300" channel="Cartoonito">
+  <programme start="20220603082000 -0300" stop="20220603083000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220603083000 -0300" stop="20220603083600 -0300" channel="Cartoonito">
+  <programme start="20220603083000 -0300" stop="20220603083600 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603083600 -0300" stop="20220603084200 -0300" channel="Cartoonito">
+  <programme start="20220603083600 -0300" stop="20220603084200 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603084200 -0300" stop="20220603084800 -0300" channel="Cartoonito">
+  <programme start="20220603084200 -0300" stop="20220603084800 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603084800 -0300" stop="20220603085400 -0300" channel="Cartoonito">
+  <programme start="20220603084800 -0300" stop="20220603085400 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603085400 -0300" stop="20220603090000 -0300" channel="Cartoonito">
+  <programme start="20220603085400 -0300" stop="20220603090000 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603090000 -0300" stop="20220603090600 -0300" channel="Cartoonito">
+  <programme start="20220603090000 -0300" stop="20220603090600 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603090600 -0300" stop="20220603091200 -0300" channel="Cartoonito">
+  <programme start="20220603090600 -0300" stop="20220603091200 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603091200 -0300" stop="20220603091800 -0300" channel="Cartoonito">
+  <programme start="20220603091200 -0300" stop="20220603091800 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603091800 -0300" stop="20220603092400 -0300" channel="Cartoonito">
+  <programme start="20220603091800 -0300" stop="20220603092400 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603092400 -0300" stop="20220603093000 -0300" channel="Cartoonito">
+  <programme start="20220603092400 -0300" stop="20220603093000 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603093000 -0300" stop="20220603100000 -0300" channel="Cartoonito">
+  <programme start="20220603093000 -0300" stop="20220603100000 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220603100000 -0300" stop="20220603101000 -0300" channel="Cartoonito">
+  <programme start="20220603100000 -0300" stop="20220603101000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220603101000 -0300" stop="20220603102000 -0300" channel="Cartoonito">
+  <programme start="20220603101000 -0300" stop="20220603102000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220603102000 -0300" stop="20220603103000 -0300" channel="Cartoonito">
+  <programme start="20220603102000 -0300" stop="20220603103000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220603103000 -0300" stop="20220603104000 -0300" channel="Cartoonito">
+  <programme start="20220603103000 -0300" stop="20220603104000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220603104000 -0300" stop="20220603105000 -0300" channel="Cartoonito">
+  <programme start="20220603104000 -0300" stop="20220603105000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220603105000 -0300" stop="20220603110000 -0300" channel="Cartoonito">
+  <programme start="20220603105000 -0300" stop="20220603110000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220603110000 -0300" stop="20220603111000 -0300" channel="Cartoonito">
+  <programme start="20220603110000 -0300" stop="20220603111000 -0300" channel="Boomerang">
     <title lang="es">Mush-Mush y los Mushables</title>
   </programme>
-  <programme start="20220603111000 -0300" stop="20220603112000 -0300" channel="Cartoonito">
+  <programme start="20220603111000 -0300" stop="20220603112000 -0300" channel="Boomerang">
     <title lang="es">Mush-Mush y los Mushables</title>
   </programme>
-  <programme start="20220603112000 -0300" stop="20220603113000 -0300" channel="Cartoonito">
+  <programme start="20220603112000 -0300" stop="20220603113000 -0300" channel="Boomerang">
     <title lang="es">Mush-Mush y los Mushables</title>
   </programme>
-  <programme start="20220603113000 -0300" stop="20220603120000 -0300" channel="Cartoonito">
+  <programme start="20220603113000 -0300" stop="20220603120000 -0300" channel="Boomerang">
     <title lang="es">Mónica y su pandilla</title>
   </programme>
-  <programme start="20220603120000 -0300" stop="20220603130000 -0300" channel="Cartoonito">
+  <programme start="20220603120000 -0300" stop="20220603130000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220603130000 -0300" stop="20220603131000 -0300" channel="Cartoonito">
+  <programme start="20220603130000 -0300" stop="20220603131000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220603131000 -0300" stop="20220603132000 -0300" channel="Cartoonito">
+  <programme start="20220603131000 -0300" stop="20220603132000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220603132000 -0300" stop="20220603133000 -0300" channel="Cartoonito">
+  <programme start="20220603132000 -0300" stop="20220603133000 -0300" channel="Boomerang">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20220603133000 -0300" stop="20220603140000 -0300" channel="Cartoonito">
+  <programme start="20220603133000 -0300" stop="20220603140000 -0300" channel="Boomerang">
     <title lang="es">La casa de muñecas de Gabby</title>
   </programme>
-  <programme start="20220603140000 -0300" stop="20220603140600 -0300" channel="Cartoonito">
+  <programme start="20220603140000 -0300" stop="20220603140600 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603140600 -0300" stop="20220603141200 -0300" channel="Cartoonito">
+  <programme start="20220603140600 -0300" stop="20220603141200 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603141200 -0300" stop="20220603141800 -0300" channel="Cartoonito">
+  <programme start="20220603141200 -0300" stop="20220603141800 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603141800 -0300" stop="20220603142400 -0300" channel="Cartoonito">
+  <programme start="20220603141800 -0300" stop="20220603142400 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603142400 -0300" stop="20220603143000 -0300" channel="Cartoonito">
+  <programme start="20220603142400 -0300" stop="20220603143000 -0300" channel="Boomerang">
     <title lang="es">Grizzy and the Lemmings</title>
   </programme>
-  <programme start="20220603143000 -0300" stop="20220603150000 -0300" channel="Cartoonito">
+  <programme start="20220603143000 -0300" stop="20220603150000 -0300" channel="Boomerang">
     <title lang="es">Hey Duggee</title>
   </programme>
-  <programme start="20220603150000 -0300" stop="20220603150600 -0300" channel="Cartoonito">
+  <programme start="20220603150000 -0300" stop="20220603150600 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603150600 -0300" stop="20220603151200 -0300" channel="Cartoonito">
+  <programme start="20220603150600 -0300" stop="20220603151200 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603151200 -0300" stop="20220603151800 -0300" channel="Cartoonito">
+  <programme start="20220603151200 -0300" stop="20220603151800 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603151800 -0300" stop="20220603152400 -0300" channel="Cartoonito">
+  <programme start="20220603151800 -0300" stop="20220603152400 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603152400 -0300" stop="20220603153000 -0300" channel="Cartoonito">
+  <programme start="20220603152400 -0300" stop="20220603153000 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220603153000 -0300" stop="20220603154000 -0300" channel="Cartoonito">
+  <programme start="20220603153000 -0300" stop="20220603154000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220603154000 -0300" stop="20220603155000 -0300" channel="Cartoonito">
+  <programme start="20220603154000 -0300" stop="20220603155000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220603155000 -0300" stop="20220603160000 -0300" channel="Cartoonito">
+  <programme start="20220603155000 -0300" stop="20220603160000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220603160000 -0300" stop="20220603163000 -0300" channel="Cartoonito">
+  <programme start="20220603160000 -0300" stop="20220603163000 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220603163000 -0300" stop="20220603164000 -0300" channel="Cartoonito">
+  <programme start="20220603163000 -0300" stop="20220603164000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220603164000 -0300" stop="20220603165000 -0300" channel="Cartoonito">
+  <programme start="20220603164000 -0300" stop="20220603165000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220603165000 -0300" stop="20220603170000 -0300" channel="Cartoonito">
+  <programme start="20220603165000 -0300" stop="20220603170000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220603170000 -0300" stop="20220603171500 -0300" channel="Cartoonito">
+  <programme start="20220603170000 -0300" stop="20220603171500 -0300" channel="Boomerang">
     <title lang="es">Cocomelon: ¡A cantar!</title>
   </programme>
-  <programme start="20220603171500 -0300" stop="20220603173000 -0300" channel="Cartoonito">
+  <programme start="20220603171500 -0300" stop="20220603173000 -0300" channel="Boomerang">
     <title lang="es">Cleo y Cuquín: familia Telerín</title>
   </programme>
-  <programme start="20220603173000 -0300" stop="20220603173500 -0300" channel="Cartoonito">
+  <programme start="20220603173000 -0300" stop="20220603173500 -0300" channel="Boomerang">
     <title lang="es">Mi mascota mágica Morphle</title>
   </programme>
-  <programme start="20220603173500 -0300" stop="20220603174000 -0300" channel="Cartoonito">
+  <programme start="20220603173500 -0300" stop="20220603174000 -0300" channel="Boomerang">
     <title lang="es">Mi mascota mágica Morphle</title>
   </programme>
-  <programme start="20220603174000 -0300" stop="20220603174500 -0300" channel="Cartoonito">
+  <programme start="20220603174000 -0300" stop="20220603174500 -0300" channel="Boomerang">
     <title lang="es">Mi mascota mágica Morphle</title>
   </programme>
-  <programme start="20220603174500 -0300" stop="20220603180000 -0300" channel="Cartoonito">
+  <programme start="20220603174500 -0300" stop="20220603180000 -0300" channel="Boomerang">
     <title lang="es">Blippi</title>
   </programme>
-  <programme start="20220603180000 -0300" stop="20220603180500 -0300" channel="Cartoonito">
+  <programme start="20220603180000 -0300" stop="20220603180500 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220603180500 -0300" stop="20220603181000 -0300" channel="Cartoonito">
+  <programme start="20220603180500 -0300" stop="20220603181000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220603181000 -0300" stop="20220603181500 -0300" channel="Cartoonito">
+  <programme start="20220603181000 -0300" stop="20220603181500 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220603181500 -0300" stop="20220603182000 -0300" channel="Cartoonito">
+  <programme start="20220603181500 -0300" stop="20220603182000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220603182000 -0300" stop="20220603182500 -0300" channel="Cartoonito">
+  <programme start="20220603182000 -0300" stop="20220603182500 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso</title>
   </programme>
-  <programme start="20220603182500 -0300" stop="20220603183000 -0300" channel="Cartoonito">
+  <programme start="20220603182500 -0300" stop="20220603183000 -0300" channel="Boomerang">
     <title lang="es">Masha y el oso: canciones para niños</title>
   </programme>
-  <programme start="20220603183000 -0300" stop="20220603183600 -0300" channel="Cartoonito">
+  <programme start="20220603183000 -0300" stop="20220603183600 -0300" channel="Boomerang">
     <title lang="es">Odo</title>
   </programme>
-  <programme start="20220603183600 -0300" stop="20220603184200 -0300" channel="Cartoonito">
+  <programme start="20220603183600 -0300" stop="20220603184200 -0300" channel="Boomerang">
     <title lang="es">Odo</title>
   </programme>
-  <programme start="20220603184200 -0300" stop="20220603184800 -0300" channel="Cartoonito">
+  <programme start="20220603184200 -0300" stop="20220603184800 -0300" channel="Boomerang">
     <title lang="es">Odo</title>
   </programme>
-  <programme start="20220603184800 -0300" stop="20220603185400 -0300" channel="Cartoonito">
+  <programme start="20220603184800 -0300" stop="20220603185400 -0300" channel="Boomerang">
     <title lang="es">Odo</title>
   </programme>
-  <programme start="20220603185400 -0300" stop="20220603190000 -0300" channel="Cartoonito">
+  <programme start="20220603185400 -0300" stop="20220603190000 -0300" channel="Boomerang">
     <title lang="es">Odo</title>
   </programme>
-  <programme start="20220603190000 -0300" stop="20220603191000 -0300" channel="Cartoonito">
+  <programme start="20220603190000 -0300" stop="20220603191000 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220603191000 -0300" stop="20220603192000 -0300" channel="Cartoonito">
+  <programme start="20220603191000 -0300" stop="20220603192000 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220603192000 -0300" stop="20220603193000 -0300" channel="Cartoonito">
+  <programme start="20220603192000 -0300" stop="20220603193000 -0300" channel="Boomerang">
     <title lang="es">El show de Tom y Jerry</title>
   </programme>
-  <programme start="20220603193000 -0300" stop="20220603200000 -0300" channel="Cartoonito">
+  <programme start="20220603193000 -0300" stop="20220603200000 -0300" channel="Boomerang">
     <title lang="es">Scooby-Doo y ¿quién crees tú?</title>
   </programme>
-  <programme start="20220603200000 -0300" stop="20220603201000 -0300" channel="Cartoonito">
+  <programme start="20220603200000 -0300" stop="20220603201000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220603201000 -0300" stop="20220603202000 -0300" channel="Cartoonito">
+  <programme start="20220603201000 -0300" stop="20220603202000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220603202000 -0300" stop="20220603203000 -0300" channel="Cartoonito">
+  <programme start="20220603202000 -0300" stop="20220603203000 -0300" channel="Boomerang">
     <title lang="es">Yabba Dabba Dinosaurios</title>
   </programme>
-  <programme start="20220603203000 -0300" stop="20220603204000 -0300" channel="Cartoonito">
+  <programme start="20220603203000 -0300" stop="20220603204000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220603204000 -0300" stop="20220603205000 -0300" channel="Cartoonito">
+  <programme start="20220603204000 -0300" stop="20220603205000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220603205000 -0300" stop="20220603210000 -0300" channel="Cartoonito">
+  <programme start="20220603205000 -0300" stop="20220603210000 -0300" channel="Boomerang">
     <title lang="es">Pequeña Ellen</title>
   </programme>
-  <programme start="20220603210000 -0300" stop="20220603213000 -0300" channel="Cartoonito">
+  <programme start="20220603210000 -0300" stop="20220603213000 -0300" channel="Boomerang">
     <title lang="es">La araña Lucas</title>
   </programme>
-  <programme start="20220603213000 -0300" stop="20220603220000 -0300" channel="Cartoonito">
+  <programme start="20220603213000 -0300" stop="20220603220000 -0300" channel="Boomerang">
     <title lang="es">Hey Duggee</title>
   </programme>
-  <programme start="20220603220000 -0300" stop="20220603220200 -0300" channel="Cartoonito">
+  <programme start="20220603220000 -0300" stop="20220603220200 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603220200 -0300" stop="20220603220400 -0300" channel="Cartoonito">
+  <programme start="20220603220200 -0300" stop="20220603220400 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603220400 -0300" stop="20220603220600 -0300" channel="Cartoonito">
+  <programme start="20220603220400 -0300" stop="20220603220600 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603220600 -0300" stop="20220603220800 -0300" channel="Cartoonito">
+  <programme start="20220603220600 -0300" stop="20220603220800 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603220800 -0300" stop="20220603221000 -0300" channel="Cartoonito">
+  <programme start="20220603220800 -0300" stop="20220603221000 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603221000 -0300" stop="20220603221200 -0300" channel="Cartoonito">
+  <programme start="20220603221000 -0300" stop="20220603221200 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603221200 -0300" stop="20220603221400 -0300" channel="Cartoonito">
+  <programme start="20220603221200 -0300" stop="20220603221400 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603221400 -0300" stop="20220603221600 -0300" channel="Cartoonito">
+  <programme start="20220603221400 -0300" stop="20220603221600 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603221600 -0300" stop="20220603221800 -0300" channel="Cartoonito">
+  <programme start="20220603221600 -0300" stop="20220603221800 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603221800 -0300" stop="20220603222000 -0300" channel="Cartoonito">
+  <programme start="20220603221800 -0300" stop="20220603222000 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603222000 -0300" stop="20220603222200 -0300" channel="Cartoonito">
+  <programme start="20220603222000 -0300" stop="20220603222200 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603222200 -0300" stop="20220603222400 -0300" channel="Cartoonito">
+  <programme start="20220603222200 -0300" stop="20220603222400 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603222400 -0300" stop="20220603222600 -0300" channel="Cartoonito">
+  <programme start="20220603222400 -0300" stop="20220603222600 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603222600 -0300" stop="20220603222800 -0300" channel="Cartoonito">
+  <programme start="20220603222600 -0300" stop="20220603222800 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603222800 -0300" stop="20220603223000 -0300" channel="Cartoonito">
+  <programme start="20220603222800 -0300" stop="20220603223000 -0300" channel="Boomerang">
     <title lang="es">La granja de Zenón</title>
   </programme>
-  <programme start="20220603223000 -0300" stop="20220603224500 -0300" channel="Cartoonito">
+  <programme start="20220603223000 -0300" stop="20220603224500 -0300" channel="Boomerang">
     <title lang="es">Cocomelon: ¡A cantar!</title>
   </programme>
-  <programme start="20220603224500 -0300" stop="20220603230000 -0300" channel="Cartoonito">
+  <programme start="20220603224500 -0300" stop="20220603230000 -0300" channel="Boomerang">
     <title lang="es">Cleo y Cuquín: familia Telerín</title>
   </programme>
-  <programme start="20220603230000 -0300" stop="20220604000000 -0300" channel="Cartoonito">
+  <programme start="20220603230000 -0300" stop="20220604000000 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
-  <programme start="20220604230000 -0300" stop="20220605000000 -0300" channel="Cartoonito">
+  <programme start="20220604230000 -0300" stop="20220605000000 -0300" channel="Boomerang">
     <title lang="es">Pocoyo</title>
   </programme>
   <programme start="20220531234600 -0300" stop="20220601000000 -0300" channel="Discovery Kids">
@@ -17205,103 +17163,103 @@
   <programme start="20220604234000 -0300" stop="20220605000000 -0300" channel="Tooncast">
     <title lang="es">Batman</title>
   </programme>
-  <programme start="20220531233000 -0300" stop="20220601003000 -0300" channel="AMÉRICA">
+  <programme start="20220531233000 -0300" stop="20220601003000 -0300" channel="AMERICA">
     <title lang="es">Animales sueltos</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="AMÉRICA">
+  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="AMERICA">
     <title lang="es">Modo Selfie</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601023000 -0300" channel="AMÉRICA">
+  <programme start="20220601010000 -0300" stop="20220601023000 -0300" channel="AMERICA">
     <title lang="es">Pare de sufrir</title>
   </programme>
-  <programme start="20220601023000 -0300" stop="20220601040000 -0300" channel="AMÉRICA">
+  <programme start="20220601023000 -0300" stop="20220601040000 -0300" channel="AMERICA">
     <title lang="es">Intrusos</title>
   </programme>
-  <programme start="20220601040000 -0300" stop="20220601050000 -0300" channel="AMÉRICA">
+  <programme start="20220601040000 -0300" stop="20220601050000 -0300" channel="AMERICA">
     <title lang="es">Es por ahí</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601060000 -0300" channel="AMÉRICA">
+  <programme start="20220601050000 -0300" stop="20220601060000 -0300" channel="AMERICA">
     <title lang="es">Animérica</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601080000 -0300" channel="AMÉRICA">
+  <programme start="20220601060000 -0300" stop="20220601080000 -0300" channel="AMERICA">
     <title lang="es">Buenos días, América</title>
   </programme>
-  <programme start="20220601080000 -0300" stop="20220601100000 -0300" channel="AMÉRICA">
+  <programme start="20220601080000 -0300" stop="20220601100000 -0300" channel="AMERICA">
     <title lang="es">BDA Extra</title>
   </programme>
-  <programme start="20220601100000 -0300" stop="20220601120000 -0300" channel="AMÉRICA">
+  <programme start="20220601100000 -0300" stop="20220601120000 -0300" channel="AMERICA">
     <title lang="es">Es por ahí</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601133000 -0300" channel="AMÉRICA">
+  <programme start="20220601120000 -0300" stop="20220601133000 -0300" channel="AMERICA">
     <title lang="es">América Noticias mediodía</title>
   </programme>
-  <programme start="20220601133000 -0300" stop="20220601154500 -0300" channel="AMÉRICA">
+  <programme start="20220601133000 -0300" stop="20220601154500 -0300" channel="AMERICA">
     <title lang="es">Intrusos</title>
   </programme>
-  <programme start="20220601154500 -0300" stop="20220601180000 -0300" channel="AMÉRICA">
+  <programme start="20220601154500 -0300" stop="20220601180000 -0300" channel="AMERICA">
     <title lang="es">A la tarde</title>
   </programme>
-  <programme start="20220601180000 -0300" stop="20220601200000 -0300" channel="AMÉRICA">
+  <programme start="20220601180000 -0300" stop="20220601200000 -0300" channel="AMERICA">
     <title lang="es">América noticias 2da. edición</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601221000 -0300" channel="AMÉRICA">
+  <programme start="20220601200000 -0300" stop="20220601221000 -0300" channel="AMERICA">
     <title lang="es">LAM</title>
   </programme>
-  <programme start="20220601221000 -0300" stop="20220601233000 -0300" channel="AMÉRICA">
+  <programme start="20220601221000 -0300" stop="20220601233000 -0300" channel="AMERICA">
     <title lang="es">La puta ama</title>
   </programme>
-  <programme start="20220601233000 -0300" stop="20220602003000 -0300" channel="AMÉRICA">
+  <programme start="20220601233000 -0300" stop="20220602003000 -0300" channel="AMERICA">
     <title lang="es">Animales sueltos</title>
   </programme>
-  <programme start="20220602233000 -0300" stop="20220603003000 -0300" channel="AMÉRICA">
+  <programme start="20220602233000 -0300" stop="20220603003000 -0300" channel="AMERICA">
     <title lang="es">Animales sueltos</title>
   </programme>
-  <programme start="20220603003000 -0300" stop="20220603010000 -0300" channel="AMÉRICA">
+  <programme start="20220603003000 -0300" stop="20220603010000 -0300" channel="AMERICA">
     <title lang="es">Modo Selfie</title>
   </programme>
-  <programme start="20220603010000 -0300" stop="20220603023000 -0300" channel="AMÉRICA">
+  <programme start="20220603010000 -0300" stop="20220603023000 -0300" channel="AMERICA">
     <title lang="es">Pare de sufrir</title>
   </programme>
-  <programme start="20220603023000 -0300" stop="20220603040000 -0300" channel="AMÉRICA">
+  <programme start="20220603023000 -0300" stop="20220603040000 -0300" channel="AMERICA">
     <title lang="es">Intrusos</title>
   </programme>
-  <programme start="20220603040000 -0300" stop="20220603050000 -0300" channel="AMÉRICA">
+  <programme start="20220603040000 -0300" stop="20220603050000 -0300" channel="AMERICA">
     <title lang="es">Es por ahí</title>
   </programme>
-  <programme start="20220603050000 -0300" stop="20220603060000 -0300" channel="AMÉRICA">
+  <programme start="20220603050000 -0300" stop="20220603060000 -0300" channel="AMERICA">
     <title lang="es">Animérica</title>
   </programme>
-  <programme start="20220603060000 -0300" stop="20220603080000 -0300" channel="AMÉRICA">
+  <programme start="20220603060000 -0300" stop="20220603080000 -0300" channel="AMERICA">
     <title lang="es">Buenos días, América</title>
   </programme>
-  <programme start="20220603080000 -0300" stop="20220603100000 -0300" channel="AMÉRICA">
+  <programme start="20220603080000 -0300" stop="20220603100000 -0300" channel="AMERICA">
     <title lang="es">BDA Extra</title>
   </programme>
-  <programme start="20220603100000 -0300" stop="20220603120000 -0300" channel="AMÉRICA">
+  <programme start="20220603100000 -0300" stop="20220603120000 -0300" channel="AMERICA">
     <title lang="es">Es por ahí</title>
   </programme>
-  <programme start="20220603120000 -0300" stop="20220603133000 -0300" channel="AMÉRICA">
+  <programme start="20220603120000 -0300" stop="20220603133000 -0300" channel="AMERICA">
     <title lang="es">América Noticias mediodía</title>
   </programme>
-  <programme start="20220603133000 -0300" stop="20220603154500 -0300" channel="AMÉRICA">
+  <programme start="20220603133000 -0300" stop="20220603154500 -0300" channel="AMERICA">
     <title lang="es">Intrusos</title>
   </programme>
-  <programme start="20220603154500 -0300" stop="20220603180000 -0300" channel="AMÉRICA">
+  <programme start="20220603154500 -0300" stop="20220603180000 -0300" channel="AMERICA">
     <title lang="es">A la tarde</title>
   </programme>
-  <programme start="20220603180000 -0300" stop="20220603200000 -0300" channel="AMÉRICA">
+  <programme start="20220603180000 -0300" stop="20220603200000 -0300" channel="AMERICA">
     <title lang="es">América noticias 2da. edición</title>
   </programme>
-  <programme start="20220603200000 -0300" stop="20220603221000 -0300" channel="AMÉRICA">
+  <programme start="20220603200000 -0300" stop="20220603221000 -0300" channel="AMERICA">
     <title lang="es">LAM</title>
   </programme>
-  <programme start="20220603221000 -0300" stop="20220603233000 -0300" channel="AMÉRICA">
+  <programme start="20220603221000 -0300" stop="20220603233000 -0300" channel="AMERICA">
     <title lang="es">La puta ama</title>
   </programme>
-  <programme start="20220603233000 -0300" stop="20220604003000 -0300" channel="AMÉRICA">
+  <programme start="20220603233000 -0300" stop="20220604003000 -0300" channel="AMERICA">
     <title lang="es">Animales sueltos</title>
   </programme>
-  <programme start="20220604233000 -0300" stop="20220605003000 -0300" channel="AMÉRICA">
+  <programme start="20220604233000 -0300" stop="20220605003000 -0300" channel="AMERICA">
     <title lang="es">Animales sueltos</title>
   </programme>
   <programme start="20220531231500 -0300" stop="20220601000000 -0300" channel="El Nueve">
@@ -18510,145 +18468,145 @@
   <programme start="20220604230000 -0300" stop="20220605000000 -0300" channel="Telefe">
     <title lang="es">El primero de nosotros</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601000000 -0300" channel="TV PÚBLICA">
+  <programme start="20220531230000 -0300" stop="20220601000000 -0300" channel="TV PUBLICA">
     <title lang="es">Rumbo a Catar</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601003000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601000000 -0300" stop="20220601003000 -0300" channel="TV PUBLICA">
     <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="TV PUBLICA">
     <title lang="es">Función federal</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601020000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601010000 -0300" stop="20220601020000 -0300" channel="TV PUBLICA">
     <title lang="es">Altavoz</title>
   </programme>
-  <programme start="20220601020000 -0300" stop="20220601043000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601020000 -0300" stop="20220601043000 -0300" channel="TV PUBLICA">
     <title lang="es">Cocineros argentinos</title>
   </programme>
-  <programme start="20220601043000 -0300" stop="20220601053000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601043000 -0300" stop="20220601053000 -0300" channel="TV PUBLICA">
     <title lang="es">Rumbo a Qatar</title>
   </programme>
-  <programme start="20220601053000 -0300" stop="20220601060000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601053000 -0300" stop="20220601060000 -0300" channel="TV PUBLICA">
     <title lang="es">Artesanos</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601063000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601060000 -0300" stop="20220601063000 -0300" channel="TV PUBLICA">
     <title lang="es">Tecnologías originarias</title>
   </programme>
-  <programme start="20220601063000 -0300" stop="20220601070000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601063000 -0300" stop="20220601070000 -0300" channel="TV PUBLICA">
     <title lang="es">Pampero TV</title>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601090000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601070000 -0300" stop="20220601090000 -0300" channel="TV PUBLICA">
     <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601093000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601090000 -0300" stop="20220601093000 -0300" channel="TV PUBLICA">
     <title lang="es">Pakapaka</title>
   </programme>
-  <programme start="20220601093000 -0300" stop="20220601100000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601093000 -0300" stop="20220601100000 -0300" channel="TV PUBLICA">
     <title lang="es">#Quedate en casa</title>
   </programme>
-  <programme start="20220601100000 -0300" stop="20220601120000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601100000 -0300" stop="20220601120000 -0300" channel="TV PUBLICA">
     <title lang="es">Mañanas públicas</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601133000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601120000 -0300" stop="20220601133000 -0300" channel="TV PUBLICA">
     <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220601133000 -0300" stop="20220601160000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601133000 -0300" stop="20220601160000 -0300" channel="TV PUBLICA">
     <title lang="es">Cocineros argentinos</title>
   </programme>
-  <programme start="20220601160000 -0300" stop="20220601173000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601160000 -0300" stop="20220601173000 -0300" channel="TV PUBLICA">
     <title lang="es">Todos Estamos Conectados por la música</title>
   </programme>
-  <programme start="20220601173000 -0300" stop="20220601183000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601173000 -0300" stop="20220601183000 -0300" channel="TV PUBLICA">
     <title lang="es">Altavoz</title>
   </programme>
-  <programme start="20220601183000 -0300" stop="20220601200000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601183000 -0300" stop="20220601200000 -0300" channel="TV PUBLICA">
     <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601210000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601200000 -0300" stop="20220601210000 -0300" channel="TV PUBLICA">
     <title lang="es">¿Quién sabe más de Argentina?</title>
   </programme>
-  <programme start="20220601210000 -0300" stop="20220601220000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601210000 -0300" stop="20220601220000 -0300" channel="TV PUBLICA">
     <title lang="es">Desiguales</title>
   </programme>
-  <programme start="20220601220000 -0300" stop="20220601230000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601220000 -0300" stop="20220601230000 -0300" channel="TV PUBLICA">
     <title lang="es">Noche de mente</title>
   </programme>
-  <programme start="20220601230000 -0300" stop="20220601233000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601230000 -0300" stop="20220601233000 -0300" channel="TV PUBLICA">
     <title lang="es">Música por la ciencia</title>
   </programme>
-  <programme start="20220601233000 -0300" stop="20220602000000 -0300" channel="TV PÚBLICA">
+  <programme start="20220601233000 -0300" stop="20220602000000 -0300" channel="TV PUBLICA">
     <title lang="es">Anfitrión</title>
   </programme>
-  <programme start="20220602233000 -0300" stop="20220603000000 -0300" channel="TV PÚBLICA">
+  <programme start="20220602233000 -0300" stop="20220603000000 -0300" channel="TV PUBLICA">
     <title lang="es">Anfitrión</title>
   </programme>
-  <programme start="20220603000000 -0300" stop="20220603003000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603000000 -0300" stop="20220603003000 -0300" channel="TV PUBLICA">
     <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220603003000 -0300" stop="20220603010000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603003000 -0300" stop="20220603010000 -0300" channel="TV PUBLICA">
     <title lang="es">Función federal</title>
   </programme>
-  <programme start="20220603010000 -0300" stop="20220603020000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603010000 -0300" stop="20220603020000 -0300" channel="TV PUBLICA">
     <title lang="es">Altavoz</title>
   </programme>
-  <programme start="20220603020000 -0300" stop="20220603043000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603020000 -0300" stop="20220603043000 -0300" channel="TV PUBLICA">
     <title lang="es">Cocineros argentinos</title>
   </programme>
-  <programme start="20220603043000 -0300" stop="20220603053000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603043000 -0300" stop="20220603053000 -0300" channel="TV PUBLICA">
     <title lang="es">Gigantes del sur</title>
   </programme>
-  <programme start="20220603053000 -0300" stop="20220603060000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603053000 -0300" stop="20220603060000 -0300" channel="TV PUBLICA">
     <title lang="es">Artesanos</title>
   </programme>
-  <programme start="20220603060000 -0300" stop="20220603063000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603060000 -0300" stop="20220603063000 -0300" channel="TV PUBLICA">
     <title lang="es">Tecnologías originarias</title>
   </programme>
-  <programme start="20220603063000 -0300" stop="20220603070000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603063000 -0300" stop="20220603070000 -0300" channel="TV PUBLICA">
     <title lang="es">Pampero TV</title>
   </programme>
-  <programme start="20220603070000 -0300" stop="20220603090000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603070000 -0300" stop="20220603090000 -0300" channel="TV PUBLICA">
     <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220603090000 -0300" stop="20220603093000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603090000 -0300" stop="20220603093000 -0300" channel="TV PUBLICA">
     <title lang="es">Pakapaka</title>
   </programme>
-  <programme start="20220603093000 -0300" stop="20220603100000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603093000 -0300" stop="20220603100000 -0300" channel="TV PUBLICA">
     <title lang="es">#Quedate en casa</title>
   </programme>
-  <programme start="20220603100000 -0300" stop="20220603120000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603100000 -0300" stop="20220603120000 -0300" channel="TV PUBLICA">
     <title lang="es">Mañanas públicas</title>
   </programme>
-  <programme start="20220603120000 -0300" stop="20220603133000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603120000 -0300" stop="20220603133000 -0300" channel="TV PUBLICA">
     <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220603133000 -0300" stop="20220603160000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603133000 -0300" stop="20220603160000 -0300" channel="TV PUBLICA">
     <title lang="es">Cocineros argentinos</title>
   </programme>
-  <programme start="20220603160000 -0300" stop="20220603173000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603160000 -0300" stop="20220603173000 -0300" channel="TV PUBLICA">
     <title lang="es">Todos Estamos Conectados por la música</title>
   </programme>
-  <programme start="20220603173000 -0300" stop="20220603183000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603173000 -0300" stop="20220603183000 -0300" channel="TV PUBLICA">
     <title lang="es">Altavoz</title>
   </programme>
-  <programme start="20220603183000 -0300" stop="20220603200000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603183000 -0300" stop="20220603200000 -0300" channel="TV PUBLICA">
     <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220603200000 -0300" stop="20220603210000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603200000 -0300" stop="20220603210000 -0300" channel="TV PUBLICA">
     <title lang="es">¿Quién sabe más de Argentina?</title>
   </programme>
-  <programme start="20220603210000 -0300" stop="20220603220000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603210000 -0300" stop="20220603220000 -0300" channel="TV PUBLICA">
     <title lang="es">Desiguales</title>
   </programme>
-  <programme start="20220603220000 -0300" stop="20220603230000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603220000 -0300" stop="20220603230000 -0300" channel="TV PUBLICA">
     <title lang="es">Noche de mente</title>
   </programme>
-  <programme start="20220603230000 -0300" stop="20220603233000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603230000 -0300" stop="20220603233000 -0300" channel="TV PUBLICA">
     <title lang="es">40 abriles</title>
   </programme>
-  <programme start="20220603233000 -0300" stop="20220604000000 -0300" channel="TV PÚBLICA">
+  <programme start="20220603233000 -0300" stop="20220604000000 -0300" channel="TV PUBLICA">
     <title lang="es">Anfitrión</title>
   </programme>
-  <programme start="20220604233000 -0300" stop="20220605000000 -0300" channel="TV PÚBLICA">
+  <programme start="20220604233000 -0300" stop="20220605000000 -0300" channel="TV PUBLICA">
     <title lang="es">Anfitrión</title>
   </programme>
   <programme start="20220531233000 -0300" stop="20220601000000 -0300" channel="Arirang">
