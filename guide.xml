@@ -250,7 +250,7 @@
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="Sony">
-    <display-name lang="es">SONY</display-name>
+    <display-name lang="es">Sony</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Sony.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
@@ -265,7 +265,7 @@
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="Studio Universal">
-    <display-name lang="es">STUDIO UNIVERSAL</display-name>
+    <display-name lang="es">Studio Universal</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Studio Universal.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
@@ -709,10 +709,6 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Orbe 21.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <programme start="20220601095500 -0300" stop="20220601112500 -0300" channel="A3 Cine HD">
-    <title lang="es">Cuernos de mujer</title>
-    <desc lang="es">Ana y Miguel viven una crisis matrimonial y la posibilidad de divorcio aparece cuando ella descubre que él tiene una amante. Ana no tardará en darse cuenta que su desventura amorosa es recompensada con su suerte en otros aspectos.(n)</desc>
-  </programme>
   <programme start="20220601112500 -0300" stop="20220601131000 -0300" channel="A3 Cine HD">
     <title lang="es">Operación cabaretera</title>
     <desc lang="es">Hipólita, cabaretera, conoce a dos hombres: un viajante y un chino que es asesinado en el momento en que Hipólita empezaba a desvestirse. El viajante se ve mezclado en el crimen por Violeta, una compañera de Hipólita.(n)</desc>
@@ -1091,10 +1087,6 @@
   <programme start="20220607214000 -0300" stop="20220607231500 -0300" channel="A3 Cine HD">
     <title lang="es">Colorín colorado</title>
     <desc lang="es">Manoli y Fernando son una pareja de ideales comunistas que desea vivir su amor libremente huyendo de cualquier convencionalismo burgués. Al principio el dúo rechaza la ayuda de los padres de ella, pero pronto empezarán a ceder.(n)</desc>
-  </programme>
-  <programme start="20220601100000 -0300" stop="20220601120000 -0300" channel="VTV HD">
-    <title lang="es">Día a día</title>
-    <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
   </programme>
   <programme start="20220601120000 -0300" stop="20220601130000 -0300" channel="VTV HD">
     <title lang="es">Valor agregado</title>
@@ -1538,10 +1530,6 @@
   <programme start="20220607200000 -0300" stop="20220607233000 -0300" channel="VTV HD">
     <title lang="es">VTV</title>
   </programme>
-  <programme start="20220601093000 -0300" stop="20220601103000 -0300" channel="VTVPlus">
-    <title lang="es">Pasión noticias</title>
-    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
-  </programme>
   <programme start="20220601103000 -0300" stop="20220601123000 -0300" channel="VTVPlus">
     <title lang="es">Liga uruguaya de básquet. Peñarol vs. Bigua, Finales, Juego 2</title>
   </programme>
@@ -1827,14 +1815,6 @@
   </programme>
   <programme start="20220607211500 -0300" stop="20220607233000 -0300" channel="VTVPlus">
     <title lang="es">Liga uruguaya de básquet</title>
-  </programme>
-  <programme start="20220601095500 -0300" stop="20220601104500 -0300" channel="Love Nature HD">
-    <title lang="es">Garras y mandíbulas</title>
-    <desc lang="es">Serpientes, arañas y escorpiones: estos bichos espeluznantes son los animales con los que menos nos conectamos y más tememos.(n)</desc>
-  </programme>
-  <programme start="20220601104500 -0300" stop="20220601113500 -0300" channel="Love Nature HD">
-    <title lang="es">Garras y mandíbulas</title>
-    <desc lang="es">Los tiburones se encuentran entre los depredadores más antiguos y más evolucionados del planeta. A lo largo de la costa del sur de África, los pioneros dedican sus vidas a aprender más sobre estas fascinantes criaturas.(n)</desc>
   </programme>
   <programme start="20220601113500 -0300" stop="20220601123000 -0300" channel="Love Nature HD">
     <title lang="es">Garras y mandíbulas</title>
@@ -2545,10 +2525,6 @@
     <title lang="es">Africa costera</title>
     <desc lang="es">En el extremo sur de África se encuentra un bosque submarino de belleza inquietante. Aventúrate en las profundidades de este mundo singular de plantas extrañas.(n)</desc>
   </programme>
-  <programme start="20220601080000 -0300" stop="20220601103000 -0300" channel="Canal 10 HD">
-    <title lang="es">Arriba gente</title>
-    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
-  </programme>
   <programme start="20220601103000 -0300" stop="20220601123000 -0300" channel="Canal 10 HD">
     <title lang="es">La mañana en casa</title>
     <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
@@ -3002,21 +2978,6 @@
   <programme start="20220607210000 -0300" stop="20220607230000 -0300" channel="Canal 10 HD">
     <title lang="es">Masterchef Celebrity</title>
     <desc lang="es">Los celebridades más queridas por los uruguayos compiten en la cocina más famosa del país.(n)</desc>
-  </programme>
-  <programme start="20220601100000 -0300" stop="20220601103000 -0300" channel="RT en español">
-    <title lang="es">Volinia: historia de un genocidio</title>
-    <desc lang="es">En 2013, Polonia determinó la Masacre de Volhynia como genocidio. En ese momento, la iniciativa fue calificada de antiucraniana por las autoridades ucranianas. ¿Se está reescribiendo la historia.(n)</desc>
-  </programme>
-  <programme start="20220601103000 -0300" stop="20220601110000 -0300" channel="RT en español">
-    <title lang="es">Hacia el bosque en llamas</title>
-  </programme>
-  <programme start="20220601110000 -0300" stop="20220601113000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220601113000 -0300" stop="20220601120000 -0300" channel="RT en español">
-    <title lang="es">Volinia: historia de un genocidio</title>
-    <desc lang="es">En 2013, Polonia determinó la Masacre de Volhynia como genocidio. En ese momento, la iniciativa fue calificada de antiucraniana por las autoridades ucranianas. ¿Se está reescribiendo la historia.(n)</desc>
   </programme>
   <programme start="20220601120000 -0300" stop="20220601123000 -0300" channel="RT en español">
     <title lang="es">Noticias</title>
