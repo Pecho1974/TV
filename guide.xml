@@ -204,9 +204,9 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="HBO plus">
-    <display-name lang="es">HBO plus</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO plus.png" />
+  <channel id="HBO Plus">
+    <display-name lang="es">HBO Plus</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Plus.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="HBO 2">
@@ -709,9 +709,6 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Orbe 21.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <programme start="20220601073000 -0300" stop="20220601080500 -0300" channel="A3 Cine HD">
-    <title lang="es">Cortometraje</title>
-  </programme>
   <programme start="20220601080500 -0300" stop="20220601095500 -0300" channel="A3 Cine HD">
     <title lang="es">Al otro lado del túnel</title>
     <desc lang="es">Dos guionistas en plena crisis creativa se refugian en un monasterio con objeto de recuperarse y escribir una historia.(n)</desc>
@@ -1098,10 +1095,6 @@
   <programme start="20220607214000 -0300" stop="20220607231500 -0300" channel="A3 Cine HD">
     <title lang="es">Colorín colorado</title>
     <desc lang="es">Manoli y Fernando son una pareja de ideales comunistas que desea vivir su amor libremente huyendo de cualquier convencionalismo burgués. Al principio el dúo rechaza la ayuda de los padres de ella, pero pronto empezarán a ceder.(n)</desc>
-  </programme>
-  <programme start="20220601070000 -0300" stop="20220601080000 -0300" channel="VTV HD">
-    <title lang="es">Valor agregado</title>
-    <desc lang="es">Espacio de información agropecuaria, económica, empresarial y de tecnología pensado en atender la necesidad de información de un sector integrado al mundo de los agronegocios.(n)</desc>
   </programme>
   <programme start="20220601080000 -0300" stop="20220601100000 -0300" channel="VTV HD">
     <title lang="es">Buscadores</title>
@@ -1847,10 +1840,6 @@
   <programme start="20220607211500 -0300" stop="20220607233000 -0300" channel="VTVPlus">
     <title lang="es">Liga uruguaya de básquet</title>
   </programme>
-  <programme start="20220601071000 -0300" stop="20220601080000 -0300" channel="Love Nature HD">
-    <title lang="es">Montañas salvajes</title>
-    <desc lang="es">El aire es frío, los árboles no pueden incluso vivir aquí. Este no es exactamente un lugar acogedor para vivir. Pero animales como cabras de montaña y ovejas de cuerno grande e incluso osos negros logran esquivar estos picos con facilidad.(n)</desc>
-  </programme>
   <programme start="20220601080000 -0300" stop="20220601090000 -0300" channel="Love Nature HD">
     <title lang="es">Dentro de la selva: Colombia</title>
   </programme>
@@ -2575,10 +2564,6 @@
     <title lang="es">Africa costera</title>
     <desc lang="es">En el extremo sur de África se encuentra un bosque submarino de belleza inquietante. Aventúrate en las profundidades de este mundo singular de plantas extrañas.(n)</desc>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601080000 -0300" channel="Canal 10 HD">
-    <title lang="es">Informativo Carve 850</title>
-    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
-  </programme>
   <programme start="20220601080000 -0300" stop="20220601103000 -0300" channel="Canal 10 HD">
     <title lang="es">Arriba gente</title>
     <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
@@ -3036,17 +3021,6 @@
   <programme start="20220607210000 -0300" stop="20220607230000 -0300" channel="Canal 10 HD">
     <title lang="es">Masterchef Celebrity</title>
     <desc lang="es">Los celebridades más queridas por los uruguayos compiten en la cocina más famosa del país.(n)</desc>
-  </programme>
-  <programme start="20220601073000 -0300" stop="20220601074500 -0300" channel="RT en español">
-    <title lang="es">Rompehielos Ruso: A bordo del coloso nuclear</title>
-    <desc lang="es">¿Cómo es la vida en un rompehielos nuclear ruso? ¿Cómo transcurre el tiempo al viajar por los confines de la Tierra? Las vistas blancas del océano Ártico y el Polo Norte deslumbran e inspiran, pero también esconden innumerables peligros.(n)</desc>
-  </programme>
-  <programme start="20220601074500 -0300" stop="20220601080000 -0300" channel="RT en español">
-    <title lang="es">Rusofobia: Odio en Auge Bangladés: Los esclavos del barro</title>
-  </programme>
-  <programme start="20220601080000 -0300" stop="20220601083000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
   </programme>
   <programme start="20220601083000 -0300" stop="20220601090000 -0300" channel="RT en español">
     <title lang="es">Hacia el bosque en llamas</title>
@@ -7337,136 +7311,136 @@
   <programme start="20220607230000 -0300" stop="20220608005000 -0300" channel="HBO">
     <title lang="es">Freaky: este cuerpo está para matar</title>
   </programme>
-  <programme start="20220601223500 -0300" stop="20220602003000 -0300" channel="HBO plus">
+  <programme start="20220601223500 -0300" stop="20220602003000 -0300" channel="HBO Plus">
     <title lang="es">El conjuro 3</title>
   </programme>
-  <programme start="20220602003000 -0300" stop="20220602022500 -0300" channel="HBO plus">
+  <programme start="20220602003000 -0300" stop="20220602022500 -0300" channel="HBO Plus">
     <title lang="es">Antebellum</title>
   </programme>
-  <programme start="20220602022500 -0300" stop="20220602040900 -0300" channel="HBO plus">
+  <programme start="20220602022500 -0300" stop="20220602040900 -0300" channel="HBO Plus">
     <title lang="es">A la deriva</title>
   </programme>
-  <programme start="20220602040900 -0300" stop="20220602060100 -0300" channel="HBO plus">
+  <programme start="20220602040900 -0300" stop="20220602060100 -0300" channel="HBO Plus">
     <title lang="es">Tan cerca</title>
   </programme>
-  <programme start="20220602060100 -0300" stop="20220602075600 -0300" channel="HBO plus">
+  <programme start="20220602060100 -0300" stop="20220602075600 -0300" channel="HBO Plus">
     <title lang="es">10.000 A.C.</title>
   </programme>
-  <programme start="20220602075600 -0300" stop="20220602094600 -0300" channel="HBO plus">
+  <programme start="20220602075600 -0300" stop="20220602094600 -0300" channel="HBO Plus">
     <title lang="es">My Hero Academia: El despertar de los héroes</title>
   </programme>
-  <programme start="20220602094600 -0300" stop="20220602113100 -0300" channel="HBO plus">
+  <programme start="20220602094600 -0300" stop="20220602113100 -0300" channel="HBO Plus">
     <title lang="es">R.I.P.D.: policía del más allá</title>
   </programme>
-  <programme start="20220602113100 -0300" stop="20220602130600 -0300" channel="HBO plus">
+  <programme start="20220602113100 -0300" stop="20220602130600 -0300" channel="HBO Plus">
     <title lang="es">Inframundo: El despertar</title>
   </programme>
-  <programme start="20220602130600 -0300" stop="20220602154100 -0300" channel="HBO plus">
+  <programme start="20220602130600 -0300" stop="20220602154100 -0300" channel="HBO Plus">
     <title lang="es">Mujer Maravilla 1984</title>
   </programme>
-  <programme start="20220602154100 -0300" stop="20220602175100 -0300" channel="HBO plus">
+  <programme start="20220602154100 -0300" stop="20220602175100 -0300" channel="HBO Plus">
     <title lang="es">Trascender</title>
   </programme>
-  <programme start="20220602175100 -0300" stop="20220602203100 -0300" channel="HBO plus">
+  <programme start="20220602175100 -0300" stop="20220602203100 -0300" channel="HBO Plus">
     <title lang="es">Duna</title>
   </programme>
-  <programme start="20220602203100 -0300" stop="20220602220100 -0300" channel="HBO plus">
+  <programme start="20220602203100 -0300" stop="20220602220100 -0300" channel="HBO Plus">
     <title lang="es">La sociedad de la justicia de América: Segunda guerra mundial</title>
   </programme>
-  <programme start="20220602220100 -0300" stop="20220603004100 -0300" channel="HBO plus">
+  <programme start="20220602220100 -0300" stop="20220603004100 -0300" channel="HBO Plus">
     <title lang="es">Mujer Maravilla 1984</title>
   </programme>
-  <programme start="20220603220100 -0300" stop="20220604004100 -0300" channel="HBO plus">
+  <programme start="20220603220100 -0300" stop="20220604004100 -0300" channel="HBO Plus">
     <title lang="es">Mujer Maravilla 1984</title>
   </programme>
-  <programme start="20220604004100 -0300" stop="20220604023100 -0300" channel="HBO plus">
+  <programme start="20220604004100 -0300" stop="20220604023100 -0300" channel="HBO Plus">
     <title lang="es">Monster Hunter: la cacería comienza</title>
   </programme>
-  <programme start="20220604023100 -0300" stop="20220604030600 -0300" channel="HBO plus">
+  <programme start="20220604023100 -0300" stop="20220604030600 -0300" channel="HBO Plus">
     <title lang="es">El bebé</title>
   </programme>
-  <programme start="20220604030600 -0300" stop="20220604043100 -0300" channel="HBO plus">
+  <programme start="20220604030600 -0300" stop="20220604043100 -0300" channel="HBO Plus">
     <title lang="es">La reunión del Diablo</title>
   </programme>
-  <programme start="20220604043100 -0300" stop="20220604060100 -0300" channel="HBO plus">
+  <programme start="20220604043100 -0300" stop="20220604060100 -0300" channel="HBO Plus">
     <title lang="es">En la oscuridad de la noche</title>
   </programme>
-  <programme start="20220604060100 -0300" stop="20220604074600 -0300" channel="HBO plus">
+  <programme start="20220604060100 -0300" stop="20220604074600 -0300" channel="HBO Plus">
     <title lang="es">Mamá</title>
   </programme>
-  <programme start="20220604074600 -0300" stop="20220604095100 -0300" channel="HBO plus">
+  <programme start="20220604074600 -0300" stop="20220604095100 -0300" channel="HBO Plus">
     <title lang="es">Constantine</title>
   </programme>
-  <programme start="20220604095100 -0300" stop="20220604122100 -0300" channel="HBO plus">
+  <programme start="20220604095100 -0300" stop="20220604122100 -0300" channel="HBO Plus">
     <title lang="es">El hombre de acero</title>
   </programme>
-  <programme start="20220604122100 -0300" stop="20220604125600 -0300" channel="HBO plus">
+  <programme start="20220604122100 -0300" stop="20220604125600 -0300" channel="HBO Plus">
     <title lang="es">El bebé</title>
   </programme>
-  <programme start="20220604125600 -0300" stop="20220604145100 -0300" channel="HBO plus">
+  <programme start="20220604125600 -0300" stop="20220604145100 -0300" channel="HBO Plus">
     <title lang="es">El conjuro 3</title>
   </programme>
-  <programme start="20220604145100 -0300" stop="20220604163100 -0300" channel="HBO plus">
+  <programme start="20220604145100 -0300" stop="20220604163100 -0300" channel="HBO Plus">
     <title lang="es">Ven a jugar</title>
   </programme>
-  <programme start="20220604163100 -0300" stop="20220604182600 -0300" channel="HBO plus">
+  <programme start="20220604163100 -0300" stop="20220604182600 -0300" channel="HBO Plus">
     <title lang="es">In the Earth</title>
   </programme>
-  <programme start="20220604182600 -0300" stop="20220604200100 -0300" channel="HBO plus">
+  <programme start="20220604182600 -0300" stop="20220604200100 -0300" channel="HBO Plus">
     <title lang="es">The Boy: la maldición de Brahms</title>
   </programme>
-  <programme start="20220604200100 -0300" stop="20220604220100 -0300" channel="HBO plus">
+  <programme start="20220604200100 -0300" stop="20220604220100 -0300" channel="HBO Plus">
     <title lang="es">El conjuro 3</title>
   </programme>
-  <programme start="20220604220100 -0300" stop="20220604234600 -0300" channel="HBO plus">
+  <programme start="20220604220100 -0300" stop="20220604234600 -0300" channel="HBO Plus">
     <title lang="es">No respires 2</title>
   </programme>
-  <programme start="20220604234600 -0300" stop="20220605013100 -0300" channel="HBO plus">
+  <programme start="20220604234600 -0300" stop="20220605013100 -0300" channel="HBO Plus">
     <title lang="es">The House Next Door: Meet the Blacks 2</title>
   </programme>
-  <programme start="20220605234600 -0300" stop="20220606013100 -0300" channel="HBO plus">
+  <programme start="20220605234600 -0300" stop="20220606013100 -0300" channel="HBO Plus">
     <title lang="es">The House Next Door: Meet the Blacks 2</title>
   </programme>
-  <programme start="20220606013100 -0300" stop="20220606034100 -0300" channel="HBO plus">
+  <programme start="20220606013100 -0300" stop="20220606034100 -0300" channel="HBO Plus">
     <title lang="es">Tiburón</title>
   </programme>
-  <programme start="20220606034100 -0300" stop="20220606061100 -0300" channel="HBO plus">
+  <programme start="20220606034100 -0300" stop="20220606061100 -0300" channel="HBO Plus">
     <title lang="es">Asesinos</title>
   </programme>
-  <programme start="20220606061100 -0300" stop="20220606080000 -0300" channel="HBO plus">
+  <programme start="20220606061100 -0300" stop="20220606080000 -0300" channel="HBO Plus">
     <title lang="es">Hanna</title>
   </programme>
-  <programme start="20220606080000 -0300" stop="20220606094500 -0300" channel="HBO plus">
+  <programme start="20220606080000 -0300" stop="20220606094500 -0300" channel="HBO Plus">
     <title lang="es">El pequeño detective</title>
   </programme>
-  <programme start="20220606094500 -0300" stop="20220606111500 -0300" channel="HBO plus">
+  <programme start="20220606094500 -0300" stop="20220606111500 -0300" channel="HBO Plus">
     <title lang="es">Cuidado con el guarda</title>
   </programme>
-  <programme start="20220606111500 -0300" stop="20220606131500 -0300" channel="HBO plus">
+  <programme start="20220606111500 -0300" stop="20220606131500 -0300" channel="HBO Plus">
     <title lang="es">Virgen a los 40</title>
   </programme>
-  <programme start="20220606131500 -0300" stop="20220606145500 -0300" channel="HBO plus">
+  <programme start="20220606131500 -0300" stop="20220606145500 -0300" channel="HBO Plus">
     <title lang="es">Nunca digas su nombre</title>
   </programme>
-  <programme start="20220606145500 -0300" stop="20220606164500 -0300" channel="HBO plus">
+  <programme start="20220606145500 -0300" stop="20220606164500 -0300" channel="HBO Plus">
     <title lang="es">La purga por siempre</title>
   </programme>
-  <programme start="20220606164500 -0300" stop="20220606183500 -0300" channel="HBO plus">
+  <programme start="20220606164500 -0300" stop="20220606183500 -0300" channel="HBO Plus">
     <title lang="es">Inframundo: La evolución</title>
   </programme>
-  <programme start="20220606183500 -0300" stop="20220606202500 -0300" channel="HBO plus">
+  <programme start="20220606183500 -0300" stop="20220606202500 -0300" channel="HBO Plus">
     <title lang="es">Academia de vampiros</title>
   </programme>
-  <programme start="20220606202500 -0300" stop="20220606220000 -0300" channel="HBO plus">
+  <programme start="20220606202500 -0300" stop="20220606220000 -0300" channel="HBO Plus">
     <title lang="es">Batman: el largo Halloween</title>
   </programme>
-  <programme start="20220606220000 -0300" stop="20220606233500 -0300" channel="HBO plus">
+  <programme start="20220606220000 -0300" stop="20220606233500 -0300" channel="HBO Plus">
     <title lang="es">Batman: el largo Halloween</title>
   </programme>
-  <programme start="20220606233500 -0300" stop="20220607012500 -0300" channel="HBO plus">
+  <programme start="20220606233500 -0300" stop="20220607012500 -0300" channel="HBO Plus">
     <title lang="es">La purga por siempre</title>
   </programme>
-  <programme start="20220607233500 -0300" stop="20220608012500 -0300" channel="HBO plus">
+  <programme start="20220607233500 -0300" stop="20220608012500 -0300" channel="HBO Plus">
     <title lang="es">La purga por siempre</title>
   </programme>
   <programme start="20220601234500 -0300" stop="20220602014000 -0300" channel="HBO 2">
