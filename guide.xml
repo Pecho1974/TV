@@ -50,9 +50,9 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Euronews.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
-  <channel id="Las Estrellas">
-    <display-name lang="es">Las Estrellas</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Las Estrellas.png" />
+  <channel id="El Canal de las Estrellas">
+    <display-name lang="es">El Canal de las Estrellas</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Canal de las Estrellas.png" />
     <url>http://www.buscadorcablevision.com.ar</url>
   </channel>
   <channel id="UCL">
@@ -234,9 +234,9 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Signature.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="HBO XTREME">
-    <display-name lang="es">HBO XTREME</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO XTREME.png" />
+  <channel id="HBO Xtreme">
+    <display-name lang="es">HBO Xtreme</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Xtreme.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="ISAT">
@@ -275,7 +275,7 @@
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="TBS">
-    <display-name lang="es">tbs</display-name>
+    <display-name lang="es">TBS</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TBS.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
@@ -485,7 +485,7 @@
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="Boomerang">
-    <display-name lang="es">Cartoonito</display-name>
+    <display-name lang="es">BOOMERANG</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Boomerang.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
@@ -709,10 +709,6 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Orbe 21.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <programme start="20220601080500 -0300" stop="20220601095500 -0300" channel="A3 Cine HD">
-    <title lang="es">Al otro lado del túnel</title>
-    <desc lang="es">Dos guionistas en plena crisis creativa se refugian en un monasterio con objeto de recuperarse y escribir una historia.(n)</desc>
-  </programme>
   <programme start="20220601095500 -0300" stop="20220601112500 -0300" channel="A3 Cine HD">
     <title lang="es">Cuernos de mujer</title>
     <desc lang="es">Ana y Miguel viven una crisis matrimonial y la posibilidad de divorcio aparece cuando ella descubre que él tiene una amante. Ana no tardará en darse cuenta que su desventura amorosa es recompensada con su suerte en otros aspectos.(n)</desc>
@@ -1095,10 +1091,6 @@
   <programme start="20220607214000 -0300" stop="20220607231500 -0300" channel="A3 Cine HD">
     <title lang="es">Colorín colorado</title>
     <desc lang="es">Manoli y Fernando son una pareja de ideales comunistas que desea vivir su amor libremente huyendo de cualquier convencionalismo burgués. Al principio el dúo rechaza la ayuda de los padres de ella, pero pronto empezarán a ceder.(n)</desc>
-  </programme>
-  <programme start="20220601080000 -0300" stop="20220601100000 -0300" channel="VTV HD">
-    <title lang="es">Buscadores</title>
-    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
   </programme>
   <programme start="20220601100000 -0300" stop="20220601120000 -0300" channel="VTV HD">
     <title lang="es">Día a día</title>
@@ -1546,10 +1538,6 @@
   <programme start="20220607200000 -0300" stop="20220607233000 -0300" channel="VTV HD">
     <title lang="es">VTV</title>
   </programme>
-  <programme start="20220601073000 -0300" stop="20220601093000 -0300" channel="VTVPlus">
-    <title lang="es">River Plate vs. Peñarol, Fecha 14. Campeonato uruguayo</title>
-    <desc lang="es">El Torneo Apertura 2022 constituye el primer certamen del 119º Campeonato de Primera División del fútbol uruguayo organizado por la AUF.(n)</desc>
-  </programme>
   <programme start="20220601093000 -0300" stop="20220601103000 -0300" channel="VTVPlus">
     <title lang="es">Pasión noticias</title>
     <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
@@ -1839,13 +1827,6 @@
   </programme>
   <programme start="20220607211500 -0300" stop="20220607233000 -0300" channel="VTVPlus">
     <title lang="es">Liga uruguaya de básquet</title>
-  </programme>
-  <programme start="20220601080000 -0300" stop="20220601090000 -0300" channel="Love Nature HD">
-    <title lang="es">Dentro de la selva: Colombia</title>
-  </programme>
-  <programme start="20220601090000 -0300" stop="20220601095500 -0300" channel="Love Nature HD">
-    <title lang="es">Garras y mandíbulas</title>
-    <desc lang="es">Todo depredador tiene una situación difícil. Deben matar para sobrevivir.(n)</desc>
   </programme>
   <programme start="20220601095500 -0300" stop="20220601104500 -0300" channel="Love Nature HD">
     <title lang="es">Garras y mandíbulas</title>
@@ -3021,17 +3002,6 @@
   <programme start="20220607210000 -0300" stop="20220607230000 -0300" channel="Canal 10 HD">
     <title lang="es">Masterchef Celebrity</title>
     <desc lang="es">Los celebridades más queridas por los uruguayos compiten en la cocina más famosa del país.(n)</desc>
-  </programme>
-  <programme start="20220601083000 -0300" stop="20220601090000 -0300" channel="RT en español">
-    <title lang="es">Hacia el bosque en llamas</title>
-  </programme>
-  <programme start="20220601090000 -0300" stop="20220601093000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220601093000 -0300" stop="20220601100000 -0300" channel="RT en español">
-    <title lang="es">Volinia: historia de un genocidio</title>
-    <desc lang="es">En 2013, Polonia determinó la Masacre de Volhynia como genocidio. En ese momento, la iniciativa fue calificada de antiucraniana por las autoridades ucranianas. ¿Se está reescribiendo la historia.(n)</desc>
   </programme>
   <programme start="20220601100000 -0300" stop="20220601103000 -0300" channel="RT en español">
     <title lang="es">Volinia: historia de un genocidio</title>
@@ -8163,166 +8133,166 @@
   <programme start="20220607230000 -0300" stop="20220608005500 -0300" channel="HBO Signature">
     <title lang="es">Mala educación</title>
   </programme>
-  <programme start="20220601233600 -0300" stop="20220602003900 -0300" channel="HBO XTREME">
+  <programme start="20220601233600 -0300" stop="20220602003900 -0300" channel="HBO Xtreme">
     <title lang="es">La unidad</title>
   </programme>
-  <programme start="20220602003900 -0300" stop="20220602023000 -0300" channel="HBO XTREME">
+  <programme start="20220602003900 -0300" stop="20220602023000 -0300" channel="HBO Xtreme">
     <title lang="es">Contrabando</title>
   </programme>
-  <programme start="20220602023000 -0300" stop="20220602035200 -0300" channel="HBO XTREME">
+  <programme start="20220602023000 -0300" stop="20220602035200 -0300" channel="HBO Xtreme">
     <title lang="es">La reunión del Diablo</title>
   </programme>
-  <programme start="20220602035200 -0300" stop="20220602060200 -0300" channel="HBO XTREME">
+  <programme start="20220602035200 -0300" stop="20220602060200 -0300" channel="HBO Xtreme">
     <title lang="es">Epidemia</title>
   </programme>
-  <programme start="20220602060200 -0300" stop="20220602081300 -0300" channel="HBO XTREME">
+  <programme start="20220602060200 -0300" stop="20220602081300 -0300" channel="HBO Xtreme">
     <title lang="es">3000 millas al infierno</title>
   </programme>
-  <programme start="20220602081300 -0300" stop="20220602101400 -0300" channel="HBO XTREME">
+  <programme start="20220602081300 -0300" stop="20220602101400 -0300" channel="HBO Xtreme">
     <title lang="es">Hollywood: departamento de homicidios</title>
   </programme>
-  <programme start="20220602101400 -0300" stop="20220602113800 -0300" channel="HBO XTREME">
+  <programme start="20220602101400 -0300" stop="20220602113800 -0300" channel="HBO Xtreme">
     <title lang="es">30 minutos o menos</title>
   </programme>
-  <programme start="20220602113800 -0300" stop="20220602121000 -0300" channel="HBO XTREME">
+  <programme start="20220602113800 -0300" stop="20220602121000 -0300" channel="HBO Xtreme">
     <title lang="es">Barry</title>
   </programme>
-  <programme start="20220602121000 -0300" stop="20220602135000 -0300" channel="HBO XTREME">
+  <programme start="20220602121000 -0300" stop="20220602135000 -0300" channel="HBO Xtreme">
     <title lang="es">Los perdedores</title>
   </programme>
-  <programme start="20220602135000 -0300" stop="20220602152500 -0300" channel="HBO XTREME">
+  <programme start="20220602135000 -0300" stop="20220602152500 -0300" channel="HBO Xtreme">
     <title lang="es">Nadie</title>
   </programme>
-  <programme start="20220602152500 -0300" stop="20220602173700 -0300" channel="HBO XTREME">
+  <programme start="20220602152500 -0300" stop="20220602173700 -0300" channel="HBO Xtreme">
     <title lang="es">Rápidos y furiosos 6</title>
   </programme>
-  <programme start="20220602173700 -0300" stop="20220602195700 -0300" channel="HBO XTREME">
+  <programme start="20220602173700 -0300" stop="20220602195700 -0300" channel="HBO Xtreme">
     <title lang="es">Rápidos y furiosos 7</title>
   </programme>
-  <programme start="20220602195700 -0300" stop="20220602213000 -0300" channel="HBO XTREME">
+  <programme start="20220602195700 -0300" stop="20220602213000 -0300" channel="HBO Xtreme">
     <title lang="es">Nadie</title>
   </programme>
-  <programme start="20220602213000 -0300" stop="20220602220000 -0300" channel="HBO XTREME">
+  <programme start="20220602213000 -0300" stop="20220602220000 -0300" channel="HBO Xtreme">
     <title lang="es">Barry</title>
   </programme>
-  <programme start="20220602220000 -0300" stop="20220602230000 -0300" channel="HBO XTREME">
+  <programme start="20220602220000 -0300" stop="20220602230000 -0300" channel="HBO Xtreme">
     <title lang="es">La unidad</title>
   </programme>
-  <programme start="20220602230000 -0300" stop="20220603000200 -0300" channel="HBO XTREME">
+  <programme start="20220602230000 -0300" stop="20220603000200 -0300" channel="HBO Xtreme">
     <title lang="es">La ciudad es nuestra</title>
   </programme>
-  <programme start="20220603230000 -0300" stop="20220604000200 -0300" channel="HBO XTREME">
+  <programme start="20220603230000 -0300" stop="20220604000200 -0300" channel="HBO Xtreme">
     <title lang="es">La ciudad es nuestra</title>
   </programme>
-  <programme start="20220604000200 -0300" stop="20220604013200 -0300" channel="HBO XTREME">
+  <programme start="20220604000200 -0300" stop="20220604013200 -0300" channel="HBO Xtreme">
     <title lang="es">Camino a Paloma</title>
   </programme>
-  <programme start="20220604013200 -0300" stop="20220604032200 -0300" channel="HBO XTREME">
+  <programme start="20220604013200 -0300" stop="20220604032200 -0300" channel="HBO Xtreme">
     <title lang="es">Rápidos y furiosos</title>
   </programme>
-  <programme start="20220604032200 -0300" stop="20220604050000 -0300" channel="HBO XTREME">
+  <programme start="20220604032200 -0300" stop="20220604050000 -0300" channel="HBO Xtreme">
     <title lang="es">Los perdedores</title>
   </programme>
-  <programme start="20220604050000 -0300" stop="20220604060200 -0300" channel="HBO XTREME">
+  <programme start="20220604050000 -0300" stop="20220604060200 -0300" channel="HBO Xtreme">
     <title lang="es">La unidad</title>
   </programme>
-  <programme start="20220604060200 -0300" stop="20220604072700 -0300" channel="HBO XTREME">
+  <programme start="20220604060200 -0300" stop="20220604072700 -0300" channel="HBO Xtreme">
     <title lang="es">Welcome to Sudden Death</title>
   </programme>
-  <programme start="20220604072700 -0300" stop="20220604090700 -0300" channel="HBO XTREME">
+  <programme start="20220604072700 -0300" stop="20220604090700 -0300" channel="HBO Xtreme">
     <title lang="es">Nueva York sin salida</title>
   </programme>
-  <programme start="20220604090700 -0300" stop="20220604101100 -0300" channel="HBO XTREME">
+  <programme start="20220604090700 -0300" stop="20220604101100 -0300" channel="HBO Xtreme">
     <title lang="es">La ciudad es nuestra</title>
   </programme>
-  <programme start="20220604101100 -0300" stop="20220604111200 -0300" channel="HBO XTREME">
+  <programme start="20220604101100 -0300" stop="20220604111200 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604111200 -0300" stop="20220604121300 -0300" channel="HBO XTREME">
+  <programme start="20220604111200 -0300" stop="20220604121300 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604121300 -0300" stop="20220604131400 -0300" channel="HBO XTREME">
+  <programme start="20220604121300 -0300" stop="20220604131400 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604131400 -0300" stop="20220604141500 -0300" channel="HBO XTREME">
+  <programme start="20220604131400 -0300" stop="20220604141500 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604141500 -0300" stop="20220604151600 -0300" channel="HBO XTREME">
+  <programme start="20220604141500 -0300" stop="20220604151600 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604151600 -0300" stop="20220604161700 -0300" channel="HBO XTREME">
+  <programme start="20220604151600 -0300" stop="20220604161700 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604161700 -0300" stop="20220604171800 -0300" channel="HBO XTREME">
+  <programme start="20220604161700 -0300" stop="20220604171800 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604171800 -0300" stop="20220604181900 -0300" channel="HBO XTREME">
+  <programme start="20220604171800 -0300" stop="20220604181900 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604181900 -0300" stop="20220604192000 -0300" channel="HBO XTREME">
+  <programme start="20220604181900 -0300" stop="20220604192000 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604192000 -0300" stop="20220604202100 -0300" channel="HBO XTREME">
+  <programme start="20220604192000 -0300" stop="20220604202100 -0300" channel="HBO Xtreme">
     <title lang="es">Lakers: tiempo de ganar</title>
   </programme>
-  <programme start="20220604202100 -0300" stop="20220604220200 -0300" channel="HBO XTREME">
+  <programme start="20220604202100 -0300" stop="20220604220200 -0300" channel="HBO Xtreme">
     <title lang="es">Nueva York sin salida</title>
   </programme>
-  <programme start="20220604220200 -0300" stop="20220604233700 -0300" channel="HBO XTREME">
+  <programme start="20220604220200 -0300" stop="20220604233700 -0300" channel="HBO Xtreme">
     <title lang="es">Wild Card</title>
   </programme>
-  <programme start="20220604233700 -0300" stop="20220605011000 -0300" channel="HBO XTREME">
+  <programme start="20220604233700 -0300" stop="20220605011000 -0300" channel="HBO Xtreme">
     <title lang="es">Sólo Dios perdona</title>
   </programme>
-  <programme start="20220605233700 -0300" stop="20220606011000 -0300" channel="HBO XTREME">
+  <programme start="20220605233700 -0300" stop="20220606011000 -0300" channel="HBO Xtreme">
     <title lang="es">Sólo Dios perdona</title>
   </programme>
-  <programme start="20220606011000 -0300" stop="20220606024800 -0300" channel="HBO XTREME">
+  <programme start="20220606011000 -0300" stop="20220606024800 -0300" channel="HBO Xtreme">
     <title lang="es">Mátalos suavemente</title>
   </programme>
-  <programme start="20220606024800 -0300" stop="20220606031800 -0300" channel="HBO XTREME">
+  <programme start="20220606024800 -0300" stop="20220606031800 -0300" channel="HBO Xtreme">
     <title lang="es">Barry</title>
   </programme>
-  <programme start="20220606031800 -0300" stop="20220606041900 -0300" channel="HBO XTREME">
+  <programme start="20220606031800 -0300" stop="20220606041900 -0300" channel="HBO Xtreme">
     <title lang="es">La ciudad es nuestra</title>
   </programme>
-  <programme start="20220606041900 -0300" stop="20220606060000 -0300" channel="HBO XTREME">
+  <programme start="20220606041900 -0300" stop="20220606060000 -0300" channel="HBO Xtreme">
     <title lang="es">Máximo riesgo</title>
   </programme>
-  <programme start="20220606060000 -0300" stop="20220606080500 -0300" channel="HBO XTREME">
+  <programme start="20220606060000 -0300" stop="20220606080500 -0300" channel="HBO Xtreme">
     <title lang="es">La batalla de Riddick</title>
   </programme>
-  <programme start="20220606080500 -0300" stop="20220606093500 -0300" channel="HBO XTREME">
+  <programme start="20220606080500 -0300" stop="20220606093500 -0300" channel="HBO Xtreme">
     <title lang="es">El único</title>
   </programme>
-  <programme start="20220606093500 -0300" stop="20220606113000 -0300" channel="HBO XTREME">
+  <programme start="20220606093500 -0300" stop="20220606113000 -0300" channel="HBO Xtreme">
     <title lang="es">Tan cerca</title>
   </programme>
-  <programme start="20220606113000 -0300" stop="20220606131700 -0300" channel="HBO XTREME">
+  <programme start="20220606113000 -0300" stop="20220606131700 -0300" channel="HBO Xtreme">
     <title lang="es">Carrera mortal</title>
   </programme>
-  <programme start="20220606131700 -0300" stop="20220606154200 -0300" channel="HBO XTREME">
+  <programme start="20220606131700 -0300" stop="20220606154200 -0300" channel="HBO Xtreme">
     <title lang="es">Rápidos y furiosos 9</title>
   </programme>
-  <programme start="20220606154200 -0300" stop="20220606173200 -0300" channel="HBO XTREME">
+  <programme start="20220606154200 -0300" stop="20220606173200 -0300" channel="HBO Xtreme">
     <title lang="es">Rescate en Entebbe</title>
   </programme>
-  <programme start="20220606173200 -0300" stop="20220606183300 -0300" channel="HBO XTREME">
+  <programme start="20220606173200 -0300" stop="20220606183300 -0300" channel="HBO Xtreme">
     <title lang="es">La unidad</title>
   </programme>
-  <programme start="20220606183300 -0300" stop="20220606193500 -0300" channel="HBO XTREME">
+  <programme start="20220606183300 -0300" stop="20220606193500 -0300" channel="HBO Xtreme">
     <title lang="es">La ciudad es nuestra</title>
   </programme>
-  <programme start="20220606193500 -0300" stop="20220606220000 -0300" channel="HBO XTREME">
+  <programme start="20220606193500 -0300" stop="20220606220000 -0300" channel="HBO Xtreme">
     <title lang="es">Rápidos y furiosos 9</title>
   </programme>
-  <programme start="20220606220000 -0300" stop="20220606234800 -0300" channel="HBO XTREME">
+  <programme start="20220606220000 -0300" stop="20220606234800 -0300" channel="HBO Xtreme">
     <title lang="es">Focus: maestros de la estafa</title>
   </programme>
-  <programme start="20220606234800 -0300" stop="20220607011600 -0300" channel="HBO XTREME">
+  <programme start="20220606234800 -0300" stop="20220607011600 -0300" channel="HBO Xtreme">
     <title lang="es">La casa bajo el agua</title>
   </programme>
-  <programme start="20220607234800 -0300" stop="20220608011600 -0300" channel="HBO XTREME">
+  <programme start="20220607234800 -0300" stop="20220608011600 -0300" channel="HBO Xtreme">
     <title lang="es">La casa bajo el agua</title>
   </programme>
   <programme start="20220601235000 -0300" stop="20220602014700 -0300" channel="ISAT">
