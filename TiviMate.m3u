@@ -101,7 +101,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 https://edge2-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/mma tv.png" group-title="Deportes",MMA TV
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/nba tv.png" group-title="Deportes",NBA TV
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/nba.png" group-title="Deportes",NBA
 https://edge3-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 #EXTINF:-1 tvg-id="PX SPORTS" tvg-name="PX SPORTS" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/px sports.png" group-title="Deportes",PX SPORTS
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/aca7bfc7-00ad-4ac9-8fc0-eb7c8f3ed0fc/0.m3u8
@@ -117,7 +117,7 @@ https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/animal planet.png" group-title="Documentales",Animal Planet
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/discovery channel.png" group-title="Documentales",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="DISCOVERY HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/discovery hd.png" group-title="Documentales",DISCOVERY HD
 https://edge5-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/discovery science.png" group-title="Documentales",Discovery Science
 https://edge2-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
@@ -231,7 +231,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 #EXTINF:-1 tvg-id="Fox News" tvg-name="FOX news" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/fox news.png" group-title="Internacional",FOX news
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="El Canal de las Estrellas" tvg-name="El Canal de las Estrellas" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/el canal de las estrellas.png" group-title="Internacional",El Canal de las Estrellas
+#EXTINF:-1 tvg-id="Las Estrellas HD" tvg-name="Las Estrellas HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/las estrellas hd.png" group-title="Internacional",Las Estrellas HD
 https://edge6-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/munchen tv.png" group-title="Internacional",Munchen TV
 https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
@@ -1571,7 +1571,7 @@ https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Im
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Orbe 21" tvg-name="Orbe 21" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/orbe 21.png" group-title="Variedades",Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/pasiones.png" group-title="Variedades",PASIONES
+#EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/pasiones.png" group-title="Variedades",Pasiones
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/telemax.png" group-title="Variedades",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
