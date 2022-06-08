@@ -477,10 +477,6 @@
     <display-name lang="es">TOONCAST</display-name>
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="AMERICA">
-    <display-name lang="es">AMERICA</display-name>
-    <url>http://www.telered.com.ar</url>
-  </channel>
   <channel id="El Nueve">
     <display-name lang="es">El Nueve</display-name>
     <url>http://www.telered.com.ar</url>
@@ -625,10 +621,11 @@
     <display-name lang="es">Orbe 21</display-name>
     <url>http://www.telered.com.ar</url>
   </channel>
-  <programme start="20220608090000 -0300" stop="20220608100000 -0300" channel="AE">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
+  <channel id="AMERICA TV">
+    <display-name lang="es">AMERICA TV</display-name>
+    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/.svg" />
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
   <programme start="20220608100000 -0300" stop="20220608103000 -0300" channel="AE">
     <title lang="es">Cam Alert</title>
     <desc lang="es">Francisco Zea relata las capturas exitosas más impresionantes de México, hoy una persecución de película en la que una camioneta intenta escapar de la ley.(n)</desc>
@@ -1257,10 +1254,6 @@
     <title lang="es">Narcos: México</title>
     <desc lang="es">Mientras celebra su cuadragésimo cumpleaños, Félix se preocupa por la lealtad de sus asociados y confronta a Pacho. Además, Walt y su equipo planean secuestros en represalia.(n)</desc>
   </programme>
-  <programme start="20220608081500 -0300" stop="20220608094500 -0300" channel="A3 Cine HD">
-    <title lang="es">Pon un hombre en tu vida</title>
-    <desc lang="es">En un accidente de piscina, Juan y Belinda de alguna manera cambian de cuerpo. Juan debe entrenar a un equipo de fútbol para un partido importante y Belinda se va a casar. Se comprometen a cooperar y continuar en sus nuevos cuerpos.(n)</desc>
-  </programme>
   <programme start="20220608094500 -0300" stop="20220608113500 -0300" channel="A3 Cine HD">
     <title lang="es">Carreteras secundarias</title>
     <desc lang="es">Mitad de los años 70. La vida de Felipe y su padre ha sido viajar en auto y recorrer la costa española. Inesperadamente deben cambiar la ruta, así como también la dirección de sus vidas.(n)</desc>
@@ -1587,10 +1580,6 @@
   <programme start="20220613214000 -0300" stop="20220613231500 -0300" channel="A3 Cine HD">
     <title lang="es">El juego de Luna</title>
     <desc lang="es">Luna se gana la vida de la única manera que sabe: jugando al póker. Su talento natural la guía hasta lo más alto de una profesión dominada por los hombres en la que se siente, sin embargo, elegida por las cartas.(n)</desc>
-  </programme>
-  <programme start="20220608080000 -0300" stop="20220608093300 -0300" channel="A3 Series HD">
-    <title lang="es">Sin identidad</title>
-    <desc lang="es">Tras la muerte de Carmen, los acontecimientos se precipitan para todos ya que la inauguración del congreso está al caer. Mientras tanto, María quiere manejar a Juan con su actitud seductora.(n)</desc>
   </programme>
   <programme start="20220608093300 -0300" stop="20220608103000 -0300" channel="A3 Series HD">
     <title lang="es">El secreto de Puente Viejo</title>
@@ -1999,14 +1988,6 @@
   <programme start="20220613220000 -0300" stop="20220613233000 -0300" channel="A3 Series HD">
     <title lang="es">Vis a vis</title>
     <desc lang="es">Narra las vivencias en prisión de Macarena. Además del shock que le supone acabar de golpe con su placentera existencia, pronto descubrirá que demasiada gente en la cárcel está tras la pista de nueve millones de euros robados de un furgón.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="AMC">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="AMC">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608103000 -0300" channel="AMC">
     <title lang="es">Programa pagado</title>
@@ -2439,14 +2420,6 @@
   <programme start="20220613220000 -0300" stop="20220613225000 -0300" channel="AMC">
     <title lang="es">Anna</title>
     <desc lang="es">El mundo como lo conocemos ya no existe. Un virus ha devastado el planeta, acabando con los adultos. Los niños, que son inmunes hasta la pubertad, viven en manadas salvajes, peleándose por las pocas sobras comestibles que quedaron.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="AXN">
-    <title lang="es">TeveCompras</title>
-    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="AXN">
-    <title lang="es">TeveCompras</title>
-    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608105500 -0300" channel="AXN">
     <title lang="es">NCIS</title>
@@ -3063,14 +3036,6 @@
   <programme start="20220613220000 -0300" stop="20220613230000 -0300" channel="AXN">
     <title lang="es">Candice Renoir</title>
     <desc lang="es">El tiempo juega en contra del equipo de Candice para encontrar con vida a una joven boxeadora que ha desaparecido.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608103000 -0300" channel="Cinecanal">
     <title lang="es">Infomercial</title>
@@ -3746,14 +3711,6 @@
     <title lang="es">La cosa más dulce</title>
     <desc lang="es">Christina ha evitado involucrarse en una relación seria hasta que conoce al hombre indicado. Ahora él ha abandonado la ciudad y ella decide buscarlo.(n)</desc>
   </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="Investigation Discovery">
-    <title lang="es">Televentas</title>
-    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="Investigation Discovery">
-    <title lang="es">Televentas</title>
-    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
   <programme start="20220608100000 -0300" stop="20220608110000 -0300" channel="Investigation Discovery">
     <title lang="es">La casa del mal</title>
     <desc lang="es">Vernon Jensen tiene tanto miedo de su esposa Vicki y de su temperamento violento que decide divorciarse de ella. No es hasta que finalmente se va que descubre a dónde llegará ella para vengarse.(n)</desc>
@@ -4349,18 +4306,6 @@
   <programme start="20220613220000 -0300" stop="20220613230000 -0300" channel="Investigation Discovery">
     <title lang="es">Cintas del crimen</title>
     <desc lang="es">Investigaciones de asesinatos se desarrollan a través de imágenes reales en esta nueva producción, que ofrece una perspectiva cercana sobre las investigaciones de asesinato.(n)</desc>
-  </programme>
-  <programme start="20220608083000 -0300" stop="20220608090000 -0300" channel="FX">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="FX">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="FX">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608101600 -0300" channel="FX">
     <title lang="es">Programación especial</title>
@@ -5399,10 +5344,6 @@
     <title lang="es">No respires 2</title>
     <desc lang="es">Norman se ha estado escondiendo durante varios años en una cabaña aislada, donde vive con una jovencita que representa a su familia.(n)</desc>
   </programme>
-  <programme start="20220608080000 -0300" stop="20220608092300 -0300" channel="HBO Family HD">
-    <title lang="es">Albert</title>
-    <desc lang="es">Albert vive en Kalleby, un pequeño pueblo danés. Él es un chico muy torpe y travieso, por lo que en una de sus últimas travesuras consigue enfadar a todo el pueblo. Ahora tendrá que reparar el daño causado con la ayuda de su amigo Egon.(n)</desc>
-  </programme>
   <programme start="20220608092300 -0300" stop="20220608105500 -0300" channel="HBO Family HD">
     <title lang="es">Shark Tale</title>
     <desc lang="es">Mediante un engaño, un pececito se convierte en héroe y defensor del arrecife. Pero su mentira lo enfrenta a Don Lino, el tiburón y padrino del atolón.(n)</desc>
@@ -5742,10 +5683,6 @@
   <programme start="20220613220000 -0300" stop="20220613233300 -0300" channel="HBO Family HD">
     <title lang="es">Los pingüinos de Madagascar</title>
     <desc lang="es">La organización contra el crimen Viento Norte acaba de sumar a tres agentes de elite: Capitán Kowalski, Rico y Soldado. Los simpáticos pingüinos vuelven a las andanzas para proteger el mar y la selva de los peligros que nunca escasean.(n)</desc>
-  </programme>
-  <programme start="20220608074300 -0300" stop="20220608090900 -0300" channel="I-Sat">
-    <title lang="es">50 Chuseok</title>
-    <desc lang="es">Por el medio siglo de la comunidad coreana en Argentina lleva al actor Chang Sung Kim de regreso a su tierra natal. Pero pronto el viaje deviene en un inesperado y transformador reencuentro con su familia.(n)</desc>
   </programme>
   <programme start="20220608090900 -0300" stop="20220608102700 -0300" channel="I-Sat">
     <title lang="es">Los índalos</title>
@@ -6526,18 +6463,6 @@
     <title lang="es">Paramount Channel</title>
     <desc lang="es">Transmisión de diversos contenidos audiovisuales realizados, los cuales incluye producciones cinematográficas, documentales y series de géneros variados, las cuales van desde clásicos hasta la ciencia ficción.(n)</desc>
   </programme>
-  <programme start="20220608083000 -0300" stop="20220608090000 -0300" channel="Sony">
-    <title lang="es">TeveCompras</title>
-    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="Sony">
-    <title lang="es">TeveCompras</title>
-    <desc lang="es">Detalle del funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="Sony">
-    <title lang="es">TeveCompras</title>
-    <desc lang="es">Detalle del funcionamiento de cada uno de los productos que se encuentran a la venta de "Teve Compras.(n)</desc>
-  </programme>
   <programme start="20220608100000 -0300" stop="20220608110000 -0300" channel="Sony">
     <title lang="es">Royal Pains</title>
     <desc lang="es">Divya intenta que Hank y Evan se reconcilien y no se separen de HankMed, pero ¿es demasiado tarde.(n)</desc>
@@ -7054,10 +6979,6 @@
     <title lang="es">Amazing Grace</title>
     <desc lang="es">El día de la adopción de Eadie, Grace y Kirk luchan con el hecho de que pueden perder a su hija y nieta para siempre.(n)</desc>
   </programme>
-  <programme start="20220608073300 -0300" stop="20220608091500 -0300" channel="Space HD">
-    <title lang="es">Persecución mortal</title>
-    <desc lang="es">El inspector jefe Roberts y el sargento detective Brant tendrán que capturar a un asesino en serie que está matando a policías.(n)</desc>
-  </programme>
   <programme start="20220608091500 -0300" stop="20220608110200 -0300" channel="Space HD">
     <title lang="es">American Ninja Warrior</title>
     <desc lang="es">La rueda de clasificación de Baltimore, presenta obstáculos nuevos como el "Dangerous Curves" y el "Hazard Cones.(n)</desc>
@@ -7341,10 +7262,6 @@
   <programme start="20220613194700 -0300" stop="20220613220000 -0300" channel="Space HD">
     <title lang="es">El infiltrado</title>
     <desc lang="es">Los movimientos neo-Nazi aparecidos en los últimos años en Alemania y sus consecuencias, tales como los escuadrones de la muerte y actos de violencia contra inmigrantes.(n)</desc>
-  </programme>
-  <programme start="20220608081000 -0300" stop="20220608095000 -0300" channel="Studio Universal">
-    <title lang="es">Intercambio navideño</title>
-    <desc lang="es">Durante una comida poco antes de Navidad, celebrada cuando se cumple un año del fallecimiento de su madre, unas hermanas gemelas, envidiosas cada una de la vida de la otra, deciden intercambiarse en secreto hasta el día de Navidad.(n)</desc>
   </programme>
   <programme start="20220608095000 -0300" stop="20220608112500 -0300" channel="Studio Universal">
     <title lang="es">Un misterio para Aurora Teagarden: Tres habitaciones y un cadáver</title>
@@ -7685,10 +7602,6 @@
   <programme start="20220613201500 -0300" stop="20220613220000 -0300" channel="Studio Universal">
     <title lang="es">Al diablo con el amor</title>
     <desc lang="es">Genevieve nunca sale más de 5 veces con un mismo hombre para no salir herida, hasta que conoce a Greg. Romperá su regla y se dará una oportunidad?(n)</desc>
-  </programme>
-  <programme start="20220608085000 -0300" stop="20220608094000 -0300" channel="Syfy">
-    <title lang="es">Lost</title>
-    <desc lang="es">Jack, Kate y Sawyer empiezan a descubrir a qué se enfrentan como prisioneros de "Los Otros".(n)</desc>
   </programme>
   <programme start="20220608094000 -0300" stop="20220608103000 -0300" channel="Syfy">
     <title lang="es">Lost</title>
@@ -8350,10 +8263,6 @@
     <title lang="es">12 monos</title>
     <desc lang="es">Los viajeros regresan para enfrentarse cara a cara con los fantasmas de su pasado cuando se encuentran maniobrando alrededor de sus propias líneas temporales.(n)</desc>
   </programme>
-  <programme start="20220608063600 -0300" stop="20220608092800 -0300" channel="TCM">
-    <title lang="es">Quo vadis</title>
-    <desc lang="es">Cuando regresa a Roma, después de tres años en el campo de batalla, el general Marco Vinicio se enamora de Lygia. Pero ella es cristiana y sus creencias le impiden enamorarse de un guerrero.(n)</desc>
-  </programme>
   <programme start="20220608092800 -0300" stop="20220608112700 -0300" channel="TCM">
     <title lang="es">Una venus en visón</title>
     <desc lang="es">Gloria Wandrous es una glamorosa prostituta de Nueva York que se enamora de un millonario casado.(n)</desc>
@@ -8646,10 +8555,6 @@
     <title lang="es">El robo al banco de Inglaterra</title>
     <desc lang="es">En 1901, un grupo de nacionalistas irlandeses buscan dar un golpe al gobierno británico atracando el Banco de Inglaterra.(n)</desc>
   </programme>
-  <programme start="20220608084900 -0300" stop="20220608090100 -0300" channel="TNT">
-    <title lang="es">Hollywood One on One</title>
-    <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.(n)</desc>
-  </programme>
   <programme start="20220608090100 -0300" stop="20220608104200 -0300" channel="TNT">
     <title lang="es">Héroe de centro comercial 2</title>
     <desc lang="es">El oficial de seguridad Paul Blart viajará a Las Vegas con su hija Maya para participar en un importante evento que celebra su gremio.(n)</desc>
@@ -8913,14 +8818,6 @@
   <programme start="20220613200700 -0300" stop="20220613230000 -0300" channel="TNT">
     <title lang="es">Godzilla: rey de los monstruos</title>
     <desc lang="es">Un grupo de míticas criaturas harán todo lo posible por sobrevivir, poniendo en riesgo la existencia del ser humano en el planeta.(n)</desc>
-  </programme>
-  <programme start="20220608083400 -0300" stop="20220608092300 -0300" channel="TNT Series">
-    <title lang="es">Major Crimes</title>
-    <desc lang="es">Luego de que dos policías de Los Angeles murieran en un tiroteo, el equipo debe trabajar con un lider sustituto, Fritz Howard, del Departamento de Operaciones Especiales para cerrar el caso.(n)</desc>
-  </programme>
-  <programme start="20220608092300 -0300" stop="20220608100900 -0300" channel="TNT Series">
-    <title lang="es">Major Crimes</title>
-    <desc lang="es">Nueva información da pie a la reapertura de una vieja investigación, forzando a la Capitán Raydor y a su división a unirse con un potencialmente corrupto agente del FBI.(n)</desc>
   </programme>
   <programme start="20220608100900 -0300" stop="20220608110200 -0300" channel="TNT Series">
     <title lang="es">La ley y el orden, U.V.E</title>
@@ -9509,10 +9406,6 @@
   <programme start="20220613223600 -0300" stop="20220613234200 -0300" channel="TNT Series">
     <title lang="es">La ley y el orden, U.V.E</title>
     <desc lang="es">Una colegiala es violada y agredida y luego muere en el quirófano antes de que Benson pueda obtener datos sobre la identidad del atacante. Benson y Stabler descubren que la víctima es Patricia Stephens, la hijastra de un juez.(n)</desc>
-  </programme>
-  <programme start="20220608085000 -0300" stop="20220608094000 -0300" channel="Universal HD">
-    <title lang="es">Chicago Med</title>
-    <desc lang="es">Connor maneja a una víctima de un disparo con vínculos inesperados con Halstead. Por otro lado, Maggie se siente culpable por el regreso de una ex paciente, y Charles tiene una primera cita incómoda.(n)</desc>
   </programme>
   <programme start="20220608094000 -0300" stop="20220608103500 -0300" channel="Universal HD">
     <title lang="es">Chicago Fire</title>
@@ -10130,10 +10023,6 @@
     <title lang="es">Chicago P.D</title>
     <desc lang="es">Sigue a los hombres y mujeres de la delegación de Chicago, que tienen la misión de servir y proteger a su comunidad, compuesto por dos grupos: los oficiales uniformados y la Unidad de Inteligencia.(n)</desc>
   </programme>
-  <programme start="20220608082500 -0300" stop="20220608101100 -0300" channel="Warner">
-    <title lang="es">Cigüeñas: La historia que no te contaron</title>
-    <desc lang="es">En Montaña Cigüeña, viven las cigüeñas que hace tiempo enviaban bebés a los padres de todo el mundo. Ahora distribuyen los paquetes de una compañía mundial de Internet.(n)</desc>
-  </programme>
   <programme start="20220608101100 -0300" stop="20220608122500 -0300" channel="Warner">
     <title lang="es">El maestro luchador</title>
     <desc lang="es">Scott es profesor de un colegio, cuando la crisis amenaza a sus alumnos, insistirá en las peleas de artes marciales mixtas para juntar fondos.(n)</desc>
@@ -10617,10 +10506,6 @@
   <programme start="20220613193600 -0300" stop="20220613220000 -0300" channel="Warner">
     <title lang="es">El caza recompensas</title>
     <desc lang="es">Un cazador de recompensas se entera de que su próximo objetivo es su ex-esposa. Poco después de su encuentro, deberán juntos correr por sus vidas.(n)</desc>
-  </programme>
-  <programme start="20220608085100 -0300" stop="20220608094400 -0300" channel="Discovery Turbo">
-    <title lang="es">Chatarra de oro</title>
-    <desc lang="es">Andy Cohen es el jefe. Y también un empresario trabajador.(n)</desc>
   </programme>
   <programme start="20220608094400 -0300" stop="20220608103500 -0300" channel="Discovery Turbo">
     <title lang="es">Joyas sobre ruedas</title>
@@ -12036,14 +11921,6 @@
     <title lang="es">Stanley Cup. Tampa Bay Lightning vs. New York Rangers, Eastern Conference Final Game 7, Madison Square Garden</title>
     <desc lang="es">La emoción del campeonato de hockey sobre hielo más importante del mundo.(n)</desc>
   </programme>
-  <programme start="20220608083000 -0300" stop="20220608090000 -0300" channel="ESPN 2 HD">
-    <title lang="es">ESPN W</title>
-    <desc lang="es">ESPN Woman ofrece un entorno atractivo con acceso total a las mujeres atletas y a los deportes que practican y los eventos más importantes. Comparte un punto de vista único sobre las noticias deportivas que más preocupan a las mujeres.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608095500 -0300" channel="ESPN 2 HD">
-    <title lang="es">ESPN Tenis</title>
-    <desc lang="es">Todo el tenis en un solo lugar. Informes, historias de vida, actualidad, curiosidades y los mejores puntos. El circuito, con todo lo que lo rodea.(n)</desc>
-  </programme>
   <programme start="20220608095500 -0300" stop="20220608120000 -0300" channel="ESPN 2 HD">
     <title lang="es">Cycling: Classic Races. Criterium du Dauphine</title>
     <desc lang="es">Classic Races son las más prestigiosas carreras de ciclismo profesional de un día que se corren en Europa desde hace muchas décadas atrás.(n)</desc>
@@ -12414,14 +12291,6 @@
   <programme start="20220613190000 -0300" stop="20220613200000 -0300" channel="ESPN 2 HD">
     <title lang="es">Sportscenter - Edición de mediodía</title>
     <desc lang="es">El noticiero de ESPN que brinda un amplio panorama del deporte mundial.(n)</desc>
-  </programme>
-  <programme start="20220608080000 -0300" stop="20220608090000 -0300" channel="ESPN 3 HD">
-    <title lang="es">UEFA Nations League Match Day - Highlights</title>
-    <desc lang="es">Un repaso de los mejores momentos, los tiros más impresionantes y los grandes goles de la UEFA Nations League.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608100000 -0300" channel="ESPN 3 HD">
-    <title lang="es">UEFA Champions League Weekly</title>
-    <desc lang="es">La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608103000 -0300" channel="ESPN 3 HD">
     <title lang="es">ESPN W</title>
@@ -12823,10 +12692,6 @@
     <title lang="es">Béisbol del lunes de ESPN</title>
     <desc lang="es">Las Ligas Mayores de Béisbol refieren a la entidad que opera las dos ligas más importantes en Estados Unidos: la Liga Nacional y la Liga Americana. Su desarrollo se divide en dos etapas: Temporada regular y juegos de postemporada.(n)</desc>
   </programme>
-  <programme start="20220608080000 -0300" stop="20220608100000 -0300" channel="VTV HD">
-    <title lang="es">Buscadores</title>
-    <desc lang="es">Sergio Gorzy y su equipo nos hacen comenzar la tarde bien informados. Actualidad, cultura, espectáculos e información encarados de manera dinámica y entretenida para estar actualizados acerca de lo que pasa en Uruguay y el mundo.(n)</desc>
-  </programme>
   <programme start="20220608100000 -0300" stop="20220608120000 -0300" channel="VTV HD">
     <title lang="es">Día a día</title>
     <desc lang="es">La revista más divertida de la TV uruguaya te trae cada tarde toda la actualidad, información y buen humor de la mano de Marcelo “Fito” Galli, Rosario Rodriguez y Jesús Graña.(n)</desc>
@@ -13227,14 +13092,6 @@
     <title lang="es">VTV Noticias - Edición central</title>
     <desc lang="es">Las noticias de Uruguay y el mundo, con un equipo periodístico de primer nivel que analiza la información. Las actividades políticas, sociales y culturales, son abordadas de forma objetiva y trasmitidas desde todos los ángulos.(n)</desc>
   </programme>
-  <programme start="20220608070000 -0300" stop="20220608090000 -0300" channel="VTVPlus">
-    <title lang="es">Segunda División. Progreso vs. La Luz, Fecha 7</title>
-    <desc lang="es">El Campeonato Uruguayo de Segunda División Profesional de 2022 es la edición 81º del torneo de Segunda División organizado por la AUF, correspondiente al año 2022.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608100000 -0300" channel="VTVPlus">
-    <title lang="es">Pasión noticias</title>
-    <desc lang="es">Toda la actualidad nacional e internacional de los deportes más seguidos del Uruguay.(n)</desc>
-  </programme>
   <programme start="20220608100000 -0300" stop="20220608120000 -0300" channel="VTVPlus">
     <title lang="es">Liga uruguaya de básquet. Peñarol vs. Bigua, Juego 4 - Finales</title>
   </programme>
@@ -13484,18 +13341,6 @@
   </programme>
   <programme start="20220613033000 -0300" stop="20220613153000 -0300" channel="VTVPlus">
     <title lang="es">A confirmar</title>
-  </programme>
-  <programme start="20220608083000 -0300" stop="20220608090000 -0300" channel="Animal Planet">
-    <title lang="es">Televentas</title>
-    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="Animal Planet">
-    <title lang="es">Televentas</title>
-    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="Animal Planet">
-    <title lang="es">Televentas</title>
-    <desc lang="es">Productos y servicios que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608102400 -0300" channel="Animal Planet">
     <title lang="es">El zoo de Gui. AMPA</title>
@@ -14147,10 +13992,6 @@
     <title lang="es">El zoológico del Bronx: detrás de las cámaras. Un nuevo comienzo</title>
     <desc lang="es">Max el camello se enfrenta nuevos desafíos mientras crece. El zoológico se prepara para darle a un buitre cabeza roja herido un hogar permanente, pero, una vez que sana, hay cambios de planes.(n)</desc>
   </programme>
-  <programme start="20220608083000 -0300" stop="20220608091800 -0300" channel="Discovery Channel HD">
-    <title lang="es">Tesoro en el espacio: el secreto del astronauta</title>
-    <desc lang="es">Darrell descubre un barco naufragado conectado a la lista de Gordon, pero ve que está controlado por unos locales peligrosos. Además, lleva a su equipo a un área donde durante años las olas han producido muchos naufragios.(n)</desc>
-  </programme>
   <programme start="20220608091800 -0300" stop="20220608101700 -0300" channel="Discovery Channel HD">
     <title lang="es">Fiebre del oro: río revuelto</title>
     <desc lang="es">Los muchachos regresan al arroyo McKinley para bucear en busca de oro, pero el feroz invierno de Alaska ha destruido su equipo de minería. Su suerte cambia cuando Dustin localiza el lugar perfecto.(n)</desc>
@@ -14746,14 +14587,6 @@
   <programme start="20220613225300 -0300" stop="20220613234900 -0300" channel="Discovery Channel HD">
     <title lang="es">Alaska: Hombres primitivos</title>
     <desc lang="es">Cuando un avestruz pone su primer huevo, los hermanos Brown se apresuran para ver cómo incubarlo. Bear recibe una visita especial de una muchacha y la familia prepara la celebración para el aniversario número 40 de Billy y Ami.(n)</desc>
-  </programme>
-  <programme start="20220608084800 -0300" stop="20220608093600 -0300" channel="Discovery Science">
-    <title lang="es">Tesla: Crimen desclasificado. La superarma</title>
-    <desc lang="es">Mientras el equipo investiga la sospechosa muerte de Nikola, buscan notas perdidas. ¿Funcionará el Rayo de la Muerte? ¿Fue ese el motivo del asesinato.(n)</desc>
-  </programme>
-  <programme start="20220608093600 -0300" stop="20220608100000 -0300" channel="Discovery Science">
-    <title lang="es">Analízame. Traviesos por naturaleza</title>
-    <desc lang="es">Vea las explicaciones psicológicas de tres situaciones: extraños que mienten para salvar el matrimonio de un hombre, una degustación que sale muy mal y una experiencia terrible en una lavandería.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608102400 -0300" channel="Discovery Science">
     <title lang="es">Analízame. Servicio exclusivo</title>
@@ -15421,10 +15254,6 @@
   <programme start="20220613213600 -0300" stop="20220613231200 -0300" channel="Discovery Science">
     <title lang="es">La gran era de hielo</title>
     <desc lang="es">Un equipo de científicos internacionales realiza una expedición para llevar a cabo la excavación más grande de la Edad de Hielo, explorando los restos nunca antes vistos de mamuts lanudos, rinocerontes laneros, lobos y leones de las cuevas.(n)</desc>
-  </programme>
-  <programme start="20220608084800 -0300" stop="20220608093600 -0300" channel="Discovery Theater HD">
-    <title lang="es">Mega carga</title>
-    <desc lang="es">Cerca de la costa de Escocia, las islas Shetland dependen de los envíos que reciben regularmente del continente. Pero el temporal Abigail ha dejado al buque de servicio Daroja varado en Lerwick.(n)</desc>
   </programme>
   <programme start="20220608093600 -0300" stop="20220608102400 -0300" channel="Discovery Theater HD">
     <title lang="es">Idris Elba: Fighter</title>
@@ -16137,14 +15966,6 @@
   <programme start="20220613222400 -0300" stop="20220613231200 -0300" channel="Discovery Theater HD">
     <title lang="es">Pesca mortal</title>
     <desc lang="es">La tripulación está lista para sus codiciosos reclamos pero el mar no está dispuesto a ceder su botín sin pelear.(n)</desc>
-  </programme>
-  <programme start="20220608084800 -0300" stop="20220608091200 -0300" channel="Discovery World HD">
-    <title lang="es">La vida en la playa. Mega McGyvers</title>
-    <desc lang="es">El paraíso permanente está cerca, se encuentra en las playas más radiantes de la Tierra.(n)</desc>
-  </programme>
-  <programme start="20220608091200 -0300" stop="20220608093600 -0300" channel="Discovery World HD">
-    <title lang="es">La vida en la playa. La playa de la tribu Brady</title>
-    <desc lang="es">Personas normales se dirigen a la playa y convierten sus sueños en realidad.(n)</desc>
   </programme>
   <programme start="20220608093600 -0300" stop="20220608102400 -0300" channel="Discovery World HD">
     <title lang="es">Increíbles casas de playa</title>
@@ -17164,14 +16985,6 @@
     <title lang="es">La vida en la playa. Vive tu propia aventura</title>
     <desc lang="es">Se verá la historia de personas que buscan nuevas vidas, amores y carreras en su pedacito de paraíso.(n)</desc>
   </programme>
-  <programme start="20220608080000 -0300" stop="20220608090000 -0300" channel="History 2 HD">
-    <title lang="es">La maldición de la isla</title>
-    <desc lang="es">El equipo está a punto de descifrar la misteriosa estructura en forma de "u.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608100000 -0300" channel="History 2 HD">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
   <programme start="20220608100000 -0300" stop="20220608110000 -0300" channel="History 2 HD">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
@@ -17735,14 +17548,6 @@
   <programme start="20220613220300 -0300" stop="20220613231800 -0300" channel="History 2 HD">
     <title lang="es">Buscando a Dios</title>
     <desc lang="es">Un viaje incierto a las raíces de la espiritualidad humana.(n)</desc>
-  </programme>
-  <programme start="20220608080000 -0300" stop="20220608090000 -0300" channel="History Channel HD">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608100000 -0300" channel="History Channel HD">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608110000 -0300" channel="History Channel HD">
     <title lang="es">Alienígenas ancestrales</title>
@@ -18452,14 +18257,6 @@
     <title lang="es">Proyecto imposible</title>
     <desc lang="es">Obras de ingeniería que buscan contrarrestar los efectos nocivos de la naturaleza en ciudades como Venecia, Tokio o Nueva York.(n)</desc>
   </programme>
-  <programme start="20220608080500 -0300" stop="20220608090000 -0300" channel="Love Nature HD">
-    <title lang="es">Naufragios en los arrecifes</title>
-    <desc lang="es">Los cayos de Florida eran la primera línea de defensa para el sur de los EE. UU. Con una rica historia naval y un estilo de vida costero, es fácil creer a los lugareños que afirman que estas aguas albergan hasta 1000 naufragios.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608095500 -0300" channel="Love Nature HD">
-    <title lang="es">Australianos letales</title>
-    <desc lang="es">La costa australiana es un imán para asesinos marinos de todas las formas y tamaños. Aunque varían en apariencia y tácticas, estos depredadores viciosos comparten un rasgo común: todos son asesinos excepcionales.(n)</desc>
-  </programme>
   <programme start="20220608095500 -0300" stop="20220608104500 -0300" channel="Love Nature HD">
     <title lang="es">Rescate en el pacífico salvaje</title>
     <desc lang="es">Siga al veterinario, Dr. Marty Haulena y su equipo de especialistas en cuidado animal, en los mares de Vancouver, Canadá, y en el Centro de Rescate de Mamíferos Marinos, mientras rescatan, rehabilitan y liberan animales icónicos del océano.(n)</desc>
@@ -19070,18 +18867,6 @@
   </programme>
   <programme start="20220613225500 -0300" stop="20220613234500 -0300" channel="Love Nature HD">
     <title lang="es">El gran país de los felinos</title>
-  </programme>
-  <programme start="20220608083000 -0300" stop="20220608090000 -0300" channel="National Geographic">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="National Geographic">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="National Geographic">
-    <title lang="es">Infomercial</title>
-    <desc lang="es">Conoce los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller. Además, descubre las maneras más fáciles de obtenerlos, desde la comodidad de tu hogar.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608110000 -0300" channel="National Geographic">
     <title lang="es">Infomercial</title>
@@ -19822,10 +19607,6 @@
   <programme start="20220613225500 -0300" stop="20220613235000 -0300" channel="National Geographic">
     <title lang="es">Fronteras al límite</title>
     <desc lang="es">En Progreso detienen a un hombre buscado por una violación. En Pharr encuentran 840 kilos de metanfetamina en el piso de un camión. En un puente interceptan velas aromáticas rellenas de fentanilo.(n)</desc>
-  </programme>
-  <programme start="20220608085000 -0300" stop="20220608093700 -0300" channel="TruTV">
-    <title lang="es">Los videos más tontos del mundo</title>
-    <desc lang="es">Vemos casos de teléfonos pegados a los rostros y falsos embarazos. Además, un especial por el día de los inocentes.(n)</desc>
   </programme>
   <programme start="20220608093700 -0300" stop="20220608102200 -0300" channel="TruTV">
     <title lang="es">Los videos más tontos del mundo</title>
@@ -21696,14 +21477,6 @@
     <title lang="es">Dr. Mercy. Protuberancias en las axilas</title>
     <desc lang="es">Tiana espera que la Dra. Mercy pueda descubrir cómo deshacerse de sus dos senos extra. Michael quiere que le quiten sus parches gigantes de acrocordones en su cumpleaños número 40. El lipoma de Chandra la agobia física y emocionalmente.(n)</desc>
   </programme>
-  <programme start="20220608083000 -0300" stop="20220608090000 -0300" channel="E">
-    <title lang="es">10 cosas que no sabes</title>
-    <desc lang="es">Las cosas más increíbles, sorprendentes y OMG sobre Tiffany Haddish desde la celebridad que cambió su vida hasta un loco trabajo que tuvo antes de ser famosa.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608095000 -0300" channel="E">
-    <title lang="es">Celebrity Game Face</title>
-    <desc lang="es">Niecy Nash y Wendy Raquel Robinson, Victor Cruz y Karrueche Tran, junto a Rob Schneider y Patricia Maya Schneider compiten de forma remota desde sus propios hogares en una noche de diversión y juegos organizada por Kevin Hart.(n)</desc>
-  </programme>
   <programme start="20220608095000 -0300" stop="20220608104000 -0300" channel="E">
     <title lang="es">Celebrity Game Face</title>
     <desc lang="es">Kelly Osbourne y Jack Osbourne, Loni Love y James Welsh y Erin Andrews y Jarret Stoll compiten de forma remota desde sus propios hogares en una noche de diversión y juegos organizada por Kevin Hart.(n)</desc>
@@ -22419,26 +22192,6 @@
   <programme start="20220613225000 -0300" stop="20220613234500 -0300" channel="E">
     <title lang="es">Botched</title>
     <desc lang="es">Paul ayuda al cantante Norwood Young a recuperar su voz al hacerle una rinoplastia de revisión. Terry reconstruye el pecho de una joven madre a quien su cirujano le colocó implantes de dos tamaños diferentes, haciendo que se vean ladeados.(n)</desc>
-  </programme>
-  <programme start="20220608075900 -0300" stop="20220608083000 -0300" channel="GLITZ">
-    <title lang="es">¿Quién tiene la razón</title>
-    <desc lang="es">Este espacio analiza esas situaciones difíciles en nuestro entorno familiar, amoroso y hasta con nuestras amistades, y determina quién tiene la razón.(n)</desc>
-  </programme>
-  <programme start="20220608083000 -0300" stop="20220608085900 -0300" channel="GLITZ">
-    <title lang="es">Fan's Club</title>
-    <desc lang="es">Algunas personas los consideran gente extraña. Nosotros, en cambio, los comprendemos, porque compartimos con ellos la misma pasión por los vehículos. Bienvenido a Fans Club. Aquí no necesitas credencial de socio.(n)</desc>
-  </programme>
-  <programme start="20220608085900 -0300" stop="20220608090000 -0300" channel="GLITZ">
-    <title lang="es">¿Quién tiene la razón</title>
-    <desc lang="es">Este espacio analiza esas situaciones difíciles en nuestro entorno familiar, amoroso y hasta con nuestras amistades, y determina quién tiene la razón.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="GLITZ">
-    <title lang="es">ROM TV</title>
-    <desc lang="es">El Automovilismo virtual se vuelve más real que nunca..(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608095900 -0300" channel="GLITZ">
-    <title lang="es">El potro 4x4</title>
-    <desc lang="es">Si eres fanático de los vehículos todo terreno, offroad 4x4, este es el espacio ideal para que presencies cómo se pone a prueba la pericia y capacidad de un piloto para conducir sobre superficies en condiciones extremas.(n)</desc>
   </programme>
   <programme start="20220608095900 -0300" stop="20220608100000 -0300" channel="GLITZ">
     <title lang="es">Besos robados</title>
@@ -23939,18 +23692,6 @@
   <programme start="20220613230000 -0300" stop="20220613230000 -0300" channel="GLITZ">
     <title lang="es">Leyendas</title>
     <desc lang="es">Las grandes figuras de la historia del motor, unidas en un programa.(n)</desc>
-  </programme>
-  <programme start="20220608083000 -0300" stop="20220608090000 -0300" channel="El Gourmet HD">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="El Gourmet HD">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="El Gourmet HD">
-    <title lang="es">Infomerciales</title>
-    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608103000 -0300" channel="El Gourmet HD">
     <title lang="es">Dulce arte</title>
@@ -25672,10 +25413,6 @@
     <title lang="es">Moda. American Style IV</title>
     <desc lang="es">Espacio en el cual se abordan contenidos especializados sobre el mundo de la moda, belleza y estilo de vida, así como un análisis de las tendencias del momento, incluyendo entrevistas a las celebridades de este fascinante ámbito.(n)</desc>
   </programme>
-  <programme start="20220608080000 -0300" stop="20220608090000 -0300" channel="Lifetime">
-    <title lang="es">Crisis de los 7 años</title>
-    <desc lang="es">A solo 2 días del final, los participantes conocen a quienes han compartido tiempo con sus parejas. Michelle deja a Cassie con más preguntas que respuestas.(n)</desc>
-  </programme>
   <programme start="20220608090000 -0300" stop="20220608100000 -0300" channel="Lifetime">
     <title lang="es">Infomerciales</title>
     <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.(n)</desc>
@@ -26211,14 +25948,6 @@
   <programme start="20220613212000 -0300" stop="20220613230000 -0300" channel="Lifetime">
     <title lang="es">Los Jones</title>
     <desc lang="es">Después de la muerte del patriarca Theodore Jones, su segunda esposa, Robin, y las hijas de Theodore trabajan para proteger a su familia y su negocio después de ser amenazadas.(n)</desc>
-  </programme>
-  <programme start="20220608083000 -0300" stop="20220608090000 -0300" channel="MasChic">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="MasChic">
-    <title lang="es">Programa pagado</title>
-    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.(n)</desc>
   </programme>
   <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="MasChic">
     <title lang="es">Programa pagado</title>
@@ -27199,10 +26928,6 @@
   <programme start="20220613223000 -0300" stop="20220613230000 -0300" channel="MasChic">
     <title lang="es">La recicladora de muebles</title>
     <desc lang="es">Esta heladera antigua está en la casa de Mariana desde hace 80 años, en un rincón juntando polvo. Eugenia pone manos a la obra para que vuelva al ruedo... en forma de barcito listo para fiestas y reuniones.(n)</desc>
-  </programme>
-  <programme start="20220608080000 -0300" stop="20220608090000 -0300" channel="Bloomberg">
-    <title lang="es">Bloomberg Surveillance</title>
-    <desc lang="es">Surveillance brinda una mirada a fondo a las noticias de negocios y el estado de los mercados para ponerte a tono para el día que comienza.(n)</desc>
   </programme>
   <programme start="20220608090000 -0300" stop="20220608100000 -0300" channel="Bloomberg">
     <title lang="es">Bloomberg Surveillance</title>
@@ -28266,10 +27991,6 @@
     <title lang="es">La Voz Uruguay</title>
     <desc lang="es">El reality musical más importante del mundo, ¡ahora hecho en Uruguay! Con la conducción de Natalia Oreiro y cuatro coaches de lujo: Ruben Rada, Valeria Lynch, Agustín Casanova y Lucas Sugo.(n)</desc>
   </programme>
-  <programme start="20220608083000 -0300" stop="20220608100000 -0300" channel="Las Estrellas HD">
-    <title lang="es">Despierta</title>
-    <desc lang="es">En Despierta invitamos a debatir a los que piensan distinto y entrevistamos a los protagonistas de la noticia al tiempo que ofrecemos investigaciones y análisis sobre las noticias más importantes para el acontecer nacional e internacional.(n)</desc>
-  </programme>
   <programme start="20220608100000 -0300" stop="20220608110000 -0300" channel="Las Estrellas HD">
     <title lang="es">Al aire</title>
     <desc lang="es">Un magazine informativo en el cual podrás enterarte de los últimos acontecimientos ocurridos en el mundo del espectáculo, así como también sobre diversos temas interesantes que, generalmente, no son tratados en los noticieros comunes.(n)</desc>
@@ -28786,21 +28507,6 @@
   <programme start="20220613225500 -0300" stop="20220613234500 -0300" channel="Las Estrellas HD">
     <title lang="es">La rosa de Guadalupe</title>
     <desc lang="es">Los milagros de la virgen de Guadalupe se traducen en historias de amor, esperanza y lucha. Este espacio abordará temas como la prostitución, violencia intrafamiliar, drogadicción, y una rosa blanca aparecerá como símbolo de las peticiones.(n)</desc>
-  </programme>
-  <programme start="20220608083000 -0300" stop="20220608084500 -0300" channel="RT en español">
-    <title lang="es">Un metro cuadrado de infierno</title>
-    <desc lang="es">Vivir, literalmente, como un perro enjaulado, o juzgar aceptable pasar la noche en un McDonald's tras la jornada de trabajo: esa es la realidad para miles de habitantes de Hong Kong incapaces de adqui.(n)</desc>
-  </programme>
-  <programme start="20220608084500 -0300" stop="20220608090000 -0300" channel="RT en español">
-    <title lang="es">El zoom</title>
-    <desc lang="es">Espacio que nos acerca hasta el más mínimo detalle de los procesos geopolíticos y económicos, nos aporta un enfoque diferente de los acontecimientos de escala mundial y retrata la actualidad desde todos los ángulos.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608093000 -0300" channel="RT en español">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
-  </programme>
-  <programme start="20220608093000 -0300" stop="20220608100000 -0300" channel="RT en español">
-    <title lang="es">Matar al indio en el niño</title>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608103000 -0300" channel="RT en español">
     <title lang="es">Matar al indio en el niño</title>
@@ -29886,10 +29592,6 @@
     <title lang="es">Noticias</title>
     <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.(n)</desc>
   </programme>
-  <programme start="20220608080000 -0300" stop="20220608092500 -0300" channel="Allegro TV">
-    <title lang="es">Filarmónica de Israel, Martha Argerich  Lahav Shani - Obras de Ravel, Stravinsky  P. Ben-Haim</title>
-    <desc lang="es">I. Stravinsky: El pájaro de fuego; M. Ravel: Concierto para piano en sol mayor; P. Ben-Haim: Sinfonía n.º 1. Martha Argerich  Filarmónica de Israel - Lahav Shani. Auditorio Charles Bronfman, Tel-Aviv. 2020.(n)</desc>
-  </programme>
   <programme start="20220608092500 -0300" stop="20220608104500 -0300" channel="Allegro TV">
     <title lang="es">Una noche de música española (Escuela Reina Sofía)</title>
     <desc lang="es">Una velada centrada en la música española de los siglos XIX y XX, con Luis Fernando Pérez acompañado por algunos destacados alumnos de la Escuela Reina Sofía.(n)</desc>
@@ -30297,14 +29999,6 @@
   <programme start="20220613223000 -0300" stop="20220613232500 -0300" channel="Allegro TV">
     <title lang="es">Sinfonía nº 9, 'La Grande', de Franz Schubert - Orquesta Nacional de Lyon  Karl-Heinz Steffens</title>
     <desc lang="es">Franz Schubert: Sinfonía n.º 9 en do mayor, la Grande, D 944. Orquesta Nacional de Lyon KarlHeinz Steffens. L'Auditorium-Orchestra National de Lyon. 2018.(n)</desc>
-  </programme>
-  <programme start="20220608080000 -0300" stop="20220608090000 -0300" channel="Pasiones">
-    <title lang="es">Recién casada</title>
-    <desc lang="es">Bella, simpática, alegre y española, se enamora de Hazar, un exótico turco heredero de la tribu Bozok. Ambos deciden casarse, decisión que va en contra del deseo de sus familias.(n)</desc>
-  </programme>
-  <programme start="20220608090000 -0300" stop="20220608100000 -0300" channel="Pasiones">
-    <title lang="es">La tempestad</title>
-    <desc lang="es">Marina es una ejecutiva que abandona su empleo para retomar su carrera en un pueblo. Allí, dirigirá una empresa atunera, de la que es socio mayoritario el capitán Fabré, un hombre que despertará el interés de Marina.(n)</desc>
   </programme>
   <programme start="20220608100000 -0300" stop="20220608110000 -0300" channel="Pasiones">
     <title lang="es">Querer sin límites</title>
@@ -43398,153 +43092,6 @@
   </programme>
   <programme start="20220614234000 -0300" stop="20220615000000 -0300" channel="Tooncast">
     <title lang="es">Batman</title>
-  </programme>
-  <programme start="20220608233000 -0300" stop="20220609003000 -0300" channel="AMERICA">
-    <title lang="es">Animales sueltos</title>
-  </programme>
-  <programme start="20220609003000 -0300" stop="20220609010000 -0300" channel="AMERICA">
-    <title lang="es">Modo Selfie</title>
-  </programme>
-  <programme start="20220609010000 -0300" stop="20220609023000 -0300" channel="AMERICA">
-    <title lang="es">Pare de sufrir</title>
-  </programme>
-  <programme start="20220609023000 -0300" stop="20220609040000 -0300" channel="AMERICA">
-    <title lang="es">Intrusos</title>
-  </programme>
-  <programme start="20220609040000 -0300" stop="20220609050000 -0300" channel="AMERICA">
-    <title lang="es">Es por ahí</title>
-  </programme>
-  <programme start="20220609050000 -0300" stop="20220609060000 -0300" channel="AMERICA">
-    <title lang="es">Animérica</title>
-  </programme>
-  <programme start="20220609060000 -0300" stop="20220609080000 -0300" channel="AMERICA">
-    <title lang="es">Buenos días, América</title>
-  </programme>
-  <programme start="20220609080000 -0300" stop="20220609100000 -0300" channel="AMERICA">
-    <title lang="es">BDA Extra</title>
-  </programme>
-  <programme start="20220609100000 -0300" stop="20220609120000 -0300" channel="AMERICA">
-    <title lang="es">Es por ahí</title>
-  </programme>
-  <programme start="20220609120000 -0300" stop="20220609133000 -0300" channel="AMERICA">
-    <title lang="es">América Noticias mediodía</title>
-  </programme>
-  <programme start="20220609133000 -0300" stop="20220609154500 -0300" channel="AMERICA">
-    <title lang="es">Intrusos</title>
-  </programme>
-  <programme start="20220609154500 -0300" stop="20220609180000 -0300" channel="AMERICA">
-    <title lang="es">A la tarde</title>
-  </programme>
-  <programme start="20220609180000 -0300" stop="20220609200000 -0300" channel="AMERICA">
-    <title lang="es">América noticias 2da. edición</title>
-  </programme>
-  <programme start="20220609200000 -0300" stop="20220609221000 -0300" channel="AMERICA">
-    <title lang="es">LAM</title>
-  </programme>
-  <programme start="20220609221000 -0300" stop="20220609233000 -0300" channel="AMERICA">
-    <title lang="es">La puta ama</title>
-  </programme>
-  <programme start="20220609233000 -0300" stop="20220610003000 -0300" channel="AMERICA">
-    <title lang="es">Animales sueltos</title>
-  </programme>
-  <programme start="20220610233000 -0300" stop="20220611003000 -0300" channel="AMERICA">
-    <title lang="es">Animales sueltos</title>
-  </programme>
-  <programme start="20220611003000 -0300" stop="20220611010000 -0300" channel="AMERICA">
-    <title lang="es">Modo Selfie</title>
-  </programme>
-  <programme start="20220611010000 -0300" stop="20220611023000 -0300" channel="AMERICA">
-    <title lang="es">Pare de sufrir</title>
-  </programme>
-  <programme start="20220611023000 -0300" stop="20220611040000 -0300" channel="AMERICA">
-    <title lang="es">Intrusos</title>
-  </programme>
-  <programme start="20220611040000 -0300" stop="20220611050000 -0300" channel="AMERICA">
-    <title lang="es">Es por ahí</title>
-  </programme>
-  <programme start="20220611050000 -0300" stop="20220611060000 -0300" channel="AMERICA">
-    <title lang="es">Animérica</title>
-  </programme>
-  <programme start="20220611060000 -0300" stop="20220611080000 -0300" channel="AMERICA">
-    <title lang="es">Buenos días, América</title>
-  </programme>
-  <programme start="20220611080000 -0300" stop="20220611100000 -0300" channel="AMERICA">
-    <title lang="es">BDA Extra</title>
-  </programme>
-  <programme start="20220611100000 -0300" stop="20220611120000 -0300" channel="AMERICA">
-    <title lang="es">Es por ahí</title>
-  </programme>
-  <programme start="20220611120000 -0300" stop="20220611133000 -0300" channel="AMERICA">
-    <title lang="es">América Noticias mediodía</title>
-  </programme>
-  <programme start="20220611133000 -0300" stop="20220611154500 -0300" channel="AMERICA">
-    <title lang="es">Intrusos</title>
-  </programme>
-  <programme start="20220611154500 -0300" stop="20220611180000 -0300" channel="AMERICA">
-    <title lang="es">A la tarde</title>
-  </programme>
-  <programme start="20220611180000 -0300" stop="20220611200000 -0300" channel="AMERICA">
-    <title lang="es">América noticias 2da. edición</title>
-  </programme>
-  <programme start="20220611200000 -0300" stop="20220611221000 -0300" channel="AMERICA">
-    <title lang="es">LAM</title>
-  </programme>
-  <programme start="20220611221000 -0300" stop="20220611233000 -0300" channel="AMERICA">
-    <title lang="es">La puta ama</title>
-  </programme>
-  <programme start="20220611233000 -0300" stop="20220612003000 -0300" channel="AMERICA">
-    <title lang="es">Animales sueltos</title>
-  </programme>
-  <programme start="20220612233000 -0300" stop="20220613003000 -0300" channel="AMERICA">
-    <title lang="es">Animales sueltos</title>
-  </programme>
-  <programme start="20220613003000 -0300" stop="20220613010000 -0300" channel="AMERICA">
-    <title lang="es">Modo Selfie</title>
-  </programme>
-  <programme start="20220613010000 -0300" stop="20220613023000 -0300" channel="AMERICA">
-    <title lang="es">Pare de sufrir</title>
-  </programme>
-  <programme start="20220613023000 -0300" stop="20220613040000 -0300" channel="AMERICA">
-    <title lang="es">Intrusos</title>
-  </programme>
-  <programme start="20220613040000 -0300" stop="20220613050000 -0300" channel="AMERICA">
-    <title lang="es">Es por ahí</title>
-  </programme>
-  <programme start="20220613050000 -0300" stop="20220613060000 -0300" channel="AMERICA">
-    <title lang="es">Animérica</title>
-  </programme>
-  <programme start="20220613060000 -0300" stop="20220613080000 -0300" channel="AMERICA">
-    <title lang="es">Buenos días, América</title>
-  </programme>
-  <programme start="20220613080000 -0300" stop="20220613100000 -0300" channel="AMERICA">
-    <title lang="es">BDA Extra</title>
-  </programme>
-  <programme start="20220613100000 -0300" stop="20220613120000 -0300" channel="AMERICA">
-    <title lang="es">Es por ahí</title>
-  </programme>
-  <programme start="20220613120000 -0300" stop="20220613133000 -0300" channel="AMERICA">
-    <title lang="es">América Noticias mediodía</title>
-  </programme>
-  <programme start="20220613133000 -0300" stop="20220613154500 -0300" channel="AMERICA">
-    <title lang="es">Intrusos</title>
-  </programme>
-  <programme start="20220613154500 -0300" stop="20220613180000 -0300" channel="AMERICA">
-    <title lang="es">A la tarde</title>
-  </programme>
-  <programme start="20220613180000 -0300" stop="20220613200000 -0300" channel="AMERICA">
-    <title lang="es">América noticias 2da. edición</title>
-  </programme>
-  <programme start="20220613200000 -0300" stop="20220613221000 -0300" channel="AMERICA">
-    <title lang="es">LAM</title>
-  </programme>
-  <programme start="20220613221000 -0300" stop="20220613233000 -0300" channel="AMERICA">
-    <title lang="es">La puta ama</title>
-  </programme>
-  <programme start="20220613233000 -0300" stop="20220614003000 -0300" channel="AMERICA">
-    <title lang="es">Animales sueltos</title>
-  </programme>
-  <programme start="20220614233000 -0300" stop="20220615003000 -0300" channel="AMERICA">
-    <title lang="es">Animales sueltos</title>
   </programme>
   <programme start="20220608230000 -0300" stop="20220609000000 -0300" channel="El Nueve">
     <title lang="es">La divina noche</title>
