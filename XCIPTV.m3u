@@ -220,15 +220,15 @@ https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Metro/SA_SAGEMCOM/Metro.m3u8
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Net TV.png" group-title="Interes General",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telefe.png" group-title="Interes General",Telefe
-https://edge3.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1657147102~exp=1657154302~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=5c0255660007da9beb0e0180ebdc7ef64521f29a5b583417cf6e13685be1ce2c
 #EXTINF:-1 tvg-id="TV Pública Argentina" tvg-name="TV Pública Argentina" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Pública Argentina.png" group-title="Interes General",TV Pública Argentina
 https://edge5-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/24H.png" group-title="Internacional",24H
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
+https://rtvelivestreamv3.akamaized.net/24h_main_dvr_360.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Internacional",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/Alex-Berlin-TV-Live-TV-Online.png" group-title="Internacional",Alex Berlin
-https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/playlist.m3u8
+https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/chunklist_b2128000_slGER.m3u8
 #EXTINF:-1 tvg-id="Arirang Tv" tvg-name="Arirang Tv" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Arirang Tv.png" group-title="Internacional",Arirang Tv
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Bloomberg.png" group-title="Internacional",Bloomberg
@@ -302,17 +302,17 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Vorterix.png" group-title="Musica",Vorterix
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
 #EXTINF:-1 tvg-id="A 24" tvg-name="A 24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/35%29A24_%282019%29.png/revision/latest/scale-to-width-down/512" group-title="Noticias",A 24
-https://edge5-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/America24/SA_Live_WebVTT_FTA/America24.m3u8
 #EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.imgur.com/yIWl4a5.png" group-title="Noticias",C5N
-https://edge5-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
 #EXTINF:-1 tvg-id="26 TV" tvg-name="26 TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/26 TV.png" group-title="Noticias",26 TV
-http://200.115.193.177/live/26hd-720/playlist.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w109976320_b1864000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNN en español" tvg-name="CNN en español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN en español
 https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 #EXTINF:-1 tvg-id="Crónica TV" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Noticias",Crónica TV
-https://edge5-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
 #EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Deutsche Welle.png" group-title="Noticias",Deutsche Welle
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/IP.png" group-title="Noticias",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 #EXTINF:-1 tvg-id="La Nación" tvg-name="La Nación" tvg-logo="https://i.imgur.com/Icg7X7L.png" group-title="Noticias",La Nación
@@ -1119,8 +1119,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlis
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kAYiaJS.png" group-title="USA",Golden TV (240p)
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t9xHfSV.png" group-title="USA",GoodLife 45 (720p)
-http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tprQSxT.png" group-title="USA",GQ (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="USA",Gravitas Movies (720p)
@@ -1776,7 +1774,7 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947
 #EXTINF:-1 tvg-id="CANAL LUZ" tvg-name="CANAL LUZ" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL LUZ.png" group-title="Variedades",CANAL LUZ
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_SAGEMCOM/CANAL_LUZ.m3u8
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Rural.png" group-title="Variedades",Canal Rural
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Canal_Rural/SA_SAGEMCOM/Canal_Rural.m3u8
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Señal María" tvg-name="Señal María" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Variedades",Señal María
 https://streaming.telered.com.ar/santa-maria/streaming/mystreamSantaMariaHSMed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Chacra TV.png" group-title="Variedades",Chacra TV
@@ -1786,7 +1784,7 @@ https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ENLACE TBN" tvg-name="ENLACE TBN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ENLACE TBN.png" group-title="Variedades",ENLACE TBN
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/EWTN.png" group-title="Variedades",EWTN
-https://edge-live11-hr.cvattv.com.ar/live/c6eds/EWTN/SA_SAGEMCOM/EWTN.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Variedades",Nasa TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-id="Nueva Imagen" tvg-name="Nueva Imagen" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nueva Imagen.png" group-title="Variedades",Nueva Imagen
@@ -1802,9 +1800,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telemundo.png" group-title="Variedades",Telemundo
 https://edge6-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tierra Mia.png" group-title="Variedades",Tierra Mia
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Mana Argentina.png" group-title="Variedades",TV Mana Argentina
-http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VIAJAR" tvg-name="VIAJAR" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VIAJAR.png" group-title="Variedades",VIAJAR
 https://player.vimeo.com/external/677239387.m3u8?s=9224387856264477174bbfba3762893b455f71bc
 #EXTINF:-1 tvg-id="WOBI" tvg-name="WOBI" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/WOBI.png" group-title="Variedades",WOBI
