@@ -127,6 +127,8 @@ https://edge2-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD.m3u8
 https://ed7.zorrohd2.nl/live/ST787d1e8f013e219.m3u8
 #EXTINF:-1 tvg-id="VTVPlus" tvg-name="VTVPlus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="Deportes",VTVPlus
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/350?cb=20200225220524&path-prefix=es" group-title="Deportes",Win Sports +
+https://ed3.zorrohd2.nl/live/ST96261e37cddcc9c.m3u8
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="ANIMAL PLANET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",ANIMAL PLANET HD
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Channel.png" group-title="Documentales",Discovery Channel
@@ -603,6 +605,8 @@ https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w698214521.m3u8
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 9 Televida.png" group-title="Regionales",Canal 9 Televida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1575933362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canalc.com.ar/wp-content/uploads/2021/05/LOGO-CC-top-White.png" group-title="Regionales",Canal C (Cordoba)
+https://usher.ttvnw.net/api/channel/hls/ccanal.m3u8?allow_source=true&fast_bread=true&p=5894526&play_session_id=acd9daa32e6875e6997eeec9775518cf&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=c4dc10de4d925c01cad1c1d63a58071b20cce7d1&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ccanal%22%2C%22channel_id%22%3A757495874%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%222e2f54e8d7542edb%22%2C%22expires%22%3A1658891219%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22191.82.15.200%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.12.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal TDC.png" group-title="Regionales",Canal TDC
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canaltrece San Luis.png" group-title="Regionales",Canaltrece San Luis
