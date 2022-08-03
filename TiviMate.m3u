@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&amp;E Mundo" tvg-name="A&amp;E Mundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" group-title="Cine y Series",A&amp;E Mundo
+#EXTINF:-1 tvg-id="AE Mundo" tvg-name="AE Mundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" group-title="Cine y Series",AE Mundo
 https://cvi.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="A3 Cine HD" tvg-name="A3 Cine HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/A3 Cine HD.png" group-title="Cine y Series",A3 Cine HD
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
@@ -18,39 +18,27 @@ https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Comedy Central.png" group-title="Cine y Series",Comedy Central
 https://cvi.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY ID HD" tvg-name="DISCOVERY ID HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/DISCOVERY ID HD.png" group-title="Cine y Series",DISCOVERY ID HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID-avc1_2499584=5.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX.png" group-title="Cine y Series",FX
 https://cvi.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Este" tvg-name="HBO Este" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/250?cb=20200119130659&path-prefix=es" group-title="Cine y Series",HBO Este
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/250?cb=20200119130659&path-prefix=es" group-title="Cine y Series",HBO
 https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Plus Panamericano" tvg-name="HBO Plus Panamericano" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/200?cb=20200122002249&path-prefix=es" group-title="Cine y Series",HBO Plus Panamericano
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/200?cb=20200122002249&path-prefix=es" group-title="Cine y Series",HBO Plus
 https://cvi.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO 2.png" group-title="Cine y Series",HBO 2
 https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO Family Panamericano" tvg-name="HBO Family Panamericano" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/HBO_Family_LA_2021.png/revision/latest/scale-to-width-down/200?cb=20210306032154&path-prefix=es" group-title="Cine y Series",HBO Family Panamericano
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/HBO_Family_LA_2021.png/revision/latest/scale-to-width-down/200?cb=20210306032154&path-prefix=es" group-title="Cine y Series",HBO Family
 https://cvi.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO MUNDI ARGENTINA" tvg-name="HBO MUNDI ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="Cine y Series",HBO MUNDI ARGENTINA
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="Cine y Series",HBO Mundi
 https://cvi.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO POP.png" group-title="Cine y Series",HBO POP
 https://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HBO Signature.png" group-title="Cine y Series",HBO Signature
 https://cvi.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO XTREME ARGENTINA" tvg-name="HBO XTREME ARGENTINA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest/scale-to-width-down/200?cb=20200129203427&path-prefix=es" group-title="Cine y Series",HBO XTREME ARGENTINA
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/HBO_Xtreme.png/revision/latest/scale-to-width-down/200?cb=20200129203427&path-prefix=es" group-title="Cine y Series",HBO Xtreme
 https://cvi.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="I-Sat" tvg-name="I-Sat" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/I-Sat.png" group-title="Cine y Series",I-Sat
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT.m3u8
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Paramount.png" group-title="Cine y Series",Paramount
 https://cvi.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Cine y Series",Rakuten Action Movies Spain
-https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="Cine y Series",Rakuten Comedy Movies Spain
-https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Cine y Series",Rakuten Spotlight Spain
-https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/512px-Rakuten_Global_Brand_Logo.svg.png" group-title="Cine y Series",Rakuten Top Free Spain
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/512px-Rakuten_Global_Brand_Logo.svg.png" group-title="Cine y Series",Rakuten TV Shows Spain
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Sony.png" group-title="Cine y Series",Sony
 https://cvi.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Space HD.png" group-title="Cine y Series",Space HD
@@ -71,8 +59,6 @@ https://cvi.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Universal Channel.png" group-title="Cine y Series",Universal Channel
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
-#EXTINF:-1 tvg-id="Volver" tvg-name="Volver" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Volver.png" group-title="Cine y Series",Volver
-https://edge5-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Warner Channel.png" group-title="Cine y Series",Warner Channel
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
 #EXTINF:-1 tvg-id="America Sports" tvg-name="America Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/America Sports.png" group-title="Deportes",America Sports
@@ -101,10 +87,6 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sp
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 3.png" group-title="Deportes",ESPN 3
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN4.png" group-title="Deportes",ESPN4
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
-#EXTINF:-1 tvg-id="FLOW GAMING XP" tvg-name="FLOW GAMING XP" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FLOW GAMING XP.png" group-title="Deportes",FLOW GAMING XP
-https://edge-live11-sl.cvattv.com.ar/live/c4eds/Flow_GamingXP/SA_SAGEMCOM/Flow_GamingXP.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS PREMIUM" tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FOX SPORTS PREMIUM.png" group-title="Deportes",FOX SPORTS PREMIUM
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports.png" group-title="Deportes",Fox Sports
@@ -119,19 +101,15 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MMA TV.png" group-title="Deportes",MMA TV
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBA TV.png" group-title="Deportes",NBA TV
-https://edge3-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RedBull TV.png" group-title="Deportes",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="TNT SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT SPORTS.png" group-title="Deportes",TNT SPORTS
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TyC Sports.png" group-title="Deportes",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1 tvg-id="TyC Sports 2" tvg-name="TyC Sports 2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tyc-alternativa_m.png" group-title="Deportes",TyC Sports 2
-https://edge2-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD.m3u8
 #EXTINF:-1 tvg-id="VTV HD" tvg-name="VTV HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VTV HD.png" group-title="Deportes",VTV HD
 https://ed7.zorrohd2.nl/live/ST787d1e8f013e219.m3u8
-#EXTINF:-1 tvg-id="VTV + HD" tvg-name="VTV + HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="Deportes",VTV + HD
+#EXTINF:-1 tvg-id="VTVPlus" tvg-name="VTVPlus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="Deportes",VTVPlus
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/350?cb=20200225220524&path-prefix=es" group-title="Deportes",Win Sports +
 https://ed3.zorrohd2.nl/live/ST96261e37cddcc9c.m3u8
@@ -141,38 +119,20 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Pla
 https://tw.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Science.png" group-title="Documentales",Discovery Science
 https://cvi.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery Theatre HD" tvg-name="Discovery Theatre HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Theatre HD.png" group-title="Documentales",Discovery Theatre HD
-https://edge3-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
-#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery World HD.png" group-title="Documentales",Discovery World HD
-https://edge3-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/H2.png" group-title="Documentales",H2
 https://cvi.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="The History Channel" tvg-name="The History Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/The History Channel.png" group-title="Documentales",The History Channel
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
 #EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Love Nature HD.png" group-title="Documentales",Love Nature HD
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/National Geographic.png" group-title="Documentales",National Geographic
-https://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
-#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NatGeo Wild.png" group-title="Documentales",NatGeo Wild
-https://edge9-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Smithsonian_Channel_2014.svg/revision/latest/scale-to-width-down/400?cb=20200805215445&path-prefix=es" group-title="Documentales",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="Documentales",Tec TV
-https://tv.initium.net.ar:3167/live/initiumlive.m3u8
 #EXTINF:-1 tvg-id="Tru TV" tvg-name="Tru TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tru TV.png" group-title="Documentales",Tru TV
 https://cvi.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery Home &amp; Health" tvg-name="Discovery Home &amp; Health" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Discovery Home &amp; Health
+#EXTINF:-1 tvg-id="Discovery Home  Health" tvg-name="Discovery Home  Health" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Discovery Home  Health
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/E! Entertainment Television.png" group-title="Estilo de Vida",E! Entertainment Television
-https://edge4-hr.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Food Network.png" group-title="Estilo de Vida",Food Network
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Glitz.png" group-title="Estilo de Vida",Glitz
-https://edge4-hr.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
 #EXTINF:-1 tvg-id="Gourmet" tvg-name="Gourmet" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Gourmet.png" group-title="Estilo de Vida",Gourmet
 https://cvi.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HGTV.png" group-title="Estilo de Vida",HGTV
-https://edge-live12-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Hiperconectados Television.png" group-title="Estilo de Vida",Hiperconectados Television
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Hola TV.png" group-title="Estilo de Vida",Hola TV
@@ -189,12 +149,10 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/World Fashion Channel .png" group-title="Estilo de Vida",World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Baby TV.png" group-title="Infantil",Baby TV
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cartoon Network.png" group-title="Infantil",Cartoon Network
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Boomerang
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Cartoonito
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cartoonito/SA_HLS/Cartoonito.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Kids.png" group-title="Infantil",Discovery Kids
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Disney Channel.png" group-title="Infantil",Disney Channel
@@ -213,8 +171,6 @@ https://cvi.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" group-title="Interes General",El Nueve
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
-#EXTINF:-1 tvg-id="Canal A" tvg-name="Canal A" tvg-logo="https://1.bp.blogspot.com/-_vhlnz_To84/X2fo_crp2aI/AAAAAAAA6ts/8WS4TUSWBwUCbSaBtaO_ZvrD_BCv3bHEwCLcBGAsYHQ/w190-h200/canala-2018.png" group-title="Interes General",Canal A
-https://edge2-sl.cvattv.com.ar/live/c6eds/Canal_a/SA_SAGEMCOM/Canal_a.m3u8
 #EXTINF:-1 tvg-id="Magazine" tvg-name="Magazine" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Magazine.png" group-title="Interes General",Magazine
 https://g2.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Trece.png" group-title="Interes General",El Trece
@@ -223,10 +179,6 @@ https://tw.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Gen TV.png" group-title="Interes General",Gen TV
 https://inliveserver.com:1936/14056/14056/chunklist_w410718218.m3u8
-#EXTINF:-1 tvg-id="KZO" tvg-name="KZO" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/KZO.png" group-title="Interes General",KZO
-https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_240p/index.m3u8
-#EXTINF:-1 tvg-id="Metro" tvg-name="Metro" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Metro.png" group-title="Interes General",Metro
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Metro/SA_SAGEMCOM/Metro.m3u8
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Net TV.png" group-title="Interes General",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telefe.png" group-title="Interes General",Telefe
@@ -234,7 +186,7 @@ https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Pública Argentina" tvg-name="TV Pública Argentina" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Pública Argentina.png" group-title="Interes General",TV Pública Argentina
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/24H.png" group-title="Internacional",24H
-https://rtvelivestreamv3.akamaized.net/24h_main_dvr_360.m3u8
+https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Al Jazeera.png" group-title="Internacional",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/Alex-Berlin-TV-Live-TV-Online.png" group-title="Internacional",Alex Berlin
@@ -244,7 +196,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Bloomberg.png" group-title="Internacional",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="Canal 10 HD" tvg-name="Canal 10 HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 10 HD.png" group-title="Internacional",Canal 10 HD
-https://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+http://s846397078.mialojamiento.es/w8jy/mp.php/https://cdnw3.zetatv.com.uy/live_edge/_definst_/amlst:9/playlist.m3u8?token=c217f50b-08cb-45d8-af11-c654908a39f5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cbs News.png" group-title="Internacional",Cbs News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CGTN.png" group-title="Internacional",CGTN
@@ -257,8 +209,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 #EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox News.png" group-title="Internacional",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="El Canal de las Estrellas" tvg-name="El Canal de las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="Internacional",El Canal de las Estrellas
-https://edge6-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Munchen TV.png" group-title="Internacional",Munchen TV
 https://stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NBC News.png" group-title="Internacional",NBC News
@@ -287,36 +237,20 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Usa Today.png" group-title="Internacional",Usa Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="Allegro" tvg-name="Allegro" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Allegro.png" group-title="Musica",Allegro
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/AllegroHD/SA_SAGEMCOM/AllegroHD.m3u8
 #EXTINF:-1 tvg-id="Canal de la Musica" tvg-name="Canal de la Musica" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal de la Musica.png" group-title="Musica",Canal de la Musica
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
-#EXTINF:-1 tvg-id="FLOW MUSIC XP" tvg-name="FLOW MUSIC XP" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/FLOW MUSIC XP.png" group-title="Musica",FLOW MUSIC XP
-https://edge4-hr.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_SAGEMCOM/Flow_Music_XP.m3u8
-#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HTV.png" group-title="Musica",HTV
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
+http://g5.mc-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV.png" group-title="Musica",MTV
 https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV Hits.png" group-title="Musica",MTV Hits
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
-#EXTINF:-1 tvg-id="Much Music" tvg-name="Much Music" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Much Music.png" group-title="Musica",Much Music
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Music Top.png" group-title="Musica",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Power HD.png" group-title="Musica",Power HD
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Quiero" tvg-name="Quiero" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Quiero.png" group-title="Musica",Quiero
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Retro_Music_Television_2013.svg/revision/latest/scale-to-width-down/250?cb=20210627161000" group-title="Musica",Retro TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1471288540_b200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" group-title="Musica",Tierra Mia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Top Latino.png" group-title="Musica",Top Latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VH1.png" group-title="Musica",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Vorterix.png" group-title="Musica",Vorterix
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
 #EXTINF:-1 tvg-id="A 24" tvg-name="A 24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/35%29A24_%282019%29.png/revision/latest/scale-to-width-down/512" group-title="Noticias",A 24
 https://cvi.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.imgur.com/yIWl4a5.png" group-title="Noticias",C5N
@@ -331,8 +265,6 @@ https://cvi.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/IP.png" group-title="Noticias",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
-#EXTINF:-1 tvg-id="La Nación" tvg-name="La Nación" tvg-logo="https://i.imgur.com/Icg7X7L.png" group-title="Noticias",La Nación
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/512px-TN_todo_noticias_logo.svg.png" group-title="Noticias",Todo Noticias
 https://tw.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Pluto TV",Archivos Forenses
@@ -587,8 +519,6 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 11 La Rioja (Fenix Multiplataforma) .png" group-title="Regionales",Canal 11 La Rioja (Fenix Multiplataforma)
 http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/El_Doce_C%C3%B3rdoba_%28Logo_2010%29.png/revision/latest/scale-to-width-down/250?cb=20211001180836&path-prefix=es" group-title="Regionales",Canal 12 Cordoba
-https://edge3-hr.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_SAGEMCOM/Canal_12_CBA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 12 Puerto Madryn.png" group-title="Regionales",Canal 12 Puerto Madryn
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 13 La Rioja.png" group-title="Regionales",Canal 13 La Rioja
@@ -613,8 +543,6 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ptYU7Xe3vpvS_ZNtqtzoji5KnpENnjDhzq6y9f9bOsoWCQEJntKjZk7YaSvfkIl7bN9Fo_ScWA=s88-c-k-c0x00ffffff-no-rj" group-title="Regionales",Canal 7 Salta
 https://panel.dattalive.com/8074/8074/chunklist_w1596032518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Canal_7_Santiago_del_Estero_%28Logo_HD%29.png/revision/latest/scale-to-width-down/250?cb=20210525204437&path-prefix=es" group-title="Regionales",Canal 7 Sgo del Estero
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/chunklist_w698214521.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canal79tv.com.ar/wp-content/uploads/2021/06/canal_79_gif.gif" group-title="Regionales",Canal 79 Mar del Plata
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 9 Televida.png" group-title="Regionales",Canal 9 Televida
@@ -625,8 +553,6 @@ https://usher.ttvnw.net/api/channel/hls/ccanal.m3u8?allow_source=true&fast_bread
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canaltrece San Luis.png" group-title="Regionales",Canaltrece San Luis
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Catacama TV.png" group-title="Regionales",Catacama TV
-https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQih2UstaiRkL8zDuC-j3iH9wwpiHMevdrfPcp5=s88-c-k-c0x00ffffff-no-rj" group-title="Regionales",Chaco TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w550207288.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Cinco TV Tigre.png" group-title="Regionales",Cinco TV Tigre
@@ -637,8 +563,6 @@ http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CTV San Luis.png" group-title="Regionales",CTV San Luis
 https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w1337448816.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Diez Mar del Plata.png" group-title="Regionales",Diez Mar del Plata
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Doce Misiones.png" group-title="Regionales",Doce Misiones
 http://g4.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Palomar TV Tucuman.png" group-title="Regionales",El Palomar TV Tucuman
@@ -657,10 +581,6 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 http://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Santa Fe Canal.png" group-title="Regionales",Santa Fe Canal
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190702030855&path-prefix=es" group-title="Regionales",Telefe Cordoba
-https://edge3-hr.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_SAGEMCOM/Canal_8_CBA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Telefe_Rosario_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190818004053&path-prefix=es" group-title="Regionales",Telefe Rosario
-https://edge3-hr.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_SAGEMCOM/Canal_5_Rosario.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telejunin.png" group-title="Regionales",Telejunin
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TeleNord Corrientes.png" group-title="Regionales",TeleNord Corrientes
@@ -669,8 +589,6 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telpin.png" group-title="Regionales",Telpin
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Publica Fueguina.png" group-title="Regionales",TV Publica Fueguina
-https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TVdos Salta.png" group-title="Regionales",TVdos Salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Unife.png" group-title="Regionales",Unife
@@ -760,7 +678,8 @@ https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="USA",Adventure Sports Network (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lG3OHxA.png" group-title="USA",AFV (720p)
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MQET539.jpg" group-title="USA",Akaku 53 (Hawaii) (720p)
 https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MQET539.jpg" group-title="USA",Akaku 54 (Hawaii) (720p)
@@ -778,7 +697,8 @@ http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GRl09vk.jpg" group-title="USA",Al Hurra (720p)
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6kiOT4K.jpg" group-title="USA",Al Karma TV (1080p)
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-AU.png" group-title="USA",Alkarma TV Australia (1080p)
 https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Family.png" group-title="USA",Alkarma TV Family (1080p)
@@ -828,7 +748,8 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mDxouc8.png" group-title="USA",Baeble Music (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="USA",Battery Pop (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cla.csulb.edu/departments/polisci/wp-content/uploads/2016/01/Beach-TV-Logo-300x169.jpg" group-title="USA",Beach TV CSULB (720p)
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qjzj4TJ.png" group-title="USA",Beach TV Florida & Alabama (720p)
@@ -882,7 +803,8 @@ https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="USA",Cable Hits (1080p)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="USA",Camp Spoopy (720p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="USA",Captital OTB Betting (720p)
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6TmWzvk.jpg" group-title="USA",CBC News (720p)
@@ -938,7 +860,8 @@ http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://odishaexpo.com/wp-content/uploads/2020/10/UP_Entertainment_Cine_Romantico_Logo.jpg" group-title="USA",Cine Romantico (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.arthouseconvergence.org/wp-content/uploads/2015/12/cinelife.png" group-title="USA",CineLife (1080p)
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzI4NjE5OTZf?inline=1" group-title="USA",Cinevault Westerns (540p)
 https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1" group-title="USA",Circle (1080p)
@@ -1018,13 +941,16 @@ https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="USA",EDGEsport (STIRR) (1080p)
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="USA",EDGEsport (US) (720p)
-https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="USA",Electric Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wb4WPPK.jpg" group-title="USA",Entrepreneur (720p)
 https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lb0ddYv.png" group-title="USA",eScapes (XUMO) (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d2f4c46818164091e1fd4" group-title="USA",ESR 24x7 eSports Network (1080p)
 https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/B3oElWL.jpg" group-title="USA",ESTV (1080p)
@@ -1118,7 +1044,8 @@ https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oPnzAPC.png" group-title="USA",Galxy TV (720p)
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pHZGx5L.png" group-title="USA",Ganj e Hozour TV (720p)
-http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V5CTsI0.png" group-title="USA",GFN TV (720p)
 https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/11/Glamour-Logo.jpg" group-title="USA",Glamour (720p)
@@ -1198,7 +1125,8 @@ https://johnnycarson-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rku6tmo.png" group-title="USA",Judge Karen's Court (720p)
 https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="USA",Just for Laughs Gags (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2Ybvtlg.png" group-title="USA",kabillion (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zEWSSdf.jpg" group-title="USA",KBSV/AssyriaSat (720p)
@@ -1214,7 +1142,8 @@ https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FzxuNhl.png" group-title="USA",KVVB-TV 33 Victor Valley (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x9tjDhu.png" group-title="USA",Kweli TV (720p)
-https://a.jsrdn.com/broadcast/9c897f1973/+0000/c.m3u8
+https://a.jsrdn.com/broadcast/9c897f1973/+0000/c.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="USA",Law & Crime (720p)
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="USA",Law & Crime (XUMO) (720p)
@@ -1310,7 +1239,8 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="USA",Mad Dog and Merrill (540p)
 https://rpn1.bozztv.com/36bay2/gusa-mwg/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oIy673i.png" group-title="USA",Magellan TV (720p)
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOgoXoG.png" group-title="USA",MCN6 (1080p)
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KOgoXoG.png" group-title="USA",MCN6 Arts Channel (1080p)
@@ -1332,7 +1262,8 @@ https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tucTC1O.jpg" group-title="USA",Mohabat TV (540p)
 http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iSqYInb.png" group-title="USA",Monarch Channel (720p)
-https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WPklHVE.jpg" group-title="USA",Motorvision (XUMO) (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="USA",Movie Kingdom (720p)
@@ -1346,7 +1277,8 @@ https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9ace054964ba19ff258256" group-title="USA",Mystery Science Theater 3000 (1080p)
 https://mst3k-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="USA",MyTime movie network Brazil (720p)
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A43Njed.png" group-title="USA",myTV San Antonio TX (KCWX-TV) (240p)
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="USA",NASA TV Media (720p)
@@ -1458,7 +1390,8 @@ http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png" group-title="USA",QVC2 (Deutsch) (540p)
 http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="USA",QVTV (720p)
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LrunNdE.png" group-title="USA",Rainbow Ruby (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z8O4Dl6.png" group-title="USA",Real Families (1080p)
@@ -1548,7 +1481,8 @@ https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Mq7PBDN.png" group-title="USA",So Yummy! (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="USA",So...Real (1080p)
-https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
+https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/h9Gxavk.png" group-title="USA",SonLife Broadcasting (SBN) (540p)
 https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/h9Gxavk.png" group-title="USA",SonLife Broadcasting Global (SBN) (720p)
@@ -1588,9 +1522,11 @@ http://210.210.155.35/qwr9ew/s/s39/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TDAmeritradeNetwork_284x284.png?raw=true" group-title="USA",TD Ameritrade Network (1080p)
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyxXMDv.png" group-title="USA",Techno Warehouse (US) (1080p)
-https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="USA",TeleRadyo (480p)
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="USA",Tennis Channel (720p)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cZ4pGmk.png" group-title="USA",TG Junior (1080p)
@@ -1774,16 +1710,14 @@ https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RwxgFfb.jpg" group-title="USA",Yo Gabba Gabba! (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="USA",Young Hollywood (720p)
-https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
+https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/3ABN Latino.png" group-title="Variedades",3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 tvg-id="Argentinisima" tvg-name="Argentinisima" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Argentinisima.png" group-title="Variedades",Argentinisima
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
-#EXTINF:-1 tvg-id="CANAL LUZ" tvg-name="CANAL LUZ" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CANAL LUZ.png" group-title="Variedades",CANAL LUZ
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_SAGEMCOM/CANAL_LUZ.m3u8
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Rural.png" group-title="Variedades",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Señal María" tvg-name="Señal María" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Variedades",Señal María
+#EXTINF:-1 tvg-id="Canal Santa Maria" tvg-name="Canal Santa Maria" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Variedades",Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystreamSantaMariaHSMed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Chacra TV.png" group-title="Variedades",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
@@ -1795,21 +1729,14 @@ https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Variedades",Nasa TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="Nueva Imagen" tvg-name="Nueva Imagen" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nueva Imagen.png" group-title="Variedades",Nueva Imagen
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Nueva_Imagen/SA_SAGEMCOM/Nueva_Imagen.m3u8
 #EXTINF:-1 tvg-id="NUEVO TIEMPO" tvg-name="NUEVO TIEMPO" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/NUEVO TIEMPO.png" group-title="Variedades",NUEVO TIEMPO
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Orbe 21" tvg-name="Canal Orbe 21" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Orbe 21.png" group-title="Variedades",Canal Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PASIONES" tvg-name="PASIONES" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/PASIONES.png" group-title="Variedades",PASIONES
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 #EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telemax.png" group-title="Variedades",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telemundo.png" group-title="Variedades",Telemundo
-https://edge6-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tierra Mia.png" group-title="Variedades",Tierra Mia
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VIAJAR" tvg-name="VIAJAR" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VIAJAR.png" group-title="Variedades",VIAJAR
 https://player.vimeo.com/external/677239387.m3u8?s=9224387856264477174bbfba3762893b455f71bc
-#EXTINF:-1 tvg-id="WOBI" tvg-name="WOBI" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/WOBI.png" group-title="Variedades",WOBI
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/WOBI/SA_SAGEMCOM/WOBI.m3u8
+
