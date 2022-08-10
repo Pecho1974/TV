@@ -120,7 +120,7 @@ https://wisp.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery Science.png" group-title="Documentales",Discovery Science
 https://cvi.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/H2.png" group-title="Documentales",H2
-https://wisp.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+https://piratilla.com/493946/ek?ch=h2
 #EXTINF:-1 tvg-id="The History Channel" tvg-name="The History Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/The History Channel.png" group-title="Documentales",The History Channel
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
 #EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Love Nature HD.png" group-title="Documentales",Love Nature HD
@@ -1705,6 +1705,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/3ABN Latino.png" group-title="Variedades",3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 tvg-id="Argentinisima" tvg-name="Argentinisima" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Argentinisima.png" group-title="Variedades",Argentinisima
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Rural.png" group-title="Variedades",Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Señal María" tvg-name="Señal María" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Variedades",Señal María
