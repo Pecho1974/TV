@@ -249,6 +249,8 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Usa Today.png" group-title="Internacional",Usa Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a5da7d81b208bec79c6ff2c0e90ec8a6.webp" group-title="Internacional",Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal de la Musica" tvg-name="Canal de la Musica" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal de la Musica.png" group-title="Musica",Canal de la Musica
 http://g5.mc-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MTV.png" group-title="Musica",MTV
@@ -256,11 +258,13 @@ https://wisp.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Music Top.png" group-title="Musica",Music Top
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Power HD.png" group-title="Musica",Power HD
-https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Retro_Music_Television_2013.svg/revision/latest/scale-to-width-down/250?cb=20210627161000" group-title="Musica",Retro TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1471288540_b200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" group-title="Musica",Tierra Mia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Top Latino.png" group-title="Musica",Top Latino
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VH1.png" group-title="Musica",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="A 24" tvg-name="A 24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/35%29A24_%282019%29.png/revision/latest/scale-to-width-down/512" group-title="Noticias",A 24
@@ -517,6 +521,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Pluto TV",Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/radioarg-com/latina.png" group-title="Radios",Latina
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/radioarg-com/mega-98-3.png" group-title="Radios",Mega 98.3
+https://mega.stweb.tv/mega983/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/radioarg-com/radio-pop.png" group-title="Radios",POP FM 101.5
+https://ny2.stweb.tv/popradio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/radioarg-com/radio-10.png" group-title="Radios",R10 AM710
+https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Regionales",24/7 Canal de Noticias
 https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Acequia.png" group-title="Regionales",Acequia
