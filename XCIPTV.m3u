@@ -164,7 +164,7 @@ https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_
 #EXTINF:-1 tvg-id="Gourmet" tvg-name="Gourmet" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Gourmet.png" group-title="Estilo de Vida",Gourmet
 https://is-tucuman.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/HGTV.png" group-title="Estilo de Vida",HGTV
-https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Hiperconectados Television.png" group-title="Estilo de Vida",Hiperconectados Television
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="Hola TV" tvg-name="Hola TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Hola TV.png" group-title="Estilo de Vida",Hola TV
@@ -240,7 +240,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Interes General",Telemax (720p)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="TV Pública Argentina" tvg-name="TV Pública Argentina" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Pública Argentina.png" group-title="Interes General",TV Pública Argentina
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/6gUVChN0ZWxldmlzacOzbnDDumJsaWNh/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s500-c-k-c0x00ffffff-no-rj" group-title="Interes General",Urbana TeVe
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/24H.png" group-title="Internacional",24H
@@ -375,18 +375,20 @@ https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VH1.png" group-title="Musica",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="Musica",Vorterix
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/6gUKCgh2b3J0ZXJpeA%3D%3D/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://landingwebimg.s3.amazonaws.com/uploads/landing_page_business/logo/30003/image-upload1645141554.jpeg" group-title="Musica",Zona Joven TV
 https://stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8
 #EXTINF:-1 tvg-id="A 24" tvg-name="A 24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/35%29A24_%282019%29.png/revision/latest/scale-to-width-down/512" group-title="Noticias",A 24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
 #EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.imgur.com/yIWl4a5.png" group-title="Noticias",C5N
-https://is-tucuman.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
 #EXTINF:-1 tvg-id="26 TV" tvg-name="26 TV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/26 TV.png" group-title="Noticias",26 TV
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w109976320_b1864000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNN en español" tvg-name="CNN en español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN en español
 https://is-tucuman.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Crónica TV" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Noticias",Crónica TV
-https://is-tucuman.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live
 #EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Deutsche Welle.png" group-title="Noticias",Deutsche Welle
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Noticias",Euronews en Español (720p)
@@ -773,8 +775,12 @@ https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/chunklist_w1337448816.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Doce Misiones.png" group-title="Regionales",Doce Misiones
 http://g4.mc-hor.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/El_Doce_C%C3%B3rdoba_%28Logo_2010%29.png/revision/latest/scale-to-width-down/250?cb=20211001180836&path-prefix=es" group-title="Regionales",El Doce Cordoba
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCiaePeoCqpU8hBHiNrgkzrA/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Palomar TV Tucuman.png" group-title="Regionales",El Palomar TV Tucuman
 http://video.streamtvradio.com:8081/uv038/uv038/chunks.m3u8?nimblesessionid=105748
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_elonce_tv_2019.png.jpg/177px-Logo_elonce_tv_2019.png.jpg" group-title="Regionales",ELONCE Parana
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCWzsoIEZLGLinhYrm66VD4Q/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" group-title="Regionales",Fenix TV (Ciudad de La Rioja) (360p)
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V9UTZ0D.png" group-title="Regionales",GenTV (720p) [Not 24/7]
@@ -803,6 +809,10 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg" group-title="Regionales",Telediez
 https://videohd.live:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="Regionales",Telefe Rosario
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Telefe_Tucum%C3%A1n_%282018%29.png/133px-Telefe_Tucum%C3%A1n_%282018%29.png" group-title="Regionales",Telefe Tucuman
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCYozHHDnLnQs2yc2k3t8cPA/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telejunin.png" group-title="Regionales",Telejunin
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png" group-title="Regionales",TeleMix
