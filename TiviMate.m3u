@@ -89,7 +89,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Channel Fight.png" group-title="Deportes",Channel Fight
 https://ov.ottera.tv/channels/chan_cf/master.m3u8?
-#EXTINF:-1 tvg-id="DEPORTV" tvg-name="DEPORTV" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/DEPORTV.png" group-title="Deportes",DEPORTV
+#EXTINF:-1 tvg-id="DEPORTV" tvg-name="DEPORTV" tvg-logo="https://camo.githubusercontent.com/4d5c3b33e1d6752ebb4d2d14f37ebe696ef67e4e1e163aaace6fa28eae4f61e6/68747470733a2f2f692e696d6775722e636f6d2f6979594c4e52742e706e67" group-title="Deportes",DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="Deportes",Directv Sports
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
@@ -177,7 +177,7 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Mas Chic" tvg-name="Mas Chic" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Mas Chic.png" group-title="Estilo de Vida",Mas Chic
 https://is-tucuman.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mirador-ar.png" group-title="Estilo de Vida",Mirador
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mirador-ar.png" group-title="Estilo de Vida",Mirador TV
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Estilo de Vida",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
@@ -215,6 +215,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tooncast.png" group-title="Infantil",Tooncast
 https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tA5hQ1K.png" group-title="Interes General",America (YT)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/americaenvivo/live
 #EXTINF:-1 tvg-id="América 2" tvg-name="América 2" tvg-logo="https://i.imgur.com/tA5hQ1K.png" group-title="Interes General",América 2
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" group-title="Interes General",El Nueve
@@ -226,13 +228,13 @@ https://g2.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/
 #EXTINF:-1 tvg-id="ElSiete.ar" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Elsiete.webp/133px-Elsiete.webp.png" group-title="Interes General",El Siete Mendoza
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/live
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Trece.png" group-title="Interes General",El Trece
-https://tw.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Encuentro.png" group-title="Interes General",Encuentro
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/encuentro/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Gen TV.png" group-title="Interes General",Gen TV
 https://inliveserver.com:1936/14056/14056/chunklist_w410718218.m3u8
 #EXTINF:-1 tvg-id="KZO" tvg-name="KZO" tvg-logo="https://i.imgur.com/HFGGwWi.png" group-title="Interes General",KZO
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCv0zRACOVWmhu1Ilufm40-w/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CanalKZO/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://app.emediapp.com/image/logo-metro.png" group-title="Interes General",Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="Interes General",Neo TV
@@ -244,7 +246,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Interes General",Telemax (720p)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="TV Pública Argentina" tvg-name="TV Pública Argentina" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Pública Argentina.png" group-title="Interes General",TV Pública Argentina
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s500-c-k-c0x00ffffff-no-rj" group-title="Interes General",Urbana TeVe
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/24H.png" group-title="Internacional",24H
@@ -394,7 +396,7 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w109976320_b1
 #EXTINF:-1 tvg-id="CNN en español" tvg-name="CNN en español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticias",CNN en español
 https://is-tucuman.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Crónica TV" tvg-name="Crónica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Noticias",Crónica TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv/live
 #EXTINF:-1 tvg-id="Deutsche Welle" tvg-name="Deutsche Welle" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Deutsche Welle.png" group-title="Noticias",Deutsche Welle
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Noticias",Euronews en Español (720p)
@@ -2027,6 +2029,8 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2019/08/Logo-Solidaria1-1.png" group-title="Variedades",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://camo.githubusercontent.com/fb6a15e4bcdc2fb425d2c8d4e2413aefa36c36e784107f4b152c4357ee5d9105/68747470733a2f2f692e696d6775722e636f6d2f74764c486941542e706e67" group-title="Variedades",TV Universidad
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Variedades",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvweb360.tv/aimages/logo/891_ab.png" group-title="Variedades",UNaM
