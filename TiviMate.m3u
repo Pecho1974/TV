@@ -83,6 +83,8 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Warner Channel.png" group-title="Cine y Series",Warner Channel
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZBVv2TObX33fg5xHaB44Fsw41gbmKnbLoQXpcBBbcBOIoIueBIbN-_pKqOnYiciHNdxOomm00cBS5zzwUYdlmtpJgDhYhs0UXJfj_qPdL-lW7tKPMx8NjIwMA0BNpsC1jKDHUBR6eskguWe5Hl8OymjPqRSVDiDOKQWuJ-knE_PPDnjJuIBoGUXhB/s1000/AdrenalinaSportsNetwork.png" group-title="Deportes",Adrenalina Sports
+https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="America Sports" tvg-name="America Sports" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/America Sports.png" group-title="Deportes",America Sports
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="Deportes",Canal Motor
@@ -215,8 +217,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tooncast.png" group-title="Infantil",Tooncast
 https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tA5hQ1K.png" group-title="Interes General",America (YT)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/americaenvivo/live
 #EXTINF:-1 tvg-id="América 2" tvg-name="América 2" tvg-logo="https://i.imgur.com/tA5hQ1K.png" group-title="Interes General",América 2
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" group-title="Interes General",El Nueve
@@ -345,6 +345,164 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a5da7d81b208bec79c6ff2c0e90ec8a6.webp" group-title="Internacional",Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",101 Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",102 CANAL DE LAS ESTRELLAS
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",103 Imagen
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",105 Cinco
+http://190.61.102.67:31589/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",106 Multimedios
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",107 Siete
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",111 ONCE
+http://190.61.102.67:31589/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",114 Canal 14
+http://190.61.102.67:31589/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",120 UNAM
+http://190.61.102.67:31589/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",122 Canal22
+http://190.61.102.67:31589/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",145 Congreso
+http://190.61.102.67:31589/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",152 MVSTV
+http://190.61.102.67:31589/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",154 EXE TV
+http://190.61.102.67:31589/play/a06e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",158 MC
+http://190.61.102.67:31589/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",160 MultiPremiere
+http://190.61.102.67:31589/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",162 CINELATINO
+http://190.61.102.67:31589/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",206 Universal
+http://190.61.102.67:31589/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",208 SONY
+http://190.61.102.67:31589/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",21 - 252 ComedyC
+http://190.61.102.67:31589/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",210 WB
+http://190.61.102.67:31589/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",222 AXN
+http://190.61.102.67:31589/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",224 FX
+http://190.61.102.67:31589/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",226 Space MX
+http://190.61.102.67:31589/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",23 - 290 CartoonNetwork
+http://190.61.102.67:31589/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",230 A&E
+http://190.61.102.67:31589/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",234 Investigation Discovery La
+http://190.61.102.67:31589/play/a04y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",240 TLC
+http://190.61.102.67:31589/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",242 Lifetime
+http://190.61.102.67:31589/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",246 HOLA
+http://190.61.102.67:31589/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",248 E!
+http://190.61.102.67:31589/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",250 TBS
+http://190.61.102.67:31589/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",25-292 Discovery kids
+http://190.61.102.67:31589/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",264 EXETV
+http://190.61.102.67:31589/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",266 MejorTV
+http://190.61.102.67:31589/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",268 VideRola
+http://190.61.102.67:31589/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",27-286 NICKELODEON
+http://190.61.102.67:31589/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",276 TELER
+http://190.61.102.67:31589/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",280 OnceKids
+http://190.61.102.67:31589/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",282 DisneyJR
+http://190.61.102.67:31589/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",285 - Nick Music
+http://190.61.102.67:31589/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",288 EXE TV
+http://190.61.102.67:31589/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",29-236 DH&H
+http://190.61.102.67:31589/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",30-214 TNTSE
+http://190.61.102.67:31589/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",304 AprendeTV2
+http://190.61.102.67:31589/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",306 IngenioTV
+http://190.61.102.67:31589/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",308 Discovery
+http://190.61.102.67:31589/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",312 NatGeo
+http://190.61.102.67:31589/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",31-370 TNT
+http://190.61.102.67:31589/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",318 History
+http://190.61.102.67:31589/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",320 History2
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",322 Arts
+http://190.61.102.67:31589/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",336 Claro Sport
+http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",338 ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",344 ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",350 CNNE
+http://190.61.102.67:31589/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",353 RT
+http://190.61.102.67:31589/play/a01n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",356 Milenio
+http://190.61.102.67:31589/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",358 TVC
+http://190.61.102.67:31589/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",360 Judicial
+http://190.61.102.67:31589/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",372 MC
+http://190.61.102.67:31589/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",378 CineCanal O
+http://190.61.102.67:31589/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",384 Films
+http://190.61.102.67:31589/play/a08i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",386 StudioUniversal
+http://190.61.102.67:31589/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",388 Paramount
+http://190.61.102.67:31589/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",AGROTENDENCIA
+http://190.61.102.67:31589/play/a08b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drive.google.com/file/d/1VVRrptTwKLO6Wn_ov9bwtsoxBWAGevY0/view?usp=sharing" group-title="Latinos",ENERGEEK
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drive.google.com/file/d/1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-/view?usp=sharing" group-title="Latinos",ENERGEEK 2
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drive.google.com/file/d/1Axj9qz_QQBzdI2YMUChl7uiH_ip_z1_9/view?usp=sharing" group-title="Latinos",ENERGEEK 3
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",GOLDEN EDGE
+http://190.61.102.67:31589/play/a08k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",NET TV
+http://regioplay.xyz/php/SR_REGIO_611122_/nettv.php?f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",REWIND TV
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",TELENOVELAS
+http://190.61.102.67:31589/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",TN23
+http://190.61.102.67:31589/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Latinos",UNICABLE
+http://190.61.102.67:31589/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="Musica",A Son de Salsa (720p) [Not 24/7]
 https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal de la Musica" tvg-name="Canal de la Musica" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal de la Musica.png" group-title="Musica",Canal de la Musica
@@ -367,6 +525,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1471288540_b200000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.urbana98.com/uploads/logo/logo_6281181e8b15d.png" group-title="Musica",Señal Urbana
 https://fullvideo.enlaweb.com.ar/video95/video95/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Telehit_logo_2020.png/120px-Telehit_logo_2020.png" group-title="Musica",Telehit
+https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" group-title="Musica",Tierra Mia TV
 https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Top Latino.png" group-title="Musica",Top Latino
@@ -381,6 +541,8 @@ https://srv.panelcast.net/somosculturatv/somosculturatv/playlist.m3u8
 https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/svgW3Fr.png" group-title="Musica",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/vevo_2016_logo.png" group-title="Musica",Vevo
+https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VH1.png" group-title="Musica",VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="Musica",Vorterix
