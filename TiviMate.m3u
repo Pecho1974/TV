@@ -400,7 +400,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Interes General",Telemax (720p)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-id="TV Pública Argentina" tvg-name="TV Pública Argentina" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/TV Pública Argentina.png" group-title="Interes General",TV Pública Argentina
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCs231K71Bnu5295_x0MB5Pg/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQLeFMWMeoumi-o24ohLPXSEdNL5-oJ9W5oP5KnnA=s500-c-k-c0x00ffffff-no-rj" group-title="Interes General",Urbana TeVe
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/24H.png" group-title="Internacional",24H
@@ -568,7 +568,7 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/IP.png" group-title="Noticias",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 #EXTINF:-1 tvg-id="La Nación" tvg-name="La Nación" tvg-logo="https://i.imgur.com/Icg7X7L.png" group-title="Noticias",La Nación
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/LaNacionMas/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="Noticias",RT News (1080p) [Geo-blocked]
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/512px-TN_todo_noticias_logo.svg.png" group-title="Noticias",Todo Noticias
@@ -948,6 +948,8 @@ https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/CN3 Pinamar.png" group-title="Regionales",CN3 Pinamar
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Regionales",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png" group-title="Regionales",Cosmos TV (San Juan)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Regionales",CPEtv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
