@@ -279,17 +279,17 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="Cine y Series",Rakuten Comedy Movies
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cine y Series",Rakuten Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=8b0ef0&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Frakutendrama.png" group-title="Cine y Series",Rakuten Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cine y Series",Rakuten Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=797b17&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Frakutenenfamilia.png" group-title="Cine y Series",Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="Cine y Series",Rakuten Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cine y Series",Rakuten Top Free Spain (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/800px-Rakuten-Global-Logo.jpg?20150210200728" group-title="Cine y Series",Rakuten Top Free Spain (720p)
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cine y Series",Rakuten TV Family Spain (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/800px-Rakuten-Global-Logo.jpg?20150210200728" group-title="Cine y Series",Rakuten TV Family Spain (720p)
 https://rakuten-family-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Cine y Series",Rakuten TV Shows Spain (720p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/800px-Rakuten-Global-Logo.jpg?20150210200728" group-title="Cine y Series",Rakuten TV Shows Spain (720p)
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="Cine y Series",Sofy TV (720p)
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
@@ -455,14 +455,16 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tooncast.png" group-title="Infantil",Tooncast
 https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="América 2" tvg-name="América 2" tvg-logo="https://i.imgur.com/tA5hQ1K.png" group-title="Interes General",América 2
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://i.imgur.com/tA5hQ1K.png" group-title="Interes General",America TV
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
-#EXTINF:-1 tvg-id="El Nueve" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" group-title="Interes General",El Nueve
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" group-title="Interes General",El Nueve
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 9 Televida.png" group-title="Interes General",Canal 9 Televida
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1575933362.m3u8
 #EXTINF:-1 tvg-id="Magazine" tvg-name="Magazine" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Magazine.png" group-title="Interes General",Magazine
 https://g2.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_03/963808115_1-copia.thumb.png.d5b3d934ad6dfe86db9a3db49f2b6326.png" group-title="Interes General",Diputados TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1h8_HKc5wScqeRw1HV6a6w/live
 #EXTINF:-1 tvg-id="ElSiete.ar" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Elsiete.webp/133px-Elsiete.webp.png" group-title="Interes General",El Siete Mendoza
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC64ZNqX0FQHabP8iIkmnR3A/live
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Trece.png" group-title="Interes General",El Trece
