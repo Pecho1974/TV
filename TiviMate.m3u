@@ -311,6 +311,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy83
 https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Documentales",Discovery Science Latin America
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/512px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentales",Discovery Theater Latin America
+http://regioplay.xyz/php/SR_REGIO_502122_/nuevotv2.php?c=dtheater&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-name="History 2 Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 Panregional
 https://delivery.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="History (Tw)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History (Tw)
