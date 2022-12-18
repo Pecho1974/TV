@@ -172,7 +172,7 @@ https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="Comedy Central South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Cine y Series",Comedy Central South
 https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest/scale-to-width-down/220?cb=20210514013226&path-prefix=es" group-title="Cine y Series",DHE
-http://regioplay.xyz/php/SR_REGIO_212122_/nuevotv2.php?c=dhe&key=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=dhe&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery ID" tvg-name="Investigation Discovery South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cine y Series",Investigation Discovery South
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Cine y Series",FX South
@@ -314,9 +314,9 @@ https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Documentales",Discovery Science Latin America
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/512px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentales",Discovery Theater Latin America
-http://regioplay.xyz/php/SR_REGIO_212122_/nuevotv2.php?c=dtheater&key=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=dtheater&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/512px-World_Discovery_HD_logo.svg.png" group-title="Documentales",Discovery World Panregional
-http://regioplay.xyz/php/SR_REGIO_212122_/nuevotv2.php?c=dworld&key=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=dworld&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="H2" tvg-name="History 2 Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 Panregional
 https://delivery.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="History (Tw)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History (Tw)
@@ -337,8 +337,10 @@ https://delivery.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 http://190.61.37.173:9001/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Home &amp; Health" tvg-name="Discovery Home &amp; Health South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Estilo de Vida",Discovery Home &amp; Health South
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/512px-E%21_Logo_2012.svg.png" group-title="Estilo de Vida",E! South
+http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=e&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png" group-title="Estilo de Vida",Food Network Panregional
-http://regioplay.xyz/php/SR_REGIO_212122_/nuevotv2.php?c=food&key=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=food&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="GOURMET" tvg-name="El Gourmet South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/512px-Elgourmetlogo2015.png" group-title="Estilo de Vida",El Gourmet South
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Estilo de Vida",HGTV Panregional
@@ -2197,6 +2199,8 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://paneltv.online:1936/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Variedades",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="Variedades",Telemundo South
+https://v-la.mybtv.net/live/267.m3u8
 #EXTINF:-1 tvg-id="Tevex (720p) [Not 24/7]" tvg-name="" tvg-logo="https://i.imgur.com/sj4sEaN.png" group-title="Variedades",Tevex (720p) [Not 24/7]
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 tvg-id="Tierra Mia" tvg-name="Tierra Mia TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tierramia-tv-ar.png" group-title="Variedades",Tierra Mia TV
