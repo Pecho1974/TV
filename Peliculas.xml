@@ -1,10 +1,18 @@
 <tv>
-<channel id="Matrimillas">
-<display-name>Matrimillas</display-name>
-<icon src="https://static.bunnycdn.ru/i/cache/images/c/c9/c9ccb109c050e06b853c3372babc9870.jpg-w380"/>
+<channel id="PEL5">
+<display-name>Soldado de Élite</display-name>
+<icon src="https://pelisforte.co/wp-content/uploads/2022/04/rJPGPZ5soaG27MK90oKpioSiJE2-170x255.jpg"/>
 </channel>
-<programme start="" stop="" channel="Matrimillas">
-<title>Matrimillas</title>
-<desc>A couple is going through a crisis. They decide to use an app that gives or subtracts points for every good deed they do for each other. This seems to be the solution, until the obsession with accumulating points spirals out of control.</desc>
+<channel id="PEL6">
+<display-name>Black Adam</display-name>
+<icon src="https://pelisforte.co/wp-content/uploads/2022/10/3eQMzMd2qsZkAJbk4wekp3Crg54-170x255.jpg"/>
+</channel>
+<programme start="" stop="" channel="Soldado de Élite">
+<title>PEL5</title>
+<desc>Tras ser involuntariamente dado de baja de los marines, James Reed ingresa en una organización paramilitar para apoyar a su familia de la única manera que sabe.</desc>
+</programme>
+<programme start="" stop="" channel="Black Adam">
+<title>PEL6</title>
+<desc>Casi 5,000 años después de obtener los poderes supremos de los antiguos dioses –y de ser encarcelado igual de rápido–, Black Adam se libera de su tumba terrenal, listo para desatar su peculiar forma de justicia en el mundo moderno.</desc>
 </programme>
 </tv>
