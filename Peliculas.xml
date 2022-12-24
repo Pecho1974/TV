@@ -1,18 +1,34 @@
 <tv>
 <channel id="PEL5">
+<display-name>Medieval</display-name>
+<icon src="https://pelisforte.co/wp-content/uploads/2022/12/4njdAkiBdC5LnFApeXSkFQ78GdT-170x255.jpg"/>
+</channel>
+<channel id="PEL6">
 <display-name>Soldado de Élite</display-name>
 <icon src="https://pelisforte.co/wp-content/uploads/2022/04/rJPGPZ5soaG27MK90oKpioSiJE2-170x255.jpg"/>
 </channel>
-<channel id="PEL6">
+<channel id="PEL7">
 <display-name>Black Adam</display-name>
 <icon src="https://pelisforte.co/wp-content/uploads/2022/10/3eQMzMd2qsZkAJbk4wekp3Crg54-170x255.jpg"/>
 </channel>
-<programme start="" stop="" channel="Soldado de Élite">
+<channel id="PEL8">
+<display-name>Pantera Negra: Wakanda por siempre</display-name>
+<icon src="https://pelisforte.co/wp-content/uploads/2022/11/mYpT2R7639KvKZ668uoQGS2QNFp-170x255.jpg"/>
+</channel>
+<programme start="" stop="" channel="Medieval">
 <title>PEL5</title>
+<desc>La historia del ícono checo del siglo XV y señor de la guerra Jan Zizka, quien derrotó a los ejércitos de la Orden Teutónica y el Sacro Imperio Romano Germánico.</desc>
+</programme>
+<programme start="" stop="" channel="Soldado de Élite">
+<title>PEL6</title>
 <desc>Tras ser involuntariamente dado de baja de los marines, James Reed ingresa en una organización paramilitar para apoyar a su familia de la única manera que sabe.</desc>
 </programme>
 <programme start="" stop="" channel="Black Adam">
-<title>PEL6</title>
+<title>PEL7</title>
 <desc>Casi 5,000 años después de obtener los poderes supremos de los antiguos dioses –y de ser encarcelado igual de rápido–, Black Adam se libera de su tumba terrenal, listo para desatar su peculiar forma de justicia en el mundo moderno.</desc>
+</programme>
+<programme start="" stop="" channel="Pantera Negra: Wakanda por siempre">
+<title>PEL8</title>
+<desc>La reina Ramonda, Shuri, M'Baku, Okoye y las Dora Milaje luchan por proteger a su nación de las potencias mundiales que intervienen tras la muerte del Rey T'Challa. Mientras los habitantes de Wakanda se esfuerzan por embarcarse en un nuevo capítulo, los héroes deben unirse con la ayuda de Nakia y Everett Ross y forjar un nuevo camino para el reino de Wakanda.</desc>
 </programme>
 </tv>
