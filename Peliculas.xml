@@ -1,8 +1,5 @@
 <tv>
-<channel id="PEL5">
-<display-name>Medieval</display-name>
-<icon src="https://pelisforte.co/wp-content/uploads/2022/12/4njdAkiBdC5LnFApeXSkFQ78GdT-170x255.jpg"/>
-</channel>
+<channel id="PEL5"><display-name>Medieval</display-name><icon src="https://pelisforte.co/wp-content/uploads/2022/12/4njdAkiBdC5LnFApeXSkFQ78GdT-170x255.jpg"/>/channel>
 <channel id="PEL6">
 <display-name>Soldado de Élite</display-name>
 <icon src="https://pelisforte.co/wp-content/uploads/2022/04/rJPGPZ5soaG27MK90oKpioSiJE2-170x255.jpg"/>
@@ -27,10 +24,8 @@
 <display-name>Lilo Lilo cocodrilo</display-name>
 <icon src="https://pelisforte.co/wp-content/uploads/2022/11/abwNekWRWxBL1JF9VvO5Q5lacu9-170x255.jpg"/>
 </channel>
-<programme start="" stop="" channel="PEL5">
-<title>Medieval</title>
-<desc>La historia del ícono checo del siglo XV y señor de la guerra Jan Zizka, quien derrotó a los ejércitos de la Orden Teutónica y el Sacro Imperio Romano Germánico.</desc>
-</programme>
+
+<programme channel="PEL5"><title>Medieval</title><desc>La historia del ícono checo del siglo XV y señor de la guerra Jan Zizka, quien derrotó a los ejércitos de la Orden Teutónica y el Sacro Imperio Romano Germánico.</desc></programme>
 <programme start="" stop="" channel="PEL6">
 <title>Soldado de Élite</title>
 <desc>Tras ser involuntariamente dado de baja de los marines, James Reed ingresa en una organización paramilitar para apoyar a su familia de la única manera que sabe.</desc>
