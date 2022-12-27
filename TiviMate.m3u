@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U"https://raw.githubusercontent.com/Pecho1974/TV/main/https://bit.ly/3GTJJIT"
 #EXTINF:-1 tvg-id="A&E" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" group-title="Alternativo",A&E
 http://190.61.102.67:31589/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="AGROTENDENCIA" tvg-name="" tvg-logo="https://agrotendencia.tv/wp-content/uploads/2021/01/cropped-attvlog_wap.png" group-title="Alternativo",AGROTENDENCIA
@@ -295,6 +295,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/slakun10
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:-1 tvg-id="TyC Sports (Tw)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (Tw)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tycsports
 #EXTINF:-1 tvg-id="TyC Sports 2" tvg-name="TyC Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/TyC2.png" group-title="Deportes",TyC Sports 2
 https://edge1.zorrohd3.nl/live/ST560301f1b4d56f4.m3u8
 #EXTINF:-1 tvg-id="VTV" tvg-name="VTV HD" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/VTV HD.png" group-title="Deportes",VTV HD
@@ -595,8 +597,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
 #EXTINF:-1 tvg-id="HispanTV (480p)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/512px-HispanTv_logo.svg.png" group-title="Noticias",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1 tvg-id="IP" tvg-name="Informacion Periodistica" tvg-logo="https://i.imgur.com/SQSu9M5.png" group-title="Noticias",Informacion Periodistica
+#EXTINF:-1 tvg-id="IP" tvg-name="Informacion Periodistica" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/IP" group-title="Noticias",Informacion Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+#EXTINF:-1 tvg-id="IP" tvg-name="Informacion Periodistica" group-title="Noticias",Informacion Periodistica
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1bBjOZieJWHbsFA0LwjjJA/live
 #EXTINF:-1 tvg-id="LN+" tvg-name="La Nacion +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/512px-LN%2B.png" group-title="Noticias",La Nacion +
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 #EXTINF:-1 tvg-id="RT News (1080p) [Geo-blocked]" tvg-name="RT en Espanol" tvg-logo="https://i.imgur.com/Fbli6Ml.png" group-title="Noticias",RT en Espanol
@@ -2163,7 +2167,7 @@ https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1 tvg-id="AGROTENDENCIA" tvg-name="Agrotendencia TV" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Variedades",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="Argentinisima" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="Variedades",Argentinisima Satelital
+#EXTINF:-1 tvg-id="Argentinisima" tvg-name="Argentinisima Satelital" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Variedades",Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Iberoamericano" tvg-name="" tvg-logo="https://www.ilce.edu.mx/images/home/ci.png" group-title="Variedades",Canal Iberoamericano
 https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/playlist.m3u8
