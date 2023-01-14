@@ -1,5 +1,4 @@
-#EXTM3U 
-url-tvg="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml.gz"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml.gz"
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" group-title="Alternativo",A&E
 http://190.61.102.67:31589/play/a03f/index.m3u8
