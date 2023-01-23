@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" group-title="Alternativo",A&E
+#EXTINF:-1 tvg-id="AESouth.us" tvg-name="A&amp;E South" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" group-title="Alternativo",A&amp;E South
 http://190.61.102.67:31589/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://agrotendencia.tv/wp-content/uploads/2021/01/cropped-attvlog_wap.png" group-title="Alternativo",AGROTENDENCIA
 http://190.61.102.67:31589/play/a08b/index.m3u8
@@ -7,7 +7,7 @@ http://190.61.102.67:31589/play/a08b/index.m3u8
 http://190.61.102.67:31589/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Alternativo",Arts
 http://190.61.102.67:31589/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Alternativo",AXN
+#EXTINF:-1 tvg-id="AXNAndes.us" tvg-name="AXN Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Alternativo",AXN Andes
 http://190.61.102.67:31589/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Azteca_Uno_2020.svg/revision/latest/scale-to-width-down/300?cb=20210516152147&path-prefix=es" group-title="Alternativo",Azteca Uno
 http://190.61.102.67:31589/play/a04p/index.m3u8
@@ -23,21 +23,21 @@ http://190.61.102.67:31589/play/a00j/index.m3u8
 http://190.61.102.67:31589/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/Canal52016.png/revision/latest/scale-to-width-down/200?cb=20210515153931&path-prefix=es" group-title="Alternativo",Cinco
 http://190.61.102.67:31589/play/a038/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest/scale-to-width-down/250?cb=20220325004838&path-prefix=es" group-title="Alternativo",CineCanal O
+#EXTINF:-1 tvg-id="CinecanalWest.us" tvg-name="Cinecanal West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest/scale-to-width-down/250?cb=20220325004838&path-prefix=es" group-title="Alternativo",Cinecanal West
 http://190.61.102.67:31589/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Cine_Latino_2017.png/revision/latest?cb=20191223214422&path-prefix=es" group-title="Alternativo",CINELATINO
 http://190.61.102.67:31589/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/300?cb=20140409052254" group-title="Alternativo",Claro Sport
 http://190.61.102.67:31589/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Logotipo_de_CNN_en_Espa%C3%B1ol.svg/revision/latest/scale-to-width-down/200?cb=20210302023322" group-title="Alternativo",CNN Español
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Espanol" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Logotipo_de_CNN_en_Espa%C3%B1ol.svg/revision/latest/scale-to-width-down/200?cb=20210302023322" group-title="Alternativo",CNN en Espanol
 http://190.61.102.67:31589/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Comedy_Central_2019.png/revision/latest/scale-to-width-down/350?cb=20190304202857&path-prefix=es" group-title="Alternativo",Comedy Central
 http://190.61.102.67:31589/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Alternativo",Congreso
 http://190.61.102.67:31589/play/a046/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Alternativo",DH&H
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home &amp; Health Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Alternativo",Discovery Home &amp; Health Panregional
 http://190.61.102.67:31589/play/a03g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20200113171937&path-prefix=es" group-title="Alternativo",Discovery
+#EXTINF:-1 tvg-id="DiscoveryChannelMexico.mx" tvg-name="Discovery Channel Mexico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20200113171937&path-prefix=es" group-title="Alternativo",Discovery Channel Mexico
 http://190.61.102.67:31589/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Discovery_Kids_2016.svg/revision/latest/scale-to-width-down/200?cb=20200126230015&path-prefix=es" group-title="Alternativo",Discovery kids
 http://190.61.102.67:31589/play/a015/index.m3u8
