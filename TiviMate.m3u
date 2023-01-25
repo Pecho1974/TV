@@ -69,7 +69,7 @@ http://190.61.102.67:31589/play/a08i/index.m3u8
 http://190.61.102.67:31589/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Golden_Edge_LA_%282020%29.png/revision/latest/scale-to-width-down/300?cb=20201205211515" group-title="Alternativo",GOLDEN EDGE
 http://190.61.102.67:31589/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/200?cb=20211213155518" group-title="Alternativo",History
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-name="History South" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/200?cb=20211213155518" group-title="Alternativo",History South
 http://190.61.102.67:31589/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/History_2_%282022%29.png/revision/latest/scale-to-width-down/200?cb=20220318170401" group-title="Alternativo",History2
 http://190.61.102.67:31589/play/a00v/index.m3u8
@@ -101,7 +101,7 @@ http://190.61.102.67:31589/play/a039/index.m3u8
 http://190.61.102.67:31589/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Logomvstv-300x100.png/revision/latest?cb=20181121215826" group-title="Alternativo",MVS tv
 http://190.61.102.67:31589/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/300?cb=20170701154034" group-title="Alternativo",NatGeo
+#EXTINF:-1 tvg-id="NationalGeographicPanregional.us" tvg-name="National Geographic Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/300?cb=20170701154034" group-title="Alternativo",National Geographic Panregional
 http://190.61.102.67:31589/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/NETTV2018.png/revision/latest/scale-to-width-down/200?cb=20181231230522" group-title="Alternativo",NET TV
 http://regioplay.xyz/php/SR_REGIO_611122_/nettv.php?f=.m3u8
@@ -175,6 +175,8 @@ https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=dhe&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-name="Investigation Discovery South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cine y Series",Investigation Discovery South
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery ID.png" group-title="Cine y Series",Discovery ID (Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ivd_19f
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-name="FX South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Cine y Series",FX South
 https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="Golden Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Cine y Series",Golden Panregional
@@ -287,6 +289,8 @@ https://delivery.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RedBull TV.png" group-title="Deportes",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canalshowsport.com.ar/wp-content/uploads/2021/11/2021-11-logo-SS-HEADER-blueE.png" group-title="Deportes",ShowSport (Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalshowsport
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Deportes",Ski TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://liquipedia.net/commons/images/thumb/b/bf/KRU_Esports_allmode.png/600px-KRU_Esports_allmode.png" group-title="Deportes",SLAKUN
@@ -345,6 +349,8 @@ http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=e&key=SrRegio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=food&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-name="El Gourmet South" tvg-logo="https://i.imgur.com/yrVMdst.png" group-title="Estilo de Vida",El Gourmet South
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home &amp; Health Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/512px-Discovery_H%26H_Logo_2022.webp.png" group-title="Estilo de Vida",Discovery Home &amp; Health Panregional
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt29
 #EXTINF:-1 tvg-id="HGTVPanregional.us" tvg-name="HGTV Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/512px-HGTV_US_Logo_2015.svg.png" group-title="Estilo de Vida",HGTV Panregional
 https://delivery.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Hiperconectados Television.png" group-title="Estilo de Vida",Hiperconectados Television
@@ -371,12 +377,18 @@ https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network South Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network South Atlantic
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Infantil",Cartoon Network (Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/113kkctoon
 #EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Cartoonito Argentina
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoonito/SA_HLS/Cartoonito.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="Discovery Kids Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="Infantil",Discovery Kids Panregional
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel South
 https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel (ok.ru)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/video/4123310628395
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel (Twitch)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/dk_0150
 #EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior South" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png" group-title="Infantil",Disney Junior South
 https://delivery.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Infantil",EnerGeek (720p) [Not 24/7]
@@ -387,10 +399,16 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Infantil",LatinoKids (360p) [Not 24/7]
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonPanregional.us" tvg-name="Nickelodeon Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Infantil",Nickelodeon Panregional
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/teen023
 #EXTINF:-1 tvg-id="NickJrSouth.us" tvg-name="Nick Jr South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",Nick Jr South
 https://delivery.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Infantil",Nick Jr (ok.ru)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/live/4040189287979
 #EXTINF:-1 tvg-id="NickelodeonSouth.us" tvg-name="Nickelodeon South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Infantil",Nickelodeon South
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Nick/SA_HLS/Nick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NickMusic_Logo.png/800px-NickMusic_Logo.png" group-title="Infantil",NickMusic (ok.ru)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/live/4123312594475
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Infantil",Pakapaka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Infantil",Pakapaka
