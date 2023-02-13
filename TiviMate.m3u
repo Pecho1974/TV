@@ -287,6 +287,8 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MMA TV.png" group-title="Deportes",MMA TV
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Deportes",NBA TV
+https://br.embedflix.net/p2p/nba2/chunks.m3u8?nimblesessionid=2056183&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIzIDEyOjIzOjU0IEFNJmhhc2hfdmFsdWU9SFJmVGxnQjZQd293T0dLL2pKTGllZz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RedBull TV.png" group-title="Deportes",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canalshowsport.com.ar/wp-content/uploads/2021/11/2021-11-logo-SS-HEADER-blueE.png" group-title="Deportes",ShowSport (Twitch)
@@ -323,6 +325,8 @@ https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=dtheater&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World Panregional" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World Panregional
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=dworld&key=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery World (Brasil).png" group-title="Documentales",Discovery World (Brasil)
+https://server100.online/discovery-world/tracks-v1a1/mono.m3u8?remote=190.177.179.118&token=2dc0d342507102812a2d8ff6fd50b4a365d11a22-1177bb27f460f12e31a13f747661fc3d-1676250493-1676246893
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="History 2 Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 Panregional
 https://delivery.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History (Tw)
@@ -443,6 +447,8 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Interes General",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/96f3d9eb-8d37-4033-9dbc-289babcd7baf-profile_image-70x70.png" group-title="Interes General",SucesosTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sucesostv
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Interes General",Telefe
 https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/512px-Telemax_Argentina_%282018%29.png" group-title="Interes General",Telemax
