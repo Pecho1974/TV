@@ -287,8 +287,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/MMA TV.png" group-title="Deportes",MMA TV
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Deportes",NBA TV
-https://br.embedflix.net/p2p/nba2/chunks.m3u8?nimblesessionid=2056183&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDIzIDEyOjIzOjU0IEFNJmhhc2hfdmFsdWU9SFJmVGxnQjZQd293T0dLL2pKTGllZz09JnZhbGlkbWludXRlcz05MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/RedBull TV.png" group-title="Deportes",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canalshowsport.com.ar/wp-content/uploads/2021/11/2021-11-logo-SS-HEADER-blueE.png" group-title="Deportes",ShowSport (Twitch)
@@ -325,8 +323,6 @@ https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=dtheater&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorldPanregional.us" tvg-name="Discovery World Panregional" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World Panregional
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=dworld&key=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Discovery World (Brasil).png" group-title="Documentales",Discovery World (Brasil)
-https://server100.online/discovery-world/tracks-v1a1/mono.m3u8?remote=190.177.179.118&token=2dc0d342507102812a2d8ff6fd50b4a365d11a22-1177bb27f460f12e31a13f747661fc3d-1676250493-1676246893
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-name="History 2 Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 Panregional
 https://delivery.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History (Tw)
@@ -426,7 +422,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Interes General",El Nueve
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="Canal 9 Televida" tvg-logo="https://i.imgur.com/JUtAzg4.png" group-title="Interes General",Canal 9 Televida
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w1575933362.m3u8
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-name="Ciudad Magazine" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Interes General",Ciudad Magazine
 https://g2.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="DiputadosTV.ar" tvg-name="Diputados TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_03/963808115_1-copia.thumb.png.d5b3d934ad6dfe86db9a3db49f2b6326.png" group-title="Interes General",Diputados TV
@@ -2269,4 +2265,6 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 http://192.100.186.53:8090/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Viajar.png" group-title="Variedades",Viajar
 https://player.vimeo.com/external/677239387.m3u8?s=9224387856264477174bbfba3762893b455f71bc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="Variedades",Viajar TV
+https://f4712f05a3e8493f9c73495feb9f9c1e.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/herogo001NP2/afcabda8-b185-468d-a989-784f94b8e76e/1.m3u8
 
