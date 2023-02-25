@@ -181,9 +181,9 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Documentales",Tru TV América Latina
 http://190.61.37.173:9001/play/a084/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Discovery Home &amp; Health
+#EXTINF:-1 tvg-id="Canal Discovery Home &amp; Health (México)" tvg-name="Canal Discovery Home &amp; Health (México)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Canal Discovery Home &amp; Health (México)
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Fpl3gQUmPKCmtGC1bKm3VgMBmVY.png/revision/latest/scale-to-width-down/50?cb=20220412010345&path-prefix=es" group-title="Estilo de Vida",E! Entertainment
+#EXTINF:-1 tvg-id="Canal E! Entertainment Television (Panregional)" tvg-name="Canal E! Entertainment Television (Panregional)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Fpl3gQUmPKCmtGC1bKm3VgMBmVY.png/revision/latest/scale-to-width-down/50?cb=20220412010345&path-prefix=es" group-title="Estilo de Vida",Canal E! Entertainment Television (Panregional)
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=e&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/200?cb=20211221202426&path-prefix=es" group-title="Estilo de Vida",Food Network
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=food&key=SrRegio&f=.m3u8
@@ -195,15 +195,15 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt29
 https://delivery.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Hiperconectados Television.png" group-title="Estilo de Vida",Hiperconectados Television
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="Estilo de Vida",Hola TV
+#EXTINF:-1 tvg-id="Canal ¡HOLA! TV" tvg-name="Canal ¡HOLA! TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="Estilo de Vida",Canal ¡HOLA! TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="Estilo de Vida",Hola TV (2)
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Insight TV.png" group-title="Estilo de Vida",Insight TV
 https://insighttv-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lifetime_Logo_%282020-presente%29.svg/revision/latest/scale-to-width-down/300?cb=20200125121516&path-prefix=es" group-title="Estilo de Vida",Lifetime
+#EXTINF:-1 tvg-id="Canal Lifetime (Panregional)" tvg-name="Canal Lifetime (Panregional)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lifetime_Logo_%282020-presente%29.svg/revision/latest/scale-to-width-down/300?cb=20200125121516&path-prefix=es" group-title="Estilo de Vida",Canal Lifetime (Panregional)
 https://delivery.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/M%C3%A1s_Chic_%28Negro%29.png/revision/latest/scale-to-width-down/150?cb=20200112012816&path-prefix=es" group-title="Estilo de Vida",Mas Chic
+#EXTINF:-1 tvg-id="Canal Más Chic Latinoamérica" tvg-name="Canal Más Chic Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/M%C3%A1s_Chic_%28Negro%29.png/revision/latest/scale-to-width-down/150?cb=20200112012816&path-prefix=es" group-title="Estilo de Vida",Canal Más Chic Latinoamérica
 https://delivery.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mirador-ar.png" group-title="Estilo de Vida",Mirador TV
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
@@ -211,7 +211,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Tastemade.png" group-title="Estilo de Vida",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/250?cb=20220706233159&path-prefix=es" group-title="Estilo de Vida",TLC
+#EXTINF:-1 tvg-id="Canal TLC (Latinoamérica)" tvg-name="Canal TLC (Latinoamérica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/250?cb=20220706233159&path-prefix=es" group-title="Estilo de Vida",Canal TLC (Latinoamérica)
 https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/World Fashion Channel .png" group-title="Estilo de Vida",World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
