@@ -187,7 +187,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_He
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=e&key=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/200?cb=20211221202426&path-prefix=es" group-title="Estilo de Vida",Food Network
 http://regioplay.xyz/php/SR_REGIO_712122_/nuevotv2.php?c=food&key=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="Estilo de Vida",GOURMET
+#EXTINF:-1 tvg-id="Canal Elgourmet" tvg-name="Canal Elgourmet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="Estilo de Vida",Canal Elgourmet
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/H&H (Twitch).png" group-title="Estilo de Vida",H&H (Twitch)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt29
@@ -257,9 +257,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",Tooncast
 https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/America2020.png/revision/latest/scale-to-width-down/200?cb=20200602023759&path-prefix=es" group-title="Interes General",America TV
+#EXTINF:-1 tvg-id="Canal America TV (Argentina)" tvg-name="Canal America TV (Argentina)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/America2020.png/revision/latest/scale-to-width-down/200?cb=20200602023759&path-prefix=es" group-title="Interes General",Canal America TV (Argentina)
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Nueve2017.png/revision/latest/scale-to-width-down/150?cb=20210526032354&path-prefix=es" group-title="Interes General",Canal 9
+#EXTINF:-1 tvg-id="El Nueve HD" tvg-name="El Nueve HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Nueve2017.png/revision/latest/scale-to-width-down/150?cb=20210526032354&path-prefix=es" group-title="Interes General",El Nueve HD
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal 9 Televida.png" group-title="Interes General",Canal 9 Televida
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -285,9 +285,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/96f3d9eb-8d37-4033-9dbc-289babcd7baf-profile_image-70x70.png" group-title="Interes General",SucesosTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sucesostv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Telefe_2018_3D.svg/revision/latest/scale-to-width-down/200?cb=20210919025821&path-prefix=es" group-title="Interes General",Telefe
+#EXTINF:-1 tvg-id="Canal Telefé (Argentina)" tvg-name="Canal Telefé (Argentina)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Telefe_2018_3D.svg/revision/latest/scale-to-width-down/200?cb=20210919025821&path-prefix=es" group-title="Interes General",Canal Telefé (Argentina)
 https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Interes General",Telefe Internacional
+#EXTINF:-1 tvg-id="Canal Telefe Internacional" tvg-name="Canal Telefe Internacional" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Interes General",Canal Telefe Internacional
 https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Pecho1974/Logos/main/Telemax (720p).png" group-title="Interes General",Telemax (720p)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
