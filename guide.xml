@@ -340,6 +340,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMERICA HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
+  <channel id="El Nueve">
+    <display-name lang="es">El Nueve</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
   <channel id="Magazine">
     <display-name lang="es">Magazine</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Magazine.png" />
@@ -40585,6 +40590,351 @@
   </programme>
   <programme start="20230313220000 -0300" stop="20230314000000 -0300" channel="AMERICA HD">
     <title lang="es">Secretos verdaderos de colección</title>
+  </programme>
+  <programme start="20230307231500 -0300" stop="20230308000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230308000000 -0300" stop="20230308003000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+  <programme start="20230308003000 -0300" stop="20230308010000 -0300" channel="El Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20230308010000 -0300" stop="20230308011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20230308011500 -0300" stop="20230308021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20230308021500 -0300" stop="20230308024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20230308024500 -0300" stop="20230308033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230308033000 -0300" stop="20230308050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20230308050000 -0300" stop="20230308060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20230308060000 -0300" stop="20230308070000 -0300" channel="El Nueve">
+    <title lang="es">Amanece</title>
+  </programme>
+  <programme start="20230308070000 -0300" stop="20230308100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20230308100000 -0300" stop="20230308120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20230308120000 -0300" stop="20230308140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20230308140000 -0300" stop="20230308160000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20230308160000 -0300" stop="20230308170000 -0300" channel="El Nueve">
+    <title lang="es">Flechazo, amor oculto</title>
+  </programme>
+  <programme start="20230308170000 -0300" stop="20230308190000 -0300" channel="El Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20230308190000 -0300" stop="20230308203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20230308203000 -0300" stop="20230308220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20230308220000 -0300" stop="20230308231500 -0300" channel="El Nueve">
+    <title lang="es">La hora exacta</title>
+  </programme>
+  <programme start="20230308231500 -0300" stop="20230309000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230309000000 -0300" stop="20230309003000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+  <programme start="20230309003000 -0300" stop="20230309010000 -0300" channel="El Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20230309010000 -0300" stop="20230309011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20230309011500 -0300" stop="20230309021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20230309021500 -0300" stop="20230309024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20230309024500 -0300" stop="20230309033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230309033000 -0300" stop="20230309050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20230309050000 -0300" stop="20230309060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20230309060000 -0300" stop="20230309070000 -0300" channel="El Nueve">
+    <title lang="es">Amanece</title>
+  </programme>
+  <programme start="20230309070000 -0300" stop="20230309100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20230309100000 -0300" stop="20230309120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20230309120000 -0300" stop="20230309140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20230309140000 -0300" stop="20230309160000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20230309160000 -0300" stop="20230309170000 -0300" channel="El Nueve">
+    <title lang="es">Flechazo, amor oculto</title>
+  </programme>
+  <programme start="20230309170000 -0300" stop="20230309190000 -0300" channel="El Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20230309190000 -0300" stop="20230309203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20230309203000 -0300" stop="20230309220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20230309220000 -0300" stop="20230309231500 -0300" channel="El Nueve">
+    <title lang="es">La hora exacta</title>
+  </programme>
+  <programme start="20230309231500 -0300" stop="20230310000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230310000000 -0300" stop="20230310003000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+  <programme start="20230310003000 -0300" stop="20230310010000 -0300" channel="El Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20230310010000 -0300" stop="20230310011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20230310011500 -0300" stop="20230310021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20230310021500 -0300" stop="20230310024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20230310024500 -0300" stop="20230310033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230310033000 -0300" stop="20230310050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20230310050000 -0300" stop="20230310060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20230310060000 -0300" stop="20230310070000 -0300" channel="El Nueve">
+    <title lang="es">Amanece</title>
+  </programme>
+  <programme start="20230310070000 -0300" stop="20230310100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20230310100000 -0300" stop="20230310120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20230310120000 -0300" stop="20230310140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20230310140000 -0300" stop="20230310160000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20230310160000 -0300" stop="20230310170000 -0300" channel="El Nueve">
+    <title lang="es">Flechazo, amor oculto</title>
+  </programme>
+  <programme start="20230310170000 -0300" stop="20230310190000 -0300" channel="El Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20230310190000 -0300" stop="20230310203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20230310203000 -0300" stop="20230310220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20230310220000 -0300" stop="20230310231500 -0300" channel="El Nueve">
+    <title lang="es">La hora exacta</title>
+  </programme>
+  <programme start="20230310231500 -0300" stop="20230311000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230311000000 -0300" stop="20230311003000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+  <programme start="20230311003000 -0300" stop="20230311010000 -0300" channel="El Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+  <programme start="20230311010000 -0300" stop="20230311011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20230311011500 -0300" stop="20230311021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20230311021500 -0300" stop="20230311024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20230311024500 -0300" stop="20230311033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230311033000 -0300" stop="20230311050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20230311050000 -0300" stop="20230311060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20230311060000 -0300" stop="20230311070000 -0300" channel="El Nueve">
+    <title lang="es">Amanece</title>
+  </programme>
+  <programme start="20230311070000 -0300" stop="20230311100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+  <programme start="20230311100000 -0300" stop="20230311120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+  <programme start="20230311120000 -0300" stop="20230311140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+  <programme start="20230311140000 -0300" stop="20230311160000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+  <programme start="20230311160000 -0300" stop="20230311170000 -0300" channel="El Nueve">
+    <title lang="es">Flechazo, amor oculto</title>
+  </programme>
+  <programme start="20230311170000 -0300" stop="20230311190000 -0300" channel="El Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+  <programme start="20230311190000 -0300" stop="20230311203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+  <programme start="20230311203000 -0300" stop="20230311220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+  <programme start="20230311220000 -0300" stop="20230311231500 -0300" channel="El Nueve">
+    <title lang="es">La hora exacta</title>
+  </programme>
+  <programme start="20230311231500 -0300" stop="20230312000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230312000000 -0300" stop="20230312003000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+  <programme start="20230312003000 -0300" stop="20230312011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20230312011500 -0300" stop="20230312021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20230312021500 -0300" stop="20230312024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+  <programme start="20230312024500 -0300" stop="20230312033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20230312033000 -0300" stop="20230312050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20230312050000 -0300" stop="20230312060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20230312060000 -0300" stop="20230312070000 -0300" channel="El Nueve">
+    <title lang="es">Planeta urbano</title>
+  </programme>
+  <programme start="20230312070000 -0300" stop="20230312090000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20230312090000 -0300" stop="20230312100000 -0300" channel="El Nueve">
+    <title lang="es">Claves para un mundo mejor</title>
+  </programme>
+  <programme start="20230312100000 -0300" stop="20230312110000 -0300" channel="El Nueve">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+  <programme start="20230312110000 -0300" stop="20230312120000 -0300" channel="El Nueve">
+    <title lang="es">Con estilo</title>
+  </programme>
+  <programme start="20230312120000 -0300" stop="20230312130000 -0300" channel="El Nueve">
+    <title lang="es">Jineteando</title>
+  </programme>
+  <programme start="20230312130000 -0300" stop="20230312140000 -0300" channel="El Nueve">
+    <title lang="es">Nara que ver</title>
+  </programme>
+  <programme start="20230312140000 -0300" stop="20230312180000 -0300" channel="El Nueve">
+    <title lang="es">La tarde del 9</title>
+  </programme>
+  <programme start="20230312180000 -0300" stop="20230312200000 -0300" channel="El Nueve">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="20230312200000 -0300" stop="20230312220000 -0300" channel="El Nueve">
+    <title lang="es">Vivo para vos</title>
+  </programme>
+  <programme start="20230312220000 -0300" stop="20230312230000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+  <programme start="20230312230000 -0300" stop="20230313000000 -0300" channel="El Nueve">
+    <title lang="es">Con estilo</title>
+  </programme>
+  <programme start="20230313000000 -0300" stop="20230313003000 -0300" channel="El Nueve">
+    <title lang="es">For Heber Golf</title>
+  </programme>
+  <programme start="20230313003000 -0300" stop="20230313010000 -0300" channel="El Nueve">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+  <programme start="20230313010000 -0300" stop="20230313020000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20230313020000 -0300" stop="20230313030000 -0300" channel="El Nueve">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+  <programme start="20230313030000 -0300" stop="20230313050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20230313050000 -0300" stop="20230313060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+  <programme start="20230313060000 -0300" stop="20230313070000 -0300" channel="El Nueve">
+    <title lang="es">Planeta urbano</title>
+  </programme>
+  <programme start="20230313070000 -0300" stop="20230313090000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+  <programme start="20230313090000 -0300" stop="20230313093000 -0300" channel="El Nueve">
+    <title lang="es">Prevenir</title>
+  </programme>
+  <programme start="20230313093000 -0300" stop="20230313100000 -0300" channel="El Nueve">
+    <title lang="es">Conexión jubilados</title>
+  </programme>
+  <programme start="20230313100000 -0300" stop="20230313103000 -0300" channel="El Nueve">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+  <programme start="20230313103000 -0300" stop="20230313110000 -0300" channel="El Nueve">
+    <title lang="es">Automás</title>
+  </programme>
+  <programme start="20230313110000 -0300" stop="20230313120000 -0300" channel="El Nueve">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+  <programme start="20230313120000 -0300" stop="20230313130000 -0300" channel="El Nueve">
+    <title lang="es">La cocina de los Calamaro</title>
+  </programme>
+  <programme start="20230313130000 -0300" stop="20230313140000 -0300" channel="El Nueve">
+    <title lang="es">Alumnitos</title>
+  </programme>
+  <programme start="20230313140000 -0300" stop="20230313180000 -0300" channel="El Nueve">
+    <title lang="es">La tarde del 9</title>
+  </programme>
+  <programme start="20230313180000 -0300" stop="20230313200000 -0300" channel="El Nueve">
+    <title lang="es">Implacables</title>
+  </programme>
+  <programme start="20230313200000 -0300" stop="20230313220000 -0300" channel="El Nueve">
+    <title lang="es">Vivo para vos</title>
+  </programme>
+  <programme start="20230313220000 -0300" stop="20230314000000 -0300" channel="El Nueve">
+    <title lang="es">Opinión pública</title>
   </programme>
   <programme start="20230307230000 -0300" stop="20230308000000 -0300" channel="Magazine">
     <title lang="es">Fatmagul</title>
