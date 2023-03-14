@@ -27,8 +27,10 @@ https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/300?cb=20200120201051&path-prefix=es" group-title="Cine y Series",Cinemax HD
 https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Comedy_Central_2019.png/revision/latest/scale-to-width-down/350?cb=20190304202857&path-prefix=es" group-title="Cine y Series",Comedy Central HD
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Comedy_Central_2019.png/revision/latest/scale-to-width-down/350?cb=20190304202857&path-prefix=es" group-title="Cine y Series",Comedy Central
 https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Comedy_Central_2019.png/revision/latest/scale-to-width-down/350?cb=20190304202857&path-prefix=es" group-title="Cine y Series",Comedy Central HD
+https://router.cdn.rcs.net.ar/mnp/comedy/output.mpd
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Cine y Series",ID
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Cine y Series",Discovery ID (Twitch)
@@ -185,10 +187,14 @@ https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 3 HD" tvg-name="FOX Sports 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Fox_Sports_3_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/300?cb=20230305144910&path-prefix=es" group-title="Deportes",FOX Sports 3 HD
 https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest/scale-to-width-down/200?cb=20210525001901&path-prefix=es" group-title="Deportes",El Garage
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest/scale-to-width-down/200?cb=20210525001901&path-prefix=es" group-title="Deportes",Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Golf Channel HD" tvg-name="Golf Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel HD
+#EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest/scale-to-width-down/200?cb=20210525001901&path-prefix=es" group-title="Deportes",El Garage
+https://router.cdn.rcs.net.ar/mnp/garage/output.mpd
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel
 https://delivery.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Golf Channel HD" tvg-name="Golf Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel HD
+https://router.cdn.rcs.net.ar/mnp/golf/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngall.com/wp-content/uploads/3/MMA-Logo.png" group-title="Deportes",MMA TV
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Red_Bull_logo.svg/revision/latest/scale-to-width-down/250?cb=20210513162950&path-prefix=es" group-title="Deportes",RedBull TV
@@ -199,8 +205,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/canalshow
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://liquipedia.net/commons/images/thumb/b/bf/KRU_Esports_allmode.png/600px-KRU_Esports_allmode.png" group-title="Deportes",SLAKUN
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/slakun10
-#EXTINF:-1 tvg-id="TNT Sport Premium HD" tvg-name="TNT Sport Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium HD
+#EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:-1 tvg-id="TNT Sport Premium HD" tvg-name="TNT Sport Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium HD
+https://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 tvg-id="TYC SPORTS HD" tvg-name="TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TYC SPORTS HD
@@ -249,8 +257,12 @@ https://delivery.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 http://190.61.37.173:9001/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="Home &amp; Health" tvg-name="Home &amp; Health" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Home &amp; Health
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
-#EXTINF:-1 tvg-id="el Gourmet HD" tvg-name="el Gourmet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="Estilo de Vida",el Gourmet HD
+#EXTINF:-1 tvg-id="glitz" tvg-name="glitz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest/scale-to-width-down/220?cb=20220120044212&path-prefix=es" group-title="Estilo de Vida",glitz
+https://router.cdn.rcs.net.ar/mnp/Glitz/output.mpd
+#EXTINF:-1 tvg-id="el Gourmet" tvg-name="el Gourmet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="Estilo de Vida",el Gourmet
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="el Gourmet HD" tvg-name="el Gourmet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="Estilo de Vida",el Gourmet HD
+https://router.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",H&H (Twitch)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt29
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20210817053224&path-prefix=es" group-title="Estilo de Vida",HGTV
@@ -277,6 +289,8 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/World_Fashion_Channel_%282018%2C_horizontal%29.svg/revision/latest/scale-to-width-down/150?cb=20210130125950" group-title="Estilo de Vida",World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="Infantil",Baby TV
+https://router.cdn.rcs.net.ar/mnp/babytv/output.mpd
 #EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="Infantil",CARTOON NETWORK HD
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="Infantil",CARTOON NETWORK
@@ -401,6 +415,8 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="Internacional",Cnn Internacional
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-id="CNN internacional" tvg-name="CNN internacional" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="Internacional",CNN internacional
+https://router.cdn.rcs.net.ar/mnp/cnn/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngkit.com/png/detail/206-2068365_dw-logo-square-deutsche-welle.png" group-title="Internacional",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png" group-title="Internacional",ERT World (720p)
@@ -541,17 +557,25 @@ https://ythls.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/512px-HispanTv_logo.svg.png" group-title="Noticias",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1 tvg-id="IP HD" tvg-name="IP HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Informaci%C3%B3n_Period%C3%ADstica_2021.svg/revision/latest?cb=20210527214249&path-prefix=es" group-title="Noticias",IP HD
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Informaci%C3%B3n_Period%C3%ADstica_2021.svg/revision/latest?cb=20210527214249&path-prefix=es" group-title="Noticias",IP
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 tvg-id="IP HD" tvg-name="IP HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Informaci%C3%B3n_Period%C3%ADstica_2021.svg/revision/latest?cb=20210527214249&path-prefix=es" group-title="Noticias",IP HD
+https://router.cdn.rcs.net.ar/mnp/tn/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Informaci%C3%B3n_Period%C3%ADstica_2021.svg/revision/latest?cb=20210527214249&path-prefix=es" group-title="Noticias",IP (YT)
 https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+ (1)
+https://delivery.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="LN+" tvg-name="LN+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+
+https://router.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+ (YT)
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Noticias",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="TN HD" tvg-name="TN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN HD
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TN" tvg-name="TN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="TN HD" tvg-name="TN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN HD
+https://router.cdn.rcs.net.ar/mnp/tn/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN (YT)
 https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Pluto TV",Archivos Forenses
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
