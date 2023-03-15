@@ -10,14 +10,14 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/A&amp;E HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="AMC">
-    <display-name lang="es">AMC</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMC.png" />
-    <url>http://www.telered.com.ar</url>
-  </channel>
   <channel id="AMC HD">
     <display-name lang="es">AMC HD</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMC HD.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMC.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="AXN">
@@ -535,14 +535,14 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMERICA HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="El Nueve">
-    <display-name lang="es">El Nueve</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" />
-    <url>http://www.telered.com.ar</url>
-  </channel>
   <channel id="Magazine">
     <display-name lang="es">Magazine</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Magazine.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="El Nueve">
+    <display-name lang="es">El Nueve</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/El Nueve.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="El Nueve HD">
@@ -1591,396 +1591,6 @@
 <programme start="20230320235500 -0300" stop="20230321013000 -0300" channel="A&amp;E HD">
     <title lang="es">60 días preso: el experimento</title>
   </programme>
-<programme start="20230314235000 -0300" stop="20230315020500 -0300" channel="AMC">
-    <title lang="es">La villana</title>
-  </programme>
-<programme start="20230315020500 -0300" stop="20230315034500 -0300" channel="AMC">
-    <title lang="es">Deseo peligroso</title>
-  </programme>
-<programme start="20230315034500 -0300" stop="20230315060000 -0300" channel="AMC">
-    <title lang="es">El expreso del miedo</title>
-  </programme>
-<programme start="20230315060000 -0300" stop="20230315063000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230315063000 -0300" stop="20230315070000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230315070000 -0300" stop="20230315073000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230315073000 -0300" stop="20230315080000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230315080000 -0300" stop="20230315083000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230315083000 -0300" stop="20230315090000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230315090000 -0300" stop="20230315093000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230315093000 -0300" stop="20230315100000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230315100000 -0300" stop="20230315103000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230315103000 -0300" stop="20230315110000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230315110000 -0300" stop="20230315113000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230315113000 -0300" stop="20230315133500 -0300" channel="AMC">
-    <title lang="es">Casino Jack</title>
-  </programme>
-<programme start="20230315133500 -0300" stop="20230315154500 -0300" channel="AMC">
-    <title lang="es">Atrapada en Guantánamo</title>
-  </programme>
-<programme start="20230315154500 -0300" stop="20230315175000 -0300" channel="AMC">
-    <title lang="es">Persecución inminente</title>
-  </programme>
-<programme start="20230315175000 -0300" stop="20230315200500 -0300" channel="AMC">
-    <title lang="es">Julie y Julia</title>
-  </programme>
-<programme start="20230315200500 -0300" stop="20230315220000 -0300" channel="AMC">
-    <title lang="es">Dos tontos, todavía más tontos</title>
-  </programme>
-<programme start="20230315220000 -0300" stop="20230315235000 -0300" channel="AMC">
-    <title lang="es">Matilda</title>
-  </programme>
-<programme start="20230315235000 -0300" stop="20230316012500 -0300" channel="AMC">
-    <title lang="es">The Wolf of Snow Hollow</title>
-  </programme>
-<programme start="20230316012500 -0300" stop="20230316033500 -0300" channel="AMC">
-    <title lang="es">El defensor</title>
-  </programme>
-<programme start="20230316033500 -0300" stop="20230316053000 -0300" channel="AMC">
-    <title lang="es">Policías de Queens</title>
-  </programme>
-<programme start="20230316053000 -0300" stop="20230316060000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230316060000 -0300" stop="20230316063000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230316063000 -0300" stop="20230316070000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230316070000 -0300" stop="20230316073000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230316073000 -0300" stop="20230316080000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230316080000 -0300" stop="20230316083000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230316083000 -0300" stop="20230316090000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230316090000 -0300" stop="20230316093000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230316093000 -0300" stop="20230316100000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230316100000 -0300" stop="20230316103000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230316103000 -0300" stop="20230316110000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230316110000 -0300" stop="20230316113000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230316113000 -0300" stop="20230316134000 -0300" channel="AMC">
-    <title lang="es">Aguas profundas</title>
-  </programme>
-<programme start="20230316134000 -0300" stop="20230316160000 -0300" channel="AMC">
-    <title lang="es">Jobs</title>
-  </programme>
-<programme start="20230316160000 -0300" stop="20230316174500 -0300" channel="AMC">
-    <title lang="es">Se dice de mí</title>
-  </programme>
-<programme start="20230316174500 -0300" stop="20230316194500 -0300" channel="AMC">
-    <title lang="es">Dos tontos, todavía más tontos</title>
-  </programme>
-<programme start="20230316194500 -0300" stop="20230316220000 -0300" channel="AMC">
-    <title lang="es">21: Blackjack</title>
-  </programme>
-<programme start="20230316220000 -0300" stop="20230316233000 -0300" channel="AMC">
-    <title lang="es">Tell</title>
-  </programme>
-<programme start="20230316233000 -0300" stop="20230317011500 -0300" channel="AMC">
-    <title lang="es">Momentum</title>
-  </programme>
-<programme start="20230317011500 -0300" stop="20230317031500 -0300" channel="AMC">
-    <title lang="es">Código de honor</title>
-  </programme>
-<programme start="20230317031500 -0300" stop="20230317050000 -0300" channel="AMC">
-    <title lang="es">El ejecutor</title>
-  </programme>
-<programme start="20230317050000 -0300" stop="20230317053000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230317053000 -0300" stop="20230317060000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230317060000 -0300" stop="20230317063000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230317063000 -0300" stop="20230317070000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230317070000 -0300" stop="20230317073000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230317073000 -0300" stop="20230317080000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230317080000 -0300" stop="20230317083000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230317083000 -0300" stop="20230317090000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230317090000 -0300" stop="20230317093000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230317093000 -0300" stop="20230317100000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230317100000 -0300" stop="20230317103000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230317103000 -0300" stop="20230317110000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230317110000 -0300" stop="20230317113000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230317113000 -0300" stop="20230317120000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230317120000 -0300" stop="20230317140500 -0300" channel="AMC">
-    <title lang="es">Casino Jack</title>
-  </programme>
-<programme start="20230317140500 -0300" stop="20230317154500 -0300" channel="AMC">
-    <title lang="es">Matrimonio por amor</title>
-  </programme>
-<programme start="20230317154500 -0300" stop="20230317180500 -0300" channel="AMC">
-    <title lang="es">Julie y Julia</title>
-  </programme>
-<programme start="20230317180500 -0300" stop="20230317195000 -0300" channel="AMC">
-    <title lang="es">Matilda</title>
-  </programme>
-<programme start="20230317195000 -0300" stop="20230317220000 -0300" channel="AMC">
-    <title lang="es">Ben-Hur</title>
-  </programme>
-<programme start="20230317220000 -0300" stop="20230317234500 -0300" channel="AMC">
-    <title lang="es">Momentum</title>
-  </programme>
-<programme start="20230317234500 -0300" stop="20230318012500 -0300" channel="AMC">
-    <title lang="es">Deseo peligroso</title>
-  </programme>
-<programme start="20230318012500 -0300" stop="20230318030000 -0300" channel="AMC">
-    <title lang="es">Carrera infernal</title>
-  </programme>
-<programme start="20230318030000 -0300" stop="20230318050500 -0300" channel="AMC">
-    <title lang="es">Casino Jack</title>
-  </programme>
-<programme start="20230318050500 -0300" stop="20230318053000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230318053000 -0300" stop="20230318060000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230318060000 -0300" stop="20230318063000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230318063000 -0300" stop="20230318070000 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230318070000 -0300" stop="20230318073000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230318073000 -0300" stop="20230318080000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230318080000 -0300" stop="20230318083000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230318083000 -0300" stop="20230318090000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230318090000 -0300" stop="20230318093000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230318093000 -0300" stop="20230318100000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230318100000 -0300" stop="20230318102500 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230318102500 -0300" stop="20230318122500 -0300" channel="AMC">
-    <title lang="es">Aguas profundas</title>
-  </programme>
-<programme start="20230318122500 -0300" stop="20230318143000 -0300" channel="AMC">
-    <title lang="es">Persecución inminente</title>
-  </programme>
-<programme start="20230318143000 -0300" stop="20230318161500 -0300" channel="AMC">
-    <title lang="es">La señal</title>
-  </programme>
-<programme start="20230318161500 -0300" stop="20230318183500 -0300" channel="AMC">
-    <title lang="es">21: Blackjack</title>
-  </programme>
-<programme start="20230318183500 -0300" stop="20230318201100 -0300" channel="AMC">
-    <title lang="es">Apuesta máxima</title>
-  </programme>
-<programme start="20230318201100 -0300" stop="20230318220000 -0300" channel="AMC">
-    <title lang="es">El maestro del dinero</title>
-  </programme>
-<programme start="20230318220000 -0300" stop="20230318235000 -0300" channel="AMC">
-    <title lang="es">La cruda verdad</title>
-  </programme>
-<programme start="20230318235000 -0300" stop="20230319005000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319005000 -0300" stop="20230319022000 -0300" channel="AMC">
-    <title lang="es">Tell</title>
-  </programme>
-<programme start="20230319022000 -0300" stop="20230319044000 -0300" channel="AMC">
-    <title lang="es">El expreso del miedo</title>
-  </programme>
-<programme start="20230319044000 -0300" stop="20230319061000 -0300" channel="AMC">
-    <title lang="es">Atrapada en la oscuridad</title>
-  </programme>
-<programme start="20230319061000 -0300" stop="20230319063500 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230319063500 -0300" stop="20230319070000 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319073000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319073000 -0300" stop="20230319080000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230319103000 -0300" stop="20230319122500 -0300" channel="AMC">
-    <title lang="es">Juego a muerte</title>
-  </programme>
-<programme start="20230319122500 -0300" stop="20230319141000 -0300" channel="AMC">
-    <title lang="es">Se dice de mí</title>
-  </programme>
-<programme start="20230319141000 -0300" stop="20230319161000 -0300" channel="AMC">
-    <title lang="es">Dos tontos, todavía más tontos</title>
-  </programme>
-<programme start="20230319161000 -0300" stop="20230319180000 -0300" channel="AMC">
-    <title lang="es">La cruda verdad</title>
-  </programme>
-<programme start="20230319180000 -0300" stop="20230319190000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319190000 -0300" stop="20230319200000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319200000 -0300" stop="20230319210000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319210000 -0300" stop="20230319220000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319220000 -0300" stop="20230319224500 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319224500 -0300" stop="20230320004500 -0300" channel="AMC">
-    <title lang="es">Código de honor</title>
-  </programme>
-<programme start="20230320004500 -0300" stop="20230320025500 -0300" channel="AMC">
-    <title lang="es">El defensor</title>
-  </programme>
-<programme start="20230320025500 -0300" stop="20230320051500 -0300" channel="AMC">
-    <title lang="es">Jobs</title>
-  </programme>
-<programme start="20230320051500 -0300" stop="20230320054000 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230320054000 -0300" stop="20230320060500 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230320060500 -0300" stop="20230320063000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230320063000 -0300" stop="20230320070000 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230320070000 -0300" stop="20230320073000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230320073000 -0300" stop="20230320080000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230320080000 -0300" stop="20230320083000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230320083000 -0300" stop="20230320090000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230320090000 -0300" stop="20230320093000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230320093000 -0300" stop="20230320100000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230320100000 -0300" stop="20230320103000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230320103000 -0300" stop="20230320110000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230320110000 -0300" stop="20230320112500 -0300" channel="AMC">
-    <title lang="es">Planet Action</title>
-  </programme>
-<programme start="20230320112500 -0300" stop="20230320131500 -0300" channel="AMC">
-    <title lang="es">Enemigos de sangre</title>
-  </programme>
-<programme start="20230320131500 -0300" stop="20230320151500 -0300" channel="AMC">
-    <title lang="es">Casino Jack</title>
-  </programme>
-<programme start="20230320151500 -0300" stop="20230320165000 -0300" channel="AMC">
-    <title lang="es">Gente de bien</title>
-  </programme>
-<programme start="20230320165000 -0300" stop="20230320183000 -0300" channel="AMC">
-    <title lang="es">Dos locas en fuga</title>
-  </programme>
-<programme start="20230320183000 -0300" stop="20230320201500 -0300" channel="AMC">
-    <title lang="es">Solo amigos</title>
-  </programme>
-<programme start="20230320201500 -0300" stop="20230320220000 -0300" channel="AMC">
-    <title lang="es">El maestro del dinero</title>
-  </programme>
-<programme start="20230320220000 -0300" stop="20230321000000 -0300" channel="AMC">
-    <title lang="es">Luchando con mi familia</title>
-  </programme>
 <programme start="20230314235000 -0300" stop="20230315020500 -0300" channel="AMC HD">
     <title lang="es">La villana</title>
   </programme>
@@ -2369,6 +1979,396 @@
     <title lang="es">El maestro del dinero</title>
   </programme>
 <programme start="20230320220000 -0300" stop="20230321000000 -0300" channel="AMC HD">
+    <title lang="es">Luchando con mi familia</title>
+  </programme>
+<programme start="20230314235000 -0300" stop="20230315020500 -0300" channel="AMC">
+    <title lang="es">La villana</title>
+  </programme>
+<programme start="20230315020500 -0300" stop="20230315034500 -0300" channel="AMC">
+    <title lang="es">Deseo peligroso</title>
+  </programme>
+<programme start="20230315034500 -0300" stop="20230315060000 -0300" channel="AMC">
+    <title lang="es">El expreso del miedo</title>
+  </programme>
+<programme start="20230315060000 -0300" stop="20230315063000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230315063000 -0300" stop="20230315070000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230315070000 -0300" stop="20230315073000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230315073000 -0300" stop="20230315080000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230315080000 -0300" stop="20230315083000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230315083000 -0300" stop="20230315090000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230315090000 -0300" stop="20230315093000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230315093000 -0300" stop="20230315100000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230315100000 -0300" stop="20230315103000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230315103000 -0300" stop="20230315110000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230315110000 -0300" stop="20230315113000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230315113000 -0300" stop="20230315133500 -0300" channel="AMC">
+    <title lang="es">Casino Jack</title>
+  </programme>
+<programme start="20230315133500 -0300" stop="20230315154500 -0300" channel="AMC">
+    <title lang="es">Atrapada en Guantánamo</title>
+  </programme>
+<programme start="20230315154500 -0300" stop="20230315175000 -0300" channel="AMC">
+    <title lang="es">Persecución inminente</title>
+  </programme>
+<programme start="20230315175000 -0300" stop="20230315200500 -0300" channel="AMC">
+    <title lang="es">Julie y Julia</title>
+  </programme>
+<programme start="20230315200500 -0300" stop="20230315220000 -0300" channel="AMC">
+    <title lang="es">Dos tontos, todavía más tontos</title>
+  </programme>
+<programme start="20230315220000 -0300" stop="20230315235000 -0300" channel="AMC">
+    <title lang="es">Matilda</title>
+  </programme>
+<programme start="20230315235000 -0300" stop="20230316012500 -0300" channel="AMC">
+    <title lang="es">The Wolf of Snow Hollow</title>
+  </programme>
+<programme start="20230316012500 -0300" stop="20230316033500 -0300" channel="AMC">
+    <title lang="es">El defensor</title>
+  </programme>
+<programme start="20230316033500 -0300" stop="20230316053000 -0300" channel="AMC">
+    <title lang="es">Policías de Queens</title>
+  </programme>
+<programme start="20230316053000 -0300" stop="20230316060000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230316060000 -0300" stop="20230316063000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230316063000 -0300" stop="20230316070000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230316070000 -0300" stop="20230316073000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230316073000 -0300" stop="20230316080000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230316080000 -0300" stop="20230316083000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230316083000 -0300" stop="20230316090000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230316090000 -0300" stop="20230316093000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230316093000 -0300" stop="20230316100000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230316100000 -0300" stop="20230316103000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230316103000 -0300" stop="20230316110000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230316110000 -0300" stop="20230316113000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230316113000 -0300" stop="20230316134000 -0300" channel="AMC">
+    <title lang="es">Aguas profundas</title>
+  </programme>
+<programme start="20230316134000 -0300" stop="20230316160000 -0300" channel="AMC">
+    <title lang="es">Jobs</title>
+  </programme>
+<programme start="20230316160000 -0300" stop="20230316174500 -0300" channel="AMC">
+    <title lang="es">Se dice de mí</title>
+  </programme>
+<programme start="20230316174500 -0300" stop="20230316194500 -0300" channel="AMC">
+    <title lang="es">Dos tontos, todavía más tontos</title>
+  </programme>
+<programme start="20230316194500 -0300" stop="20230316220000 -0300" channel="AMC">
+    <title lang="es">21: Blackjack</title>
+  </programme>
+<programme start="20230316220000 -0300" stop="20230316233000 -0300" channel="AMC">
+    <title lang="es">Tell</title>
+  </programme>
+<programme start="20230316233000 -0300" stop="20230317011500 -0300" channel="AMC">
+    <title lang="es">Momentum</title>
+  </programme>
+<programme start="20230317011500 -0300" stop="20230317031500 -0300" channel="AMC">
+    <title lang="es">Código de honor</title>
+  </programme>
+<programme start="20230317031500 -0300" stop="20230317050000 -0300" channel="AMC">
+    <title lang="es">El ejecutor</title>
+  </programme>
+<programme start="20230317050000 -0300" stop="20230317053000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230317053000 -0300" stop="20230317060000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230317060000 -0300" stop="20230317063000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230317063000 -0300" stop="20230317070000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230317070000 -0300" stop="20230317073000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230317073000 -0300" stop="20230317080000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230317080000 -0300" stop="20230317083000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230317083000 -0300" stop="20230317090000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230317090000 -0300" stop="20230317093000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230317093000 -0300" stop="20230317100000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230317100000 -0300" stop="20230317103000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230317103000 -0300" stop="20230317110000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230317110000 -0300" stop="20230317113000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230317113000 -0300" stop="20230317120000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230317120000 -0300" stop="20230317140500 -0300" channel="AMC">
+    <title lang="es">Casino Jack</title>
+  </programme>
+<programme start="20230317140500 -0300" stop="20230317154500 -0300" channel="AMC">
+    <title lang="es">Matrimonio por amor</title>
+  </programme>
+<programme start="20230317154500 -0300" stop="20230317180500 -0300" channel="AMC">
+    <title lang="es">Julie y Julia</title>
+  </programme>
+<programme start="20230317180500 -0300" stop="20230317195000 -0300" channel="AMC">
+    <title lang="es">Matilda</title>
+  </programme>
+<programme start="20230317195000 -0300" stop="20230317220000 -0300" channel="AMC">
+    <title lang="es">Ben-Hur</title>
+  </programme>
+<programme start="20230317220000 -0300" stop="20230317234500 -0300" channel="AMC">
+    <title lang="es">Momentum</title>
+  </programme>
+<programme start="20230317234500 -0300" stop="20230318012500 -0300" channel="AMC">
+    <title lang="es">Deseo peligroso</title>
+  </programme>
+<programme start="20230318012500 -0300" stop="20230318030000 -0300" channel="AMC">
+    <title lang="es">Carrera infernal</title>
+  </programme>
+<programme start="20230318030000 -0300" stop="20230318050500 -0300" channel="AMC">
+    <title lang="es">Casino Jack</title>
+  </programme>
+<programme start="20230318050500 -0300" stop="20230318053000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230318053000 -0300" stop="20230318060000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230318060000 -0300" stop="20230318063000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230318063000 -0300" stop="20230318070000 -0300" channel="AMC">
+    <title lang="es">Making the Movies</title>
+  </programme>
+<programme start="20230318070000 -0300" stop="20230318073000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230318073000 -0300" stop="20230318080000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230318080000 -0300" stop="20230318083000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230318083000 -0300" stop="20230318090000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230318090000 -0300" stop="20230318093000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230318093000 -0300" stop="20230318100000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230318100000 -0300" stop="20230318102500 -0300" channel="AMC">
+    <title lang="es">Making the Movies</title>
+  </programme>
+<programme start="20230318102500 -0300" stop="20230318122500 -0300" channel="AMC">
+    <title lang="es">Aguas profundas</title>
+  </programme>
+<programme start="20230318122500 -0300" stop="20230318143000 -0300" channel="AMC">
+    <title lang="es">Persecución inminente</title>
+  </programme>
+<programme start="20230318143000 -0300" stop="20230318161500 -0300" channel="AMC">
+    <title lang="es">La señal</title>
+  </programme>
+<programme start="20230318161500 -0300" stop="20230318183500 -0300" channel="AMC">
+    <title lang="es">21: Blackjack</title>
+  </programme>
+<programme start="20230318183500 -0300" stop="20230318201100 -0300" channel="AMC">
+    <title lang="es">Apuesta máxima</title>
+  </programme>
+<programme start="20230318201100 -0300" stop="20230318220000 -0300" channel="AMC">
+    <title lang="es">El maestro del dinero</title>
+  </programme>
+<programme start="20230318220000 -0300" stop="20230318235000 -0300" channel="AMC">
+    <title lang="es">La cruda verdad</title>
+  </programme>
+<programme start="20230318235000 -0300" stop="20230319005000 -0300" channel="AMC">
+    <title lang="es">Last Light</title>
+  </programme>
+<programme start="20230319005000 -0300" stop="20230319022000 -0300" channel="AMC">
+    <title lang="es">Tell</title>
+  </programme>
+<programme start="20230319022000 -0300" stop="20230319044000 -0300" channel="AMC">
+    <title lang="es">El expreso del miedo</title>
+  </programme>
+<programme start="20230319044000 -0300" stop="20230319061000 -0300" channel="AMC">
+    <title lang="es">Atrapada en la oscuridad</title>
+  </programme>
+<programme start="20230319061000 -0300" stop="20230319063500 -0300" channel="AMC">
+    <title lang="es">Making the Movies</title>
+  </programme>
+<programme start="20230319063500 -0300" stop="20230319070000 -0300" channel="AMC">
+    <title lang="es">Making the Movies</title>
+  </programme>
+<programme start="20230319070000 -0300" stop="20230319073000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319073000 -0300" stop="20230319080000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="AMC">
+    <title lang="es">Making the Movies</title>
+  </programme>
+<programme start="20230319103000 -0300" stop="20230319122500 -0300" channel="AMC">
+    <title lang="es">Juego a muerte</title>
+  </programme>
+<programme start="20230319122500 -0300" stop="20230319141000 -0300" channel="AMC">
+    <title lang="es">Se dice de mí</title>
+  </programme>
+<programme start="20230319141000 -0300" stop="20230319161000 -0300" channel="AMC">
+    <title lang="es">Dos tontos, todavía más tontos</title>
+  </programme>
+<programme start="20230319161000 -0300" stop="20230319180000 -0300" channel="AMC">
+    <title lang="es">La cruda verdad</title>
+  </programme>
+<programme start="20230319180000 -0300" stop="20230319190000 -0300" channel="AMC">
+    <title lang="es">Last Light</title>
+  </programme>
+<programme start="20230319190000 -0300" stop="20230319200000 -0300" channel="AMC">
+    <title lang="es">Last Light</title>
+  </programme>
+<programme start="20230319200000 -0300" stop="20230319210000 -0300" channel="AMC">
+    <title lang="es">Last Light</title>
+  </programme>
+<programme start="20230319210000 -0300" stop="20230319220000 -0300" channel="AMC">
+    <title lang="es">Last Light</title>
+  </programme>
+<programme start="20230319220000 -0300" stop="20230319224500 -0300" channel="AMC">
+    <title lang="es">Last Light</title>
+  </programme>
+<programme start="20230319224500 -0300" stop="20230320004500 -0300" channel="AMC">
+    <title lang="es">Código de honor</title>
+  </programme>
+<programme start="20230320004500 -0300" stop="20230320025500 -0300" channel="AMC">
+    <title lang="es">El defensor</title>
+  </programme>
+<programme start="20230320025500 -0300" stop="20230320051500 -0300" channel="AMC">
+    <title lang="es">Jobs</title>
+  </programme>
+<programme start="20230320051500 -0300" stop="20230320054000 -0300" channel="AMC">
+    <title lang="es">Making the Movies</title>
+  </programme>
+<programme start="20230320054000 -0300" stop="20230320060500 -0300" channel="AMC">
+    <title lang="es">Making the Movies</title>
+  </programme>
+<programme start="20230320060500 -0300" stop="20230320063000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230320063000 -0300" stop="20230320070000 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230320070000 -0300" stop="20230320073000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320073000 -0300" stop="20230320080000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320080000 -0300" stop="20230320083000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320083000 -0300" stop="20230320090000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320090000 -0300" stop="20230320093000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320093000 -0300" stop="20230320100000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320100000 -0300" stop="20230320103000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320103000 -0300" stop="20230320110000 -0300" channel="AMC">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320110000 -0300" stop="20230320112500 -0300" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+<programme start="20230320112500 -0300" stop="20230320131500 -0300" channel="AMC">
+    <title lang="es">Enemigos de sangre</title>
+  </programme>
+<programme start="20230320131500 -0300" stop="20230320151500 -0300" channel="AMC">
+    <title lang="es">Casino Jack</title>
+  </programme>
+<programme start="20230320151500 -0300" stop="20230320165000 -0300" channel="AMC">
+    <title lang="es">Gente de bien</title>
+  </programme>
+<programme start="20230320165000 -0300" stop="20230320183000 -0300" channel="AMC">
+    <title lang="es">Dos locas en fuga</title>
+  </programme>
+<programme start="20230320183000 -0300" stop="20230320201500 -0300" channel="AMC">
+    <title lang="es">Solo amigos</title>
+  </programme>
+<programme start="20230320201500 -0300" stop="20230320220000 -0300" channel="AMC">
+    <title lang="es">El maestro del dinero</title>
+  </programme>
+<programme start="20230320220000 -0300" stop="20230321000000 -0300" channel="AMC">
     <title lang="es">Luchando con mi familia</title>
   </programme>
 <programme start="20230314235500 -0300" stop="20230315005000 -0300" channel="AXN">
@@ -55573,342 +55573,6 @@
 <programme start="20230320233000 -0300" stop="20230321000000 -0300" channel="AMERICA HD">
     <title lang="es">Modo Selfie</title>
   </programme>
-<programme start="20230314230000 -0300" stop="20230315000000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
-  </programme>
-<programme start="20230315000000 -0300" stop="20230315003000 -0300" channel="El Nueve">
-    <title lang="es">Crimen y misterio</title>
-  </programme>
-<programme start="20230315003000 -0300" stop="20230315010000 -0300" channel="El Nueve">
-    <title lang="es">Punto de Luz</title>
-  </programme>
-<programme start="20230315010000 -0300" stop="20230315011500 -0300" channel="El Nueve">
-    <title lang="es">Pare de sufrir</title>
-  </programme>
-<programme start="20230315011500 -0300" stop="20230315021500 -0300" channel="El Nueve">
-    <title lang="es">TV compras</title>
-  </programme>
-<programme start="20230315021500 -0300" stop="20230315024500 -0300" channel="El Nueve">
-    <title lang="es">El valor de tus joyas</title>
-  </programme>
-<programme start="20230315024500 -0300" stop="20230315033000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
-  </programme>
-<programme start="20230315033000 -0300" stop="20230315050000 -0300" channel="El Nueve">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
-<programme start="20230315050000 -0300" stop="20230315060000 -0300" channel="El Nueve">
-    <title lang="es">Informes TL 9</title>
-  </programme>
-<programme start="20230315060000 -0300" stop="20230315070000 -0300" channel="El Nueve">
-    <title lang="es">Amanece</title>
-  </programme>
-<programme start="20230315070000 -0300" stop="20230315100000 -0300" channel="El Nueve">
-    <title lang="es">TL 9 al amanecer</title>
-  </programme>
-<programme start="20230315100000 -0300" stop="20230315120000 -0300" channel="El Nueve">
-    <title lang="es">¡Qué mañana!</title>
-  </programme>
-<programme start="20230315120000 -0300" stop="20230315140000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al mediodía</title>
-  </programme>
-<programme start="20230315140000 -0300" stop="20230315160000 -0300" channel="El Nueve">
-    <title lang="es">Todas las tardes</title>
-  </programme>
-<programme start="20230315160000 -0300" stop="20230315173000 -0300" channel="El Nueve">
-    <title lang="es">Médico de familia</title>
-  </programme>
-<programme start="20230315173000 -0300" stop="20230315190000 -0300" channel="El Nueve">
-    <title lang="es">El show del problema</title>
-  </programme>
-<programme start="20230315190000 -0300" stop="20230315203000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve central</title>
-  </programme>
-<programme start="20230315203000 -0300" stop="20230315220000 -0300" channel="El Nueve">
-    <title lang="es">Bendita</title>
-  </programme>
-<programme start="20230315220000 -0300" stop="20230315230000 -0300" channel="El Nueve">
-    <title lang="es">La hora exacta</title>
-  </programme>
-<programme start="20230315230000 -0300" stop="20230316000000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
-  </programme>
-<programme start="20230316000000 -0300" stop="20230316003000 -0300" channel="El Nueve">
-    <title lang="es">Crimen y misterio</title>
-  </programme>
-<programme start="20230316003000 -0300" stop="20230316010000 -0300" channel="El Nueve">
-    <title lang="es">Punto de Luz</title>
-  </programme>
-<programme start="20230316010000 -0300" stop="20230316011500 -0300" channel="El Nueve">
-    <title lang="es">Pare de sufrir</title>
-  </programme>
-<programme start="20230316011500 -0300" stop="20230316021500 -0300" channel="El Nueve">
-    <title lang="es">TV compras</title>
-  </programme>
-<programme start="20230316021500 -0300" stop="20230316024500 -0300" channel="El Nueve">
-    <title lang="es">El valor de tus joyas</title>
-  </programme>
-<programme start="20230316024500 -0300" stop="20230316033000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
-  </programme>
-<programme start="20230316033000 -0300" stop="20230316050000 -0300" channel="El Nueve">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
-<programme start="20230316050000 -0300" stop="20230316060000 -0300" channel="El Nueve">
-    <title lang="es">Informes TL 9</title>
-  </programme>
-<programme start="20230316060000 -0300" stop="20230316070000 -0300" channel="El Nueve">
-    <title lang="es">Amanece</title>
-  </programme>
-<programme start="20230316070000 -0300" stop="20230316100000 -0300" channel="El Nueve">
-    <title lang="es">TL 9 al amanecer</title>
-  </programme>
-<programme start="20230316100000 -0300" stop="20230316120000 -0300" channel="El Nueve">
-    <title lang="es">¡Qué mañana!</title>
-  </programme>
-<programme start="20230316120000 -0300" stop="20230316140000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al mediodía</title>
-  </programme>
-<programme start="20230316140000 -0300" stop="20230316160000 -0300" channel="El Nueve">
-    <title lang="es">Todas las tardes</title>
-  </programme>
-<programme start="20230316160000 -0300" stop="20230316173000 -0300" channel="El Nueve">
-    <title lang="es">Médico de familia</title>
-  </programme>
-<programme start="20230316173000 -0300" stop="20230316190000 -0300" channel="El Nueve">
-    <title lang="es">El show del problema</title>
-  </programme>
-<programme start="20230316190000 -0300" stop="20230316203000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve central</title>
-  </programme>
-<programme start="20230316203000 -0300" stop="20230316220000 -0300" channel="El Nueve">
-    <title lang="es">Bendita</title>
-  </programme>
-<programme start="20230316220000 -0300" stop="20230316230000 -0300" channel="El Nueve">
-    <title lang="es">La hora exacta</title>
-  </programme>
-<programme start="20230316230000 -0300" stop="20230317000000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
-  </programme>
-<programme start="20230317000000 -0300" stop="20230317003000 -0300" channel="El Nueve">
-    <title lang="es">Crimen y misterio</title>
-  </programme>
-<programme start="20230317003000 -0300" stop="20230317010000 -0300" channel="El Nueve">
-    <title lang="es">Punto de Luz</title>
-  </programme>
-<programme start="20230317010000 -0300" stop="20230317011500 -0300" channel="El Nueve">
-    <title lang="es">Pare de sufrir</title>
-  </programme>
-<programme start="20230317011500 -0300" stop="20230317021500 -0300" channel="El Nueve">
-    <title lang="es">TV compras</title>
-  </programme>
-<programme start="20230317021500 -0300" stop="20230317024500 -0300" channel="El Nueve">
-    <title lang="es">El valor de tus joyas</title>
-  </programme>
-<programme start="20230317024500 -0300" stop="20230317033000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
-  </programme>
-<programme start="20230317033000 -0300" stop="20230317050000 -0300" channel="El Nueve">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
-<programme start="20230317050000 -0300" stop="20230317060000 -0300" channel="El Nueve">
-    <title lang="es">Informes TL 9</title>
-  </programme>
-<programme start="20230317060000 -0300" stop="20230317070000 -0300" channel="El Nueve">
-    <title lang="es">Amanece</title>
-  </programme>
-<programme start="20230317070000 -0300" stop="20230317100000 -0300" channel="El Nueve">
-    <title lang="es">TL 9 al amanecer</title>
-  </programme>
-<programme start="20230317100000 -0300" stop="20230317120000 -0300" channel="El Nueve">
-    <title lang="es">¡Qué mañana!</title>
-  </programme>
-<programme start="20230317120000 -0300" stop="20230317140000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al mediodía</title>
-  </programme>
-<programme start="20230317140000 -0300" stop="20230317160000 -0300" channel="El Nueve">
-    <title lang="es">Todas las tardes</title>
-  </programme>
-<programme start="20230317160000 -0300" stop="20230317173000 -0300" channel="El Nueve">
-    <title lang="es">Médico de familia</title>
-  </programme>
-<programme start="20230317173000 -0300" stop="20230317190000 -0300" channel="El Nueve">
-    <title lang="es">El show del problema</title>
-  </programme>
-<programme start="20230317190000 -0300" stop="20230317203000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve central</title>
-  </programme>
-<programme start="20230317203000 -0300" stop="20230317220000 -0300" channel="El Nueve">
-    <title lang="es">Bendita</title>
-  </programme>
-<programme start="20230317220000 -0300" stop="20230317230000 -0300" channel="El Nueve">
-    <title lang="es">La hora exacta</title>
-  </programme>
-<programme start="20230317230000 -0300" stop="20230318000000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
-  </programme>
-<programme start="20230318000000 -0300" stop="20230318003000 -0300" channel="El Nueve">
-    <title lang="es">Crimen y misterio</title>
-  </programme>
-<programme start="20230318003000 -0300" stop="20230318011500 -0300" channel="El Nueve">
-    <title lang="es">Pare de sufrir</title>
-  </programme>
-<programme start="20230318011500 -0300" stop="20230318021500 -0300" channel="El Nueve">
-    <title lang="es">TV compras</title>
-  </programme>
-<programme start="20230318021500 -0300" stop="20230318024500 -0300" channel="El Nueve">
-    <title lang="es">El valor de tus joyas</title>
-  </programme>
-<programme start="20230318024500 -0300" stop="20230318033000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
-  </programme>
-<programme start="20230318033000 -0300" stop="20230318050000 -0300" channel="El Nueve">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
-<programme start="20230318050000 -0300" stop="20230318060000 -0300" channel="El Nueve">
-    <title lang="es">Informes TL 9</title>
-  </programme>
-<programme start="20230318060000 -0300" stop="20230318070000 -0300" channel="El Nueve">
-    <title lang="es">Planeta urbano</title>
-  </programme>
-<programme start="20230318070000 -0300" stop="20230318090000 -0300" channel="El Nueve">
-    <title lang="es">TV compras</title>
-  </programme>
-<programme start="20230318090000 -0300" stop="20230318100000 -0300" channel="El Nueve">
-    <title lang="es">Claves para un mundo mejor</title>
-  </programme>
-<programme start="20230318100000 -0300" stop="20230318110000 -0300" channel="El Nueve">
-    <title lang="es">Argentina por argentinos</title>
-  </programme>
-<programme start="20230318110000 -0300" stop="20230318120000 -0300" channel="El Nueve">
-    <title lang="es">Con estilo</title>
-  </programme>
-<programme start="20230318120000 -0300" stop="20230318130000 -0300" channel="El Nueve">
-    <title lang="es">Jineteando</title>
-  </programme>
-<programme start="20230318130000 -0300" stop="20230318140000 -0300" channel="El Nueve">
-    <title lang="es">Nara que ver</title>
-  </programme>
-<programme start="20230318140000 -0300" stop="20230318180000 -0300" channel="El Nueve">
-    <title lang="es">La tarde del 9</title>
-  </programme>
-<programme start="20230318180000 -0300" stop="20230318200000 -0300" channel="El Nueve">
-    <title lang="es">Implacables</title>
-  </programme>
-<programme start="20230318200000 -0300" stop="20230318220000 -0300" channel="El Nueve">
-    <title lang="es">Vivo para vos</title>
-  </programme>
-<programme start="20230318220000 -0300" stop="20230318230000 -0300" channel="El Nueve">
-    <title lang="es">Crimen y misterio</title>
-  </programme>
-<programme start="20230318230000 -0300" stop="20230319000000 -0300" channel="El Nueve">
-    <title lang="es">Con estilo</title>
-  </programme>
-<programme start="20230319000000 -0300" stop="20230319003000 -0300" channel="El Nueve">
-    <title lang="es">For Heber Golf</title>
-  </programme>
-<programme start="20230319003000 -0300" stop="20230319010000 -0300" channel="El Nueve">
-    <title lang="es">Clave Argentina</title>
-  </programme>
-<programme start="20230319010000 -0300" stop="20230319020000 -0300" channel="El Nueve">
-    <title lang="es">TV compras</title>
-  </programme>
-<programme start="20230319020000 -0300" stop="20230319030000 -0300" channel="El Nueve">
-    <title lang="es">Argentina por argentinos</title>
-  </programme>
-<programme start="20230319030000 -0300" stop="20230319050000 -0300" channel="El Nueve">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
-<programme start="20230319050000 -0300" stop="20230319060000 -0300" channel="El Nueve">
-    <title lang="es">Informes TL 9</title>
-  </programme>
-<programme start="20230319060000 -0300" stop="20230319070000 -0300" channel="El Nueve">
-    <title lang="es">Planeta urbano</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319090000 -0300" channel="El Nueve">
-    <title lang="es">TV compras</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="El Nueve">
-    <title lang="es">Prevenir</title>
-  </programme>
-<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="El Nueve">
-    <title lang="es">Conexión jubilados</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="El Nueve">
-    <title lang="es">Clave Argentina</title>
-  </programme>
-<programme start="20230319103000 -0300" stop="20230319110000 -0300" channel="El Nueve">
-    <title lang="es">Automás</title>
-  </programme>
-<programme start="20230319110000 -0300" stop="20230319120000 -0300" channel="El Nueve">
-    <title lang="es">Argentina por argentinos</title>
-  </programme>
-<programme start="20230319120000 -0300" stop="20230319130000 -0300" channel="El Nueve">
-    <title lang="es">La cocina de los Calamaro</title>
-  </programme>
-<programme start="20230319130000 -0300" stop="20230319140000 -0300" channel="El Nueve">
-    <title lang="es">Alumnitos</title>
-  </programme>
-<programme start="20230319140000 -0300" stop="20230319180000 -0300" channel="El Nueve">
-    <title lang="es">La tarde del 9</title>
-  </programme>
-<programme start="20230319180000 -0300" stop="20230319200000 -0300" channel="El Nueve">
-    <title lang="es">Implacables</title>
-  </programme>
-<programme start="20230319200000 -0300" stop="20230319220000 -0300" channel="El Nueve">
-    <title lang="es">Vivo para vos</title>
-  </programme>
-<programme start="20230319220000 -0300" stop="20230320000000 -0300" channel="El Nueve">
-    <title lang="es">Opinión pública</title>
-  </programme>
-<programme start="20230320000000 -0300" stop="20230320010000 -0300" channel="El Nueve">
-    <title lang="es">Clave Argentina</title>
-  </programme>
-<programme start="20230320010000 -0300" stop="20230320013000 -0300" channel="El Nueve">
-    <title lang="es">En estéreo</title>
-  </programme>
-<programme start="20230320013000 -0300" stop="20230320023000 -0300" channel="El Nueve">
-    <title lang="es">TV compras</title>
-  </programme>
-<programme start="20230320023000 -0300" stop="20230320050000 -0300" channel="El Nueve">
-    <title lang="es">Cierre de transmisión</title>
-  </programme>
-<programme start="20230320050000 -0300" stop="20230320060000 -0300" channel="El Nueve">
-    <title lang="es">Informes TL 9</title>
-  </programme>
-<programme start="20230320060000 -0300" stop="20230320070000 -0300" channel="El Nueve">
-    <title lang="es">Amanece</title>
-  </programme>
-<programme start="20230320070000 -0300" stop="20230320100000 -0300" channel="El Nueve">
-    <title lang="es">TL 9 al amanecer</title>
-  </programme>
-<programme start="20230320100000 -0300" stop="20230320120000 -0300" channel="El Nueve">
-    <title lang="es">¡Qué mañana!</title>
-  </programme>
-<programme start="20230320120000 -0300" stop="20230320140000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al mediodía</title>
-  </programme>
-<programme start="20230320140000 -0300" stop="20230320160000 -0300" channel="El Nueve">
-    <title lang="es">Todas las tardes</title>
-  </programme>
-<programme start="20230320160000 -0300" stop="20230320173000 -0300" channel="El Nueve">
-    <title lang="es">Médico de familia</title>
-  </programme>
-<programme start="20230320173000 -0300" stop="20230320190000 -0300" channel="El Nueve">
-    <title lang="es">El show del problema</title>
-  </programme>
-<programme start="20230320190000 -0300" stop="20230320203000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve central</title>
-  </programme>
-<programme start="20230320203000 -0300" stop="20230320220000 -0300" channel="El Nueve">
-    <title lang="es">Bendita</title>
-  </programme>
-<programme start="20230320220000 -0300" stop="20230320230000 -0300" channel="El Nueve">
-    <title lang="es">La hora exacta</title>
-  </programme>
-<programme start="20230320230000 -0300" stop="20230321000000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
-  </programme>
 <programme start="20230314230000 -0300" stop="20230315000000 -0300" channel="Magazine">
     <title lang="es">Fatmagul</title>
   </programme>
@@ -56388,6 +56052,342 @@
   </programme>
 <programme start="20230320230000 -0300" stop="20230321000000 -0300" channel="Magazine">
     <title lang="es">Fatmagul</title>
+  </programme>
+<programme start="20230314230000 -0300" stop="20230315000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+<programme start="20230315000000 -0300" stop="20230315003000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+<programme start="20230315003000 -0300" stop="20230315010000 -0300" channel="El Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+<programme start="20230315010000 -0300" stop="20230315011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230315011500 -0300" stop="20230315021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+<programme start="20230315021500 -0300" stop="20230315024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+<programme start="20230315024500 -0300" stop="20230315033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+<programme start="20230315033000 -0300" stop="20230315050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+<programme start="20230315050000 -0300" stop="20230315060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+<programme start="20230315060000 -0300" stop="20230315070000 -0300" channel="El Nueve">
+    <title lang="es">Amanece</title>
+  </programme>
+<programme start="20230315070000 -0300" stop="20230315100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+<programme start="20230315100000 -0300" stop="20230315120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+<programme start="20230315120000 -0300" stop="20230315140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+<programme start="20230315140000 -0300" stop="20230315160000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+<programme start="20230315160000 -0300" stop="20230315173000 -0300" channel="El Nueve">
+    <title lang="es">Médico de familia</title>
+  </programme>
+<programme start="20230315173000 -0300" stop="20230315190000 -0300" channel="El Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+<programme start="20230315190000 -0300" stop="20230315203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+<programme start="20230315203000 -0300" stop="20230315220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+<programme start="20230315220000 -0300" stop="20230315230000 -0300" channel="El Nueve">
+    <title lang="es">La hora exacta</title>
+  </programme>
+<programme start="20230315230000 -0300" stop="20230316000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+<programme start="20230316000000 -0300" stop="20230316003000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+<programme start="20230316003000 -0300" stop="20230316010000 -0300" channel="El Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+<programme start="20230316010000 -0300" stop="20230316011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230316011500 -0300" stop="20230316021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+<programme start="20230316021500 -0300" stop="20230316024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+<programme start="20230316024500 -0300" stop="20230316033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+<programme start="20230316033000 -0300" stop="20230316050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+<programme start="20230316050000 -0300" stop="20230316060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+<programme start="20230316060000 -0300" stop="20230316070000 -0300" channel="El Nueve">
+    <title lang="es">Amanece</title>
+  </programme>
+<programme start="20230316070000 -0300" stop="20230316100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+<programme start="20230316100000 -0300" stop="20230316120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+<programme start="20230316120000 -0300" stop="20230316140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+<programme start="20230316140000 -0300" stop="20230316160000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+<programme start="20230316160000 -0300" stop="20230316173000 -0300" channel="El Nueve">
+    <title lang="es">Médico de familia</title>
+  </programme>
+<programme start="20230316173000 -0300" stop="20230316190000 -0300" channel="El Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+<programme start="20230316190000 -0300" stop="20230316203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+<programme start="20230316203000 -0300" stop="20230316220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+<programme start="20230316220000 -0300" stop="20230316230000 -0300" channel="El Nueve">
+    <title lang="es">La hora exacta</title>
+  </programme>
+<programme start="20230316230000 -0300" stop="20230317000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+<programme start="20230317000000 -0300" stop="20230317003000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+<programme start="20230317003000 -0300" stop="20230317010000 -0300" channel="El Nueve">
+    <title lang="es">Punto de Luz</title>
+  </programme>
+<programme start="20230317010000 -0300" stop="20230317011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230317011500 -0300" stop="20230317021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+<programme start="20230317021500 -0300" stop="20230317024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+<programme start="20230317024500 -0300" stop="20230317033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+<programme start="20230317033000 -0300" stop="20230317050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+<programme start="20230317050000 -0300" stop="20230317060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+<programme start="20230317060000 -0300" stop="20230317070000 -0300" channel="El Nueve">
+    <title lang="es">Amanece</title>
+  </programme>
+<programme start="20230317070000 -0300" stop="20230317100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+<programme start="20230317100000 -0300" stop="20230317120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+<programme start="20230317120000 -0300" stop="20230317140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+<programme start="20230317140000 -0300" stop="20230317160000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+<programme start="20230317160000 -0300" stop="20230317173000 -0300" channel="El Nueve">
+    <title lang="es">Médico de familia</title>
+  </programme>
+<programme start="20230317173000 -0300" stop="20230317190000 -0300" channel="El Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+<programme start="20230317190000 -0300" stop="20230317203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+<programme start="20230317203000 -0300" stop="20230317220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+<programme start="20230317220000 -0300" stop="20230317230000 -0300" channel="El Nueve">
+    <title lang="es">La hora exacta</title>
+  </programme>
+<programme start="20230317230000 -0300" stop="20230318000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+<programme start="20230318000000 -0300" stop="20230318003000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+<programme start="20230318003000 -0300" stop="20230318011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230318011500 -0300" stop="20230318021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+<programme start="20230318021500 -0300" stop="20230318024500 -0300" channel="El Nueve">
+    <title lang="es">El valor de tus joyas</title>
+  </programme>
+<programme start="20230318024500 -0300" stop="20230318033000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+<programme start="20230318033000 -0300" stop="20230318050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+<programme start="20230318050000 -0300" stop="20230318060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+<programme start="20230318060000 -0300" stop="20230318070000 -0300" channel="El Nueve">
+    <title lang="es">Planeta urbano</title>
+  </programme>
+<programme start="20230318070000 -0300" stop="20230318090000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+<programme start="20230318090000 -0300" stop="20230318100000 -0300" channel="El Nueve">
+    <title lang="es">Claves para un mundo mejor</title>
+  </programme>
+<programme start="20230318100000 -0300" stop="20230318110000 -0300" channel="El Nueve">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+<programme start="20230318110000 -0300" stop="20230318120000 -0300" channel="El Nueve">
+    <title lang="es">Con estilo</title>
+  </programme>
+<programme start="20230318120000 -0300" stop="20230318130000 -0300" channel="El Nueve">
+    <title lang="es">Jineteando</title>
+  </programme>
+<programme start="20230318130000 -0300" stop="20230318140000 -0300" channel="El Nueve">
+    <title lang="es">Nara que ver</title>
+  </programme>
+<programme start="20230318140000 -0300" stop="20230318180000 -0300" channel="El Nueve">
+    <title lang="es">La tarde del 9</title>
+  </programme>
+<programme start="20230318180000 -0300" stop="20230318200000 -0300" channel="El Nueve">
+    <title lang="es">Implacables</title>
+  </programme>
+<programme start="20230318200000 -0300" stop="20230318220000 -0300" channel="El Nueve">
+    <title lang="es">Vivo para vos</title>
+  </programme>
+<programme start="20230318220000 -0300" stop="20230318230000 -0300" channel="El Nueve">
+    <title lang="es">Crimen y misterio</title>
+  </programme>
+<programme start="20230318230000 -0300" stop="20230319000000 -0300" channel="El Nueve">
+    <title lang="es">Con estilo</title>
+  </programme>
+<programme start="20230319000000 -0300" stop="20230319003000 -0300" channel="El Nueve">
+    <title lang="es">For Heber Golf</title>
+  </programme>
+<programme start="20230319003000 -0300" stop="20230319010000 -0300" channel="El Nueve">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+<programme start="20230319010000 -0300" stop="20230319020000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+<programme start="20230319020000 -0300" stop="20230319030000 -0300" channel="El Nueve">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+<programme start="20230319030000 -0300" stop="20230319050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+<programme start="20230319050000 -0300" stop="20230319060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+<programme start="20230319060000 -0300" stop="20230319070000 -0300" channel="El Nueve">
+    <title lang="es">Planeta urbano</title>
+  </programme>
+<programme start="20230319070000 -0300" stop="20230319090000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="El Nueve">
+    <title lang="es">Prevenir</title>
+  </programme>
+<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="El Nueve">
+    <title lang="es">Conexión jubilados</title>
+  </programme>
+<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="El Nueve">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+<programme start="20230319103000 -0300" stop="20230319110000 -0300" channel="El Nueve">
+    <title lang="es">Automás</title>
+  </programme>
+<programme start="20230319110000 -0300" stop="20230319120000 -0300" channel="El Nueve">
+    <title lang="es">Argentina por argentinos</title>
+  </programme>
+<programme start="20230319120000 -0300" stop="20230319130000 -0300" channel="El Nueve">
+    <title lang="es">La cocina de los Calamaro</title>
+  </programme>
+<programme start="20230319130000 -0300" stop="20230319140000 -0300" channel="El Nueve">
+    <title lang="es">Alumnitos</title>
+  </programme>
+<programme start="20230319140000 -0300" stop="20230319180000 -0300" channel="El Nueve">
+    <title lang="es">La tarde del 9</title>
+  </programme>
+<programme start="20230319180000 -0300" stop="20230319200000 -0300" channel="El Nueve">
+    <title lang="es">Implacables</title>
+  </programme>
+<programme start="20230319200000 -0300" stop="20230319220000 -0300" channel="El Nueve">
+    <title lang="es">Vivo para vos</title>
+  </programme>
+<programme start="20230319220000 -0300" stop="20230320000000 -0300" channel="El Nueve">
+    <title lang="es">Opinión pública</title>
+  </programme>
+<programme start="20230320000000 -0300" stop="20230320010000 -0300" channel="El Nueve">
+    <title lang="es">Clave Argentina</title>
+  </programme>
+<programme start="20230320010000 -0300" stop="20230320013000 -0300" channel="El Nueve">
+    <title lang="es">En estéreo</title>
+  </programme>
+<programme start="20230320013000 -0300" stop="20230320023000 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
+  </programme>
+<programme start="20230320023000 -0300" stop="20230320050000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+<programme start="20230320050000 -0300" stop="20230320060000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
+  </programme>
+<programme start="20230320060000 -0300" stop="20230320070000 -0300" channel="El Nueve">
+    <title lang="es">Amanece</title>
+  </programme>
+<programme start="20230320070000 -0300" stop="20230320100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
+  </programme>
+<programme start="20230320100000 -0300" stop="20230320120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
+  </programme>
+<programme start="20230320120000 -0300" stop="20230320140000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
+  </programme>
+<programme start="20230320140000 -0300" stop="20230320160000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
+  </programme>
+<programme start="20230320160000 -0300" stop="20230320173000 -0300" channel="El Nueve">
+    <title lang="es">Médico de familia</title>
+  </programme>
+<programme start="20230320173000 -0300" stop="20230320190000 -0300" channel="El Nueve">
+    <title lang="es">El show del problema</title>
+  </programme>
+<programme start="20230320190000 -0300" stop="20230320203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
+  </programme>
+<programme start="20230320203000 -0300" stop="20230320220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
+  </programme>
+<programme start="20230320220000 -0300" stop="20230320230000 -0300" channel="El Nueve">
+    <title lang="es">La hora exacta</title>
+  </programme>
+<programme start="20230320230000 -0300" stop="20230321000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
   </programme>
 <programme start="20230314230000 -0300" stop="20230315000000 -0300" channel="El Nueve HD">
     <title lang="es">Telenueve al cierre</title>
