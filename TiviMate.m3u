@@ -505,6 +505,12 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teletrece_Logo_%282012%29.svg/559px-Teletrece_Logo_%282012%29.svg.png" group-title="Internacional",T13 Chile (YT)
 https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vivotvhd.com/img/cha/2016.gif" group-title="Internacional",Telenord 12 (Rep Dominicana)
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vivotvhd.com/img/cha/2014.gif" group-title="Internacional",Telenord 8 (Rep Dominicana)
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OCzj0S.png" group-title="Internacional",Telenord Canal 10 (Rep Dominicana)
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Telesur_%282017%29.png/revision/latest/scale-to-width-down/150?cb=20220903012506&path-prefix=es" group-title="Internacional",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur" tvg-name="Telesur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Telesur_%282017%29.png/revision/latest/scale-to-width-down/150?cb=20220903012506&path-prefix=es" group-title="Internacional",Telesur
@@ -1159,15 +1165,9 @@ https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png" group-title="Regionales",TeleMix
 https://panel.dattalive.com/8068/8068/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="Regionales",Telenord
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vivotvhd.com/img/cha/4811.gif" group-title="Regionales",Telenord
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OCzj0S.png" group-title="Regionales",Telenord 12 (720p) [Not 24/7]
-http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OCzj0S.png" group-title="Regionales",Telenord 8 (1080p) [Not 24/7]
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0OCzj0S.png" group-title="Regionales",Telenord Canal 10 (1080p) [Not 24/7]
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.telenord.com/templates/yootheme/cache/Telenordcom_Logo_Oficial-04-20d21537.webp" group-title="Regionales",TeleNord Corrientes
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vivotvhd.com/img/cha/4811.gif" group-title="Regionales",TeleNord Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Tlslogo2020.png/revision/latest/scale-to-width-down/170?cb=20200611000556" group-title="Regionales",Telesol San Juan
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
