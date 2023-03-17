@@ -1,5 +1,15 @@
 <?xml version="1.0"encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB  and  REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Universal TV (Chile)">
+    <display-name lang="es">Canal Universal TV (Chile)</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Universal TV (Chile).png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Universal TV (Panregional)">
+    <display-name lang="es">Canal Universal TV (Panregional)</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Universal TV (Panregional).png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="A and E">
     <display-name lang="es">A and E</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/A and E.png" />
@@ -228,16 +238,6 @@
   <channel id="TNT Series HD">
     <display-name lang="es">TNT Series HD</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TNT Series HD.png" />
-    <url>http://www.telered.com.ar</url>
-  </channel>
-  <channel id="UNIVERSAL">
-    <display-name lang="es">UNIVERSAL</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/UNIVERSAL.png" />
-    <url>http://www.telered.com.ar</url>
-  </channel>
-  <channel id="UNIVERSAL HD">
-    <display-name lang="es">UNIVERSAL HD</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/UNIVERSAL HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="Warner">
@@ -760,6 +760,171 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Orbe 21.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
+<programme start="20230317004000 -0600" stop="20230317013000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230317013000 -0600" stop="20230317022000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230317022000 -0600" stop="20230317031000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230317031000 -0600" stop="20230317040000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230317040000 -0600" stop="20230317045000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230317045000 -0600" stop="20230317054000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230317054000 -0600" stop="20230317063000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230317063000 -0600" stop="20230317071500 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">House MD</title>
+  </programme>
+<programme start="20230317071500 -0600" stop="20230317080000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">House MD</title>
+  </programme>
+<programme start="20230317080000 -0600" stop="20230317085000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">House MD</title>
+  </programme>
+<programme start="20230317085000 -0600" stop="20230317094000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230317094000 -0600" stop="20230317103000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230317103000 -0600" stop="20230317112000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230317112000 -0600" stop="20230317121000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230317121000 -0600" stop="20230317130000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230317130000 -0600" stop="20230317135000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230317135000 -0600" stop="20230317144000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+<programme start="20230317144000 -0600" stop="20230317153000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+<programme start="20230317153000 -0600" stop="20230317162000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+<programme start="20230317162000 -0600" stop="20230317171000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230317171000 -0600" stop="20230317180000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230317180000 -0600" stop="20230317185000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230317185000 -0600" stop="20230317194000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230317194000 -0600" stop="20230317203000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230317203000 -0600" stop="20230317212000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230317212000 -0600" stop="20230317221000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+<programme start="20230317221000 -0600" stop="20230317230000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+<programme start="20230317230000 -0600" stop="20230317235000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+<programme start="20230317235000 -0600" stop="20230318004000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230318235000 -0600" stop="20230319004000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230319004000 -0600" stop="20230319013000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230319013000 -0600" stop="20230319022000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230319022000 -0600" stop="20230319031000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230319031000 -0600" stop="20230319040000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230319040000 -0600" stop="20230319045000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230319045000 -0600" stop="20230319054000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230319054000 -0600" stop="20230319063000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230319063000 -0600" stop="20230319071500 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">House MD</title>
+  </programme>
+<programme start="20230319071500 -0600" stop="20230319080000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">House MD</title>
+  </programme>
+<programme start="20230319080000 -0600" stop="20230319085000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">House MD</title>
+  </programme>
+<programme start="20230319085000 -0600" stop="20230319094000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">House MD</title>
+  </programme>
+<programme start="20230319094000 -0600" stop="20230319103000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">House MD</title>
+  </programme>
+<programme start="20230319103000 -0600" stop="20230319112000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">House MD</title>
+  </programme>
+<programme start="20230319112000 -0600" stop="20230319121000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230319121000 -0600" stop="20230319130000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230319130000 -0600" stop="20230319135000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230319135000 -0600" stop="20230319144000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230319144000 -0600" stop="20230319153000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230319153000 -0600" stop="20230319162000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Maratón Chicago PD</title>
+  </programme>
+<programme start="20230319162000 -0600" stop="20230319171000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Maratón Chicago PD</title>
+  </programme>
+<programme start="20230319171000 -0600" stop="20230319180000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Maratón Chicago PD</title>
+  </programme>
+<programme start="20230319180000 -0600" stop="20230319185000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Maratón Chicago PD</title>
+  </programme>
+<programme start="20230319185000 -0600" stop="20230319194000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Maratón Chicago PD</title>
+  </programme>
+<programme start="20230319194000 -0600" stop="20230319203000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Maratón Chicago PD</title>
+  </programme>
+<programme start="20230319203000 -0600" stop="20230319212000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Maratón Chicago PD</title>
+  </programme>
 <programme start="20230316225500 -0300" stop="20230317010500 -0300" channel="A and E">
     <title lang="es">Riddick, el amo de la oscuridad</title>
   </programme>
