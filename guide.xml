@@ -295,6 +295,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DEPORTV HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
+  <channel id="DEPORTV">
+    <display-name lang="es">DEPORTV</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DEPORTV.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
   <channel id="TURBO">
     <display-name lang="es">TURBO</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TURBO.png" />
@@ -1492,6 +1497,9 @@
   </programme>
 <programme start="20230319120000 -0600" stop="20230319123000 -0600" channel="24 Horas (Chile)">
     <title lang="es">¿Cuál es tu huella</title>
+  </programme>
+<programme start="20230319143000 -0600" stop="20230319150000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
   </programme>
 <programme start="20230319173000 -0600" stop="20230319193000 -0600" channel="24 Horas (Chile)">
     <title lang="es">Estado Nacional</title>
@@ -2731,6 +2739,9 @@
   </programme>
 <programme start="20230319130000 -0600" stop="20230319140000 -0600" channel="CNN en Español">
     <title lang="es">Cnn dinero</title>
+  </programme>
+<programme start="20230319140000 -0600" stop="20230319150000 -0600" channel="CNN en Español">
+    <title lang="es">Mirador Mundial</title>
   </programme>
 <programme start="20230319150000 -0600" stop="20230319160000 -0600" channel="CNN en Español">
     <title lang="es">Oppenheimer presenta</title>
@@ -10857,6 +10868,249 @@
     <title lang="es">DeporTV</title>
   </programme>
 <programme start="20230321000000 -0300" stop="20230321120000 -0300" channel="DEPORTV HD">
+    <title lang="es">DeporTV</title>
+  </programme>
+<programme start="20230317233000 -0300" stop="20230318000000 -0300" channel="DEPORTV">
+    <title lang="es">La mítica 40</title>
+  </programme>
+<programme start="20230318000000 -0300" stop="20230318014500 -0300" channel="DEPORTV">
+    <title lang="es">Torneo Metropolitano de Handball</title>
+  </programme>
+<programme start="20230318014500 -0300" stop="20230318020000 -0300" channel="DEPORTV">
+    <title lang="es">El retrovisor</title>
+  </programme>
+<programme start="20230318020000 -0300" stop="20230318023000 -0300" channel="DEPORTV">
+    <title lang="es">Fútbol pasión</title>
+  </programme>
+<programme start="20230318023000 -0300" stop="20230318030000 -0300" channel="DEPORTV">
+    <title lang="es">El otro deporte</title>
+  </programme>
+<programme start="20230318030000 -0300" stop="20230318033000 -0300" channel="DEPORTV">
+    <title lang="es">Museo del TC</title>
+  </programme>
+<programme start="20230318033000 -0300" stop="20230318040000 -0300" channel="DEPORTV">
+    <title lang="es">Instinto natural</title>
+  </programme>
+<programme start="20230318040000 -0300" stop="20230318043000 -0300" channel="DEPORTV">
+    <title lang="es">Nuestro clásico</title>
+  </programme>
+<programme start="20230318043000 -0300" stop="20230318050000 -0300" channel="DEPORTV">
+    <title lang="es">La meta</title>
+  </programme>
+<programme start="20230318050000 -0300" stop="20230318053000 -0300" channel="DEPORTV">
+    <title lang="es">Ídolos por el mundo</title>
+  </programme>
+<programme start="20230318053000 -0300" stop="20230318060000 -0300" channel="DEPORTV">
+    <title lang="es">El fútbol es historia</title>
+  </programme>
+<programme start="20230318060000 -0300" stop="20230318080000 -0300" channel="DEPORTV">
+    <title lang="es">Copa del Mundo Japón 2019</title>
+  </programme>
+<programme start="20230318080000 -0300" stop="20230318083000 -0300" channel="DEPORTV">
+    <title lang="es">Volverte a ver</title>
+  </programme>
+<programme start="20230318083000 -0300" stop="20230318084500 -0300" channel="DEPORTV">
+    <title lang="es">Mentes doradas</title>
+  </programme>
+<programme start="20230318084500 -0300" stop="20230318090000 -0300" channel="DEPORTV">
+    <title lang="es">Jugadoras</title>
+  </programme>
+<programme start="20230318090000 -0300" stop="20230318100000 -0300" channel="DEPORTV">
+    <title lang="es">Movete Argentina</title>
+  </programme>
+<programme start="20230318100000 -0300" stop="20230318103000 -0300" channel="DEPORTV">
+    <title lang="es">Un gol al arcoíris</title>
+  </programme>
+<programme start="20230318103000 -0300" stop="20230318104500 -0300" channel="DEPORTV">
+    <title lang="es">Herencia deportiva</title>
+  </programme>
+<programme start="20230318104500 -0300" stop="20230318111500 -0300" channel="DEPORTV">
+    <title lang="es">Contar la vida</title>
+  </programme>
+<programme start="20230318111500 -0300" stop="20230318113000 -0300" channel="DEPORTV">
+    <title lang="es">Sombras en los juegos</title>
+  </programme>
+<programme start="20230318113000 -0300" stop="20230318120000 -0300" channel="DEPORTV">
+    <title lang="es">Escuela de boxeo</title>
+  </programme>
+<programme start="20230318120000 -0300" stop="20230318121500 -0300" channel="DEPORTV">
+    <title lang="es">Es pasión</title>
+  </programme>
+<programme start="20230318121500 -0300" stop="20230318124500 -0300" channel="DEPORTV">
+    <title lang="es">RTT Motores</title>
+  </programme>
+<programme start="20230318124500 -0300" stop="20230318130000 -0300" channel="DEPORTV">
+    <title lang="es">El retrovisor</title>
+  </programme>
+<programme start="20230318130000 -0300" stop="20230318140000 -0300" channel="DEPORTV">
+    <title lang="es">Maratón Man</title>
+  </programme>
+<programme start="20230318140000 -0300" stop="20230318143000 -0300" channel="DEPORTV">
+    <title lang="es">Una cancha llamada Medellín</title>
+  </programme>
+<programme start="20230318143000 -0300" stop="20230318150000 -0300" channel="DEPORTV">
+    <title lang="es">Heraia: mujeres que encienden la llama</title>
+  </programme>
+<programme start="20230318150000 -0300" stop="20230318170000 -0300" channel="DEPORTV">
+    <title lang="es">Clasificación</title>
+  </programme>
+<programme start="20230318170000 -0300" stop="20230318173000 -0300" channel="DEPORTV">
+    <title lang="es">Pilotos en primera</title>
+  </programme>
+<programme start="20230318173000 -0300" stop="20230318174500 -0300" channel="DEPORTV">
+    <title lang="es">Tandem</title>
+  </programme>
+<programme start="20230318174500 -0300" stop="20230318181500 -0300" channel="DEPORTV">
+    <title lang="es">Instinto natural</title>
+  </programme>
+<programme start="20230318181500 -0300" stop="20230318183000 -0300" channel="DEPORTV">
+    <title lang="es">Herencia deportiva</title>
+  </programme>
+<programme start="20230318183000 -0300" stop="20230318190000 -0300" channel="DEPORTV">
+    <title lang="es">Bestiario</title>
+  </programme>
+<programme start="20230318190000 -0300" stop="20230318191500 -0300" channel="DEPORTV">
+    <title lang="es">Es pasión</title>
+  </programme>
+<programme start="20230318191500 -0300" stop="20230318194500 -0300" channel="DEPORTV">
+    <title lang="es">Una cancha llamada Medellín</title>
+  </programme>
+<programme start="20230318194500 -0300" stop="20230318200000 -0300" channel="DEPORTV">
+    <title lang="es">El retrovisor</title>
+  </programme>
+<programme start="20230318200000 -0300" stop="20230318203000 -0300" channel="DEPORTV">
+    <title lang="es">Un minuto de silencio</title>
+  </programme>
+<programme start="20230318203000 -0300" stop="20230318210000 -0300" channel="DEPORTV">
+    <title lang="es">Escuela de boxeo</title>
+  </programme>
+<programme start="20230318210000 -0300" stop="20230318220000 -0300" channel="DEPORTV">
+    <title lang="es">Maratón Man</title>
+  </programme>
+<programme start="20230318220000 -0300" stop="20230318233000 -0300" channel="DEPORTV">
+    <title lang="es">Yallah! Yallah!</title>
+  </programme>
+<programme start="20230318233000 -0300" stop="20230319000000 -0300" channel="DEPORTV">
+    <title lang="es">Contar la vida</title>
+  </programme>
+<programme start="20230319000000 -0300" stop="20230319020000 -0300" channel="DEPORTV">
+    <title lang="es">Clasificación</title>
+  </programme>
+<programme start="20230319020000 -0300" stop="20230319023000 -0300" channel="DEPORTV">
+    <title lang="es">Fútbol pasión</title>
+  </programme>
+<programme start="20230319023000 -0300" stop="20230319030000 -0300" channel="DEPORTV">
+    <title lang="es">El otro deporte</title>
+  </programme>
+<programme start="20230319030000 -0300" stop="20230319033000 -0300" channel="DEPORTV">
+    <title lang="es">Museo del TC</title>
+  </programme>
+<programme start="20230319033000 -0300" stop="20230319040000 -0300" channel="DEPORTV">
+    <title lang="es">Instinto natural</title>
+  </programme>
+<programme start="20230319040000 -0300" stop="20230319043000 -0300" channel="DEPORTV">
+    <title lang="es">Nuestro clásico</title>
+  </programme>
+<programme start="20230319043000 -0300" stop="20230319050000 -0300" channel="DEPORTV">
+    <title lang="es">La meta</title>
+  </programme>
+<programme start="20230319050000 -0300" stop="20230319053000 -0300" channel="DEPORTV">
+    <title lang="es">Ídolos por el mundo</title>
+  </programme>
+<programme start="20230319053000 -0300" stop="20230319080000 -0300" channel="DEPORTV">
+    <title lang="es">Copa del Mundo Japón 2019</title>
+  </programme>
+<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="DEPORTV">
+    <title lang="es">Contar la vida</title>
+  </programme>
+<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="DEPORTV">
+    <title lang="es">Escuela de aprendices</title>
+  </programme>
+<programme start="20230319090000 -0300" stop="20230319100000 -0300" channel="DEPORTV">
+    <title lang="es">Movete Argentina</title>
+  </programme>
+<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="DEPORTV">
+    <title lang="es">RTT Motores</title>
+  </programme>
+<programme start="20230319103000 -0300" stop="20230319104500 -0300" channel="DEPORTV">
+    <title lang="es">Bochini</title>
+  </programme>
+<programme start="20230319104500 -0300" stop="20230319111500 -0300" channel="DEPORTV">
+    <title lang="es">Heraia: mujeres que encienden la llama</title>
+  </programme>
+<programme start="20230319111500 -0300" stop="20230319113000 -0300" channel="DEPORTV">
+    <title lang="es">Es pasión</title>
+  </programme>
+<programme start="20230319113000 -0300" stop="20230319120000 -0300" channel="DEPORTV">
+    <title lang="es">Una cancha llamada Medellín</title>
+  </programme>
+<programme start="20230319120000 -0300" stop="20230319121500 -0300" channel="DEPORTV">
+    <title lang="es">Herencia deportiva</title>
+  </programme>
+<programme start="20230319121500 -0300" stop="20230319124500 -0300" channel="DEPORTV">
+    <title lang="es">Contar la vida</title>
+  </programme>
+<programme start="20230319124500 -0300" stop="20230319130000 -0300" channel="DEPORTV">
+    <title lang="es">De barrio somos</title>
+  </programme>
+<programme start="20230319130000 -0300" stop="20230319140000 -0300" channel="DEPORTV">
+    <title lang="es">Como corre Elisa</title>
+  </programme>
+<programme start="20230319140000 -0300" stop="20230319143000 -0300" channel="DEPORTV">
+    <title lang="es">Un minuto de silencio</title>
+  </programme>
+<programme start="20230319143000 -0300" stop="20230319144500 -0300" channel="DEPORTV">
+    <title lang="es">El retrovisor</title>
+  </programme>
+<programme start="20230319144500 -0300" stop="20230319151500 -0300" channel="DEPORTV">
+    <title lang="es">Escuela de boxeo</title>
+  </programme>
+<programme start="20230319151500 -0300" stop="20230319153000 -0300" channel="DEPORTV">
+    <title lang="es">Herencia deportiva</title>
+  </programme>
+<programme start="20230319153000 -0300" stop="20230319160000 -0300" channel="DEPORTV">
+    <title lang="es">La mítica 40</title>
+  </programme>
+<programme start="20230319160000 -0300" stop="20230319170000 -0300" channel="DEPORTV">
+    <title lang="es">Maratón Man</title>
+  </programme>
+<programme start="20230319170000 -0300" stop="20230319173000 -0300" channel="DEPORTV">
+    <title lang="es">Contar la vida</title>
+  </programme>
+<programme start="20230319173000 -0300" stop="20230319174500 -0300" channel="DEPORTV">
+    <title lang="es">Es pasión</title>
+  </programme>
+<programme start="20230319174500 -0300" stop="20230319181500 -0300" channel="DEPORTV">
+    <title lang="es">El gran Willy</title>
+  </programme>
+<programme start="20230319181500 -0300" stop="20230319183000 -0300" channel="DEPORTV">
+    <title lang="es">De clubes y potreros</title>
+  </programme>
+<programme start="20230319183000 -0300" stop="20230319190000 -0300" channel="DEPORTV">
+    <title lang="es">Heraia: mujeres que encienden la llama</title>
+  </programme>
+<programme start="20230319190000 -0300" stop="20230319191500 -0300" channel="DEPORTV">
+    <title lang="es">El retrovisor</title>
+  </programme>
+<programme start="20230319191500 -0300" stop="20230319194500 -0300" channel="DEPORTV">
+    <title lang="es">Instinto natural</title>
+  </programme>
+<programme start="20230319194500 -0300" stop="20230319200000 -0300" channel="DEPORTV">
+    <title lang="es">Sombras en los juegos</title>
+  </programme>
+<programme start="20230319200000 -0300" stop="20230319203000 -0300" channel="DEPORTV">
+    <title lang="es">Pilotos en primera</title>
+  </programme>
+<programme start="20230319203000 -0300" stop="20230320000000 -0300" channel="DEPORTV">
+    <title lang="es">Automovilismo</title>
+  </programme>
+<programme start="20230320000000 -0300" stop="20230320120000 -0300" channel="DEPORTV">
+    <title lang="es">DeporTV</title>
+  </programme>
+<programme start="20230320120000 -0300" stop="20230321000000 -0300" channel="DEPORTV">
+    <title lang="es">DeporTV</title>
+  </programme>
+<programme start="20230321000000 -0300" stop="20230321120000 -0300" channel="DEPORTV">
     <title lang="es">DeporTV</title>
   </programme>
 <programme start="20230317235400 -0300" stop="20230318004400 -0300" channel="TURBO">
