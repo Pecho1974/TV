@@ -130,6 +130,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Europa Europa.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
+  <channel id="Film  and  Arts">
+    <display-name lang="es">Film  and  Arts</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Film  and  Arts.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
   <channel id="FX">
     <display-name lang="es">FX</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/FX.png" />
@@ -213,6 +218,11 @@
   <channel id="ISAT">
     <display-name lang="es">ISAT</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ISAT.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="ESTRELLAS HD">
+    <display-name lang="es">ESTRELLAS HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESTRELLAS HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="PARAMOUNT CHANNEL">
@@ -330,9 +340,9 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN EXTRA HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="Fox Sports Premium">
-    <display-name lang="es">Fox Sports Premium</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports Premium.png" />
+  <channel id="ESPN Premium">
+    <display-name lang="es">ESPN Premium</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN Premium.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="ESPN 2 HD">
@@ -350,9 +360,9 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/ESPN 3 HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="Fox Sports Premium HD">
-    <display-name lang="es">Fox Sports Premium HD</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports Premium HD.png" />
+  <channel id="Fox Sports Premium">
+    <display-name lang="es">Fox Sports Premium</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Fox Sports Premium.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="FOX Sports">
@@ -866,176 +876,221 @@
 <programme start="20230319185600 -0600" stop="20230319204500 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Tiempos de guerra</title>
   </programme>
-<programme start="20230320185600 -0600" stop="20230320204500 -0600" channel="Atreseries (Internacional)">
-    <title lang="es">Tiempos de guerra</title>
-  </programme>
-<programme start="20230320204500 -0600" stop="20230320210000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230319204500 -0600" stop="20230319210000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Más de series</title>
   </programme>
-<programme start="20230320210000 -0600" stop="20230321001200 -0600" channel="Atreseries (Internacional)">
+<programme start="20230319210000 -0600" stop="20230320001200 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-<programme start="20230321001200 -0600" stop="20230321014500 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320001200 -0600" stop="20230320014500 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Los protegidos</title>
   </programme>
-<programme start="20230321014500 -0600" stop="20230321024000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320014500 -0600" stop="20230320024000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Carceleros</title>
   </programme>
-<programme start="20230321024000 -0600" stop="20230321040000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320024000 -0600" stop="20230320040000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Tiempos de guerra</title>
   </programme>
-<programme start="20230321040000 -0600" stop="20230321042900 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320040000 -0600" stop="20230320042900 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Más de series</title>
   </programme>
-<programme start="20230321042900 -0600" stop="20230321052100 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320042900 -0600" stop="20230320052100 -0600" channel="Atreseries (Internacional)">
     <title lang="es">La Dueña</title>
   </programme>
-<programme start="20230321052100 -0600" stop="20230321062500 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320052100 -0600" stop="20230320062500 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El Secreto de Puente Viejo</title>
   </programme>
-<programme start="20230321062500 -0600" stop="20230321083900 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320062500 -0600" stop="20230320083900 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-<programme start="20230321083900 -0600" stop="20230321095400 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320083900 -0600" stop="20230320095400 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Amar es para siempre</title>
   </programme>
-<programme start="20230321095400 -0600" stop="20230321105000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320095400 -0600" stop="20230320105000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El tiempo no para</title>
   </programme>
-<programme start="20230321105000 -0600" stop="20230321114500 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320105000 -0600" stop="20230320114500 -0600" channel="Atreseries (Internacional)">
     <title lang="es">La Dueña</title>
   </programme>
-<programme start="20230321114500 -0600" stop="20230321115400 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320114500 -0600" stop="20230320115400 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Más de series</title>
   </programme>
-<programme start="20230321115400 -0600" stop="20230321124900 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320115400 -0600" stop="20230320124900 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El otro lado del paraíso</title>
   </programme>
-<programme start="20230321124900 -0600" stop="20230321144200 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320124900 -0600" stop="20230320144200 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Bandolera</title>
   </programme>
-<programme start="20230321144200 -0600" stop="20230321155400 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320144200 -0600" stop="20230320155400 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El Secreto de Puente Viejo</title>
   </programme>
-<programme start="20230321155400 -0600" stop="20230321164400 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320155400 -0600" stop="20230320164400 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El tiempo no para</title>
   </programme>
-<programme start="20230321164400 -0600" stop="20230321175900 -0600" channel="Atreseries (Internacional)">
+<programme start="20230320164400 -0600" stop="20230320175900 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Amar es para siempre</title>
+  </programme>
+<programme start="20230320175900 -0600" stop="20230320191000 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Dos años y un día</title>
   </programme>
 <programme start="20230321175900 -0600" stop="20230321191000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Dos años y un día</title>
   </programme>
-<programme start="20230322175900 -0600" stop="20230322191000 -0600" channel="Atreseries (Internacional)">
-    <title lang="es">Dos años y un día</title>
-  </programme>
-<programme start="20230322191000 -0600" stop="20230322201500 -0600" channel="Atreseries (Internacional)">
+<programme start="20230321191000 -0600" stop="20230321201500 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Nuevo sol</title>
   </programme>
-<programme start="20230322201500 -0600" stop="20230322210000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230321201500 -0600" stop="20230321210000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Más de series</title>
   </programme>
-<programme start="20230322210000 -0600" stop="20230322215200 -0600" channel="Atreseries (Internacional)">
+<programme start="20230321210000 -0600" stop="20230321215200 -0600" channel="Atreseries (Internacional)">
     <title lang="es">La Dueña</title>
   </programme>
-<programme start="20230322215200 -0600" stop="20230323004600 -0600" channel="Atreseries (Internacional)">
+<programme start="20230321215200 -0600" stop="20230322004600 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-<programme start="20230323004600 -0600" stop="20230323024100 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322004600 -0600" stop="20230322024100 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Bandolera</title>
   </programme>
-<programme start="20230323024100 -0600" stop="20230323040000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322024100 -0600" stop="20230322040000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Amar es para siempre</title>
   </programme>
-<programme start="20230323040000 -0600" stop="20230323041200 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322040000 -0600" stop="20230322041200 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Más de series</title>
   </programme>
-<programme start="20230323041200 -0600" stop="20230323052200 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322041200 -0600" stop="20230322052200 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Dos años y un día</title>
   </programme>
-<programme start="20230323052200 -0600" stop="20230323063000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322052200 -0600" stop="20230322063000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El Secreto de Puente Viejo</title>
   </programme>
-<programme start="20230323063000 -0600" stop="20230323082500 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322063000 -0600" stop="20230322082500 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-<programme start="20230323082500 -0600" stop="20230323094000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322082500 -0600" stop="20230322094000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Amar es para siempre</title>
   </programme>
-<programme start="20230323094000 -0600" stop="20230323103100 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322094000 -0600" stop="20230322103100 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El tiempo no para</title>
   </programme>
-<programme start="20230323103100 -0600" stop="20230323114500 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322103100 -0600" stop="20230322114500 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Dos años y un día</title>
   </programme>
-<programme start="20230323114500 -0600" stop="20230323115900 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322114500 -0600" stop="20230322115900 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Más de series</title>
   </programme>
-<programme start="20230323115900 -0600" stop="20230323125300 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322115900 -0600" stop="20230322125300 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Nuevo sol</title>
   </programme>
-<programme start="20230323125300 -0600" stop="20230323144800 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322125300 -0600" stop="20230322144800 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Bandolera</title>
   </programme>
-<programme start="20230323144800 -0600" stop="20230323155300 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322144800 -0600" stop="20230322155300 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El Secreto de Puente Viejo</title>
   </programme>
-<programme start="20230323155300 -0600" stop="20230323164900 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322155300 -0600" stop="20230322164900 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El tiempo no para</title>
   </programme>
-<programme start="20230323164900 -0600" stop="20230323180000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322164900 -0600" stop="20230322180000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Amar es para siempre</title>
   </programme>
-<programme start="20230323180000 -0600" stop="20230323190200 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322180000 -0600" stop="20230322190200 -0600" channel="Atreseries (Internacional)">
     <title lang="es">DESCONOCIDAS</title>
   </programme>
-<programme start="20230323190200 -0600" stop="20230323201500 -0600" channel="Atreseries (Internacional)">
+<programme start="20230322190200 -0600" stop="20230322201500 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Nuevo sol</title>
+  </programme>
+<programme start="20230322210000 -0600" stop="20230322221500 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Dos años y un día</title>
+  </programme>
+<programme start="20230322221500 -0600" stop="20230323010400 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+<programme start="20230323010400 -0600" stop="20230323025100 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Bandolera</title>
+  </programme>
+<programme start="20230323025100 -0600" stop="20230323040000 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+<programme start="20230323040000 -0600" stop="20230323041500 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Más de series</title>
+  </programme>
+<programme start="20230323041500 -0600" stop="20230323051800 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">DESCONOCIDAS</title>
+  </programme>
+<programme start="20230323051800 -0600" stop="20230323063000 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">El Secreto de Puente Viejo</title>
+  </programme>
+<programme start="20230323082500 -0600" stop="20230323094600 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+<programme start="20230323094600 -0600" stop="20230323104200 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">El tiempo no para</title>
+  </programme>
+<programme start="20230323104200 -0600" stop="20230323114500 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">DESCONOCIDAS</title>
+  </programme>
+<programme start="20230323114500 -0600" stop="20230323120300 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Más de series</title>
+  </programme>
+<programme start="20230323120300 -0600" stop="20230323125900 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Nuevo sol</title>
+  </programme>
+<programme start="20230323125900 -0600" stop="20230323144600 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Bandolera</title>
+  </programme>
+<programme start="20230323144600 -0600" stop="20230323155200 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">El Secreto de Puente Viejo</title>
+  </programme>
+<programme start="20230323155200 -0600" stop="20230323164900 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">El tiempo no para</title>
+  </programme>
+<programme start="20230323180000 -0600" stop="20230323190300 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Carceleros</title>
+  </programme>
+<programme start="20230323190300 -0600" stop="20230323201500 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Nuevo sol</title>
   </programme>
 <programme start="20230323210000 -0600" stop="20230323221500 -0600" channel="Atreseries (Internacional)">
-    <title lang="es">Dos años y un día</title>
+    <title lang="es">DESCONOCIDAS</title>
   </programme>
-<programme start="20230323221500 -0600" stop="20230324010400 -0600" channel="Atreseries (Internacional)">
+<programme start="20230323221500 -0600" stop="20230324001800 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Pop up: aquí no hay quien viva</title>
   </programme>
-<programme start="20230324010400 -0600" stop="20230324025100 -0600" channel="Atreseries (Internacional)">
+<programme start="20230324001800 -0600" stop="20230324021100 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Bandolera</title>
   </programme>
-<programme start="20230324025100 -0600" stop="20230324040000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230324021100 -0600" stop="20230324034600 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Amar es para siempre</title>
   </programme>
-<programme start="20230324040000 -0600" stop="20230324041500 -0600" channel="Atreseries (Internacional)">
+<programme start="20230324034600 -0600" stop="20230324040000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Más de series</title>
   </programme>
-<programme start="20230324041500 -0600" stop="20230324051800 -0600" channel="Atreseries (Internacional)">
-    <title lang="es">DESCONOCIDAS</title>
+<programme start="20230324040000 -0600" stop="20230324051700 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Los protegidos</title>
   </programme>
-<programme start="20230324051800 -0600" stop="20230324063000 -0600" channel="Atreseries (Internacional)">
+<programme start="20230324051700 -0600" stop="20230324063000 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El Secreto de Puente Viejo</title>
   </programme>
-<programme start="20230324082500 -0600" stop="20230324094600 -0600" channel="Atreseries (Internacional)">
+<programme start="20230324063000 -0600" stop="20230324075600 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+<programme start="20230324075600 -0600" stop="20230324091700 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Amar es para siempre</title>
   </programme>
-<programme start="20230324094600 -0600" stop="20230324104200 -0600" channel="Atreseries (Internacional)">
+<programme start="20230324091700 -0600" stop="20230324101400 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El tiempo no para</title>
   </programme>
-<programme start="20230324104200 -0600" stop="20230324114500 -0600" channel="Atreseries (Internacional)">
-    <title lang="es">DESCONOCIDAS</title>
+<programme start="20230324101400 -0600" stop="20230324114500 -0600" channel="Atreseries (Internacional)">
+    <title lang="es">Los protegidos</title>
   </programme>
-<programme start="20230324114500 -0600" stop="20230324120300 -0600" channel="Atreseries (Internacional)">
-    <title lang="es">Más de series</title>
-  </programme>
-<programme start="20230324120300 -0600" stop="20230324125900 -0600" channel="Atreseries (Internacional)">
+<programme start="20230324115900 -0600" stop="20230324125500 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Nuevo sol</title>
   </programme>
-<programme start="20230324125900 -0600" stop="20230324144600 -0600" channel="Atreseries (Internacional)">
+<programme start="20230324125500 -0600" stop="20230324144800 -0600" channel="Atreseries (Internacional)">
     <title lang="es">Bandolera</title>
   </programme>
-<programme start="20230324144600 -0600" stop="20230324155200 -0600" channel="Atreseries (Internacional)">
+<programme start="20230324144800 -0600" stop="20230324155200 -0600" channel="Atreseries (Internacional)">
     <title lang="es">El Secreto de Puente Viejo</title>
-  </programme>
-<programme start="20230324155200 -0600" stop="20230324164900 -0600" channel="Atreseries (Internacional)">
-    <title lang="es">El tiempo no para</title>
   </programme>
 <programme start="20230318195000 -0600" stop="20230318204000 -0600" channel="Telemundo Internacional">
     <title lang="es">Caso Cerrado</title>
@@ -1047,7 +1102,7 @@
     <title lang="es">Lo Mejor de Caso Cerrado</title>
   </programme>
 <programme start="20230318222000 -0600" stop="20230318225000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Noticias Telemundo - Fin de semana</title>
+    <title lang="es">Noticias Telemundo fin de semana</title>
   </programme>
 <programme start="20230318225000 -0600" stop="20230318234000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones</title>
@@ -1119,7 +1174,7 @@
     <title lang="es">Caso Cerrado</title>
   </programme>
 <programme start="20230319222000 -0600" stop="20230319225000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Noticias Telemundo - Fin de semana</title>
+    <title lang="es">Noticias Telemundo fin de semana</title>
   </programme>
 <programme start="20230319225000 -0600" stop="20230319234000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones</title>
@@ -1171,6 +1226,21 @@
   </programme>
 <programme start="20230320154000 -0600" stop="20230320163000 -0600" channel="Telemundo Internacional">
     <title lang="es">Caso Cerrado</title>
+  </programme>
+<programme start="20230320163000 -0600" stop="20230320172000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+<programme start="20230320172000 -0600" stop="20230320181000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Bajo el mismo cielo</title>
+  </programme>
+<programme start="20230320181000 -0600" stop="20230320190000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Bajo el mismo cielo</title>
+  </programme>
+<programme start="20230320190000 -0600" stop="20230320204000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Top Chef VIP</title>
+  </programme>
+<programme start="20230320204000 -0600" stop="20230320213000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Señora Acero</title>
   </programme>
 <programme start="20230318194000 -0600" stop="20230318203000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón Chicago PD</title>
@@ -1259,82 +1329,100 @@
 <programme start="20230319185000 -0600" stop="20230319194000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón La ley y el orden UVE</title>
   </programme>
-<programme start="20230320185000 -0600" stop="20230320194000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230319194000 -0600" stop="20230319203000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Maratón La ley y el orden UVE</title>
   </programme>
-<programme start="20230320194000 -0600" stop="20230320203000 -0600" channel="Canal Universal TV (Panregional)">
-    <title lang="es">Maratón La ley y el orden UVE</title>
-  </programme>
-<programme start="20230320203000 -0600" stop="20230320212000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230319203000 -0600" stop="20230319212000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Blue Bloods</title>
   </programme>
-<programme start="20230320212000 -0600" stop="20230320221000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230319212000 -0600" stop="20230319221000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">La ley y el orden UVE</title>
   </programme>
-<programme start="20230320221000 -0600" stop="20230320230000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230319221000 -0600" stop="20230319230000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">La ley y el orden</title>
   </programme>
-<programme start="20230320230000 -0600" stop="20230320235000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230319230000 -0600" stop="20230319235000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Med</title>
   </programme>
-<programme start="20230320235000 -0600" stop="20230321004000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230319235000 -0600" stop="20230320004000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Med</title>
   </programme>
-<programme start="20230321004000 -0600" stop="20230321013000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320004000 -0600" stop="20230320013000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Med</title>
   </programme>
-<programme start="20230321013000 -0600" stop="20230321021500 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320013000 -0600" stop="20230320021500 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">House MD</title>
   </programme>
-<programme start="20230321021500 -0600" stop="20230321030000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320021500 -0600" stop="20230320030000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">House MD</title>
   </programme>
-<programme start="20230321030000 -0600" stop="20230321035000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320030000 -0600" stop="20230320035000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">House MD</title>
   </programme>
-<programme start="20230321035000 -0600" stop="20230321044000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320035000 -0600" stop="20230320044000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago PD</title>
   </programme>
-<programme start="20230321044000 -0600" stop="20230321053000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320044000 -0600" stop="20230320053000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Fire</title>
   </programme>
-<programme start="20230321053000 -0600" stop="20230321062000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320053000 -0600" stop="20230320062000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Fire</title>
   </programme>
-<programme start="20230321062000 -0600" stop="20230321071000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320062000 -0600" stop="20230320071000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Fire</title>
   </programme>
-<programme start="20230321071000 -0600" stop="20230321080000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320071000 -0600" stop="20230320080000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Med</title>
   </programme>
-<programme start="20230321080000 -0600" stop="20230321085000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320080000 -0600" stop="20230320085000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Med</title>
   </programme>
-<programme start="20230321085000 -0600" stop="20230321094000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320085000 -0600" stop="20230320094000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">La ley y el orden UVE</title>
   </programme>
-<programme start="20230321094000 -0600" stop="20230321103000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320094000 -0600" stop="20230320103000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">La ley y el orden UVE</title>
   </programme>
-<programme start="20230321103000 -0600" stop="20230321112000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320103000 -0600" stop="20230320112000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">La ley y el orden UVE</title>
   </programme>
-<programme start="20230321112000 -0600" stop="20230321121000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320112000 -0600" stop="20230320121000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Fire</title>
   </programme>
-<programme start="20230321121000 -0600" stop="20230321130000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320121000 -0600" stop="20230320130000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Fire</title>
   </programme>
-<programme start="20230321130000 -0600" stop="20230321135000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320130000 -0600" stop="20230320135000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago Fire</title>
   </programme>
-<programme start="20230321135000 -0600" stop="20230321144000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320135000 -0600" stop="20230320144000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago PD</title>
   </programme>
-<programme start="20230321144000 -0600" stop="20230321153000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320144000 -0600" stop="20230320153000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago PD</title>
   </programme>
-<programme start="20230321153000 -0600" stop="20230321162000 -0600" channel="Canal Universal TV (Panregional)">
+<programme start="20230320153000 -0600" stop="20230320162000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230320162000 -0600" stop="20230320171000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+<programme start="20230320171000 -0600" stop="20230320180000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+<programme start="20230320180000 -0600" stop="20230320185000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+<programme start="20230320185000 -0600" stop="20230320194000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230321185000 -0600" stop="20230321194000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago Fire</title>
+  </programme>
+<programme start="20230321194000 -0600" stop="20230321203000 -0600" channel="Canal Universal TV (Panregional)">
+    <title lang="es">Chicago PD</title>
+  </programme>
+<programme start="20230321203000 -0600" stop="20230321212000 -0600" channel="Canal Universal TV (Panregional)">
     <title lang="es">Chicago PD</title>
   </programme>
 <programme start="20230318204000 -0600" stop="20230318220000 -0600" channel="Adrenalina Sports Network">
@@ -1472,6 +1560,33 @@
 <programme start="20230325194500 -0600" stop="20230325210000 -0600" channel="Adrenalina Sports Network">
     <title lang="es">Lopes vs. Mandarina Repetición</title>
   </programme>
+<programme start="20230326013500 -0600" stop="20230326032000 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+<programme start="20230326032000 -0600" stop="20230326054000 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">Cloroformo</title>
+  </programme>
+<programme start="20230326054000 -0600" stop="20230326064500 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">Rony Jason vs. Edgar Diaz Repetición</title>
+  </programme>
+<programme start="20230326064500 -0600" stop="20230326083500 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+<programme start="20230326083500 -0600" stop="20230326102000 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+<programme start="20230326102000 -0600" stop="20230326124000 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">Cloroformo</title>
+  </programme>
+<programme start="20230326124000 -0600" stop="20230326143000 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+<programme start="20230326143000 -0600" stop="20230326180000 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+<programme start="20230326180000 -0600" stop="20230326202000 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">Cloroformo</title>
+  </programme>
 <programme start="20230318193000 -0600" stop="20230318200000 -0600" channel="24 Horas (Chile)">
     <title lang="es">24 Horas</title>
   </programme>
@@ -1527,7 +1642,7 @@
     <title lang="es">Entrevistas 24</title>
   </programme>
 <programme start="20230319041500 -0600" stop="20230319043000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Frontera Azul</title>
+    <title lang="es">24 Cuadros</title>
   </programme>
 <programme start="20230319043000 -0600" stop="20230319060000 -0600" channel="24 Horas (Chile)">
     <title lang="es">24 Horas</title>
@@ -1571,8 +1686,95 @@
 <programme start="20230319173000 -0600" stop="20230319193000 -0600" channel="24 Horas (Chile)">
     <title lang="es">Estado Nacional</title>
   </programme>
-<programme start="20230320173000 -0600" stop="20230320193000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Estado Nacional</title>
+<programme start="20230320010000 -0600" stop="20230320013000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">La previa</title>
+  </programme>
+<programme start="20230320013000 -0600" stop="20230320030000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 AM</title>
+  </programme>
+<programme start="20230320030000 -0600" stop="20230320033000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Mirada Económica</title>
+  </programme>
+<programme start="20230320033000 -0600" stop="20230320060000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Mañana Informativa</title>
+  </programme>
+<programme start="20230320060000 -0600" stop="20230320061500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230320061500 -0600" stop="20230320073000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Mañana Informativa</title>
+  </programme>
+<programme start="20230320073000 -0600" stop="20230320074500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230320074500 -0600" stop="20230320080000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Cuadros</title>
+  </programme>
+<programme start="20230320100000 -0600" stop="20230320101500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230320101500 -0600" stop="20230320104500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Especialista Responde</title>
+  </programme>
+<programme start="20230320104500 -0600" stop="20230320113000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas a la Hora</title>
+  </programme>
+<programme start="20230320113000 -0600" stop="20230320130000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+<programme start="20230320130000 -0600" stop="20230320140000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+<programme start="20230320140000 -0600" stop="20230320150000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Noticias 24</title>
+  </programme>
+<programme start="20230320150000 -0600" stop="20230320155500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 horas</title>
+  </programme>
+<programme start="20230320155500 -0600" stop="20230320174500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230320174500 -0600" stop="20230320180000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230320180000 -0600" stop="20230320191500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Vía Pública</title>
+  </programme>
+<programme start="20230320191500 -0600" stop="20230320194500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230320194500 -0600" stop="20230320200000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230320200000 -0600" stop="20230320203000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Medianoche</title>
+  </programme>
+<programme start="20230320203000 -0600" stop="20230320210000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230320210000 -0600" stop="20230320213000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230320213000 -0600" stop="20230320220000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230320220000 -0600" stop="20230320223000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 horas</title>
+  </programme>
+<programme start="20230320223000 -0600" stop="20230320230000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230320230000 -0600" stop="20230320233000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230320233000 -0600" stop="20230321000000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230321000000 -0600" stop="20230321003000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230321003000 -0600" stop="20230321010000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
   </programme>
 <programme start="20230321010000 -0600" stop="20230321013000 -0600" channel="24 Horas (Chile)">
     <title lang="es">La previa</title>
@@ -1581,151 +1783,94 @@
     <title lang="es">24 AM</title>
   </programme>
 <programme start="20230321030000 -0600" stop="20230321033000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Mirada Económica</title>
+    <title lang="es">Reporte Minero</title>
   </programme>
 <programme start="20230321033000 -0600" stop="20230321060000 -0600" channel="24 Horas (Chile)">
     <title lang="es">Mañana Informativa</title>
   </programme>
 <programme start="20230321060000 -0600" stop="20230321061500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
+    <title lang="es">DW analiza</title>
   </programme>
 <programme start="20230321061500 -0600" stop="20230321073000 -0600" channel="24 Horas (Chile)">
     <title lang="es">Mañana Informativa</title>
   </programme>
-<programme start="20230321073000 -0600" stop="20230321074500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
-  </programme>
-<programme start="20230321074500 -0600" stop="20230321080000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Cuadros</title>
-  </programme>
-<programme start="20230321100000 -0600" stop="20230321101500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
-  </programme>
-<programme start="20230321101500 -0600" stop="20230321104500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Especialista Responde</title>
-  </programme>
-<programme start="20230321104500 -0600" stop="20230321113000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas a la Hora</title>
-  </programme>
-<programme start="20230321113000 -0600" stop="20230321130000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Noticias 24h</title>
-  </programme>
-<programme start="20230321130000 -0600" stop="20230321140000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Noticias 24</title>
-  </programme>
-<programme start="20230321140000 -0600" stop="20230321150000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Noticias 24</title>
-  </programme>
-<programme start="20230321150000 -0600" stop="20230321155500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 horas</title>
-  </programme>
-<programme start="20230321155500 -0600" stop="20230321174500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230321174500 -0600" stop="20230321180000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
-  </programme>
-<programme start="20230321180000 -0600" stop="20230321191500 -0600" channel="24 Horas (Chile)">
+<programme start="20230321073000 -0600" stop="20230321080000 -0600" channel="24 Horas (Chile)">
     <title lang="es">Vía Pública</title>
   </programme>
-<programme start="20230321191500 -0600" stop="20230321194500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230321194500 -0600" stop="20230321200000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
-  </programme>
-<programme start="20230321200000 -0600" stop="20230321203000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Medianoche</title>
-  </programme>
-<programme start="20230321203000 -0600" stop="20230321210000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230321210000 -0600" stop="20230321213000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230321213000 -0600" stop="20230321220000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230321220000 -0600" stop="20230321223000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 horas</title>
-  </programme>
-<programme start="20230321223000 -0600" stop="20230321230000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230321230000 -0600" stop="20230321233000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230321233000 -0600" stop="20230322000000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230322000000 -0600" stop="20230322003000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230322003000 -0600" stop="20230322010000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230322010000 -0600" stop="20230322013000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">La previa</title>
-  </programme>
-<programme start="20230322013000 -0600" stop="20230322030000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 AM</title>
-  </programme>
-<programme start="20230322030000 -0600" stop="20230322033000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Reporte Minero</title>
-  </programme>
-<programme start="20230322033000 -0600" stop="20230322060000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Mañana Informativa</title>
-  </programme>
-<programme start="20230322060000 -0600" stop="20230322061500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">DW analiza</title>
-  </programme>
-<programme start="20230322061500 -0600" stop="20230322073000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Mañana Informativa</title>
-  </programme>
-<programme start="20230322073000 -0600" stop="20230322080000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Vía Pública</title>
-  </programme>
-<programme start="20230322100000 -0600" stop="20230322103000 -0600" channel="24 Horas (Chile)">
+<programme start="20230321100000 -0600" stop="20230321103000 -0600" channel="24 Horas (Chile)">
     <title lang="es">¿Cuál es tu huella</title>
   </programme>
-<programme start="20230322103000 -0600" stop="20230322110000 -0600" channel="24 Horas (Chile)">
+<programme start="20230321103000 -0600" stop="20230321110000 -0600" channel="24 Horas (Chile)">
     <title lang="es">24 Horas a la Hora</title>
+  </programme>
+<programme start="20230321110000 -0600" stop="20230321113000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Expedición Antártica - Avances 24</title>
+  </programme>
+<programme start="20230322030000 -0600" stop="20230322033000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Especialista Responde</title>
+  </programme>
+<programme start="20230322060000 -0600" stop="20230322061500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230322100000 -0600" stop="20230322101500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Sonidos 24</title>
+  </programme>
+<programme start="20230322101500 -0600" stop="20230322103000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230322103000 -0600" stop="20230322110000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas</title>
   </programme>
 <programme start="20230322110000 -0600" stop="20230322113000 -0600" channel="24 Horas (Chile)">
     <title lang="es">Expedición Antártica - Avances 24</title>
   </programme>
-<programme start="20230323030000 -0600" stop="20230323033000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Especialista Responde</title>
-  </programme>
-<programme start="20230323060000 -0600" stop="20230323061500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
-  </programme>
-<programme start="20230323100000 -0600" stop="20230323101500 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Sonidos 24</title>
-  </programme>
-<programme start="20230323101500 -0600" stop="20230323103000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Entrevistas 24</title>
-  </programme>
-<programme start="20230323103000 -0600" stop="20230323110000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">24 Horas</title>
-  </programme>
-<programme start="20230323110000 -0600" stop="20230323113000 -0600" channel="24 Horas (Chile)">
-    <title lang="es">Expedición Antártica - Avances 24</title>
-  </programme>
-<programme start="20230323113000 -0600" stop="20230323130000 -0600" channel="24 Horas (Chile)">
+<programme start="20230322113000 -0600" stop="20230322130000 -0600" channel="24 Horas (Chile)">
     <title lang="es">Noticias 24h</title>
   </programme>
-<programme start="20230323130000 -0600" stop="20230323140000 -0600" channel="24 Horas (Chile)">
+<programme start="20230322130000 -0600" stop="20230322140000 -0600" channel="24 Horas (Chile)">
     <title lang="es">Noticias 24</title>
   </programme>
-<programme start="20230323140000 -0600" stop="20230323150000 -0600" channel="24 Horas (Chile)">
+<programme start="20230322140000 -0600" stop="20230322150000 -0600" channel="24 Horas (Chile)">
     <title lang="es">Noticias 24</title>
   </programme>
-<programme start="20230323150000 -0600" stop="20230323155500 -0600" channel="24 Horas (Chile)">
+<programme start="20230322150000 -0600" stop="20230322155500 -0600" channel="24 Horas (Chile)">
     <title lang="es">24 horas</title>
   </programme>
-<programme start="20230323155500 -0600" stop="20230323174500 -0600" channel="24 Horas (Chile)">
+<programme start="20230322155500 -0600" stop="20230322174500 -0600" channel="24 Horas (Chile)">
     <title lang="es">24 Horas</title>
+  </programme>
+<programme start="20230322174500 -0600" stop="20230322180000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230322180000 -0600" stop="20230322191500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Vía Pública</title>
+  </programme>
+<programme start="20230323030000 -0600" stop="20230323031500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Cuadros</title>
+  </programme>
+<programme start="20230323031500 -0600" stop="20230323033000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230323073000 -0600" stop="20230323080000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Vía Pública</title>
+  </programme>
+<programme start="20230323080000 -0600" stop="20230323100000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Tarde</title>
+  </programme>
+<programme start="20230323100000 -0600" stop="20230323101500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Entrevistas 24</title>
+  </programme>
+<programme start="20230323101500 -0600" stop="20230323104500 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Reporte Minero</title>
+  </programme>
+<programme start="20230323104500 -0600" stop="20230323113000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">24 Horas a la Hora</title>
+  </programme>
+<programme start="20230323113000 -0600" stop="20230323123000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Noticias 24h</title>
+  </programme>
+<programme start="20230323123000 -0600" stop="20230323130000 -0600" channel="24 Horas (Chile)">
+    <title lang="es">Mirada Económica</title>
   </programme>
 <programme start="20230318193000 -0600" stop="20230318200000 -0600" channel="Bloomberg">
     <title lang="es">Future of Work</title>
@@ -1911,7 +2056,7 @@
     <title lang="es">Bloomberg Markets: The Open</title>
   </programme>
 <programme start="20230320070000 -0600" stop="20230320080000 -0600" channel="Bloomberg">
-    <title lang="es">Bloomberg markets Americas</title>
+    <title lang="es">Bloomberg Markets: Americas</title>
   </programme>
 <programme start="20230320080000 -0600" stop="20230320090000 -0600" channel="Bloomberg">
     <title lang="es">Bloomberg Markets: European Close</title>
@@ -1923,7 +2068,7 @@
     <title lang="es">Bloomberg markets</title>
   </programme>
 <programme start="20230320110000 -0600" stop="20230320130000 -0600" channel="Bloomberg">
-    <title lang="es">Bloomberg markets The close</title>
+    <title lang="es">Bloomberg Markets: The Close</title>
   </programme>
 <programme start="20230320130000 -0600" stop="20230320140000 -0600" channel="Bloomberg">
     <title lang="es">Al sonar la campana</title>
@@ -1971,7 +2116,7 @@
     <title lang="es">Bloomberg Markets: The Open</title>
   </programme>
 <programme start="20230321070000 -0600" stop="20230321080000 -0600" channel="Bloomberg">
-    <title lang="es">Bloomberg markets Americas</title>
+    <title lang="es">Bloomberg Markets: Americas</title>
   </programme>
 <programme start="20230321080000 -0600" stop="20230321090000 -0600" channel="Bloomberg">
     <title lang="es">Bloomberg Markets: European Close</title>
@@ -1983,7 +2128,7 @@
     <title lang="es">Bloomberg markets</title>
   </programme>
 <programme start="20230321110000 -0600" stop="20230321130000 -0600" channel="Bloomberg">
-    <title lang="es">Bloomberg markets The close</title>
+    <title lang="es">Bloomberg Markets: The Close</title>
   </programme>
 <programme start="20230321130000 -0600" stop="20230321140000 -0600" channel="Bloomberg">
     <title lang="es">Al sonar la campana</title>
@@ -2029,6 +2174,12 @@
   </programme>
 <programme start="20230323090000 -0600" stop="20230323100000 -0600" channel="Bloomberg">
     <title lang="es">El Financiero Meet Point</title>
+  </programme>
+<programme start="20230323100000 -0600" stop="20230323103000 -0600" channel="Bloomberg">
+    <title lang="es">Bloomberg Real Yield</title>
+  </programme>
+<programme start="20230323103000 -0600" stop="20230323110000 -0600" channel="Bloomberg">
+    <title lang="es">Bloomberg markets</title>
   </programme>
 <programme start="20230318193000 -0600" stop="20230318194500 -0600" channel="CNN Internacional">
     <title lang="es">Marketplace Africa</title>
@@ -2128,6 +2279,9 @@
   </programme>
 <programme start="20230319183000 -0600" stop="20230319190000 -0600" channel="CNN Internacional">
     <title lang="es">CNN Market Place Africa</title>
+  </programme>
+<programme start="20230319190000 -0600" stop="20230319193000 -0600" channel="CNN Internacional">
+    <title lang="es">Feature</title>
   </programme>
 <programme start="20230319193000 -0600" stop="20230319200000 -0600" channel="CNN Internacional">
     <title lang="es">Inside Africa</title>
@@ -2303,6 +2457,57 @@
 <programme start="20230321224500 -0600" stop="20230321230000 -0600" channel="CNN Internacional">
     <title lang="es">Marketplace Africa</title>
   </programme>
+<programme start="20230322010000 -0600" stop="20230322020000 -0600" channel="CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+<programme start="20230322020000 -0600" stop="20230322023000 -0600" channel="CNN Internacional">
+    <title lang="es">Feature</title>
+  </programme>
+<programme start="20230322023000 -0600" stop="20230322030000 -0600" channel="CNN Internacional">
+    <title lang="es">African voices</title>
+  </programme>
+<programme start="20230322030000 -0600" stop="20230322050000 -0600" channel="CNN Internacional">
+    <title lang="es">CNN This Morning Weekend</title>
+  </programme>
+<programme start="20230322050000 -0600" stop="20230322060000 -0600" channel="CNN Internacional">
+    <title lang="es">Smerconish</title>
+  </programme>
+<programme start="20230322060000 -0600" stop="20230322070000 -0600" channel="CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+<programme start="20230322083000 -0600" stop="20230322090000 -0600" channel="CNN Internacional">
+    <title lang="es">Feature</title>
+  </programme>
+<programme start="20230322090000 -0600" stop="20230322100000 -0600" channel="CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+<programme start="20230322100000 -0600" stop="20230322110000 -0600" channel="CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+<programme start="20230322110000 -0600" stop="20230322120000 -0600" channel="CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+<programme start="20230322120000 -0600" stop="20230322130000 -0600" channel="CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+<programme start="20230322130000 -0600" stop="20230322133000 -0600" channel="CNN Internacional">
+    <title lang="es">World Sport En Vivo</title>
+  </programme>
+<programme start="20230322133000 -0600" stop="20230322140000 -0600" channel="CNN Internacional">
+    <title lang="es">Inside Africa</title>
+  </programme>
+<programme start="20230322140000 -0600" stop="20230322170000 -0600" channel="CNN Internacional">
+    <title lang="es">CNN Newsroom</title>
+  </programme>
+<programme start="20230322170000 -0600" stop="20230322180000 -0600" channel="CNN Internacional">
+    <title lang="es">World Sport</title>
+  </programme>
+<programme start="20230322180000 -0600" stop="20230322183000 -0600" channel="CNN Internacional">
+    <title lang="es">Inside Africa</title>
+  </programme>
+<programme start="20230322183000 -0600" stop="20230322190000 -0600" channel="CNN Internacional">
+    <title lang="es">African voices</title>
+  </programme>
 <programme start="20230318194000 -0600" stop="20230318204500 -0600" channel="Canal 13 de Chile">
     <title lang="es">The Resident</title>
   </programme>
@@ -2354,11 +2559,8 @@
 <programme start="20230319193000 -0600" stop="20230319210500 -0600" channel="Canal 13 de Chile">
     <title lang="es">Lo mejor - Aquí se baila</title>
   </programme>
-<programme start="20230319210500 -0600" stop="20230319213500 -0600" channel="Canal 13 de Chile">
-    <title lang="es">Canal 13</title>
-  </programme>
-<programme start="20230319213500 -0600" stop="20230319220000 -0600" channel="Canal 13 de Chile">
-    <title lang="es">Canal 13</title>
+<programme start="20230319210500 -0600" stop="20230319220000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Criminal Minds</title>
   </programme>
 <programme start="20230319220000 -0600" stop="20230320004500 -0600" channel="Canal 13 de Chile">
     <title lang="es">Mesa central</title>
@@ -2402,20 +2604,68 @@
 <programme start="20230320175000 -0600" stop="20230320194000 -0600" channel="Canal 13 de Chile">
     <title lang="es">Lo mejor - Aquí se baila</title>
   </programme>
+<programme start="20230320194000 -0600" stop="20230320204000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+<programme start="20230320204000 -0600" stop="20230320213000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+<programme start="20230320213000 -0600" stop="20230320223000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+<programme start="20230320223000 -0600" stop="20230321004500 -0600" channel="Canal 13 de Chile">
+    <title lang="es">No te duermas</title>
+  </programme>
+<programme start="20230321004500 -0600" stop="20230321013000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">3x3</title>
+  </programme>
+<programme start="20230321013000 -0600" stop="20230321030000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+<programme start="20230321030000 -0600" stop="20230321080000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Tu día</title>
+  </programme>
+<programme start="20230321080000 -0600" stop="20230321093000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+<programme start="20230321093000 -0600" stop="20230321093500 -0600" channel="Canal 13 de Chile">
+    <title lang="es">El tiempo</title>
+  </programme>
+<programme start="20230321093500 -0600" stop="20230321110000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Pasión de Gavilanes</title>
+  </programme>
+<programme start="20230321110000 -0600" stop="20230321120000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Yildiz</title>
+  </programme>
+<programme start="20230321120000 -0600" stop="20230321130000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Sorpresas del destino</title>
+  </programme>
+<programme start="20230321130000 -0600" stop="20230321142000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+<programme start="20230321142000 -0600" stop="20230321155500 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Que dice Chile</title>
+  </programme>
+<programme start="20230321155500 -0600" stop="20230321174000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+<programme start="20230321174000 -0600" stop="20230321175000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">El tiempo</title>
+  </programme>
 <programme start="20230321175000 -0600" stop="20230321194000 -0600" channel="Canal 13 de Chile">
     <title lang="es">Lo mejor - Aquí se baila</title>
   </programme>
-<programme start="20230321194000 -0600" stop="20230321204000 -0600" channel="Canal 13 de Chile">
-    <title lang="es">Canal 13</title>
+<programme start="20230322175000 -0600" stop="20230322193000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Que dice Chile</title>
   </programme>
-<programme start="20230321204000 -0600" stop="20230321213000 -0600" channel="Canal 13 de Chile">
+<programme start="20230323175000 -0600" stop="20230323193000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Que dice Chile</title>
+  </programme>
+<programme start="20230323193000 -0600" stop="20230323203000 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+<programme start="20230323203000 -0600" stop="20230323213000 -0600" channel="Canal 13 de Chile">
     <title lang="es">Teletrece</title>
-  </programme>
-<programme start="20230321213000 -0600" stop="20230321223000 -0600" channel="Canal 13 de Chile">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-<programme start="20230321223000 -0600" stop="20230322004500 -0600" channel="Canal 13 de Chile">
-    <title lang="es">No te duermas</title>
   </programme>
 <programme start="20230318193000 -0600" stop="20230318200000 -0600" channel="CNN en Español">
     <title lang="es">Deportes CNN En Vivo</title>
@@ -2509,6 +2759,9 @@
   </programme>
 <programme start="20230319180000 -0600" stop="20230319190000 -0600" channel="CNN en Español">
     <title lang="es">Reflexiones con Don Francisco</title>
+  </programme>
+<programme start="20230319190000 -0600" stop="20230319193000 -0600" channel="CNN en Español">
+    <title lang="es">Mirador Mundial</title>
   </programme>
 <programme start="20230319200000 -0600" stop="20230319210000 -0600" channel="CNN en Español">
     <title lang="es">Documentales CNN or Docufilms</title>
@@ -2678,6 +2931,75 @@
 <programme start="20230324210000 -0600" stop="20230324220000 -0600" channel="CNN en Español">
     <title lang="es">Aristegui Repetición</title>
   </programme>
+<programme start="20230325000000 -0600" stop="20230325010000 -0600" channel="CNN en Español">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+<programme start="20230325010000 -0600" stop="20230325020000 -0600" channel="CNN en Español">
+    <title lang="es">Panorama Mundial</title>
+  </programme>
+<programme start="20230325020000 -0600" stop="20230325030000 -0600" channel="CNN en Español">
+    <title lang="es">Perspectivas desde B.A</title>
+  </programme>
+<programme start="20230325030000 -0600" stop="20230325033000 -0600" channel="CNN en Español">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+<programme start="20230325033000 -0600" stop="20230325040000 -0600" channel="CNN en Español">
+    <title lang="es">Vive la salud</title>
+  </programme>
+<programme start="20230325040000 -0600" stop="20230325043000 -0600" channel="CNN en Español">
+    <title lang="es">Mercado México</title>
+  </programme>
+<programme start="20230325043000 -0600" stop="20230325050000 -0600" channel="CNN en Español">
+    <title lang="es">Clix</title>
+  </programme>
+<programme start="20230325050000 -0600" stop="20230325060000 -0600" channel="CNN en Español">
+    <title lang="es">CNN Docufilms</title>
+  </programme>
+<programme start="20230325060000 -0600" stop="20230325070000 -0600" channel="CNN en Español">
+    <title lang="es">Perspectivas desde Mexico</title>
+  </programme>
+<programme start="20230325070000 -0600" stop="20230325080000 -0600" channel="CNN en Español">
+    <title lang="es">Perspectivas desde B.A</title>
+  </programme>
+<programme start="20230325080000 -0600" stop="20230325090000 -0600" channel="CNN en Español">
+    <title lang="es">Directo USA con Juan Lopez</title>
+  </programme>
+<programme start="20230325090000 -0600" stop="20230325093000 -0600" channel="CNN en Español">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+<programme start="20230325093000 -0600" stop="20230325100000 -0600" channel="CNN en Español">
+    <title lang="es">Mercado México</title>
+  </programme>
+<programme start="20230325100000 -0600" stop="20230325110000 -0600" channel="CNN en Español">
+    <title lang="es">CNN Docufilms</title>
+  </programme>
+<programme start="20230325110000 -0600" stop="20230325120000 -0600" channel="CNN en Español">
+    <title lang="es">Reflexiones con Don Francisco</title>
+  </programme>
+<programme start="20230325120000 -0600" stop="20230325130000 -0600" channel="CNN en Español">
+    <title lang="es">Oppenheimer presenta</title>
+  </programme>
+<programme start="20230325130000 -0600" stop="20230325140000 -0600" channel="CNN en Español">
+    <title lang="es">En Dialogo con Longobardi</title>
+  </programme>
+<programme start="20230325150000 -0600" stop="20230325153000 -0600" channel="CNN en Español">
+    <title lang="es">GloboEconomía</title>
+  </programme>
+<programme start="20230325153000 -0600" stop="20230325160000 -0600" channel="CNN en Español">
+    <title lang="es">Clix</title>
+  </programme>
+<programme start="20230325160000 -0600" stop="20230325170000 -0600" channel="CNN en Español">
+    <title lang="es">Cnn dinero</title>
+  </programme>
+<programme start="20230325170000 -0600" stop="20230325180000 -0600" channel="CNN en Español">
+    <title lang="es">Conecta2</title>
+  </programme>
+<programme start="20230325180000 -0600" stop="20230325183000 -0600" channel="CNN en Español">
+    <title lang="es">Showbiz</title>
+  </programme>
+<programme start="20230325183000 -0600" stop="20230325190000 -0600" channel="CNN en Español">
+    <title lang="es">Vive la salud</title>
+  </programme>
 <programme start="20230318204000 -0600" stop="20230318222000 -0600" channel="Telemundo">
     <title lang="es">Lo mejor de caso cerrado</title>
   </programme>
@@ -2783,71 +3105,26 @@
 <programme start="20230321082000 -0600" stop="20230321100000 -0600" channel="Telemundo">
     <title lang="es">Top Chef VIP</title>
   </programme>
-<programme start="20230318234500 -0300" stop="20230319012000 -0300" channel="A and E">
-    <title lang="es">Cerco al enemigo</title>
+<programme start="20230322040000 -0600" stop="20230322063000 -0600" channel="Telemundo">
+    <title lang="es">Los miserables</title>
   </programme>
-<programme start="20230319012000 -0300" stop="20230319022000 -0300" channel="A and E">
-    <title lang="es">Adicción digital</title>
+<programme start="20230322063000 -0600" stop="20230322081000 -0600" channel="Telemundo">
+    <title lang="es">Eva la Trailera</title>
   </programme>
-<programme start="20230319022000 -0300" stop="20230319031500 -0300" channel="A and E">
-    <title lang="es">Adicción digital</title>
+<programme start="20230322081000 -0600" stop="20230322111000 -0600" channel="Telemundo">
+    <title lang="es">La patrona</title>
   </programme>
-<programme start="20230319031500 -0300" stop="20230319041000 -0300" channel="A and E">
-    <title lang="es">Detectives y ADN</title>
+<programme start="20230322111000 -0600" stop="20230322141000 -0600" channel="Telemundo">
+    <title lang="es">La patrona</title>
   </programme>
-<programme start="20230319041000 -0300" stop="20230319050500 -0300" channel="A and E">
-    <title lang="es">Detectives y ADN</title>
+<programme start="20230322141000 -0600" stop="20230322171000 -0600" channel="Telemundo">
+    <title lang="es">La patrona</title>
   </programme>
-<programme start="20230319050500 -0300" stop="20230319060000 -0300" channel="A and E">
-    <title lang="es">Detectives y ADN</title>
+<programme start="20230322171000 -0600" stop="20230322181000 -0600" channel="Telemundo">
+    <title lang="es">La patrona</title>
   </programme>
-<programme start="20230319060000 -0300" stop="20230319070000 -0300" channel="A and E">
-    <title lang="es">City Confidential</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319080000 -0300" channel="A and E">
-    <title lang="es">City Confidential</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319090000 -0300" channel="A and E">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319100000 -0300" channel="A and E">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="A and E">
-    <title lang="es">Metrópoli</title>
-  </programme>
-<programme start="20230319103000 -0300" stop="20230319112500 -0300" channel="A and E">
-    <title lang="es">Las primeras 48 horas</title>
-  </programme>
-<programme start="20230319112500 -0300" stop="20230319122000 -0300" channel="A and E">
-    <title lang="es">Las primeras 48 horas</title>
-  </programme>
-<programme start="20230319122000 -0300" stop="20230319131500 -0300" channel="A and E">
-    <title lang="es">Janet Jackson</title>
-  </programme>
-<programme start="20230319131500 -0300" stop="20230319141000 -0300" channel="A and E">
-    <title lang="es">Janet Jackson</title>
-  </programme>
-<programme start="20230319141000 -0300" stop="20230319150500 -0300" channel="A and E">
-    <title lang="es">Janet Jackson</title>
-  </programme>
-<programme start="20230319150500 -0300" stop="20230319164500 -0300" channel="A and E">
-    <title lang="es">Mariposa negra</title>
-  </programme>
-<programme start="20230319164500 -0300" stop="20230319181500 -0300" channel="A and E">
-    <title lang="es">Cerco al enemigo</title>
-  </programme>
-<programme start="20230319181500 -0300" stop="20230319201500 -0300" channel="A and E">
-    <title lang="es">Olimpo bajo fuego</title>
-  </programme>
-<programme start="20230319201500 -0300" stop="20230319220000 -0300" channel="A and E">
-    <title lang="es">Londres bajo fuego</title>
-  </programme>
-<programme start="20230319220000 -0300" stop="20230319225500 -0300" channel="A and E">
-    <title lang="es">Alias J.J.</title>
-  </programme>
-<programme start="20230319225500 -0300" stop="20230319235500 -0300" channel="A and E">
-    <title lang="es">Alias J.J.</title>
+<programme start="20230322181000 -0600" stop="20230322204000 -0600" channel="Telemundo">
+    <title lang="es">Caso Cerrado</title>
   </programme>
 <programme start="20230319235500 -0300" stop="20230320005000 -0300" channel="A and E">
     <title lang="es">Alias J.J.</title>
@@ -2918,72 +3195,6 @@
 <programme start="20230320235500 -0300" stop="20230321013000 -0300" channel="A and E">
     <title lang="es">60 días preso: el experimento</title>
   </programme>
-<programme start="20230318234500 -0300" stop="20230319012000 -0300" channel="A and E HD">
-    <title lang="es">Cerco al enemigo</title>
-  </programme>
-<programme start="20230319012000 -0300" stop="20230319022000 -0300" channel="A and E HD">
-    <title lang="es">Adicción digital</title>
-  </programme>
-<programme start="20230319022000 -0300" stop="20230319031500 -0300" channel="A and E HD">
-    <title lang="es">Adicción digital</title>
-  </programme>
-<programme start="20230319031500 -0300" stop="20230319041000 -0300" channel="A and E HD">
-    <title lang="es">Detectives y ADN</title>
-  </programme>
-<programme start="20230319041000 -0300" stop="20230319050500 -0300" channel="A and E HD">
-    <title lang="es">Detectives y ADN</title>
-  </programme>
-<programme start="20230319050500 -0300" stop="20230319060000 -0300" channel="A and E HD">
-    <title lang="es">Detectives y ADN</title>
-  </programme>
-<programme start="20230319060000 -0300" stop="20230319070000 -0300" channel="A and E HD">
-    <title lang="es">City Confidential</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319080000 -0300" channel="A and E HD">
-    <title lang="es">City Confidential</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319090000 -0300" channel="A and E HD">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319100000 -0300" channel="A and E HD">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="A and E HD">
-    <title lang="es">Metrópoli</title>
-  </programme>
-<programme start="20230319103000 -0300" stop="20230319112500 -0300" channel="A and E HD">
-    <title lang="es">Las primeras 48 horas</title>
-  </programme>
-<programme start="20230319112500 -0300" stop="20230319122000 -0300" channel="A and E HD">
-    <title lang="es">Las primeras 48 horas</title>
-  </programme>
-<programme start="20230319122000 -0300" stop="20230319131500 -0300" channel="A and E HD">
-    <title lang="es">Janet Jackson</title>
-  </programme>
-<programme start="20230319131500 -0300" stop="20230319141000 -0300" channel="A and E HD">
-    <title lang="es">Janet Jackson</title>
-  </programme>
-<programme start="20230319141000 -0300" stop="20230319150500 -0300" channel="A and E HD">
-    <title lang="es">Janet Jackson</title>
-  </programme>
-<programme start="20230319150500 -0300" stop="20230319164500 -0300" channel="A and E HD">
-    <title lang="es">Mariposa negra</title>
-  </programme>
-<programme start="20230319164500 -0300" stop="20230319181500 -0300" channel="A and E HD">
-    <title lang="es">Cerco al enemigo</title>
-  </programme>
-<programme start="20230319181500 -0300" stop="20230319201500 -0300" channel="A and E HD">
-    <title lang="es">Olimpo bajo fuego</title>
-  </programme>
-<programme start="20230319201500 -0300" stop="20230319220000 -0300" channel="A and E HD">
-    <title lang="es">Londres bajo fuego</title>
-  </programme>
-<programme start="20230319220000 -0300" stop="20230319225500 -0300" channel="A and E HD">
-    <title lang="es">Alias J.J.</title>
-  </programme>
-<programme start="20230319225500 -0300" stop="20230319235500 -0300" channel="A and E HD">
-    <title lang="es">Alias J.J.</title>
-  </programme>
 <programme start="20230319235500 -0300" stop="20230320005000 -0300" channel="A and E HD">
     <title lang="es">Alias J.J.</title>
   </programme>
@@ -3052,72 +3263,6 @@
   </programme>
 <programme start="20230320235500 -0300" stop="20230321013000 -0300" channel="A and E HD">
     <title lang="es">60 días preso: el experimento</title>
-  </programme>
-<programme start="20230318235000 -0300" stop="20230319005000 -0300" channel="AMC HD">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319005000 -0300" stop="20230319022000 -0300" channel="AMC HD">
-    <title lang="es">Tell</title>
-  </programme>
-<programme start="20230319022000 -0300" stop="20230319044000 -0300" channel="AMC HD">
-    <title lang="es">El expreso del miedo</title>
-  </programme>
-<programme start="20230319044000 -0300" stop="20230319061000 -0300" channel="AMC HD">
-    <title lang="es">Atrapada en la oscuridad</title>
-  </programme>
-<programme start="20230319061000 -0300" stop="20230319063500 -0300" channel="AMC HD">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230319063500 -0300" stop="20230319070000 -0300" channel="AMC HD">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319073000 -0300" channel="AMC HD">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319073000 -0300" stop="20230319080000 -0300" channel="AMC HD">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="AMC HD">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="AMC HD">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="AMC HD">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="AMC HD">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="AMC HD">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230319103000 -0300" stop="20230319122500 -0300" channel="AMC HD">
-    <title lang="es">Juego a muerte</title>
-  </programme>
-<programme start="20230319122500 -0300" stop="20230319141000 -0300" channel="AMC HD">
-    <title lang="es">Se dice de mí</title>
-  </programme>
-<programme start="20230319141000 -0300" stop="20230319161000 -0300" channel="AMC HD">
-    <title lang="es">Dos tontos, todavía más tontos</title>
-  </programme>
-<programme start="20230319161000 -0300" stop="20230319180000 -0300" channel="AMC HD">
-    <title lang="es">La cruda verdad</title>
-  </programme>
-<programme start="20230319180000 -0300" stop="20230319190000 -0300" channel="AMC HD">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319190000 -0300" stop="20230319200000 -0300" channel="AMC HD">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319200000 -0300" stop="20230319210000 -0300" channel="AMC HD">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319210000 -0300" stop="20230319220000 -0300" channel="AMC HD">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319220000 -0300" stop="20230319224500 -0300" channel="AMC HD">
-    <title lang="es">Last Light</title>
   </programme>
 <programme start="20230319224500 -0300" stop="20230320004500 -0300" channel="AMC HD">
     <title lang="es">Código de honor</title>
@@ -3191,72 +3336,6 @@
 <programme start="20230321000000 -0300" stop="20230321013500 -0300" channel="AMC HD">
     <title lang="es">Gente de bien</title>
   </programme>
-<programme start="20230318235000 -0300" stop="20230319005000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319005000 -0300" stop="20230319022000 -0300" channel="AMC">
-    <title lang="es">Tell</title>
-  </programme>
-<programme start="20230319022000 -0300" stop="20230319044000 -0300" channel="AMC">
-    <title lang="es">El expreso del miedo</title>
-  </programme>
-<programme start="20230319044000 -0300" stop="20230319061000 -0300" channel="AMC">
-    <title lang="es">Atrapada en la oscuridad</title>
-  </programme>
-<programme start="20230319061000 -0300" stop="20230319063500 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230319063500 -0300" stop="20230319070000 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319073000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319073000 -0300" stop="20230319080000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="AMC">
-    <title lang="es">Infomerciales</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="AMC">
-    <title lang="es">Making the Movies</title>
-  </programme>
-<programme start="20230319103000 -0300" stop="20230319122500 -0300" channel="AMC">
-    <title lang="es">Juego a muerte</title>
-  </programme>
-<programme start="20230319122500 -0300" stop="20230319141000 -0300" channel="AMC">
-    <title lang="es">Se dice de mí</title>
-  </programme>
-<programme start="20230319141000 -0300" stop="20230319161000 -0300" channel="AMC">
-    <title lang="es">Dos tontos, todavía más tontos</title>
-  </programme>
-<programme start="20230319161000 -0300" stop="20230319180000 -0300" channel="AMC">
-    <title lang="es">La cruda verdad</title>
-  </programme>
-<programme start="20230319180000 -0300" stop="20230319190000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319190000 -0300" stop="20230319200000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319200000 -0300" stop="20230319210000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319210000 -0300" stop="20230319220000 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
-<programme start="20230319220000 -0300" stop="20230319224500 -0300" channel="AMC">
-    <title lang="es">Last Light</title>
-  </programme>
 <programme start="20230319224500 -0300" stop="20230320004500 -0300" channel="AMC">
     <title lang="es">Código de honor</title>
   </programme>
@@ -3328,93 +3407,6 @@
   </programme>
 <programme start="20230321000000 -0300" stop="20230321013500 -0300" channel="AMC">
     <title lang="es">Gente de bien</title>
-  </programme>
-<programme start="20230318233000 -0300" stop="20230319002500 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319002500 -0300" stop="20230319012000 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319012000 -0300" stop="20230319021400 -0300" channel="AXN">
-    <title lang="es">Hawaii-Five-O</title>
-  </programme>
-<programme start="20230319021400 -0300" stop="20230319031000 -0300" channel="AXN">
-    <title lang="es">Hawaii-Five-O</title>
-  </programme>
-<programme start="20230319031000 -0300" stop="20230319040500 -0300" channel="AXN">
-    <title lang="es">CSI: Miami</title>
-  </programme>
-<programme start="20230319040500 -0300" stop="20230319050000 -0300" channel="AXN">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319050000 -0300" stop="20230319060000 -0300" channel="AXN">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319060000 -0300" stop="20230319070000 -0300" channel="AXN">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319080000 -0300" channel="AXN">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="AXN">
-    <title lang="es">TeveCompras</title>
-  </programme>
-<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="AXN">
-    <title lang="es">TeveCompras</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="AXN">
-    <title lang="es">TeveCompras</title>
-  </programme>
-<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="AXN">
-    <title lang="es">TeveCompras</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319105500 -0300" channel="AXN">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319105500 -0300" stop="20230319115000 -0300" channel="AXN">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-<programme start="20230319115000 -0300" stop="20230319124000 -0300" channel="AXN">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-<programme start="20230319124000 -0300" stop="20230319133000 -0300" channel="AXN">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-<programme start="20230319133000 -0300" stop="20230319142000 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319142000 -0300" stop="20230319151000 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319151000 -0300" stop="20230319160000 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319160000 -0300" stop="20230319165000 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319165000 -0300" stop="20230319174000 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319174000 -0300" stop="20230319183000 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319183000 -0300" stop="20230319192000 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319192000 -0300" stop="20230319201500 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319201500 -0300" stop="20230319211000 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319211000 -0300" stop="20230319220500 -0300" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319220500 -0300" stop="20230319230000 -0300" channel="AXN">
-    <title lang="es">District 31</title>
-  </programme>
-<programme start="20230319230000 -0300" stop="20230319235500 -0300" channel="AXN">
-    <title lang="es">District 31</title>
   </programme>
 <programme start="20230319235500 -0300" stop="20230320005000 -0300" channel="AXN">
     <title lang="es">NCIS</title>
@@ -3506,93 +3498,6 @@
 <programme start="20230321000000 -0300" stop="20230321005500 -0300" channel="AXN">
     <title lang="es">CSI: Miami</title>
   </programme>
-<programme start="20230318233000 -0300" stop="20230319002500 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319002500 -0300" stop="20230319012000 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319012000 -0300" stop="20230319021400 -0300" channel="AXN HD">
-    <title lang="es">Hawaii-Five-O</title>
-  </programme>
-<programme start="20230319021400 -0300" stop="20230319031000 -0300" channel="AXN HD">
-    <title lang="es">Hawaii-Five-O</title>
-  </programme>
-<programme start="20230319031000 -0300" stop="20230319040500 -0300" channel="AXN HD">
-    <title lang="es">CSI: Miami</title>
-  </programme>
-<programme start="20230319040500 -0300" stop="20230319050000 -0300" channel="AXN HD">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319050000 -0300" stop="20230319060000 -0300" channel="AXN HD">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319060000 -0300" stop="20230319070000 -0300" channel="AXN HD">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319080000 -0300" channel="AXN HD">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="AXN HD">
-    <title lang="es">TeveCompras</title>
-  </programme>
-<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="AXN HD">
-    <title lang="es">TeveCompras</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="AXN HD">
-    <title lang="es">TeveCompras</title>
-  </programme>
-<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="AXN HD">
-    <title lang="es">TeveCompras</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319105500 -0300" channel="AXN HD">
-    <title lang="es">CSI: NY</title>
-  </programme>
-<programme start="20230319105500 -0300" stop="20230319115000 -0300" channel="AXN HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-<programme start="20230319115000 -0300" stop="20230319124000 -0300" channel="AXN HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-<programme start="20230319124000 -0300" stop="20230319133000 -0300" channel="AXN HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-<programme start="20230319133000 -0300" stop="20230319142000 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319142000 -0300" stop="20230319151000 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319151000 -0300" stop="20230319160000 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319160000 -0300" stop="20230319165000 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319165000 -0300" stop="20230319174000 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319174000 -0300" stop="20230319183000 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319183000 -0300" stop="20230319192000 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319192000 -0300" stop="20230319201500 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319201500 -0300" stop="20230319211000 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319211000 -0300" stop="20230319220500 -0300" channel="AXN HD">
-    <title lang="es">NCIS</title>
-  </programme>
-<programme start="20230319220500 -0300" stop="20230319230000 -0300" channel="AXN HD">
-    <title lang="es">District 31</title>
-  </programme>
-<programme start="20230319230000 -0300" stop="20230319235500 -0300" channel="AXN HD">
-    <title lang="es">District 31</title>
-  </programme>
 <programme start="20230319235500 -0300" stop="20230320005000 -0300" channel="AXN HD">
     <title lang="es">NCIS</title>
   </programme>
@@ -3683,42 +3588,6 @@
 <programme start="20230321000000 -0300" stop="20230321005500 -0300" channel="AXN HD">
     <title lang="es">CSI: Miami</title>
   </programme>
-<programme start="20230318220000 -0300" stop="20230319000000 -0300" channel="CINE.AR">
-    <title lang="es">Blindado</title>
-  </programme>
-<programme start="20230319000000 -0300" stop="20230319020000 -0300" channel="CINE.AR">
-    <title lang="es">Pantanal</title>
-  </programme>
-<programme start="20230319020000 -0300" stop="20230319040000 -0300" channel="CINE.AR">
-    <title lang="es">Blindado</title>
-  </programme>
-<programme start="20230319040000 -0300" stop="20230319060000 -0300" channel="CINE.AR">
-    <title lang="es">Pantanal</title>
-  </programme>
-<programme start="20230319060000 -0300" stop="20230319080000 -0300" channel="CINE.AR">
-    <title lang="es">Avant</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319100000 -0300" channel="CINE.AR">
-    <title lang="es">La ventana</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319120000 -0300" channel="CINE.AR">
-    <title lang="es">Castigo al traidor</title>
-  </programme>
-<programme start="20230319120000 -0300" stop="20230319140000 -0300" channel="CINE.AR">
-    <title lang="es">Avant</title>
-  </programme>
-<programme start="20230319140000 -0300" stop="20230319160000 -0300" channel="CINE.AR">
-    <title lang="es">La ventana</title>
-  </programme>
-<programme start="20230319160000 -0300" stop="20230319180000 -0300" channel="CINE.AR">
-    <title lang="es">Ambición</title>
-  </programme>
-<programme start="20230319180000 -0300" stop="20230319200000 -0300" channel="CINE.AR">
-    <title lang="es">Escuela trashumante</title>
-  </programme>
-<programme start="20230319200000 -0300" stop="20230319220000 -0300" channel="CINE.AR">
-    <title lang="es">Una noche sin luna</title>
-  </programme>
 <programme start="20230319220000 -0300" stop="20230320000000 -0300" channel="CINE.AR">
     <title lang="es">4 metros</title>
   </programme>
@@ -3757,57 +3626,6 @@
   </programme>
 <programme start="20230320220000 -0300" stop="20230321003000 -0300" channel="CINE.AR">
     <title lang="es">Mi amiga del parque</title>
-  </programme>
-<programme start="20230318220000 -0300" stop="20230319000000 -0300" channel="Cinecanal">
-    <title lang="es">Need for Speed</title>
-  </programme>
-<programme start="20230319000000 -0300" stop="20230319020000 -0300" channel="Cinecanal">
-    <title lang="es">Warcraft: el primer encuentro de dos mundos</title>
-  </programme>
-<programme start="20230319020000 -0300" stop="20230319040000 -0300" channel="Cinecanal">
-    <title lang="es">L.O.R.D: Legend of Ravaging Dynasties</title>
-  </programme>
-<programme start="20230319040000 -0300" stop="20230319070000 -0300" channel="Cinecanal">
-    <title lang="es">Guerra de comida</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319073000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319073000 -0300" stop="20230319080000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319103000 -0300" stop="20230319111000 -0300" channel="Cinecanal">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319111000 -0300" stop="20230319123000 -0300" channel="Cinecanal">
-    <title lang="es">Lluvia de hamburguesas 2: La venganza de las sobras</title>
-  </programme>
-<programme start="20230319123000 -0300" stop="20230319140000 -0300" channel="Cinecanal">
-    <title lang="es">Kung Fu Panda</title>
-  </programme>
-<programme start="20230319140000 -0300" stop="20230319161500 -0300" channel="Cinecanal">
-    <title lang="es">Un lugar llamado Notting Hill</title>
-  </programme>
-<programme start="20230319161500 -0300" stop="20230319184500 -0300" channel="Cinecanal">
-    <title lang="es">Día de la Independencia</title>
-  </programme>
-<programme start="20230319184500 -0300" stop="20230319220000 -0300" channel="Cinecanal">
-    <title lang="es">Día de la Independencia: Contraataque</title>
   </programme>
 <programme start="20230319220000 -0300" stop="20230320000000 -0300" channel="Cinecanal">
     <title lang="es">En ninguna parte</title>
@@ -3868,57 +3686,6 @@
   </programme>
 <programme start="20230320234500 -0300" stop="20230321020000 -0300" channel="Cinecanal">
     <title lang="es">Need for Speed</title>
-  </programme>
-<programme start="20230318220000 -0300" stop="20230319000000 -0300" channel="CINECANAL HD">
-    <title lang="es">Need for Speed</title>
-  </programme>
-<programme start="20230319000000 -0300" stop="20230319020000 -0300" channel="CINECANAL HD">
-    <title lang="es">Warcraft: el primer encuentro de dos mundos</title>
-  </programme>
-<programme start="20230319020000 -0300" stop="20230319040000 -0300" channel="CINECANAL HD">
-    <title lang="es">L.O.R.D: Legend of Ravaging Dynasties</title>
-  </programme>
-<programme start="20230319040000 -0300" stop="20230319070000 -0300" channel="CINECANAL HD">
-    <title lang="es">Guerra de comida</title>
-  </programme>
-<programme start="20230319070000 -0300" stop="20230319073000 -0300" channel="CINECANAL HD">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319073000 -0300" stop="20230319080000 -0300" channel="CINECANAL HD">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="CINECANAL HD">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="CINECANAL HD">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="CINECANAL HD">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="CINECANAL HD">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="CINECANAL HD">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319103000 -0300" stop="20230319111000 -0300" channel="CINECANAL HD">
-    <title lang="es">Infomercial</title>
-  </programme>
-<programme start="20230319111000 -0300" stop="20230319123000 -0300" channel="CINECANAL HD">
-    <title lang="es">Lluvia de hamburguesas 2: La venganza de las sobras</title>
-  </programme>
-<programme start="20230319123000 -0300" stop="20230319140000 -0300" channel="CINECANAL HD">
-    <title lang="es">Kung Fu Panda</title>
-  </programme>
-<programme start="20230319140000 -0300" stop="20230319161500 -0300" channel="CINECANAL HD">
-    <title lang="es">Un lugar llamado Notting Hill</title>
-  </programme>
-<programme start="20230319161500 -0300" stop="20230319184500 -0300" channel="CINECANAL HD">
-    <title lang="es">Día de la Independencia</title>
-  </programme>
-<programme start="20230319184500 -0300" stop="20230319220000 -0300" channel="CINECANAL HD">
-    <title lang="es">Día de la Independencia: Contraataque</title>
   </programme>
 <programme start="20230319220000 -0300" stop="20230320000000 -0300" channel="CINECANAL HD">
     <title lang="es">En ninguna parte</title>
@@ -4783,6 +4550,153 @@
   </programme>
 <programme start="20230320235500 -0300" stop="20230321005000 -0300" channel="Europa Europa">
     <title lang="es">El sospechoso</title>
+  </programme>
+<programme start="20230318220000 -0300" stop="20230319000000 -0300" channel="Film  and  Arts">
+    <title lang="es">Miseria</title>
+  </programme>
+<programme start="20230319000000 -0300" stop="20230319020000 -0300" channel="Film  and  Arts">
+    <title lang="es">Un despertar glorioso</title>
+  </programme>
+<programme start="20230319020000 -0300" stop="20230319031000 -0300" channel="Film  and  Arts">
+    <title lang="es">Canción secreta</title>
+  </programme>
+<programme start="20230319031000 -0300" stop="20230319040000 -0300" channel="Film  and  Arts">
+    <title lang="es">Momento musical</title>
+  </programme>
+<programme start="20230319040000 -0300" stop="20230319060000 -0300" channel="Film  and  Arts">
+    <title lang="es">Miseria</title>
+  </programme>
+<programme start="20230319060000 -0300" stop="20230319063000 -0300" channel="Film  and  Arts">
+    <title lang="es">Film and Arts desde el West End</title>
+  </programme>
+<programme start="20230319063000 -0300" stop="20230319073000 -0300" channel="Film  and  Arts">
+    <title lang="es">El show de Graham Norton</title>
+  </programme>
+<programme start="20230319073000 -0300" stop="20230319080000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319080000 -0300" stop="20230319083000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319083000 -0300" stop="20230319090000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319090000 -0300" stop="20230319093000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319093000 -0300" stop="20230319100000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319100000 -0300" stop="20230319103000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319103000 -0300" stop="20230319110000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230319110000 -0300" stop="20230319130000 -0300" channel="Film  and  Arts">
+    <title lang="es">Un despertar glorioso</title>
+  </programme>
+<programme start="20230319130000 -0300" stop="20230319144500 -0300" channel="Film  and  Arts">
+    <title lang="es">Endeavour: el joven Morse</title>
+  </programme>
+<programme start="20230319144500 -0300" stop="20230319150000 -0300" channel="Film  and  Arts">
+    <title lang="es">Graciela Borges: mi vida en el cine</title>
+  </programme>
+<programme start="20230319150000 -0300" stop="20230319160000 -0300" channel="Film  and  Arts">
+    <title lang="es">El show de Graham Norton</title>
+  </programme>
+<programme start="20230319160000 -0300" stop="20230319180000 -0300" channel="Film  and  Arts">
+    <title lang="es">Miseria</title>
+  </programme>
+<programme start="20230319180000 -0300" stop="20230319185500 -0300" channel="Film  and  Arts">
+    <title lang="es">Concierto privado con Daniel Barenboim</title>
+  </programme>
+<programme start="20230319185500 -0300" stop="20230319200000 -0300" channel="Film  and  Arts">
+    <title lang="es">Clint Eastwood</title>
+  </programme>
+<programme start="20230319200000 -0300" stop="20230319210000 -0300" channel="Film  and  Arts">
+    <title lang="es">Agatha Christie’s Hjerson</title>
+  </programme>
+<programme start="20230319210000 -0300" stop="20230319220000 -0300" channel="Film  and  Arts">
+    <title lang="es">Leonardo</title>
+  </programme>
+<programme start="20230319220000 -0300" stop="20230319235500 -0300" channel="Film  and  Arts">
+    <title lang="es">Michelangelo infinito</title>
+  </programme>
+<programme start="20230319235500 -0300" stop="20230320021500 -0300" channel="Film  and  Arts">
+    <title lang="es">La guerra de los mundos</title>
+  </programme>
+<programme start="20230320021500 -0300" stop="20230320031000 -0300" channel="Film  and  Arts">
+    <title lang="es">Concierto privado con Daniel Barenboim</title>
+  </programme>
+<programme start="20230320031000 -0300" stop="20230320041000 -0300" channel="Film  and  Arts">
+    <title lang="es">Clint Eastwood</title>
+  </programme>
+<programme start="20230320041000 -0300" stop="20230320051000 -0300" channel="Film  and  Arts">
+    <title lang="es">Agatha Christie’s Hjerson</title>
+  </programme>
+<programme start="20230320051000 -0300" stop="20230320061500 -0300" channel="Film  and  Arts">
+    <title lang="es">Leonardo</title>
+  </programme>
+<programme start="20230320061500 -0300" stop="20230320063000 -0300" channel="Film  and  Arts">
+    <title lang="es">El teatro en casa</title>
+  </programme>
+<programme start="20230320063000 -0300" stop="20230320073000 -0300" channel="Film  and  Arts">
+    <title lang="es">El show de Graham Norton</title>
+  </programme>
+<programme start="20230320073000 -0300" stop="20230320080000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320080000 -0300" stop="20230320083000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320083000 -0300" stop="20230320090000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320090000 -0300" stop="20230320093000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320093000 -0300" stop="20230320100000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320100000 -0300" stop="20230320103000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320103000 -0300" stop="20230320110000 -0300" channel="Film  and  Arts">
+    <title lang="es">Infomerciales</title>
+  </programme>
+<programme start="20230320110000 -0300" stop="20230320115500 -0300" channel="Film  and  Arts">
+    <title lang="es">Concierto privado con Daniel Barenboim</title>
+  </programme>
+<programme start="20230320115500 -0300" stop="20230320125500 -0300" channel="Film  and  Arts">
+    <title lang="es">Clint Eastwood</title>
+  </programme>
+<programme start="20230320125500 -0300" stop="20230320135500 -0300" channel="Film  and  Arts">
+    <title lang="es">Agatha Christie’s Hjerson</title>
+  </programme>
+<programme start="20230320135500 -0300" stop="20230320150500 -0300" channel="Film  and  Arts">
+    <title lang="es">Leonardo</title>
+  </programme>
+<programme start="20230320150500 -0300" stop="20230320170000 -0300" channel="Film  and  Arts">
+    <title lang="es">Michelangelo infinito</title>
+  </programme>
+<programme start="20230320170000 -0300" stop="20230320180000 -0300" channel="Film  and  Arts">
+    <title lang="es">El show de Graham Norton</title>
+  </programme>
+<programme start="20230320180000 -0300" stop="20230320191000 -0300" channel="Film  and  Arts">
+    <title lang="es">Canción secreta</title>
+  </programme>
+<programme start="20230320191000 -0300" stop="20230320201500 -0300" channel="Film  and  Arts">
+    <title lang="es">Villa-Lobos: de Bach a Brasil</title>
+  </programme>
+<programme start="20230320201500 -0300" stop="20230320220000 -0300" channel="Film  and  Arts">
+    <title lang="es">Vera</title>
+  </programme>
+<programme start="20230320220000 -0300" stop="20230320234500 -0300" channel="Film  and  Arts">
+    <title lang="es">Endeavour: el joven Morse</title>
+  </programme>
+<programme start="20230320234500 -0300" stop="20230321020500 -0300" channel="Film  and  Arts">
+    <title lang="es">Rocketman</title>
   </programme>
 <programme start="20230318235000 -0300" stop="20230319015000 -0300" channel="FX">
     <title lang="es">Tortugas Ninja 2: Fuera de las sombras</title>
@@ -5741,134 +5655,89 @@
 <programme start="20230320220000 -0300" stop="20230321001000 -0300" channel="HBO MUNDI HD">
     <title lang="es">Judas y el mesías negro</title>
   </programme>
-<programme start="20230318220000 -0300" stop="20230319001000 -0300" channel="HBO POP">
+<programme start="20230319220000 -0300" stop="20230320001000 -0300" channel="HBO POP">
     <title lang="es">No te preocupes cariño</title>
   </programme>
-<programme start="20230319001000 -0300" stop="20230319015500 -0300" channel="HBO POP">
+<programme start="20230320001000 -0300" stop="20230320015500 -0300" channel="HBO POP">
     <title lang="es">¿Solo amigos?</title>
   </programme>
-<programme start="20230319015500 -0300" stop="20230319033000 -0300" channel="HBO POP">
+<programme start="20230320015500 -0300" stop="20230320033000 -0300" channel="HBO POP">
     <title lang="es">Amor de medianoche</title>
   </programme>
-<programme start="20230319033000 -0300" stop="20230319045500 -0300" channel="HBO POP">
+<programme start="20230320033000 -0300" stop="20230320045500 -0300" channel="HBO POP">
     <title lang="es">Gloria Estefan: Sangre yoruba</title>
   </programme>
-<programme start="20230319045500 -0300" stop="20230319060000 -0300" channel="HBO POP">
+<programme start="20230320045500 -0300" stop="20230320060000 -0300" channel="HBO POP">
     <title lang="es">Despertar de primavera: viejos conocidos</title>
   </programme>
-<programme start="20230319060000 -0300" stop="20230319082000 -0300" channel="HBO POP">
+<programme start="20230320060000 -0300" stop="20230320082000 -0300" channel="HBO POP">
     <title lang="es">Rent: vidas extremas</title>
   </programme>
-<programme start="20230319082000 -0300" stop="20230319100500 -0300" channel="HBO POP">
+<programme start="20230320082000 -0300" stop="20230320100500 -0300" channel="HBO POP">
     <title lang="es">Los fantasmas de mis ex</title>
   </programme>
-<programme start="20230319100500 -0300" stop="20230319114500 -0300" channel="HBO POP">
+<programme start="20230320100500 -0300" stop="20230320114500 -0300" channel="HBO POP">
     <title lang="es">Esposos, amantes y amigos</title>
   </programme>
-<programme start="20230319114500 -0300" stop="20230319122000 -0300" channel="HBO POP">
+<programme start="20230320114500 -0300" stop="20230320122000 -0300" channel="HBO POP">
     <title lang="es">Rain Dogs</title>
   </programme>
-<programme start="20230319122000 -0300" stop="20230319141000 -0300" channel="HBO POP">
+<programme start="20230320122000 -0300" stop="20230320141000 -0300" channel="HBO POP">
     <title lang="es">El alma de la fiesta</title>
   </programme>
-<programme start="20230319141000 -0300" stop="20230319160000 -0300" channel="HBO POP">
+<programme start="20230320141000 -0300" stop="20230320160000 -0300" channel="HBO POP">
     <title lang="es">El maestro luchador</title>
   </programme>
-<programme start="20230319160000 -0300" stop="20230319180000 -0300" channel="HBO POP">
+<programme start="20230320160000 -0300" stop="20230320180000 -0300" channel="HBO POP">
     <title lang="es">Hermanas</title>
   </programme>
-<programme start="20230319180000 -0300" stop="20230319200000 -0300" channel="HBO POP">
+<programme start="20230320180000 -0300" stop="20230320200000 -0300" channel="HBO POP">
     <title lang="es">Sólo para parejas</title>
   </programme>
-<programme start="20230319200000 -0300" stop="20230319220000 -0300" channel="HBO POP">
+<programme start="20230320200000 -0300" stop="20230320220000 -0300" channel="HBO POP">
     <title lang="es">Hermosa venganza</title>
   </programme>
-<programme start="20230319220000 -0300" stop="20230319234500 -0300" channel="HBO POP">
+<programme start="20230320220000 -0300" stop="20230320234500 -0300" channel="HBO POP">
     <title lang="es">Noche de juegos</title>
   </programme>
-<programme start="20230319234500 -0300" stop="20230320013100 -0300" channel="HBO POP">
+<programme start="20230320234500 -0300" stop="20230321013100 -0300" channel="HBO POP">
     <title lang="es">Buenos vecinos</title>
   </programme>
-<programme start="20230320013100 -0300" stop="20230320033500 -0300" channel="HBO POP">
+<programme start="20230321013100 -0300" stop="20230321033500 -0300" channel="HBO POP">
     <title lang="es">Una lección de amor</title>
   </programme>
-<programme start="20230320033500 -0300" stop="20230320060000 -0300" channel="HBO POP">
+<programme start="20230321033500 -0300" stop="20230321060000 -0300" channel="HBO POP">
     <title lang="es">Rent: vidas extremas</title>
   </programme>
-<programme start="20230320060000 -0300" stop="20230320070500 -0300" channel="HBO POP">
+<programme start="20230321060000 -0300" stop="20230321070500 -0300" channel="HBO POP">
     <title lang="es">Amanda Seales: I Be Knowin’</title>
   </programme>
-<programme start="20230320070500 -0300" stop="20230320085500 -0300" channel="HBO POP">
+<programme start="20230321070500 -0300" stop="20230321085500 -0300" channel="HBO POP">
     <title lang="es">La gran aventura LEGO 2</title>
   </programme>
-<programme start="20230320085500 -0300" stop="20230320102500 -0300" channel="HBO POP">
+<programme start="20230321085500 -0300" stop="20230321102500 -0300" channel="HBO POP">
     <title lang="es">Stella Street</title>
   </programme>
-<programme start="20230320102500 -0300" stop="20230320124000 -0300" channel="HBO POP">
+<programme start="20230321102500 -0300" stop="20230321124000 -0300" channel="HBO POP">
     <title lang="es">Simplemente no te quiere</title>
   </programme>
-<programme start="20230320124000 -0300" stop="20230320142500 -0300" channel="HBO POP">
+<programme start="20230321124000 -0300" stop="20230321142500 -0300" channel="HBO POP">
     <title lang="es">¿Solo amigos?</title>
   </programme>
-<programme start="20230320142500 -0300" stop="20230320161000 -0300" channel="HBO POP">
+<programme start="20230321142500 -0300" stop="20230321161000 -0300" channel="HBO POP">
     <title lang="es">En guerra con mi abuelo</title>
   </programme>
-<programme start="20230320161000 -0300" stop="20230320180500 -0300" channel="HBO POP">
+<programme start="20230321161000 -0300" stop="20230321180500 -0300" channel="HBO POP">
     <title lang="es">Quiero matar a mi jefe 2</title>
   </programme>
-<programme start="20230320180500 -0300" stop="20230320200500 -0300" channel="HBO POP">
+<programme start="20230321180500 -0300" stop="20230321200500 -0300" channel="HBO POP">
     <title lang="es">Cásate conmigo</title>
   </programme>
-<programme start="20230320200500 -0300" stop="20230320220000 -0300" channel="HBO POP">
+<programme start="20230321200500 -0300" stop="20230321220000 -0300" channel="HBO POP">
     <title lang="es">Nosotros los Nobles</title>
   </programme>
-<programme start="20230320220000 -0300" stop="20230321000500 -0300" channel="HBO POP">
+<programme start="20230321220000 -0300" stop="20230322000500 -0300" channel="HBO POP">
     <title lang="es">Como novio de pueblo</title>
-  </programme>
-<programme start="20230318220000 -0300" stop="20230319001000 -0300" channel="HBO POP HD">
-    <title lang="es">No te preocupes cariño</title>
-  </programme>
-<programme start="20230319001000 -0300" stop="20230319015500 -0300" channel="HBO POP HD">
-    <title lang="es">¿Solo amigos?</title>
-  </programme>
-<programme start="20230319015500 -0300" stop="20230319033000 -0300" channel="HBO POP HD">
-    <title lang="es">Amor de medianoche</title>
-  </programme>
-<programme start="20230319033000 -0300" stop="20230319045500 -0300" channel="HBO POP HD">
-    <title lang="es">Gloria Estefan: Sangre yoruba</title>
-  </programme>
-<programme start="20230319045500 -0300" stop="20230319060000 -0300" channel="HBO POP HD">
-    <title lang="es">Despertar de primavera: viejos conocidos</title>
-  </programme>
-<programme start="20230319060000 -0300" stop="20230319082000 -0300" channel="HBO POP HD">
-    <title lang="es">Rent: vidas extremas</title>
-  </programme>
-<programme start="20230319082000 -0300" stop="20230319100500 -0300" channel="HBO POP HD">
-    <title lang="es">Los fantasmas de mis ex</title>
-  </programme>
-<programme start="20230319100500 -0300" stop="20230319114500 -0300" channel="HBO POP HD">
-    <title lang="es">Esposos, amantes y amigos</title>
-  </programme>
-<programme start="20230319114500 -0300" stop="20230319122000 -0300" channel="HBO POP HD">
-    <title lang="es">Rain Dogs</title>
-  </programme>
-<programme start="20230319122000 -0300" stop="20230319141000 -0300" channel="HBO POP HD">
-    <title lang="es">El alma de la fiesta</title>
-  </programme>
-<programme start="20230319141000 -0300" stop="20230319160000 -0300" channel="HBO POP HD">
-    <title lang="es">El maestro luchador</title>
-  </programme>
-<programme start="20230319160000 -0300" stop="20230319180000 -0300" channel="HBO POP HD">
-    <title lang="es">Hermanas</title>
-  </programme>
-<programme start="20230319180000 -0300" stop="20230319200000 -0300" channel="HBO POP HD">
-    <title lang="es">Sólo para parejas</title>
-  </programme>
-<programme start="20230319200000 -0300" stop="20230319220000 -0300" channel="HBO POP HD">
-    <title lang="es">Hermosa venganza</title>
-  </programme>
-<programme start="20230319220000 -0300" stop="20230319234500 -0300" channel="HBO POP HD">
-    <title lang="es">Noche de juegos</title>
   </programme>
 <programme start="20230319234500 -0300" stop="20230320013100 -0300" channel="HBO POP HD">
     <title lang="es">Buenos vecinos</title>
@@ -6304,6 +6173,165 @@
   </programme>
 <programme start="20230320233700 -0300" stop="20230321013500 -0300" channel="ISAT">
     <title lang="es">SWAT</title>
+  </programme>
+<programme start="20230318232500 -0300" stop="20230319011000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Reto 4 elementos: Naturaleza extrema</title>
+  </programme>
+<programme start="20230319011000 -0300" stop="20230319021000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">La rosa de Guadalupe, relatos de impacto</title>
+  </programme>
+<programme start="20230319021000 -0300" stop="20230319031000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Más noche</title>
+  </programme>
+<programme start="20230319031000 -0300" stop="20230319041000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">5x8 Comedia</title>
+  </programme>
+<programme start="20230319041000 -0300" stop="20230319082500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Mi camino es amarte</title>
+  </programme>
+<programme start="20230319082500 -0300" stop="20230319095000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Vuelta al paraíso</title>
+  </programme>
+<programme start="20230319095000 -0300" stop="20230319114500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Simón Blanco</title>
+  </programme>
+<programme start="20230319114500 -0300" stop="20230319124000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Laura</title>
+  </programme>
+<programme start="20230319124000 -0300" stop="20230319131500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Reto 4 elementos: Naturaleza extrema</title>
+  </programme>
+<programme start="20230319131500 -0300" stop="20230319145500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">La familia Peluche</title>
+  </programme>
+<programme start="20230319145500 -0300" stop="20230319153000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Esta historia... me suena</title>
+  </programme>
+<programme start="20230319153000 -0300" stop="20230319163500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+<programme start="20230319163500 -0300" stop="20230319172500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">La rosa de Guadalupe, relatos de impacto</title>
+  </programme>
+<programme start="20230319172500 -0300" stop="20230319182000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">La 3ra en discordia</title>
+  </programme>
+<programme start="20230319182000 -0300" stop="20230319183000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Renta congelada</title>
+  </programme>
+<programme start="20230319183000 -0300" stop="20230319191000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+<programme start="20230319191000 -0300" stop="20230319193500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">40 y 20</title>
+  </programme>
+<programme start="20230319193500 -0300" stop="20230319202500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+<programme start="20230319202500 -0300" stop="20230319211500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Esta historia... me suena</title>
+  </programme>
+<programme start="20230319211500 -0300" stop="20230319221000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+<programme start="20230319221000 -0300" stop="20230320000000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Reto 4 elementos: Naturaleza extrema</title>
+  </programme>
+<programme start="20230320000000 -0300" stop="20230320020000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Mi famoso y yo</title>
+  </programme>
+<programme start="20230320020000 -0300" stop="20230320020500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">La rosa de Guadalupe, relatos de impacto</title>
+  </programme>
+<programme start="20230320020500 -0300" stop="20230320030000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+<programme start="20230320030000 -0300" stop="20230320040000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">La 3ra en discordia</title>
+  </programme>
+<programme start="20230320040000 -0300" stop="20230320045000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Mi camino es amarte</title>
+  </programme>
+<programme start="20230320045000 -0300" stop="20230320054000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Eternamente amándonos</title>
+  </programme>
+<programme start="20230320054000 -0300" stop="20230320072000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Marimar</title>
+  </programme>
+<programme start="20230320072000 -0300" stop="20230320081000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Cabo</title>
+  </programme>
+<programme start="20230320081000 -0300" stop="20230320090000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+<programme start="20230320090000 -0300" stop="20230320093000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Las noticias</title>
+  </programme>
+<programme start="20230320093000 -0300" stop="20230320110000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Despierta</title>
+  </programme>
+<programme start="20230320110000 -0300" stop="20230320120000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Por las mañanas</title>
+  </programme>
+<programme start="20230320120000 -0300" stop="20230320125000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+<programme start="20230320125000 -0300" stop="20230320131500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Dr. Cándido Pérez</title>
+  </programme>
+<programme start="20230320131500 -0300" stop="20230320140500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Corona de lágrimas</title>
+  </programme>
+<programme start="20230320140500 -0300" stop="20230320150000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Laura</title>
+  </programme>
+<programme start="20230320150000 -0300" stop="20230320155000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">La rosa de Guadalupe</title>
+  </programme>
+<programme start="20230320155000 -0300" stop="20230320164000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Cabo</title>
+  </programme>
+<programme start="20230320164000 -0300" stop="20230320173000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Mi camino es amarte</title>
+  </programme>
+<programme start="20230320173000 -0300" stop="20230320175500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Perdiendo el juicio</title>
+  </programme>
+<programme start="20230320175500 -0300" stop="20230320184500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Marimar</title>
+  </programme>
+<programme start="20230320184500 -0300" stop="20230320193500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Soñadoras</title>
+  </programme>
+<programme start="20230320193500 -0300" stop="20230320202500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Eternamente amándonos</title>
+  </programme>
+<programme start="20230320202500 -0300" stop="20230320212000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Laura</title>
+  </programme>
+<programme start="20230320212000 -0300" stop="20230320221000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+<programme start="20230320221000 -0300" stop="20230320230000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Perdona nuestros pecados</title>
+  </programme>
+<programme start="20230320230000 -0300" stop="20230320235000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">La rosa de Guadalupe</title>
+  </programme>
+<programme start="20230320235000 -0300" stop="20230321004500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Archivo muerto</title>
+  </programme>
+<programme start="20230321004500 -0300" stop="20230321013500 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Mi camino es amarte</title>
+  </programme>
+<programme start="20230321013500 -0300" stop="20230321023000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Cabo</title>
+  </programme>
+<programme start="20230321023000 -0300" stop="20230321030000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">En punto con Enrique Acevedo</title>
+  </programme>
+<programme start="20230321030000 -0300" stop="20230321040000 -0300" channel="ESTRELLAS HD">
+    <title lang="es">Archivo muerto</title>
   </programme>
 <programme start="20230318232500 -0300" stop="20230319014000 -0300" channel="PARAMOUNT CHANNEL">
     <title lang="es">Presidente bajo fuego</title>
@@ -8642,22 +8670,22 @@
 <programme start="20230320210000 -0300" stop="20230321090000 -0300" channel="ESPN EXTRA HD">
     <title lang="es">A confirmar</title>
   </programme>
-<programme start="20230318120000 -0300" stop="20230319000000 -0300" channel="Fox Sports Premium">
+<programme start="20230318120000 -0300" stop="20230319000000 -0300" channel="ESPN Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230319000000 -0300" stop="20230319120000 -0300" channel="Fox Sports Premium">
+<programme start="20230319000000 -0300" stop="20230319120000 -0300" channel="ESPN Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230319120000 -0300" stop="20230320000000 -0300" channel="Fox Sports Premium">
+<programme start="20230319120000 -0300" stop="20230320000000 -0300" channel="ESPN Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230320000000 -0300" stop="20230320120000 -0300" channel="Fox Sports Premium">
+<programme start="20230320000000 -0300" stop="20230320120000 -0300" channel="ESPN Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230320120000 -0300" stop="20230321000000 -0300" channel="Fox Sports Premium">
+<programme start="20230320120000 -0300" stop="20230321000000 -0300" channel="ESPN Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230321000000 -0300" stop="20230321120000 -0300" channel="Fox Sports Premium">
+<programme start="20230321000000 -0300" stop="20230321120000 -0300" channel="ESPN Premium">
     <title lang="es">Eventos</title>
   </programme>
 <programme start="20230318230000 -0300" stop="20230319013000 -0300" channel="ESPN 2 HD">
@@ -8903,22 +8931,22 @@
 <programme start="20230321000000 -0300" stop="20230321010000 -0300" channel="ESPN 3 HD">
     <title lang="es">Goles de la Premier League</title>
   </programme>
-<programme start="20230318120000 -0300" stop="20230319000000 -0300" channel="Fox Sports Premium HD">
+<programme start="20230318120000 -0300" stop="20230319000000 -0300" channel="Fox Sports Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230319000000 -0300" stop="20230319120000 -0300" channel="Fox Sports Premium HD">
+<programme start="20230319000000 -0300" stop="20230319120000 -0300" channel="Fox Sports Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230319120000 -0300" stop="20230320000000 -0300" channel="Fox Sports Premium HD">
+<programme start="20230319120000 -0300" stop="20230320000000 -0300" channel="Fox Sports Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230320000000 -0300" stop="20230320120000 -0300" channel="Fox Sports Premium HD">
+<programme start="20230320000000 -0300" stop="20230320120000 -0300" channel="Fox Sports Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230320120000 -0300" stop="20230321000000 -0300" channel="Fox Sports Premium HD">
+<programme start="20230320120000 -0300" stop="20230321000000 -0300" channel="Fox Sports Premium">
     <title lang="es">Eventos</title>
   </programme>
-<programme start="20230321000000 -0300" stop="20230321120000 -0300" channel="Fox Sports Premium HD">
+<programme start="20230321000000 -0300" stop="20230321120000 -0300" channel="Fox Sports Premium">
     <title lang="es">Eventos</title>
   </programme>
 <programme start="20230318220000 -0300" stop="20230319000000 -0300" channel="FOX Sports">
