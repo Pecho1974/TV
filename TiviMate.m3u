@@ -285,8 +285,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_He
 https://delivery.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20210817053224&path-prefix=es" group-title="Estilo de Vida",HGTV
 https://router.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Estilo de Vida",Hiperconectados Television
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="Estilo de Vida",Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="Estilo de Vida",Hola TV (2)
@@ -499,12 +497,14 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://streamer-b02.videos.sapo.pt/live/portocanal/master.m3u8
 #EXTINF:-1 tvg-id="Rai HD" tvg-name="Rai HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Rai_%282016%29.svg/revision/latest/scale-to-width-down/200?cb=20201024021858&path-prefix=es" group-title="Internacional",Rai HD
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Logo_rbatv.png/revision/latest/scale-to-width-down/300?cb=20190724165927" group-title="Internacional",RBATV (Brasil)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Internacional",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="RTP" tvg-name="RTP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RTP_Internacional_Logotipo_2016.png/revision/latest/scale-to-width-down/400?cb=20210528153800&path-prefix=es" group-title="Internacional",RTP
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SBT_2014.png/revision/latest?cb=20190727065827&path-prefix=es" group-title="Internacional",SBT (Sist Brasilero Televisao)
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/SBT-logo-CE2FFE1976-seeklogo.com.jpg" group-title="Internacional",SBT (Brasil)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?KeltecMPIPTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Internacional",SEO TV (720p) [Not 24/7]
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Sky_News_2021.svg/revision/latest/scale-to-width-down/300?cb=20210603160817&path-prefix=es" group-title="Internacional",Sky News
@@ -531,6 +531,8 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-id="TV5MONDE" tvg-name="TV5MONDE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/TV5Monde_2009.svg/revision/latest/scale-to-width-down/400?cb=20211205153513&path-prefix=es" group-title="Internacional",TV5MONDE
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="Internacional",TVE Bahia (Brasil)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TV GALICIA" tvg-name="TV GALICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/331px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Internacional",TV GALICIA
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="Internacional",TVM Internacional (480p) [Not 24/7]
@@ -553,6 +555,8 @@ https://router.cdn.rcs.net.ar/mnp/cm/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Musica",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Musica",Hiperconectados Television
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 #EXTINF:-1 tvg-id="hTV" tvg-name="hTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/HTV_%282016%29.png/revision/latest?cb=20220125014835&path-prefix=es" group-title="Musica",hTV
 https://router.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="Musica",Memorias TV
@@ -641,11 +645,11 @@ https://ythls.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/512px-HispanTv_logo.svg.png" group-title="Noticias",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/139px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" group-title="Noticias",IP
+#EXTINF:-1 tvg-id="IP" tvg-name="IP" tvg-logo="http://television.com.ar/wp-content/uploads/2020/10/IP-Informaci%C3%B3nPeriodisticaTw.jpg" group-title="Noticias",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-id="IP HD" tvg-name="IP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/139px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" group-title="Noticias",IP HD
+#EXTINF:-1 tvg-id="IP HD" tvg-name="IP HD" tvg-logo="http://television.com.ar/wp-content/uploads/2020/10/IP-Informaci%C3%B3nPeriodisticaTw.jpg" group-title="Noticias",IP HD
 https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/139px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" group-title="Noticias",IP (YT)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2020/10/IP-Informaci%C3%B3nPeriodisticaTw.jpg" group-title="Noticias",IP (YT)
 https://ythls.onrender.com/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+ (1)
 https://delivery.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
