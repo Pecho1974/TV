@@ -11,9 +11,9 @@ https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_tok
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/AMC2019.png/revision/latest/scale-to-width-down/250?cb=20200111235406&path-prefix=es" group-title="Cine y Series",AMC HD
 https://router.cdn.rcs.net.ar/mnp/amc/output.mpd
-#EXTINF:-1 tvg-id="Canal AMC (Panregional)" tvg-name="Canal AMC (Panregional)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/AMC2019.png/revision/latest/scale-to-width-down/250?cb=20200111235406&path-prefix=es" group-title="Cine y Series",Canal AMC (Panregional)
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/AMC2019.png/revision/latest/scale-to-width-down/250?cb=20200111235406&path-prefix=es" group-title="Cine y Series",AMC
 https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal AXN" tvg-name="Canal AXN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",Canal AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",AXN
 https://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",AXN HD
 https://router.cdn.rcs.net.ar/mnp/axn/output.mpd
@@ -25,17 +25,17 @@ https://router.cdn.rcs.net.ar/mnp/cinear/output.mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 #EXTINF:-1 tvg-id="CINECANAL HD" tvg-name="CINECANAL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest/scale-to-width-down/250?cb=20220325004838&path-prefix=es" group-title="Cine y Series",CINECANAL HD
 https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-#EXTINF:-1 tvg-id="Canal Cinemax (Panregional)" tvg-name="Canal Cinemax (Panregional)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/300?cb=20200120201051&path-prefix=es" group-title="Cine y Series",Canal Cinemax (Panregional)
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/300?cb=20200120201051&path-prefix=es" group-title="Cine y Series",Cinemax
 https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/300?cb=20200120201051&path-prefix=es" group-title="Cine y Series",Cinemax HD
 https://router.cdn.rcs.net.ar/mnp/cinemax/output.mpd
-#EXTINF:-1 tvg-id="Canal Comedy Central (Latinoamérica)" tvg-name="Canal Comedy Central (Latinoamérica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Comedy_Central_2019.png/revision/latest/scale-to-width-down/350?cb=20190304202857&path-prefix=es" group-title="Cine y Series",Canal Comedy Central (Latinoamérica)
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Comedy_Central_2019.png/revision/latest/scale-to-width-down/350?cb=20190304202857&path-prefix=es" group-title="Cine y Series",Comedy Central
 https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Comedy_Central_2019.png/revision/latest/scale-to-width-down/350?cb=20190304202857&path-prefix=es" group-title="Cine y Series",Comedy Central HD
 https://router.cdn.rcs.net.ar/mnp/comedy/output.mpd
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Cine y Series",ID
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
-#EXTINF:-1 tvg-id="Canal ID (Investigation Discovery) México" tvg-name="Canal ID (Investigation Discovery) México" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Cine y Series",Canal ID (Investigation Discovery) México
+#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Cine y Series",Discovery ID
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ivd_19f
 #EXTINF:-1 tvg-id="Canal Europa Europa" tvg-name="Canal Europa Europa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/EEHD.png/revision/latest/scale-to-width-down/185?cb=20210517132926&path-prefix=es" group-title="Cine y Series",Canal Europa Europa
 https://delivery.cdn.rcs.net.ar/mnp/europa/output.mpd
@@ -49,17 +49,17 @@ https://delivery.cdn.rcs.net.ar/mnp/filmsarts_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/FX.svg/revision/latest/scale-to-width-down/200?cb=20210328155501&path-prefix=es" group-title="Cine y Series",FX HD
 https://router.cdn.rcs.net.ar/mnp/fx/output.mpd
-#EXTINF:-1 tvg-id="Canal Golden" tvg-name="Canal Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Cine y Series",Canal Golden
+#EXTINF:-1 tvg-id="GOLDEN HD" tvg-name="GOLDEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Cine y Series",GOLDEN HD
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
-#EXTINF:-1 tvg-id="Canal HBO" tvg-name="Canal HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/270?cb=20200119130659&path-prefix=es" group-title="Cine y Series",Canal HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/270?cb=20200119130659&path-prefix=es" group-title="Cine y Series",HBO
 https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/270?cb=20200119130659&path-prefix=es" group-title="Cine y Series",HBO HD
 https://router.cdn.rcs.net.ar/mnp/hbo/output.mpd
-#EXTINF:-1 tvg-id="Canal HBO Plus Este" tvg-name="Canal HBO Plus Este" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/230?cb=20200122002249&path-prefix=es" group-title="Cine y Series",Canal HBO Plus Este
+#EXTINF:-1 tvg-id="HBO Plus Este" tvg-name="HBO Plus Este" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/230?cb=20200122002249&path-prefix=es" group-title="Cine y Series",HBO Plus Este
 https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO plus" tvg-name="HBO plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/230?cb=20200122002249&path-prefix=es" group-title="Cine y Series",HBO plus
 https://router.cdn.rcs.net.ar/mnp/hboplus/output.mpd
-#EXTINF:-1 tvg-id="Canal HBO 2 Latinoamérica" tvg-name="Canal HBO 2 Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210114141343&path-prefix=es" group-title="Cine y Series",Canal HBO 2 Latinoamérica
+#EXTINF:-1 tvg-id="HBO 2 Latinoamérica" tvg-name="HBO 2 Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210114141343&path-prefix=es" group-title="Cine y Series",HBO 2 Latinoamérica
 https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest/scale-to-width-down/300?cb=20210114141343&path-prefix=es" group-title="Cine y Series",HBO 2
 https://router.cdn.rcs.net.ar/mnp/hbo2/output.mpd
@@ -67,19 +67,19 @@ https://router.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO family HD" tvg-name="HBO family HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/HBO_Family_LA_2021.png/revision/latest/scale-to-width-down/200?cb=20210306032154&path-prefix=es" group-title="Cine y Series",HBO family HD
 https://router.cdn.rcs.net.ar/mnp/hbofam/output.mpd
-#EXTINF:-1 tvg-id="Canal HBO Mundi" tvg-name="Canal HBO Mundi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/HBO_Mundi_2020.svg/revision/latest/scale-to-width-down/200?cb=20230215144540&path-prefix=es" group-title="Cine y Series",Canal HBO Mundi
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/HBO_Mundi_2020.svg/revision/latest/scale-to-width-down/200?cb=20230215144540&path-prefix=es" group-title="Cine y Series",HBO Mundi
 https://delivery.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/HBO_Mundi_2020.svg/revision/latest/scale-to-width-down/200?cb=20230215144540&path-prefix=es" group-title="Cine y Series",HBO MUNDI HD
 https://router.cdn.rcs.net.ar/mnp/hbomund/output.mpd
-#EXTINF:-1 tvg-id="Canal HBO Pop" tvg-name="Canal HBO Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/HBO_Pop.svg/revision/latest/scale-to-width-down/200?cb=20230215144835&path-prefix=es" group-title="Cine y Series",Canal HBO Pop
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/HBO_Pop.svg/revision/latest/scale-to-width-down/200?cb=20230215144835&path-prefix=es" group-title="Cine y Series",HBO Pop
 https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO POP HD" tvg-name="HBO POP HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/HBO_Pop.svg/revision/latest/scale-to-width-down/200?cb=20230215144835&path-prefix=es" group-title="Cine y Series",HBO POP HD
 https://router.cdn.rcs.net.ar/mnp/hbopop/output.mpd
-#EXTINF:-1 tvg-id="Canal HBO Signature Latinoamérica" tvg-name="Canal HBO Signature Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/HBO_Signature_2012.png/revision/latest/scale-to-width-down/200?cb=20151009181232&path-prefix=es" group-title="Cine y Series",Canal HBO Signature Latinoamérica
+#EXTINF:-1 tvg-id="HBO Signature Latinoamérica" tvg-name="HBO Signature Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/HBO_Signature_2012.png/revision/latest/scale-to-width-down/200?cb=20151009181232&path-prefix=es" group-title="Cine y Series",HBO Signature Latinoamérica
 https://delivery.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/HBO_Signature_2012.png/revision/latest/scale-to-width-down/200?cb=20151009181232&path-prefix=es" group-title="Cine y Series",HBO Signature
 https://router.cdn.rcs.net.ar/mnp/hbosig/output.mpd
-#EXTINF:-1 tvg-id="Canal HBO Xtreme" tvg-name="Canal HBO Xtreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="Cine y Series",Canal HBO Xtreme
+#EXTINF:-1 tvg-id="HBO Xtreme" tvg-name="HBO Xtreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="Cine y Series",HBO Xtreme
 https://delivery.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="Cine y Series",HBO XTREME HD
 https://router.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
@@ -125,7 +125,7 @@ https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 #EXTINF:-1 tvg-id="Canal Studio Universal (Panregional)" tvg-name="Canal Studio Universal (Panregional)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Studio_Universal_2016.svg/revision/latest/scale-to-width-down/300?cb=20200323005542&path-prefix=es" group-title="Cine y Series",Canal Studio Universal (Panregional)
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
-#EXTINF:-1 tvg-id="SyFy (HD)" tvg-name="SyFy (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200106165949&path-prefix=es" group-title="Cine y Series",SyFy (HD)
+#EXTINF:-1 tvg-id="SyFy (2)" tvg-name="SyFy (2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200106165949&path-prefix=es" group-title="Cine y Series",SyFy (2)
 https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200106165949&path-prefix=es" group-title="Cine y Series",Syfy
 https://router.cdn.rcs.net.ar/mnp/syfy/output.mpd
