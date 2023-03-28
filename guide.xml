@@ -115,9 +115,9 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Studio Universal (Panregional).png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="SyFy (2)">
-    <display-name lang="es">SyFy (2)</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/SyFy (2).png" />
+  <channel id="SYFY">
+    <display-name lang="es">SYFY</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/SYFY.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal TBS veryfunny Latinoamérica">
@@ -158,11 +158,6 @@
   <channel id="Adrenalina Sports Network">
     <display-name lang="es">Adrenalina Sports Network</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Adrenalina Sports Network.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal América TeVé">
-    <display-name lang="es">Canal América TeVé</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal América TeVé.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Telefé (Argentina)">
@@ -658,6 +653,11 @@
   <channel id="TOONCAST">
     <display-name lang="es">TOONCAST</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/TOONCAST.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="AMÉRICA">
+    <display-name lang="es">AMÉRICA</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/AMÉRICA.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="AMERICA HD">
@@ -6392,8 +6392,8 @@
 <programme start="20230329113000 -0600" stop="20230329122000 -0600" channel="Telemundo Internacional">
     <title lang="es">Decisiones extremas</title>
   </programme>
-<programme start="20230329122000 -0600" stop="20230329131000 -0600" channel="Telemundo Internacional">
-    <title lang="es">Eva la Trailera</title>
+<programme start="20230329140000 -0600" stop="20230329145000 -0600" channel="Telemundo Internacional">
+    <title lang="es">Los miserables</title>
   </programme>
 <programme start="20230329154000 -0600" stop="20230329163000 -0600" channel="Telemundo Internacional">
     <title lang="es">Caso Cerrado</title>
@@ -7428,6 +7428,9 @@
 <programme start="20230329131500 -0600" stop="20230329140000 -0600" channel="Adrenalina Sports Network">
     <title lang="es">Cloroformo</title>
   </programme>
+<programme start="20230329140000 -0600" stop="20230329170500 -0600" channel="Adrenalina Sports Network">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
 <programme start="20230329185500 -0600" stop="20230329195000 -0600" channel="Adrenalina Sports Network">
     <title lang="es">Cloroformo</title>
   </programme>
@@ -7515,207 +7518,6 @@
 <programme start="20230403220000 -0500" stop="20230404020000 -0500" channel="Adrenalina Sports Network">
     <title lang="es">Adrenalina Sports Network</title>
   </programme>
-<programme start="20230327193000 -0600" stop="20230327200000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230327200000 -0600" stop="20230327203000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230327203000 -0600" stop="20230327210000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230327210000 -0600" stop="20230327220000 -0600" channel="Canal América TeVé">
-    <title lang="es">Luis Gonzalez tarde en la noche</title>
-  </programme>
-<programme start="20230327220000 -0600" stop="20230327230000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230327230000 -0600" stop="20230327233000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230327233000 -0600" stop="20230328000000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230328000000 -0600" stop="20230328003000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328003000 -0600" stop="20230328010000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230328010000 -0600" stop="20230328013000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328013000 -0600" stop="20230328020000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328020000 -0600" stop="20230328023000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230328023000 -0600" stop="20230328030000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328030000 -0600" stop="20230328033000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230328033000 -0600" stop="20230328040000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328040000 -0600" stop="20230328043000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328043000 -0600" stop="20230328050000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328050000 -0600" stop="20230328053000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328053000 -0600" stop="20230328060000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328060000 -0600" stop="20230328063000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328063000 -0600" stop="20230328070000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328070000 -0600" stop="20230328073000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328073000 -0600" stop="20230328080000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328080000 -0600" stop="20230328083000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328083000 -0600" stop="20230328090000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328090000 -0600" stop="20230328093000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328093000 -0600" stop="20230328100000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328100000 -0600" stop="20230328103000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328103000 -0600" stop="20230328110000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328110000 -0600" stop="20230328113000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328113000 -0600" stop="20230328120000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328120000 -0600" stop="20230328123000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328123000 -0600" stop="20230328130000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328130000 -0600" stop="20230328133000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328133000 -0600" stop="20230328140000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328140000 -0600" stop="20230328150000 -0600" channel="Canal América TeVé">
-    <title lang="es">AN4</title>
-  </programme>
-<programme start="20230328150000 -0600" stop="20230328160000 -0600" channel="Canal América TeVé">
-    <title lang="es">A fondo</title>
-  </programme>
-<programme start="20230328160000 -0600" stop="20230328163000 -0600" channel="Canal América TeVé">
-    <title lang="es">Ultra Fit al Día</title>
-  </programme>
-<programme start="20230328163000 -0600" stop="20230328170000 -0600" channel="Canal América TeVé">
-    <title lang="es">El espejo</title>
-  </programme>
-<programme start="20230328170000 -0600" stop="20230328180000 -0600" channel="Canal América TeVé">
-    <title lang="es">Luis Gonzalez tarde en la noche</title>
-  </programme>
-<programme start="20230328180000 -0600" stop="20230328190000 -0600" channel="Canal América TeVé">
-    <title lang="es">Éxitos de siempre</title>
-  </programme>
-<programme start="20230328200000 -0600" stop="20230328210000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230328210000 -0600" stop="20230328220000 -0600" channel="Canal América TeVé">
-    <title lang="es">Luis Gonzalez tarde en la noche</title>
-  </programme>
-<programme start="20230328220000 -0600" stop="20230328223000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230328223000 -0600" stop="20230328230000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230328233000 -0600" stop="20230329003000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230329003000 -0600" stop="20230329010000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230329010000 -0600" stop="20230329013000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230329013000 -0600" stop="20230329020000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230329020000 -0600" stop="20230329030000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230329123000 -0600" stop="20230329130000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230329200000 -0600" stop="20230329203000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230329203000 -0600" stop="20230329210000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230329220000 -0600" stop="20230329223000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230329223000 -0600" stop="20230329233000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230329233000 -0600" stop="20230330000000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230330000000 -0600" stop="20230330003000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230330003000 -0600" stop="20230330010000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230330010000 -0600" stop="20230330013000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230330020000 -0600" stop="20230330023000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230330023000 -0600" stop="20230330030000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230330030000 -0600" stop="20230330033000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230330220000 -0600" stop="20230330223000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230330223000 -0600" stop="20230330230000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230330230000 -0600" stop="20230330233000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
-<programme start="20230330233000 -0600" stop="20230331000000 -0600" channel="Canal América TeVé">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-<programme start="20230331000000 -0600" stop="20230331010000 -0600" channel="Canal América TeVé">
-    <title lang="es">Proteja su memoria</title>
-  </programme>
 <programme start="20230327191500 -0600" stop="20230327203000 -0600" channel="Canal Telefé (Argentina)">
     <title lang="es">Staff: Segundo Tiempo</title>
   </programme>
@@ -7758,8 +7560,8 @@
 <programme start="20230328163000 -0600" stop="20230328190000 -0600" channel="Canal Telefé (Argentina)">
     <title lang="es">Gran Hermano: El Debate Final</title>
   </programme>
-<programme start="20230329121500 -0600" stop="20230329133000 -0600" channel="Canal Telefé (Argentina)">
-    <title lang="es">Nuestro Amor Eterno</title>
+<programme start="20230329133000 -0600" stop="20230329150000 -0600" channel="Canal Telefé (Argentina)">
+    <title lang="es">Amor de familia</title>
   </programme>
 <programme start="20230329163000 -0600" stop="20230329173000 -0600" channel="Canal Telefé (Argentina)">
     <title lang="es">Pantanal</title>
@@ -7889,6 +7691,9 @@
   </programme>
 <programme start="20230330120000 -0600" stop="20230330140000 -0600" channel="Canal 24 Horas (TVE)">
     <title lang="es">La noche en 24 horas</title>
+  </programme>
+<programme start="20230330140000 -0600" stop="20230330143000 -0600" channel="Canal 24 Horas (TVE)">
+    <title lang="es">Noticias 24h</title>
   </programme>
 <programme start="20230330143000 -0600" stop="20230330150000 -0600" channel="Canal 24 Horas (TVE)">
     <title lang="es">Noticias 24h</title>
@@ -8267,8 +8072,8 @@
 <programme start="20230330090000 -0600" stop="20230330100000 -0600" channel="Bloomberg">
     <title lang="es">El Financiero Meet Point</title>
   </programme>
-<programme start="20230330110000 -0600" stop="20230330130000 -0600" channel="Bloomberg">
-    <title lang="es">Bloomberg markets The close</title>
+<programme start="20230330140000 -0600" stop="20230330150000 -0600" channel="Bloomberg">
+    <title lang="es">Ganadores y perdedores</title>
   </programme>
 <programme start="20230330210000 -0600" stop="20230330220000 -0600" channel="Bloomberg">
     <title lang="es">El Financiero Meet Point</title>
@@ -8438,8 +8243,8 @@
 <programme start="20230328180000 -0600" stop="20230328190000 -0600" channel="CNN Internacional">
     <title lang="es">CNN Tonight</title>
   </programme>
-<programme start="20230329120000 -0600" stop="20230329130000 -0600" channel="CNN Internacional">
-    <title lang="es">The Lead with Jake Tapper</title>
+<programme start="20230329140000 -0600" stop="20230329150000 -0600" channel="CNN Internacional">
+    <title lang="es">The Situation Room</title>
   </programme>
 <programme start="20230329200000 -0600" stop="20230329203000 -0600" channel="CNN Internacional">
     <title lang="es">CNN News Room</title>
@@ -9026,8 +8831,8 @@
 <programme start="20230331171500 -0600" stop="20230331174500 -0600" channel="Canal RAI International">
     <title lang="es">Il confronto</title>
   </programme>
-<programme start="20230401121500 -0600" stop="20230401130000 -0600" channel="Canal RAI International">
-    <title lang="es">Teche(viaggio nella bellezza)</title>
+<programme start="20230401130000 -0600" stop="20230401143000 -0600" channel="Canal RAI International">
+    <title lang="es">Casa Italia</title>
   </programme>
 <programme start="20230401153000 -0600" stop="20230401180000 -0600" channel="Canal RAI International">
     <title lang="es">Benedetta Primavera</title>
@@ -9241,8 +9046,8 @@
 <programme start="20230329120000 -0600" stop="20230329123000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Turistéate</title>
   </programme>
-<programme start="20230329123000 -0600" stop="20230329130000 -0600" channel="Canal RCN Nuestra Tele">
-    <title lang="es">Tenemos que Hablar</title>
+<programme start="20230329140000 -0600" stop="20230329150000 -0600" channel="Canal RCN Nuestra Tele">
+    <title lang="es">Trendiando</title>
   </programme>
 <programme start="20230329170000 -0600" stop="20230329190000 -0600" channel="Canal RCN Nuestra Tele">
     <title lang="es">Fútbol Colombiano Primera División</title>
@@ -9355,8 +9160,8 @@
 <programme start="20230328173500 -0600" stop="20230328193000 -0600" channel="Canal 13 de Chile">
     <title lang="es">Aquí se Baila</title>
   </programme>
-<programme start="20230329120000 -0600" stop="20230329125000 -0600" channel="Canal 13 de Chile">
-    <title lang="es">Sorpresas del destino</title>
+<programme start="20230329141000 -0600" stop="20230329154500 -0600" channel="Canal 13 de Chile">
+    <title lang="es">Que dice Chile</title>
   </programme>
 <programme start="20230329173500 -0600" stop="20230329193000 -0600" channel="Canal 13 de Chile">
     <title lang="es">Que dice Chile</title>
@@ -9411,8 +9216,8 @@
 <programme start="20230328160000 -0600" stop="20230328170000 -0600" channel="Canal HTV">
     <title lang="es">Fórmula HTV</title>
   </programme>
-<programme start="20230329090000 -0600" stop="20230329140000 -0600" channel="Canal HTV">
-    <title lang="es">HTV Pasión</title>
+<programme start="20230329140000 -0600" stop="20230329160000 -0600" channel="Canal HTV">
+    <title lang="es">Hot Ranking</title>
   </programme>
 <programme start="20230327200000 -0600" stop="20230327205000 -0600" channel="Canal MTV (Latinoamérica)">
     <title lang="es">Catfish S.4-5</title>
@@ -9935,9 +9740,6 @@
 <programme start="20230329040000 -0600" stop="20230329070000 -0600" channel="Canal Much Music">
     <title lang="es">PopUp</title>
   </programme>
-<programme start="20230329110000 -0600" stop="20230329130000 -0600" channel="Canal Much Music">
-    <title lang="es">PopUp</title>
-  </programme>
 <programme start="20230329130000 -0600" stop="20230329140000 -0600" channel="Canal Much Music">
     <title lang="es">#ROCKON</title>
   </programme>
@@ -10064,8 +9866,8 @@
 <programme start="20230329080000 -0600" stop="20230329090000 -0600" channel="CNN en Español">
     <title lang="es">Oppenheimer presenta</title>
   </programme>
-<programme start="20230329110000 -0600" stop="20230329130000 -0600" channel="CNN en Español">
-    <title lang="es">Redacción con Gabriela Frias</title>
+<programme start="20230329140000 -0600" stop="20230329150000 -0600" channel="CNN en Español">
+    <title lang="es">Perspectivas desde Mexico</title>
   </programme>
 <programme start="20230330070000 -0600" stop="20230330073000 -0600" channel="CNN en Español">
     <title lang="es">Clix</title>
@@ -10322,8 +10124,8 @@
 <programme start="20230329113000 -0600" stop="20230329122000 -0600" channel="Telemundo">
     <title lang="es">Decisiones extremas</title>
   </programme>
-<programme start="20230329122000 -0600" stop="20230329140000 -0600" channel="Telemundo">
-    <title lang="es">Eva la Trailera</title>
+<programme start="20230329140000 -0600" stop="20230329154000 -0600" channel="Telemundo">
+    <title lang="es">Los miserables</title>
   </programme>
 <programme start="20230330040000 -0600" stop="20230330080000 -0600" channel="Telemundo">
     <title lang="es">Telemundo</title>
@@ -57823,6 +57625,282 @@
   </programme>
 <programme start="20230402234900 -0300" stop="20230403000200 -0300" channel="TOONCAST">
     <title lang="es">Mike, Lu y Og</title>
+  </programme>
+<programme start="20230327231500 -0300" stop="20230328003000 -0300" channel="AMÉRICA">
+    <title lang="es">Invasores de la TV</title>
+  </programme>
+<programme start="20230328003000 -0300" stop="20230328010000 -0300" channel="AMÉRICA">
+    <title lang="es">Modo Selfie</title>
+  </programme>
+<programme start="20230328010000 -0300" stop="20230328023000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230328023000 -0300" stop="20230328040000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230328040000 -0300" stop="20230328050000 -0300" channel="AMÉRICA">
+    <title lang="es">EPA!</title>
+  </programme>
+<programme start="20230328050000 -0300" stop="20230328060000 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+<programme start="20230328060000 -0300" stop="20230328080000 -0300" channel="AMÉRICA">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+<programme start="20230328080000 -0300" stop="20230328103000 -0300" channel="AMÉRICA">
+    <title lang="es">BDA Extra</title>
+  </programme>
+<programme start="20230328103000 -0300" stop="20230328133000 -0300" channel="AMÉRICA">
+    <title lang="es">EPA!</title>
+  </programme>
+<programme start="20230328133000 -0300" stop="20230328154500 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230328154500 -0300" stop="20230328180000 -0300" channel="AMÉRICA">
+    <title lang="es">A la tarde</title>
+  </programme>
+<programme start="20230328180000 -0300" stop="20230328200000 -0300" channel="AMÉRICA">
+    <title lang="es">América noticias 2da. edición</title>
+  </programme>
+<programme start="20230328200000 -0300" stop="20230328220000 -0300" channel="AMÉRICA">
+    <title lang="es">LAM</title>
+  </programme>
+<programme start="20230328220000 -0300" stop="20230328231500 -0300" channel="AMÉRICA">
+    <title lang="es">Noche al Dente</title>
+  </programme>
+<programme start="20230328231500 -0300" stop="20230329003000 -0300" channel="AMÉRICA">
+    <title lang="es">Invasores de la TV</title>
+  </programme>
+<programme start="20230329003000 -0300" stop="20230329010000 -0300" channel="AMÉRICA">
+    <title lang="es">Modo Selfie</title>
+  </programme>
+<programme start="20230329010000 -0300" stop="20230329023000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230329023000 -0300" stop="20230329040000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230329040000 -0300" stop="20230329050000 -0300" channel="AMÉRICA">
+    <title lang="es">EPA!</title>
+  </programme>
+<programme start="20230329050000 -0300" stop="20230329060000 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+<programme start="20230329060000 -0300" stop="20230329080000 -0300" channel="AMÉRICA">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+<programme start="20230329080000 -0300" stop="20230329103000 -0300" channel="AMÉRICA">
+    <title lang="es">BDA Extra</title>
+  </programme>
+<programme start="20230329103000 -0300" stop="20230329133000 -0300" channel="AMÉRICA">
+    <title lang="es">EPA!</title>
+  </programme>
+<programme start="20230329133000 -0300" stop="20230329154500 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230329154500 -0300" stop="20230329180000 -0300" channel="AMÉRICA">
+    <title lang="es">A la tarde</title>
+  </programme>
+<programme start="20230329180000 -0300" stop="20230329200000 -0300" channel="AMÉRICA">
+    <title lang="es">América noticias 2da. edición</title>
+  </programme>
+<programme start="20230329200000 -0300" stop="20230329220000 -0300" channel="AMÉRICA">
+    <title lang="es">LAM</title>
+  </programme>
+<programme start="20230329220000 -0300" stop="20230329231500 -0300" channel="AMÉRICA">
+    <title lang="es">Noche al Dente</title>
+  </programme>
+<programme start="20230329231500 -0300" stop="20230330003000 -0300" channel="AMÉRICA">
+    <title lang="es">Invasores de la TV</title>
+  </programme>
+<programme start="20230330003000 -0300" stop="20230330010000 -0300" channel="AMÉRICA">
+    <title lang="es">Modo Selfie</title>
+  </programme>
+<programme start="20230330010000 -0300" stop="20230330023000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230330023000 -0300" stop="20230330040000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230330040000 -0300" stop="20230330050000 -0300" channel="AMÉRICA">
+    <title lang="es">EPA!</title>
+  </programme>
+<programme start="20230330050000 -0300" stop="20230330060000 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+<programme start="20230330060000 -0300" stop="20230330080000 -0300" channel="AMÉRICA">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+<programme start="20230330080000 -0300" stop="20230330103000 -0300" channel="AMÉRICA">
+    <title lang="es">BDA Extra</title>
+  </programme>
+<programme start="20230330103000 -0300" stop="20230330133000 -0300" channel="AMÉRICA">
+    <title lang="es">EPA!</title>
+  </programme>
+<programme start="20230330133000 -0300" stop="20230330154500 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230330154500 -0300" stop="20230330180000 -0300" channel="AMÉRICA">
+    <title lang="es">A la tarde</title>
+  </programme>
+<programme start="20230330180000 -0300" stop="20230330200000 -0300" channel="AMÉRICA">
+    <title lang="es">América noticias 2da. edición</title>
+  </programme>
+<programme start="20230330200000 -0300" stop="20230330220000 -0300" channel="AMÉRICA">
+    <title lang="es">LAM</title>
+  </programme>
+<programme start="20230330220000 -0300" stop="20230330231500 -0300" channel="AMÉRICA">
+    <title lang="es">Noche al Dente</title>
+  </programme>
+<programme start="20230330231500 -0300" stop="20230331003000 -0300" channel="AMÉRICA">
+    <title lang="es">Invasores de la TV</title>
+  </programme>
+<programme start="20230331003000 -0300" stop="20230331010000 -0300" channel="AMÉRICA">
+    <title lang="es">Modo Selfie</title>
+  </programme>
+<programme start="20230331010000 -0300" stop="20230331023000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230331023000 -0300" stop="20230331040000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230331040000 -0300" stop="20230331050000 -0300" channel="AMÉRICA">
+    <title lang="es">EPA!</title>
+  </programme>
+<programme start="20230331050000 -0300" stop="20230331060000 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+<programme start="20230331060000 -0300" stop="20230331080000 -0300" channel="AMÉRICA">
+    <title lang="es">Buenos días, América</title>
+  </programme>
+<programme start="20230331080000 -0300" stop="20230331103000 -0300" channel="AMÉRICA">
+    <title lang="es">BDA Extra</title>
+  </programme>
+<programme start="20230331103000 -0300" stop="20230331133000 -0300" channel="AMÉRICA">
+    <title lang="es">EPA!</title>
+  </programme>
+<programme start="20230331133000 -0300" stop="20230331154500 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230331154500 -0300" stop="20230331180000 -0300" channel="AMÉRICA">
+    <title lang="es">A la tarde</title>
+  </programme>
+<programme start="20230331180000 -0300" stop="20230331200000 -0300" channel="AMÉRICA">
+    <title lang="es">América noticias 2da. edición</title>
+  </programme>
+<programme start="20230331200000 -0300" stop="20230331220000 -0300" channel="AMÉRICA">
+    <title lang="es">LAM</title>
+  </programme>
+<programme start="20230331220000 -0300" stop="20230331231500 -0300" channel="AMÉRICA">
+    <title lang="es">Noche al Dente</title>
+  </programme>
+<programme start="20230331231500 -0300" stop="20230401003000 -0300" channel="AMÉRICA">
+    <title lang="es">Invasores de la TV</title>
+  </programme>
+<programme start="20230401003000 -0300" stop="20230401010000 -0300" channel="AMÉRICA">
+    <title lang="es">Modo Selfie</title>
+  </programme>
+<programme start="20230401010000 -0300" stop="20230401020000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230401020000 -0300" stop="20230401060000 -0300" channel="AMÉRICA">
+    <title lang="es">A la tarde</title>
+  </programme>
+<programme start="20230401060000 -0300" stop="20230401063000 -0300" channel="AMÉRICA">
+    <title lang="es">TeveCompras</title>
+  </programme>
+<programme start="20230401063000 -0300" stop="20230401070000 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+<programme start="20230401070000 -0300" stop="20230401073000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230401073000 -0300" stop="20230401090000 -0300" channel="AMÉRICA">
+    <title lang="es">TeveCompras</title>
+  </programme>
+<programme start="20230401090000 -0300" stop="20230401100000 -0300" channel="AMÉRICA">
+    <title lang="es">El auto fantástico</title>
+  </programme>
+<programme start="20230401100000 -0300" stop="20230401110000 -0300" channel="AMÉRICA">
+    <title lang="es">El auto fantástico</title>
+  </programme>
+<programme start="20230401110000 -0300" stop="20230401120000 -0300" channel="AMÉRICA">
+    <title lang="es">Que crecen</title>
+  </programme>
+<programme start="20230401120000 -0300" stop="20230401180000 -0300" channel="AMÉRICA">
+    <title lang="es">Pasión de sábado</title>
+  </programme>
+<programme start="20230401180000 -0300" stop="20230401200000 -0300" channel="AMÉRICA">
+    <title lang="es">América noticias</title>
+  </programme>
+<programme start="20230401200000 -0300" stop="20230401223000 -0300" channel="AMÉRICA">
+    <title lang="es">Secretos verdaderos</title>
+  </programme>
+<programme start="20230401223000 -0300" stop="20230402000000 -0300" channel="AMÉRICA">
+    <title lang="es">Especiales América</title>
+  </programme>
+<programme start="20230402000000 -0300" stop="20230402003000 -0300" channel="AMÉRICA">
+    <title lang="es">Chicas guapas</title>
+  </programme>
+<programme start="20230402003000 -0300" stop="20230402010000 -0300" channel="AMÉRICA">
+    <title lang="es">Modo Foodie</title>
+  </programme>
+<programme start="20230402010000 -0300" stop="20230402020000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230402020000 -0300" stop="20230402060000 -0300" channel="AMÉRICA">
+    <title lang="es">Pasión de sábado</title>
+  </programme>
+<programme start="20230402060000 -0300" stop="20230402063000 -0300" channel="AMÉRICA">
+    <title lang="es">TeveCompras</title>
+  </programme>
+<programme start="20230402063000 -0300" stop="20230402070000 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+<programme start="20230402070000 -0300" stop="20230402073000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+<programme start="20230402073000 -0300" stop="20230402080000 -0300" channel="AMÉRICA">
+    <title lang="es">TeveCompras</title>
+  </programme>
+<programme start="20230402080000 -0300" stop="20230402084500 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+<programme start="20230402084500 -0300" stop="20230402090000 -0300" channel="AMÉRICA">
+    <title lang="es">Fitness y belleza</title>
+  </programme>
+<programme start="20230402090000 -0300" stop="20230402093000 -0300" channel="AMÉRICA">
+    <title lang="es">Tecno tendencias</title>
+  </programme>
+<programme start="20230402093000 -0300" stop="20230402100000 -0300" channel="AMÉRICA">
+    <title lang="es">TUC 200 años de historia</title>
+  </programme>
+<programme start="20230402100000 -0300" stop="20230402110000 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
+  </programme>
+<programme start="20230402110000 -0300" stop="20230402120000 -0300" channel="AMÉRICA">
+    <title lang="es">Ambiente y medio</title>
+  </programme>
+<programme start="20230402120000 -0300" stop="20230402130000 -0300" channel="AMÉRICA">
+    <title lang="es">Los Magníficos</title>
+  </programme>
+<programme start="20230402130000 -0300" stop="20230402140000 -0300" channel="AMÉRICA">
+    <title lang="es">Los Magníficos</title>
+  </programme>
+<programme start="20230402140000 -0300" stop="20230402150000 -0300" channel="AMÉRICA">
+    <title lang="es">Los Magníficos</title>
+  </programme>
+<programme start="20230402150000 -0300" stop="20230402180000 -0300" channel="AMÉRICA">
+    <title lang="es">Es domingo! EAT</title>
+  </programme>
+<programme start="20230402180000 -0300" stop="20230402200000 -0300" channel="AMÉRICA">
+    <title lang="es">Es domingo! EAT</title>
+  </programme>
+<programme start="20230402200000 -0300" stop="20230402220000 -0300" channel="AMÉRICA">
+    <title lang="es">GPS, para saber dónde estás parado</title>
+  </programme>
+<programme start="20230402220000 -0300" stop="20230403000000 -0300" channel="AMÉRICA">
+    <title lang="es">Secretos verdaderos de colección</title>
   </programme>
 <programme start="20230327231500 -0300" stop="20230328003000 -0300" channel="AMERICA HD">
     <title lang="es">Invasores de la TV</title>
