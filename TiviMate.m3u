@@ -37,7 +37,7 @@ https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/comedy/output.mpd
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Cine y Series",ID
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
-#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Cine y Series",Discovery ID
+#EXTINF:-1 tvg-id="Canal ID (Investigation Discovery) México" tvg-name="Canal ID (Investigation Discovery) México" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Cine y Series",Canal ID (Investigation Discovery) México
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ivd_19f
 #EXTINF:-1 tvg-id="Canal Europa Europa" tvg-name="Canal Europa Europa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/EEHD.png/revision/latest/scale-to-width-down/185?cb=20210517132926&path-prefix=es" group-title="Cine y Series",Canal Europa Europa
 https://delivery.cdn.rcs.net.ar/mnp/europa/output.mpd
@@ -85,7 +85,7 @@ https://router.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="Cine y Series",HBO XTREME HD
 https://router.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
-#EXTINF:-1 tvg-id="Canal I.Sat" tvg-name="Canal I.Sat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/I-Sat_2010.png/revision/latest/scale-to-width-down/300?cb=20200107000514&path-prefix=es" group-title="Cine y Series",Canal I.Sat
+#EXTINF:-1 tvg-id="I-Sat" tvg-name="I-Sat" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/I-Sat_2010.png/revision/latest/scale-to-width-down/300?cb=20200107000514&path-prefix=es" group-title="Cine y Series",I-Sat
 https://delivery.cdn.rcs.net.ar/mnp/isat_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ISAT" tvg-name="ISAT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/I-Sat_2010.png/revision/latest/scale-to-width-down/300?cb=20200107000514&path-prefix=es" group-title="Cine y Series",ISAT
 https://router.cdn.rcs.net.ar/mnp/isat/output.mpd
@@ -127,7 +127,7 @@ https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 #EXTINF:-1 tvg-id="Canal Studio Universal (Panregional)" tvg-name="Canal Studio Universal (Panregional)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Studio_Universal_2016.svg/revision/latest/scale-to-width-down/300?cb=20200323005542&path-prefix=es" group-title="Cine y Series",Canal Studio Universal (Panregional)
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200106165949&path-prefix=es" group-title="Cine y Series",SYFY
+#EXTINF:-1 tvg-id="Canal SyFy" tvg-name="Canal SyFy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200106165949&path-prefix=es" group-title="Cine y Series",Canal SyFy
 https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200106165949&path-prefix=es" group-title="Cine y Series",Syfy
 https://router.cdn.rcs.net.ar/mnp/syfy/output.mpd
@@ -139,7 +139,7 @@ https://router.cdn.rcs.net.ar/mnp/tbs/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TCMLA.png/revision/latest?cb=20181101141407&path-prefix=es" group-title="Cine y Series",TCM
 https://router.cdn.rcs.net.ar/mnp/tcm/output.mpd
-#EXTINF:-1 tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Cine y Series",Telemundo Internacional
+#EXTINF:-1 tvg-id="Canal Telemundo (Panregional)" tvg-name="Canal Telemundo (Panregional)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Cine y Series",Canal Telemundo (Panregional)
 https://delivery.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es" group-title="Cine y Series",TNT
 https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
@@ -185,7 +185,7 @@ https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ESPN_Extra_2018.png/revision/latest/scale-to-width-down/250?cb=20220602051039&path-prefix=es" group-title="Deportes",ESPN + (2)
 https://router.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-#EXTINF:-1 tvg-id="ESPN Premium" tvg-name="ESPN Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="Deportes",ESPN Premium
+#EXTINF:-1 tvg-id="Fox Sports Premium HD" tvg-name="Fox Sports Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="Deportes",Fox Sports Premium HD
 https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/ESPN_2.jpg/revision/latest/scale-to-width-down/300?cb=20200211195749&path-prefix=es" group-title="Deportes",ESPN 2 HD
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
@@ -263,7 +263,7 @@ https://delivery.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/300?cb=20220303220459&path-prefix=es" group-title="Documentales",Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nat Geo" tvg-name="Nat Geo" tvg-logo="https://png.pngitem.com/pimgs/s/497-4971381_national-geographic-tv-logo-hd-png-download.png" group-title="Documentales",Nat Geo
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://png.pngitem.com/pimgs/s/497-4971381_national-geographic-tv-logo-hd-png-download.png" group-title="Documentales",NATIONAL GEOGRAPHIC
 https://delivery.cdn.rcs.net.ar/mnp/natgeohd_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://png.pngitem.com/pimgs/s/497-4971381_national-geographic-tv-logo-hd-png-download.png" group-title="Documentales",Nat Geo (2)
 https://router.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
@@ -307,10 +307,16 @@ https://router.cdn.rcs.net.ar/mnp/maschic/output.mpd
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Estilo de Vida",Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.freepng.es/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="Estilo de Vida",Tastemade Alemania
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.freepng.es/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="Estilo de Vida",Tastemade Australia
+https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.freepng.es/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="Estilo de Vida",Tastemade Brasil
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.freepng.es/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="Estilo de Vida",Tastemade en espanol
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.freepng.es/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="Estilo de Vida",Tastemade International
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/250?cb=20220706233159&path-prefix=es" group-title="Estilo de Vida",TLC
 https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/250?cb=20220706233159&path-prefix=es" group-title="Estilo de Vida",TLC
@@ -2777,7 +2783,7 @@ https://tvd.uncu.edu.ar/memfs/eedea17f-5b9c-4b1e-a4e5-319146353a5f_output_0.m3u8
 https://paneltv.online:1936/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/800px-Telemax.png" group-title="Variedades",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Variedades",Telemundo
+#EXTINF:-1 tvg-id="Canal Telemundo (México)" tvg-name="Canal Telemundo (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Variedades",Canal Telemundo (México)
 https://v-la.mybtv.net/live/267.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sj4sEaN.png" group-title="Variedades",Tevex
 https://v4.tustreaming.cl/tevexinter/index.m3u8
