@@ -124,15 +124,15 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Fox Sports 2 (Cono Norte)">
-    <display-name lang="es">Canal Fox Sports 2 (Cono Norte)</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Fox Sports 2 (Cono Norte).png" />
+  <channel id="Canal Fox Sports 2 (Cono Sur)">
+    <display-name lang="es">Canal Fox Sports 2 (Cono Sur)</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Fox Sports 2 (Cono Sur).png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Fox Sports 3 (Cono Norte)">
-    <display-name lang="es">Canal Fox Sports 3 (Cono Norte)</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Fox Sports 3 (Cono Norte).png" />
+  <channel id="Canal Fox Sports 3 (Cono Sur)">
+    <display-name lang="es">Canal Fox Sports 3 (Cono Sur)</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Fox Sports 3 (Cono Sur).png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -6037,311 +6037,353 @@ Repetición</title>
 <programme start="20230414215700 -0500" stop="20230415004700 -0500" channel="Canal Adrenalina Sports Network">
     <title lang="es">Corrida de Toros</title>
   </programme>
-<programme start="20230408195700 -0500" stop="20230408205700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Central Fox</title>
-  </programme>
-<programme start="20230408205700 -0500" stop="20230408225700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">León vs. Cruz Azul</title>
-  </programme>
-<programme start="20230408225700 -0500" stop="20230409015700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Premier Boxing Championship</title>
-  </programme>
-<programme start="20230409015700 -0500" stop="20230409025700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
+<programme start="20230408225700 -0500" stop="20230408235700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">WWE Main Event</title>
   </programme>
-<programme start="20230409025700 -0500" stop="20230409045700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Raya2 vs. Alacranes</title>
+<programme start="20230408235700 -0500" stop="20230409005700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230409045700 -0500" stop="20230409055700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">La última palabra</title>
+<programme start="20230409005700 -0500" stop="20230409025700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Borussia Dortmund vs. 1</title>
   </programme>
-<programme start="20230409055700 -0500" stop="20230409075700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">AZ Alkmaar vs. SS Lazio</title>
+<programme start="20230409025700 -0500" stop="20230409065700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC</title>
   </programme>
-<programme start="20230409075700 -0500" stop="20230409085700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">La última palabra</title>
+<programme start="20230409065700 -0500" stop="20230409085700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
   </programme>
-<programme start="20230409085700 -0500" stop="20230409095700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">El show de la UEFA Europa leag</title>
+<programme start="20230409085700 -0500" stop="20230409115700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Beisbol MLB</title>
   </programme>
-<programme start="20230409095700 -0500" stop="20230409105700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
+<programme start="20230409115700 -0500" stop="20230409125700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">ESPN Compact</title>
+  </programme>
+<programme start="20230409125700 -0500" stop="20230409165700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC</title>
+  </programme>
+<programme start="20230409165700 -0500" stop="20230409175700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+<programme start="20230409175700 -0500" stop="20230409185700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+<programme start="20230409185700 -0500" stop="20230409205700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">VfL Bochum vs. Stuttgart</title>
+  </programme>
+<programme start="20230409205700 -0500" stop="20230409225700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+<programme start="20230409225700 -0500" stop="20230409235700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+<programme start="20230409235700 -0500" stop="20230410005700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+<programme start="20230410005700 -0500" stop="20230410025700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Borussia Mönchengladbach vs. Wolfsburg</title>
+  </programme>
+<programme start="20230410025700 -0500" stop="20230410035700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
+  </programme>
+<programme start="20230410035700 -0500" stop="20230410055700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Fase de Grupos Jornada 1 Cerro Porteño vs. Barcelona SC</title>
+  </programme>
+<programme start="20230410055700 -0500" stop="20230410085700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">XFL</title>
+  </programme>
+<programme start="20230410085700 -0500" stop="20230410095700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+<programme start="20230410095700 -0500" stop="20230410135700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC</title>
+  </programme>
+<programme start="20230410135700 -0500" stop="20230410145700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
+  </programme>
+<programme start="20230410145700 -0500" stop="20230410155700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+<programme start="20230410155700 -0500" stop="20230410185700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">WWE Raw</title>
   </programme>
-<programme start="20230409105700 -0500" stop="20230409115700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">WWE SmackDown Highlights</title>
+<programme start="20230410185700 -0500" stop="20230410205700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Borussia Mönchengladbach vs. Wolfsburg</title>
   </programme>
-<programme start="20230409115700 -0500" stop="20230409125700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">UFC Main Event</title>
+<programme start="20230410205700 -0500" stop="20230410215700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UEFA Europa  and  Conference League Magazine</title>
   </programme>
-<programme start="20230409125700 -0500" stop="20230409135700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
+<programme start="20230410215700 -0500" stop="20230410225700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">El show de la F1</title>
+  </programme>
+<programme start="20230410225700 -0500" stop="20230410235700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+<programme start="20230410235700 -0500" stop="20230411005700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Smackdown Highlight</title>
+  </programme>
+<programme start="20230411005700 -0500" stop="20230411025700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">VfL Bochum vs. Stuttgart</title>
+  </programme>
+<programme start="20230411025700 -0500" stop="20230411035700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UEFA Europa  and  Conference League Magazine</title>
+  </programme>
+<programme start="20230411035700 -0500" stop="20230411055700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Fase de Grupos Jornada 1 Metropolitanos FC vs. Nacional</title>
+  </programme>
+<programme start="20230411055700 -0500" stop="20230411065700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
+  </programme>
+<programme start="20230411065700 -0500" stop="20230411075700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UEFA Europa  and  Conference League Magazine</title>
+  </programme>
+<programme start="20230411075700 -0500" stop="20230411085700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
+  </programme>
+<programme start="20230411085700 -0500" stop="20230411095700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Smackdown Highlight</title>
+  </programme>
+<programme start="20230411095700 -0500" stop="20230411125700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Raw</title>
+  </programme>
+<programme start="20230411125700 -0500" stop="20230411135700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">UFC Unleashed</title>
   </programme>
-<programme start="20230409135700 -0500" stop="20230409155700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Tijuana vs. Gallos Blancos</title>
+<programme start="20230411135700 -0500" stop="20230411145700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UEFA Europa  and  Conference League Magazine</title>
   </programme>
-<programme start="20230409155700 -0500" stop="20230409185700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Premier Boxing Championship</title>
+<programme start="20230411145700 -0500" stop="20230411155700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Smackdown Highlight</title>
   </programme>
-<programme start="20230409185700 -0500" stop="20230409205700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">FC Motagua vs. Tigres</title>
+<programme start="20230411155700 -0500" stop="20230411165700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">El show de la F1</title>
   </programme>
-<programme start="20230409205700 -0500" stop="20230409225700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">FC Juárez vs. Atlas</title>
+<programme start="20230411165700 -0500" stop="20230411185700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Fase de Grupos Jornada 1 Metropolitanos FC vs. Nacional</title>
   </programme>
-<programme start="20230409225700 -0500" stop="20230409235700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">El show de la UEFA Europa leag</title>
+<programme start="20230411185700 -0500" stop="20230411205700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
   </programme>
-<programme start="20230409235700 -0500" stop="20230410005700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">UFC Main Event</title>
+<programme start="20230411205700 -0500" stop="20230411215700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Smackdown Highlight</title>
   </programme>
-<programme start="20230410005700 -0500" stop="20230410015700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
+<programme start="20230411215700 -0500" stop="20230411225700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
+  </programme>
+<programme start="20230411225700 -0500" stop="20230411235700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
+  </programme>
+<programme start="20230411235700 -0500" stop="20230412005700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">WWE Smackdown Highlight</title>
+  </programme>
+<programme start="20230412005700 -0500" stop="20230412025700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Cuartos de final Partido 1 Manchester City vs. Bayern Munich</title>
+  </programme>
+<programme start="20230412025700 -0500" stop="20230412035700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Goles de LA Bundesliga</title>
+  </programme>
+<programme start="20230412035700 -0500" stop="20230412065700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">XFL</title>
+  </programme>
+<programme start="20230412065700 -0500" stop="20230412095700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
     <title lang="es">WWE Raw</title>
   </programme>
-<programme start="20230410015700 -0500" stop="20230410025700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">WWE SmackDown Highlights</title>
+<programme start="20230412095700 -0500" stop="20230412125700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC recargado</title>
   </programme>
-<programme start="20230410025700 -0500" stop="20230410045700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Sivasspor vs. Fiorentina</title>
+<programme start="20230412125700 -0500" stop="20230412135700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC Unleashed</title>
   </programme>
-<programme start="20230410045700 -0500" stop="20230410055700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">La última palabra</title>
+<programme start="20230412135700 -0500" stop="20230412142700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">UFC Ultimate Knockouts/Submissions</title>
   </programme>
-<programme start="20230410055700 -0500" stop="20230410095700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412142700 -0500" stop="20230412172700 -0500" channel="Canal Fox Sports 2 (Cono Sur)">
+    <title lang="es">Beisbol MLB</title>
   </programme>
-<programme start="20230410095700 -0500" stop="20230410135700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230408215700 -0500" stop="20230408225700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
   </programme>
-<programme start="20230410135700 -0500" stop="20230410175700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230408225700 -0500" stop="20230409005700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Smackdown</title>
   </programme>
-<programme start="20230410175700 -0500" stop="20230410215700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409005700 -0500" stop="20230409025700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
   </programme>
-<programme start="20230410215700 -0500" stop="20230411015700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409025700 -0500" stop="20230409045700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fase de Grupos Jornada 1 Monagas SC vs. Boca Juniors</title>
   </programme>
-<programme start="20230411015700 -0500" stop="20230411055700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409045700 -0500" stop="20230409055700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230411055700 -0500" stop="20230411095700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409055700 -0500" stop="20230409071700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
   </programme>
-<programme start="20230411095700 -0500" stop="20230411135700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409071700 -0500" stop="20230409082200 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 3</title>
   </programme>
-<programme start="20230411135700 -0500" stop="20230411175700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409082200 -0500" stop="20230409085700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-<programme start="20230411175700 -0500" stop="20230411215700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409085700 -0500" stop="20230409105700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fase de Grupos Jornada 1 Cerro Porteño vs. Barcelona SC</title>
   </programme>
-<programme start="20230411215700 -0500" stop="20230412015700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409105700 -0500" stop="20230409125700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Borussia Mönchengladbach vs. Wolfsburg</title>
   </programme>
-<programme start="20230412015700 -0500" stop="20230412055700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409125700 -0500" stop="20230409135700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230412055700 -0500" stop="20230412095700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409135700 -0500" stop="20230409155700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Extreme E</title>
   </programme>
-<programme start="20230412095700 -0500" stop="20230412135700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409155700 -0500" stop="20230409165700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Extreme E Highlights</title>
   </programme>
-<programme start="20230412135700 -0500" stop="20230412175700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409165700 -0500" stop="20230409181700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
   </programme>
-<programme start="20230412175700 -0500" stop="20230412215700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409181700 -0500" stop="20230409192200 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 3</title>
   </programme>
-<programme start="20230412215700 -0500" stop="20230413015700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409192200 -0500" stop="20230409195700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Lo mejor de MotoGP</title>
   </programme>
-<programme start="20230413015700 -0500" stop="20230413055700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409195700 -0500" stop="20230409205700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230413055700 -0500" stop="20230413095700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409205700 -0500" stop="20230409215700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Extreme E Highlights</title>
   </programme>
-<programme start="20230413095700 -0500" stop="20230413135700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409215700 -0500" stop="20230409235700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fase de Grupos Jornada 1 Cerro Porteño vs. Barcelona SC</title>
   </programme>
-<programme start="20230413135700 -0500" stop="20230413175700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230409235700 -0500" stop="20230410005700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
   </programme>
-<programme start="20230413175700 -0500" stop="20230413215700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230410005700 -0500" stop="20230410015700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
   </programme>
-<programme start="20230413215700 -0500" stop="20230414015700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230410015700 -0500" stop="20230410045700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">XFL</title>
   </programme>
-<programme start="20230414015700 -0500" stop="20230414055700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230410045700 -0500" stop="20230410055700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230414055700 -0500" stop="20230414095700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230410055700 -0500" stop="20230410062700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230414095700 -0500" stop="20230414135700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230410062700 -0500" stop="20230410065700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-<programme start="20230414135700 -0500" stop="20230414175700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230410065700 -0500" stop="20230410075700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
   </programme>
-<programme start="20230414175700 -0500" stop="20230414215700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230410075700 -0500" stop="20230410095700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 1</title>
   </programme>
-<programme start="20230414215700 -0500" stop="20230415015700 -0500" channel="Canal Fox Sports 2 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230410095700 -0500" stop="20230410115700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fase de Grupos Jornada 1 Cerro Porteño vs. Barcelona SC</title>
   </programme>
-<programme start="20230408205700 -0500" stop="20230408225700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Nascar Craftsman Truck Series</title>
+<programme start="20230410115700 -0500" stop="20230410145700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">XFL</title>
   </programme>
-<programme start="20230408225700 -0500" stop="20230408235700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Motociclismo Extremo</title>
+<programme start="20230410145700 -0500" stop="20230410155700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Extreme E Highlights</title>
   </programme>
-<programme start="20230408235700 -0500" stop="20230409015700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">ABB FIA Formula E 2023</title>
+<programme start="20230410155700 -0500" stop="20230410175700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Extreme E</title>
   </programme>
-<programme start="20230409015700 -0500" stop="20230409025700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">World Rally Championship 2023</title>
+<programme start="20230410175700 -0500" stop="20230410185700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Raw Highlights</title>
   </programme>
-<programme start="20230409025700 -0500" stop="20230409045700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">FIM Motocross</title>
+<programme start="20230410185700 -0500" stop="20230410195700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Main Event</title>
   </programme>
-<programme start="20230409045700 -0500" stop="20230409055700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">WEC 2023</title>
+<programme start="20230410195700 -0500" stop="20230410205700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230409055700 -0500" stop="20230409075700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">ABB FIA Formula E 2023</title>
+<programme start="20230410205700 -0500" stop="20230410215700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Extreme E Highlights</title>
   </programme>
-<programme start="20230409075700 -0500" stop="20230409095700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Nascar Craftsman Truck Series</title>
+<programme start="20230410215700 -0500" stop="20230410235700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fase de Grupos Jornada 1 Metropolitanos FC vs. Nacional</title>
   </programme>
-<programme start="20230409095700 -0500" stop="20230409115700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">FIM Motocross</title>
+<programme start="20230410235700 -0500" stop="20230411005700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">UEFA Europa  and  Conference League Magazine</title>
   </programme>
-<programme start="20230409115700 -0500" stop="20230409135700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">F1 GP de Australia 2023</title>
+<programme start="20230411005700 -0500" stop="20230411015700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Smackdown Highlight</title>
   </programme>
-<programme start="20230409135700 -0500" stop="20230409145700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">El show de la fórmula 1</title>
+<programme start="20230411015700 -0500" stop="20230411025700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">El show de la F1</title>
   </programme>
-<programme start="20230409145700 -0500" stop="20230409165700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Nascar Cup Series 2023</title>
+<programme start="20230411025700 -0500" stop="20230411045700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 1</title>
   </programme>
-<programme start="20230409165700 -0500" stop="20230409185700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Nascar Cup Series 2023</title>
+<programme start="20230411045700 -0500" stop="20230411055700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230409185700 -0500" stop="20230409192700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Nascar Cup Series 2023</title>
+<programme start="20230411055700 -0500" stop="20230411065700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
   </programme>
-<programme start="20230409192700 -0500" stop="20230409202700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fórmula América News</title>
+<programme start="20230411065700 -0500" stop="20230411075700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Smackdown Highlight</title>
   </programme>
-<programme start="20230409202700 -0500" stop="20230409222700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">F1 GP de Australia 2023</title>
+<programme start="20230411075700 -0500" stop="20230411091700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 2</title>
   </programme>
-<programme start="20230409222700 -0500" stop="20230409232700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">El show de la fórmula 1</title>
+<programme start="20230411091700 -0500" stop="20230411102200 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fórmula 3</title>
   </programme>
-<programme start="20230409232700 -0500" stop="20230410012700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Nascar Craftsman Truck Series</title>
+<programme start="20230411102200 -0500" stop="20230411112700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230410012700 -0500" stop="20230410025700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Red Bull 2023</title>
+<programme start="20230411112700 -0500" stop="20230411155700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Motociclismo</title>
   </programme>
-<programme start="20230410025700 -0500" stop="20230410045700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">FIM Motocross</title>
+<programme start="20230411155700 -0500" stop="20230411185700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Raw</title>
   </programme>
-<programme start="20230410045700 -0500" stop="20230410085700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Motociclismo Extremo</title>
+<programme start="20230411185700 -0500" stop="20230411195700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Smackdown Highlight</title>
   </programme>
-<programme start="20230410085700 -0500" stop="20230410125700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230411195700 -0500" stop="20230411205700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230410125700 -0500" stop="20230410165700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230411205700 -0500" stop="20230411215700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">El show de la F1</title>
   </programme>
-<programme start="20230410165700 -0500" stop="20230410205700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230411215700 -0500" stop="20230411235700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Cuartos de final Partido 1 Manchester City vs. Bayern Munich</title>
   </programme>
-<programme start="20230410205700 -0500" stop="20230410215700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230411235700 -0500" stop="20230412005700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
   </programme>
-<programme start="20230410215700 -0500" stop="20230411015700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412005700 -0500" stop="20230412052700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Motociclismo</title>
   </programme>
-<programme start="20230411015700 -0500" stop="20230411055700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412052700 -0500" stop="20230412055700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230411055700 -0500" stop="20230411095700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412055700 -0500" stop="20230412065700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">UEFA Europa  and  Conference League Magazine</title>
   </programme>
-<programme start="20230411095700 -0500" stop="20230411135700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412065700 -0500" stop="20230412075700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">WWE Smackdown Highlight</title>
   </programme>
-<programme start="20230411135700 -0500" stop="20230411175700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412075700 -0500" stop="20230412095700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Extreme E</title>
   </programme>
-<programme start="20230411175700 -0500" stop="20230411215700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412095700 -0500" stop="20230412105700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Expediente Futbol</title>
   </programme>
-<programme start="20230411215700 -0500" stop="20230412015700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412105700 -0500" stop="20230412125700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fútbol Conmebol Libertadores</title>
   </programme>
-<programme start="20230412015700 -0500" stop="20230412055700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412125700 -0500" stop="20230412135700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">El Show de la CONMEBOL Libertadores</title>
   </programme>
-<programme start="20230412055700 -0500" stop="20230412095700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230412095700 -0500" stop="20230412135700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230412135700 -0500" stop="20230412175700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230412175700 -0500" stop="20230412215700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230412215700 -0500" stop="20230413015700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230413015700 -0500" stop="20230413055700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230413055700 -0500" stop="20230413095700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230413095700 -0500" stop="20230413135700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230413135700 -0500" stop="20230413175700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230413175700 -0500" stop="20230413215700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230413215700 -0500" stop="20230414015700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230414015700 -0500" stop="20230414055700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230414055700 -0500" stop="20230414095700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230414095700 -0500" stop="20230414135700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230414135700 -0500" stop="20230414175700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230414175700 -0500" stop="20230414215700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
-  </programme>
-<programme start="20230414215700 -0500" stop="20230415015700 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
-    <title lang="es">Fox Sports</title>
+<programme start="20230412135700 -0500" stop="20230412155700 -0500" channel="Canal Fox Sports 3 (Cono Sur)">
+    <title lang="es">Fase de Grupos Jornada 1 Cerro Porteño vs. Barcelona SC</title>
   </programme>
 <programme start="20230408192700 -0500" stop="20230408195700 -0500" channel="Canal 24 Horas (TVE)">
     <title lang="es">Conversatorios en casa de américa</title>
