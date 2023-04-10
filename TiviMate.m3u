@@ -21,10 +21,6 @@ https://router.cdn.rcs.net.ar/mnp/axn/output.mpd
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE.AR" tvg-name="CINE.AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/CINEAR2017_%282%29.svg/revision/latest/scale-to-width-down/199?cb=20210527002747&path-prefix=es" group-title="Cine y Series",CINE.AR
 https://router.cdn.rcs.net.ar/mnp/cinear/output.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jL2gNM/icon.png" tvg-group="CINE Y SERIES", FOOD NETWORK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/foodnet.json
-https://dtvott-abc.akamaized.net/dash_live_1113/manifest.mpd
 #EXTINF:-1 tvg-id="Canal Cinecanal (MÃ©xico)" tvg-name="Canal Cinecanal (MÃ©xico)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest/scale-to-width-down/250?cb=20220325004838&path-prefix=es" group-title="Cine y Series",Canal Cinecanal (MÃ©xico)
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 #EXTINF:-1 tvg-id="CINECANAL HD" tvg-name="CINECANAL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest/scale-to-width-down/250?cb=20220325004838&path-prefix=es" group-title="Cine y Series",CINECANAL HD
