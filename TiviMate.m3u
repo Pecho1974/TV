@@ -150,6 +150,8 @@ https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal TCM (Turner Classic Movies)" tvg-name="Canal TCM (Turner Classic Movies)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TCMLA.png/revision/latest?cb=20181101141407&path-prefix=es" group-title="Cine y Series",Canal TCM (Turner Classic Movies)
 https://router.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-id="Canal Telemundo (Mexico)" tvg-name="Canal Telemundo (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Cine y Series",Canal Telemundo (Mexico)
+https://delivery.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Cine y Series",Telemundo (2)
 https://delivery.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es" group-title="Cine y Series",TNT
 https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
@@ -263,18 +265,20 @@ https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Deportes",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-#EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://i.ibb.co/jTpWsm6/tennis.jpg" group-title="Deportes",TNT Sport Premium
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/jTpWsm6/tennis.jpg" group-title="Deportes",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT Sport Premium HD" tvg-name="TNT Sport Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium HD
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium
+https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sports (2)
 https://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-#EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TyC Sports
-https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT Sport Premium HD" tvg-name="TNT Sport Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium HD
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:-1 tvg-id="TYC SPORTS HD" tvg-name="TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TYC SPORTS HD
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TyC Sports (2)
 https://router.cdn.rcs.net.ar/mnp/tyc/output.mpd
+#EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="Deportes",VTV Plus
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Deportes",World Poker Tour
@@ -433,6 +437,8 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",Tooncast (2)
 https://router.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",Tooncast (3)
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast.m3u8
 #EXTINF:-1 tvg-id="AMERICA" tvg-name="AMERICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/America2020.png/revision/latest/scale-to-width-down/200?cb=20200602023759&path-prefix=es" group-title="Interes General",AMERICA
 https://delivery.cdn.rcs.net.ar/mnp/america_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="AMERICA HD" tvg-name="AMERICA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/America2020.png/revision/latest/scale-to-width-down/200?cb=20200602023759&path-prefix=es" group-title="Interes General",AMERICA HD
