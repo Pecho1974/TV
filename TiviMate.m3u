@@ -43,6 +43,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-sams
 https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Comedy_Central_2019.png/revision/latest/scale-to-width-down/350?cb=20190304202857&path-prefix=es" group-title="Cine y Series",Comedy Central HD
 https://router.cdn.rcs.net.ar/mnp/comedy/output.mpd
+#EXTINF:-1 tvg-id="Canal DHE" tvg-name="Canal DHE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest/scale-to-width-down/220?cb=20210514013226&path-prefix=es" group-title="Cine y Series",Canal DHE
+http://45.5.118.226:8000/play/a0gy/index.m3u8
 #EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es" group-title="Cine y Series",ID
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
 #EXTINF:-1 tvg-id="Canal Europa Europa" tvg-name="Canal Europa Europa" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/EEHD.png/revision/latest/scale-to-width-down/185?cb=20210517132926&path-prefix=es" group-title="Cine y Series",Canal Europa Europa
@@ -304,7 +306,7 @@ https://router.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/1b5c2445187d85bcc724d7da7f6e1e1c.png" group-title="Documentales",El Histonauta TV | AR
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/History_2_2022.png/revision/latest/scale-to-width-down/200?cb=20220130002026&path-prefix=es" group-title="Documentales",H2
-https://delivery.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+#EXTVLCOPT:network-caching=1000 & vbcrlf & http://45.5.118.226:8000/play/a0jp/index.m3u8
 #EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History Channel
 https://delivery.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History Channel HD
