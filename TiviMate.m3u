@@ -205,6 +205,8 @@ https://cooplay.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 https://cooplay.cdn.rcs.net.ar/anevia/live/localdisk/DeporTv/SA_HLS/DeporTv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://camo.githubusercontent.com/4d5c3b33e1d6752ebb4d2d14f37ebe696ef67e4e1e163aaace6fa28eae4f61e6/68747470733a2f2f692e696d6775722e636f6d2f6979594c4e52742e706e67" group-title="Deportes",Deportv (ON)
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/DirecTV_Sports_2018.svg/revision/latest/scale-to-width-down/250?cb=20200706223451&path-prefix=es" group-title="Deportes",Directv Sports
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37843.m3u8
 #EXTINF:-1 tvg-id="TURBO" tvg-name="TURBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="Deportes",TURBO
 https://cooplay.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Discovery Turbo (Latinoamerica)" tvg-name="Canal Discovery Turbo (Latinoamerica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="Deportes",Canal Discovery Turbo (Latinoamerica)
@@ -297,6 +299,8 @@ https://cooplay.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 https://cooplay.cdn.rcs.net.ar/mnp/golf/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngall.com/wp-content/uploads/3/MMA-Logo.png" group-title="Deportes",MMA TV
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="Deportes",NBA TV
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/2414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Red_Bull_logo.svg/revision/latest/scale-to-width-down/250?cb=20210513162950&path-prefix=es" group-title="Deportes",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Deportes",Ski TV
@@ -335,8 +339,16 @@ https://cooplay.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.
 https://cooplay.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Discovery Science (Latinoamerica)" tvg-name="Canal Discovery Science (Latinoamerica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/200?cb=20190925153556&path-prefix=es" group-title="Documentales",Canal Discovery Science (Latinoamerica)
 https://cooplay.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/2015_Discovery_theater_HD_logo.svg/revision/latest?cb=20201106135003&path-prefix=es" group-title="Documentales",Discovery Theater HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30324.m3u8
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Discovery_World_Latinoamerica_black.png/revision/latest/scale-to-width-down/185?cb=20201106211729&path-prefix=es" group-title="Documentales",Discovery World HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30326.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/1b5c2445187d85bcc724d7da7f6e1e1c.png" group-title="Documentales",El Histonauta TV | AR
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/History_2_2022.png/revision/latest/scale-to-width-down/200?cb=20220130002026&path-prefix=es" group-title="Documentales",HISTORY 2
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38467.m3u8
+#EXTINF:-1 tvg-id="Canal History 2 (Latinoamerica)" tvg-name="Canal History 2 (Latinoamerica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/History_2_2022.png/revision/latest/scale-to-width-down/200?cb=20220130002026&path-prefix=es" group-title="Documentales",Canal History 2 (Latinoamerica)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3118.m3u8
 #EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History Channel
 https://cooplay.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History Channel HD
@@ -349,6 +361,8 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 https://cooplay.cdn.rcs.net.ar/mnp/natgeohd_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal National Geographic (Centro)" tvg-name="Canal National Geographic (Centro)" tvg-logo="https://png.pngitem.com/pimgs/s/497-4971381_national-geographic-tv-logo-hd-png-download.png" group-title="Documentales",Canal National Geographic (Centro)
 https://cooplay.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://png.pngitem.com/pimgs/s/21-213100_nat-geo-wild-national-geographic-hd-png-download.png" group-title="Documentales",Nat Geo Wild
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/91984.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.si.edu/sites/default/files/newsdesk/press_releases/smithsonian-channel-logo-thumbnail.jpg" group-title="Documentales",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="Documentales",Tec Tv
@@ -2223,13 +2237,13 @@ https://cooplay.cdn.rcs.net.ar/mnp/rural_hls/playlist.m3u8
 https://cooplay.cdn.rcs.net.ar/mnp/rural/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest/scale-to-width-down/275?cb=20200921033638&path-prefix=es" group-title="Variedades",Canal Rural (ON)
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-id="senal santa maría" tvg-name="senal santa maría" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Variedades",senal santa maría
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-5-Santa-Maria-TV-en-vivo-Online.png" group-title="Variedades",Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystreamSantaMariaHSMed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjH5NcZOQiwugHG4rSmmhjGtZfh5uxK06x4bZZwkesl60R1X-Sm7x2gnxlzcWnxSt1tD0L_rXLkVUvkUT_JjbTWc5izphx_e9ELEymuxoWB04TihyYkvMDH3ZA6TZhK6gSYFXOgZIqOZRZjAQ5yV-olnWHqbOX0VOkASmngZe1AR6_wWdRJDpPOKO85=s320" group-title="Variedades",Chacra TV
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Variedades",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="CONSTRUIR" tvg-name="CONSTRUIR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LogoCTVpng.png/133px-LogoCTVpng.png" group-title="Variedades",CONSTRUIR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LogoCTVpng.png/133px-LogoCTVpng.png" group-title="Variedades",Construir TV
 https://cooplay.cdn.rcs.net.ar/mnp/construiriptv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/LogoCTVpng.png/133px-LogoCTVpng.png" group-title="Variedades",Construir TV (2)
 https://cooplay.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
@@ -2241,7 +2255,7 @@ https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
 https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="Variedades",Enlace TV
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
-#EXTINF:-1 tvg-id="EWTN" tvg-name="EWTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/EWTN_newest_logo.png/revision/latest/scale-to-width-down/300?cb=20210527203310&path-prefix=es" group-title="Variedades",EWTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/EWTN_newest_logo.png/revision/latest/scale-to-width-down/300?cb=20210527203310&path-prefix=es" group-title="Variedades",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/y2whd0cb/2728/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Dzcc4rKB/mariavision.png" group-title="Variedades",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
@@ -2249,7 +2263,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-zqNj47-qmqk/WpL5jWh4yUI/AAAAAAAABvA/GyAm0qkePZEAnQjyXySCgruYbkhYXT-CwCLcBGAs/s200/nuevotiempo.png" group-title="Variedades",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Orbe 21" tvg-name="Orbe 21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/O21.png/revision/latest?cb=20210528151401&path-prefix=es" group-title="Variedades",Orbe 21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/O21.png/revision/latest?cb=20210528151401&path-prefix=es" group-title="Variedades",Orbe 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.colombia.com/canales/pymes-teve-5713.jpg" group-title="Variedades",Pymes TeVe
 https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
