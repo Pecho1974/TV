@@ -183,6 +183,8 @@ https://cooplay.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 https://cooplay.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-id="Canal TNT" tvg-name="Canal TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es" group-title="Cine y Series",Canal TNT
 https://cooplay.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/475px-Logo_TNT_Novelas.png" group-title="Cine y Series",TNT Novelas
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/56587.m3u8
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg/revision/latest/scale-to-width-down/150?cb=20200116195222&path-prefix=es" group-title="Cine y Series",TNT Series
 https://cooplay.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT Series HD" tvg-name="TNT Series HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg/revision/latest/scale-to-width-down/150?cb=20200116195222&path-prefix=es" group-title="Cine y Series",TNT Series HD
@@ -195,6 +197,18 @@ https://cooplay.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 https://cooplay.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 tvg-id="Canal Universal TV (Panregional)" tvg-name="Canal Universal TV (Panregional)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",Canal Universal TV (Panregional)
 https://cooplay.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",Universal Channel (4)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Cine y Series",Universal Cinema
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1606587218_UniversalComedy-Oscuro.png.d540a7c93a27e85709cfbf67d856d8b8.png" group-title="Cine y Series",Universal Comedy
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4bec1eae0f7beb16d7e7830548052d3a.png" group-title="Cine y Series",Universal Crime
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.2f4b7935ddd17994062f197a63cc1b1b.png" group-title="Cine y Series",Universal Premiere
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.395393765_UniversalReality-Oscuro.png.9707607bbb59cad75376dcb8c8dd10f9.png" group-title="Cine y Series",Universal Reality
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36357.m3u8
 #EXTINF:-1 tvg-id="Warner HD" tvg-name="Warner HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es" group-title="Cine y Series",Warner HD
 https://cooplay.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es" group-title="Cine y Series",Warner
