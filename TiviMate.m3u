@@ -415,12 +415,18 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 https://cooplay.cdn.rcs.net.ar/mnp/garage_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest/scale-to-width-down/200?cb=20210525001901&path-prefix=es" group-title="Deportes",Garage TV (2)
 https://cooplay.cdn.rcs.net.ar/mnp/garage/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest/scale-to-width-down/200?cb=20210525001901&path-prefix=es" group-title="Deportes",Garage TV (4)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1601.m3u8
 #EXTINF:-1 tvg-id="El Garage" tvg-name="El Garage" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest/scale-to-width-down/200?cb=20210525001901&path-prefix=es" group-title="Deportes",El Garage
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel
 https://cooplay.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Golf Channel HD" tvg-name="Golf Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel (2)
 https://cooplay.cdn.rcs.net.ar/mnp/golf/output.mpd
+#EXTINF:-1 tvg-id="Golf Channel HD" tvg-name="Golf Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/47148.m3u8
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Canal Golf Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Canal Golf Channel
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/32404.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngall.com/wp-content/uploads/3/MMA-Logo.png" group-title="Deportes",MMA TV
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="Deportes",NBA TV
@@ -435,10 +441,18 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://cooplay.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sports (2)
 https://cooplay.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-#EXTINF:-1 tvg-id="TNT Sport Premium HD" tvg-name="TNT Sport Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sports (3)
 https://cooplay.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-#EXTINF:-1 tvg-id="Canal TUDN (Mexico)" tvg-name="Canal TUDN (Mexico)" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="Deportes",Canal TUDN (Mexico)
+#EXTINF:-1 tvg-id="TNT Sport Premium HD" tvg-name="TNT Sport Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/50543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="Deportes",TUDN
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal TUDN (Centroamerica)" tvg-name="Canal TUDN (Centroamerica)" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="Deportes",Canal TUDN (Centroamerica)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38876.m3u8
+#EXTINF:-1 tvg-id="Canal TUDN (Mexico)" tvg-name="Canal TUDN (Mexico)" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="Deportes",Canal TUDN (Mexico)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3064.m3u8
+#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Canal TUDN (Estados Unidos)" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="Deportes",Canal TUDN (Estados Unidos)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30378.m3u8
 #EXTINF:-1 tvg-id="TyC Sports" tvg-name="TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TyC Sports
 https://cooplay.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TyC Sports (2)
@@ -447,8 +461,10 @@ https://cooplay.cdn.rcs.net.ar/mnp/tyc/output.mpd
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/46603.m3u8
 #EXTINF:-1 tvg-id="Canal TyC Sports" tvg-name="Canal TyC Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",Canal TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV_Plus_2021.png/revision/latest/scale-to-width-down/275?cb=20210605021216&path-prefix=es" group-title="Deportes",VTV Plus
-https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/WinSports2022.png/150px-WinSports2022.png" group-title="Deportes",Win Sports
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/100px-Win_Sports%2B_logo.svg.png" group-title="Deportes",Win Sports +
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37844.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Deportes",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Documentales",Animal Planet

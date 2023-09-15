@@ -334,9 +334,27 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Golf Channel">
+    <display-name lang="es">Canal Golf Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Golf Channel.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TUDN (Centroamerica)">
+    <display-name lang="es">Canal TUDN (Centroamerica)</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal TUDN (Centroamerica).png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal TUDN (Mexico)">
     <display-name lang="es">Canal TUDN (Mexico)</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal TUDN (Mexico).png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal TUDN (Estados Unidos)">
+    <display-name lang="es">Canal TUDN (Estados Unidos)</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal TUDN (Estados Unidos).png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -14178,6 +14196,456 @@ Repeticion</title>
 <programme start="20230921000000 -0500" stop="20230921040000 -0500" channel="Canal Fox Sports 3 (Cono Norte)">
     <title lang="es">Fox Sports</title>
   </programme>
+<programme start="20230914223000 -0500" stop="20230915013000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230915013000 -0500" stop="20230915020000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230915020000 -0500" stop="20230915040000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230915040000 -0500" stop="20230915050000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230915050000 -0500" stop="20230915080000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230915080000 -0500" stop="20230915110000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230915110000 -0500" stop="20230915113000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Central Pregame</title>
+  </programme>
+<programme start="20230915113000 -0500" stop="20230915140000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230915140000 -0500" stop="20230915160000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230915160000 -0500" stop="20230915190000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230915190000 -0500" stop="20230915193000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230915193000 -0500" stop="20230915223000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230915223000 -0500" stop="20230916003000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230916003000 -0500" stop="20230916030000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230916030000 -0500" stop="20230916040000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230916040000 -0500" stop="20230916060000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230916060000 -0500" stop="20230916083000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230916083000 -0500" stop="20230916103000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230916103000 -0500" stop="20230916113000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Central Pregame</title>
+  </programme>
+<programme start="20230916113000 -0500" stop="20230916140000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230916140000 -0500" stop="20230916160000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230916160000 -0500" stop="20230916190000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230916190000 -0500" stop="20230916193000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230916193000 -0500" stop="20230916223000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230916223000 -0500" stop="20230917003000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230917003000 -0500" stop="20230917030000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230917030000 -0500" stop="20230917040000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230917040000 -0500" stop="20230917060000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230917060000 -0500" stop="20230917083000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230917083000 -0500" stop="20230917103000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230917103000 -0500" stop="20230917113000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Central Pregame</title>
+  </programme>
+<programme start="20230917113000 -0500" stop="20230917140000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230917140000 -0500" stop="20230917160000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230917160000 -0500" stop="20230917190000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230917190000 -0500" stop="20230917193000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230917193000 -0500" stop="20230917223000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230917223000 -0500" stop="20230918003000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230918003000 -0500" stop="20230918010000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230918010000 -0500" stop="20230918040000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230918040000 -0500" stop="20230918070000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230918070000 -0500" stop="20230918100000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230918100000 -0500" stop="20230918140000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Today</title>
+  </programme>
+<programme start="20230918140000 -0500" stop="20230918150000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230918150000 -0500" stop="20230918180000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230918180000 -0500" stop="20230918190000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230918190000 -0500" stop="20230918220000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230918220000 -0500" stop="20230918230000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230918230000 -0500" stop="20230919020000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230919020000 -0500" stop="20230919040000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230919040000 -0500" stop="20230919070000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230919070000 -0500" stop="20230919073000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Build a Better Game</title>
+  </programme>
+<programme start="20230919073000 -0500" stop="20230919080000 -0500" channel="Canal Golf Channel">
+    <title lang="es">School of Golf</title>
+  </programme>
+<programme start="20230919080000 -0500" stop="20230919100000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230919100000 -0500" stop="20230919120000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Today</title>
+  </programme>
+<programme start="20230919120000 -0500" stop="20230919140000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Today</title>
+  </programme>
+<programme start="20230919140000 -0500" stop="20230919150000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230919150000 -0500" stop="20230919153000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Build a Better Game</title>
+  </programme>
+<programme start="20230919153000 -0500" stop="20230919160000 -0500" channel="Canal Golf Channel">
+    <title lang="es">School of Golf</title>
+  </programme>
+<programme start="20230919160000 -0500" stop="20230919163000 -0500" channel="Canal Golf Channel">
+    <title lang="es">PGA Tour The CUT</title>
+  </programme>
+<programme start="20230919163000 -0500" stop="20230919170000 -0500" channel="Canal Golf Channel">
+    <title lang="es">PGA Tour Champions Learning</title>
+  </programme>
+<programme start="20230919170000 -0500" stop="20230919173000 -0500" channel="Canal Golf Channel">
+    <title lang="es">School of Golf</title>
+  </programme>
+<programme start="20230919173000 -0500" stop="20230919183000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Paco Aleman Confidencial</title>
+  </programme>
+<programme start="20230919183000 -0500" stop="20230919190000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Argentina Golf Destination</title>
+  </programme>
+<programme start="20230919190000 -0500" stop="20230919193000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Studio Golf TV</title>
+  </programme>
+<programme start="20230919193000 -0500" stop="20230919200000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Management</title>
+  </programme>
+<programme start="20230919200000 -0500" stop="20230919203000 -0500" channel="Canal Golf Channel">
+    <title lang="es">School of Golf</title>
+  </programme>
+<programme start="20230919203000 -0500" stop="20230919210000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Studio Golf TV</title>
+  </programme>
+<programme start="20230919210000 -0500" stop="20230919213000 -0500" channel="Canal Golf Channel">
+    <title lang="es">PGA Tour The CUT</title>
+  </programme>
+<programme start="20230919213000 -0500" stop="20230919220000 -0500" channel="Canal Golf Channel">
+    <title lang="es">PGA Tour Champions Learning</title>
+  </programme>
+<programme start="20230919220000 -0500" stop="20230919230000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230919230000 -0500" stop="20230919233000 -0500" channel="Canal Golf Channel">
+    <title lang="es">School of Golf</title>
+  </programme>
+<programme start="20230919233000 -0500" stop="20230920000000 -0500" channel="Canal Golf Channel">
+    <title lang="es">School of Golf</title>
+  </programme>
+<programme start="20230920000000 -0500" stop="20230920003000 -0500" channel="Canal Golf Channel">
+    <title lang="es">School of Golf</title>
+  </programme>
+<programme start="20230920003000 -0500" stop="20230920010000 -0500" channel="Canal Golf Channel">
+    <title lang="es">School of Golf</title>
+  </programme>
+<programme start="20230920010000 -0500" stop="20230920040000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230920040000 -0500" stop="20230920070000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230920070000 -0500" stop="20230920093000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230920093000 -0500" stop="20230920100000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Studio Golf TV</title>
+  </programme>
+<programme start="20230920100000 -0500" stop="20230920120000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Today</title>
+  </programme>
+<programme start="20230920120000 -0500" stop="20230920140000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Today</title>
+  </programme>
+<programme start="20230920140000 -0500" stop="20230920150000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230920150000 -0500" stop="20230920153000 -0500" channel="Canal Golf Channel">
+    <title lang="es">School of Golf</title>
+  </programme>
+<programme start="20230920153000 -0500" stop="20230920160000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 TOUR Championship</title>
+  </programme>
+<programme start="20230920160000 -0500" stop="20230920163000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf Management</title>
+  </programme>
+<programme start="20230920163000 -0500" stop="20230920170000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Studio Golf TV</title>
+  </programme>
+<programme start="20230920170000 -0500" stop="20230920173000 -0500" channel="Canal Golf Channel">
+    <title lang="es">PGA Tour The CUT</title>
+  </programme>
+<programme start="20230920173000 -0500" stop="20230920180000 -0500" channel="Canal Golf Channel">
+    <title lang="es">PGA Tour Champions Learning</title>
+  </programme>
+<programme start="20230920180000 -0500" stop="20230920190000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Paco Aleman Confidencial</title>
+  </programme>
+<programme start="20230920190000 -0500" stop="20230920200000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230920200000 -0500" stop="20230920210000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230920210000 -0500" stop="20230920213000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Argentina Golf Destination</title>
+  </programme>
+<programme start="20230920213000 -0500" stop="20230920220000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Studio Golf TV</title>
+  </programme>
+<programme start="20230920220000 -0500" stop="20230920230000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Simmons Bank Open</title>
+  </programme>
+<programme start="20230920230000 -0500" stop="20230921000000 -0500" channel="Canal Golf Channel">
+    <title lang="es">Golf central</title>
+  </programme>
+<programme start="20230921000000 -0500" stop="20230921010000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Fortinet Championship</title>
+  </programme>
+<programme start="20230921010000 -0500" stop="20230921020000 -0500" channel="Canal Golf Channel">
+    <title lang="es">2023 Sanford International</title>
+  </programme>
+<programme start="20230914220000 -0500" stop="20230914230000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+<programme start="20230914230000 -0500" stop="20230915000000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+<programme start="20230915000000 -0500" stop="20230915020000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230915020000 -0500" stop="20230915030000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+<programme start="20230915030000 -0500" stop="20230915040000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Mexico vs. Colombia</title>
+  </programme>
+<programme start="20230915040000 -0500" stop="20230915050000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230915050000 -0500" stop="20230915060000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+<programme start="20230915060000 -0500" stop="20230915070000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+<programme start="20230915070000 -0500" stop="20230915080000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+<programme start="20230915080000 -0500" stop="20230915090000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230915090000 -0500" stop="20230915100000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Fut en 60</title>
+  </programme>
+<programme start="20230915100000 -0500" stop="20230915120000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">America vs. Tigres</title>
+  </programme>
+<programme start="20230915120000 -0500" stop="20230915130000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230915130000 -0500" stop="20230915150000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Mexico vs. Australia</title>
+  </programme>
+<programme start="20230915150000 -0500" stop="20230915160000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Toluca vs. Pachuca</title>
+  </programme>
+<programme start="20230915160000 -0500" stop="20230915170000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230915170000 -0500" stop="20230915180000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Mision Europa</title>
+  </programme>
+<programme start="20230915180000 -0500" stop="20230915190000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Futbol club</title>
+  </programme>
+<programme start="20230915190000 -0500" stop="20230915200000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Mision Europa</title>
+  </programme>
+<programme start="20230915200000 -0500" stop="20230915230000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Puebla vs. Laguna</title>
+  </programme>
+<programme start="20230915230000 -0500" stop="20230916000000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+<programme start="20230916000000 -0500" stop="20230916020000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Toluca vs. Pachuca</title>
+  </programme>
+<programme start="20230916020000 -0500" stop="20230916030000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Fut en 60</title>
+  </programme>
+<programme start="20230916030000 -0500" stop="20230916050000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Mexico vs. Australia</title>
+  </programme>
+<programme start="20230916050000 -0500" stop="20230916060000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Hazana del deporte Vive</title>
+  </programme>
+<programme start="20230916060000 -0500" stop="20230916070000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+<programme start="20230916070000 -0500" stop="20230916080000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+<programme start="20230916080000 -0500" stop="20230916090000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Hazana del deporte Vive</title>
+  </programme>
+<programme start="20230916090000 -0500" stop="20230916103000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Lucha libre CMLL</title>
+  </programme>
+<programme start="20230916103000 -0500" stop="20230916110000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Fut en 30</title>
+  </programme>
+<programme start="20230916110000 -0500" stop="20230916120000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Mexico vs. Australia</title>
+  </programme>
+<programme start="20230916120000 -0500" stop="20230916130000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230916130000 -0500" stop="20230916150000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Mexico vs. Uzbequiztán</title>
+  </programme>
+<programme start="20230916150000 -0500" stop="20230916160000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Guadalajara vs. Rayados</title>
+  </programme>
+<programme start="20230916160000 -0500" stop="20230916170000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230916170000 -0500" stop="20230916180000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">República deportiva</title>
+  </programme>
+<programme start="20230916180000 -0500" stop="20230916190000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Fútbol Central</title>
+  </programme>
+<programme start="20230916190000 -0500" stop="20230916200000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Rayados vs. Leon</title>
+  </programme>
+<programme start="20230916200000 -0500" stop="20230916210000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230916210000 -0500" stop="20230916230000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">America vs. Guadalajara</title>
+  </programme>
+<programme start="20230916230000 -0500" stop="20230917000000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+<programme start="20230917000000 -0500" stop="20230917020000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230917020000 -0500" stop="20230917030000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+<programme start="20230917030000 -0500" stop="20230917040000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">America vs. Guadalajara</title>
+  </programme>
+<programme start="20230917040000 -0500" stop="20230917050000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230917050000 -0500" stop="20230917060000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+<programme start="20230917060000 -0500" stop="20230917080000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Rayados vs. Leon</title>
+  </programme>
+<programme start="20230917080000 -0500" stop="20230917090000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230917090000 -0500" stop="20230917110000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">America vs. Guadalajara</title>
+  </programme>
+<programme start="20230917110000 -0500" stop="20230917120000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Fútbol Central</title>
+  </programme>
+<programme start="20230917120000 -0500" stop="20230917140000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230917140000 -0500" stop="20230917150000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Accion</title>
+  </programme>
+<programme start="20230917150000 -0500" stop="20230917160000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">Fut en 60</title>
+  </programme>
+<programme start="20230917160000 -0500" stop="20230917180000 -0500" channel="Canal TUDN (Centroamerica)">
+    <title lang="es">TUDN</title>
+  </programme>
 <programme start="20230914220000 -0500" stop="20230914230000 -0500" channel="Canal TUDN (Mexico)">
     <title lang="es">Contacto deportivo</title>
   </programme>
@@ -14420,6 +14888,267 @@ Repeticion</title>
   </programme>
 <programme start="20230921000000 -0500" stop="20230921040000 -0500" channel="Canal TUDN (Mexico)">
     <title lang="es">TUDN</title>
+  </programme>
+<programme start="20230914220000 -0500" stop="20230914230000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230914230000 -0500" stop="20230915000000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+<programme start="20230915000000 -0500" stop="20230915010000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mision Europa</title>
+  </programme>
+<programme start="20230915010000 -0500" stop="20230915020000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230915020000 -0500" stop="20230915030000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+<programme start="20230915030000 -0500" stop="20230915040000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230915040000 -0500" stop="20230915050000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230915050000 -0500" stop="20230915060000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mision Europa</title>
+  </programme>
+<programme start="20230915060000 -0500" stop="20230915070000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+<programme start="20230915070000 -0500" stop="20230915080000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Partido Amistoso en 60</title>
+  </programme>
+<programme start="20230915080000 -0500" stop="20230915090000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230915090000 -0500" stop="20230915100000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+<programme start="20230915100000 -0500" stop="20230915110000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230915110000 -0500" stop="20230915120000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">CONCACAF Copa Oro en 60</title>
+  </programme>
+<programme start="20230915120000 -0500" stop="20230915130000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">El Tri en 60</title>
+  </programme>
+<programme start="20230915130000 -0500" stop="20230915140000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">El Tri en 60</title>
+  </programme>
+<programme start="20230915140000 -0500" stop="20230915150000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230915150000 -0500" stop="20230915160000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Puebla vs. Tijuana</title>
+  </programme>
+<programme start="20230915160000 -0500" stop="20230915170000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Futbol club</title>
+  </programme>
+<programme start="20230915170000 -0500" stop="20230915180000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mision Europa</title>
+  </programme>
+<programme start="20230915180000 -0500" stop="20230915183000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Fútbol Central</title>
+  </programme>
+<programme start="20230915183000 -0500" stop="20230915205500 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mazatlán FC vs. Cruz Azul</title>
+  </programme>
+<programme start="20230915205500 -0500" stop="20230915230000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Tijuana Vs. Toluca</title>
+  </programme>
+<programme start="20230915230000 -0500" stop="20230916000000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Línea de cuatro</title>
+  </programme>
+<programme start="20230916000000 -0500" stop="20230916010000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mazatlán vs. Cruz Azul</title>
+  </programme>
+<programme start="20230916010000 -0500" stop="20230916020000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230916020000 -0500" stop="20230916030000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Tijuana Vs. Toluca</title>
+  </programme>
+<programme start="20230916030000 -0500" stop="20230916040000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230916040000 -0500" stop="20230916050000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230916050000 -0500" stop="20230916060000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mazatlán vs. Cruz Azul</title>
+  </programme>
+<programme start="20230916060000 -0500" stop="20230916070000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230916070000 -0500" stop="20230916080000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Tijuana Vs. Toluca</title>
+  </programme>
+<programme start="20230916080000 -0500" stop="20230916090000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230916090000 -0500" stop="20230916100000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Tijuana Vs. Toluca</title>
+  </programme>
+<programme start="20230916100000 -0500" stop="20230916110000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mazatlán vs. Cruz Azul</title>
+  </programme>
+<programme start="20230916110000 -0500" stop="20230916120000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230916120000 -0500" stop="20230916130000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">El Tri en 60</title>
+  </programme>
+<programme start="20230916130000 -0500" stop="20230916140000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">El Tri en 60</title>
+  </programme>
+<programme start="20230916140000 -0500" stop="20230916150000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230916150000 -0500" stop="20230916160000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mazatlán vs. Cruz Azul</title>
+  </programme>
+<programme start="20230916160000 -0500" stop="20230916170000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Tijuana Vs. Toluca</title>
+  </programme>
+<programme start="20230916170000 -0500" stop="20230916180000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">República Deportiva</title>
+  </programme>
+<programme start="20230916180000 -0500" stop="20230916183000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Fútbol Central</title>
+  </programme>
+<programme start="20230916183000 -0500" stop="20230916210000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Monterrey vs. Club Leon</title>
+  </programme>
+<programme start="20230916210000 -0500" stop="20230916230000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">America vs. Guadalajara</title>
+  </programme>
+<programme start="20230916230000 -0500" stop="20230917003000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Combate global</title>
+  </programme>
+<programme start="20230917003000 -0500" stop="20230917010000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Combate global</title>
+  </programme>
+<programme start="20230917010000 -0500" stop="20230917020000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230917020000 -0500" stop="20230917030000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">America vs. Guadalajara</title>
+  </programme>
+<programme start="20230917030000 -0500" stop="20230917040000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230917040000 -0500" stop="20230917050000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230917050000 -0500" stop="20230917060000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Monterrey vs. Leon</title>
+  </programme>
+<programme start="20230917060000 -0500" stop="20230917070000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230917070000 -0500" stop="20230917073000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Apertura 2023: America vs. Guadalajara</title>
+  </programme>
+<programme start="20230917073000 -0500" stop="20230917080000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">UEFA Champions League Magazine</title>
+  </programme>
+<programme start="20230917080000 -0500" stop="20230917090000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">UEFA Europa  and  Conference League Magazine</title>
+  </programme>
+<programme start="20230917090000 -0500" stop="20230917100000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mazatlán vs. Cruz Azul</title>
+  </programme>
+<programme start="20230917100000 -0500" stop="20230917110000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Monterrey vs. Leon</title>
+  </programme>
+<programme start="20230917110000 -0500" stop="20230917113000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Fútbol Central</title>
+  </programme>
+<programme start="20230917113000 -0500" stop="20230917140000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Pumas UNAM vs. Atletico San Luis</title>
+  </programme>
+<programme start="20230917140000 -0500" stop="20230917150000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Accion</title>
+  </programme>
+<programme start="20230917150000 -0500" stop="20230917160000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">America vs. Guadalajara</title>
+  </programme>
+<programme start="20230917160000 -0500" stop="20230917163000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Fútbol Central</title>
+  </programme>
+<programme start="20230917163000 -0500" stop="20230917185500 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Queretaro vs. Puebla</title>
+  </programme>
+<programme start="20230917185500 -0500" stop="20230917210000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Atlas vs. Tigres</title>
+  </programme>
+<programme start="20230917210000 -0500" stop="20230917220000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">America vs. Guadalajara</title>
+  </programme>
+<programme start="20230917220000 -0500" stop="20230917230000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">La Jugada</title>
+  </programme>
+<programme start="20230917230000 -0500" stop="20230918000000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Monterrey vs. Leon</title>
+  </programme>
+<programme start="20230918000000 -0500" stop="20230918010000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230918010000 -0500" stop="20230918020000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Queretaro vs. Puebla</title>
+  </programme>
+<programme start="20230918020000 -0500" stop="20230918030000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Atlas vs. Tigres</title>
+  </programme>
+<programme start="20230918030000 -0500" stop="20230918040000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230918040000 -0500" stop="20230918050000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230918050000 -0500" stop="20230918060000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">La Jugada</title>
+  </programme>
+<programme start="20230918060000 -0500" stop="20230918070000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230918070000 -0500" stop="20230918080000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">America vs. Guadalajara</title>
+  </programme>
+<programme start="20230918080000 -0500" stop="20230918090000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">La Jugada</title>
+  </programme>
+<programme start="20230918090000 -0500" stop="20230918100000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Contacto Deportivo</title>
+  </programme>
+<programme start="20230918100000 -0500" stop="20230918110000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mazatlán vs. Cruz Azul</title>
+  </programme>
+<programme start="20230918110000 -0500" stop="20230918120000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Tijuana Vs. Toluca</title>
+  </programme>
+<programme start="20230918120000 -0500" stop="20230918130000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Monterrey vs. Leon</title>
+  </programme>
+<programme start="20230918130000 -0500" stop="20230918140000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">America vs. Guadalajara</title>
+  </programme>
+<programme start="20230918140000 -0500" stop="20230918150000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">UNAM vs. Club Atletico San Luis</title>
+  </programme>
+<programme start="20230918150000 -0500" stop="20230918160000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Queretaro vs. Puebla</title>
+  </programme>
+<programme start="20230918160000 -0500" stop="20230918170000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Atlas vs. Tigres</title>
+  </programme>
+<programme start="20230918170000 -0500" stop="20230918180000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Mision Europa</title>
+  </programme>
+<programme start="20230918180000 -0500" stop="20230918190000 -0500" channel="Canal TUDN (Estados Unidos)">
+    <title lang="es">Futbol club</title>
   </programme>
 <programme start="20230914220000 -0500" stop="20230914223000 -0500" channel="Canal TyC Sports">
     <title lang="es">Player One</title>
@@ -27873,12 +28602,6 @@ En Vivo</title>
 <programme start="20230915220000 -0300" stop="20230916000000 -0300" channel="HBO family">
     <title lang="es">Volver al futuro III</title>
   </programme>
-<programme start="20230916000000 -0300" stop="20230916022200 -0300" channel="HBO family">
-    <title lang="es">Ready Player One: comienza el juego</title>
-  </programme>
-<programme start="20230916022200 -0300" stop="20230916035400 -0300" channel="HBO family">
-    <title lang="es">Marcel, el caracol con zapatos</title>
-  </programme>
 <programme start="20230914234700 -0300" stop="20230915013000 -0300" channel="HBO family HD">
     <title lang="es">El mago de Oz</title>
   </programme>
@@ -37004,6 +37727,9 @@ En Vivo</title>
   </programme>
 <programme start="20230915230000 -0300" stop="20230916000000 -0300" channel="Encuentro">
     <title lang="es">Encuentro en el estudio</title>
+  </programme>
+<programme start="20230916000000 -0300" stop="20230916003000 -0300" channel="Encuentro">
+    <title lang="es">Los 80, divino tesoro</title>
   </programme>
 <programme start="20230914233000 -0300" stop="20230915000000 -0300" channel="METRO">
     <title lang="es">Economia  and  Real Estate</title>
