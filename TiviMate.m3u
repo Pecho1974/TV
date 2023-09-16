@@ -611,32 +611,45 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://cooplay.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="Infantil",Baby Tv (2)
 https://cooplay.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1 tvg-id="Canal Baby TV (Latinoamerica)" tvg-name="Canal Baby TV (Latinoamerica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="Infantil",Canal Baby TV (Latinoamerica)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16516.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="Infantil",CARTOON NETWORK
 https://cooplay.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="Infantil",CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="Canal Cartoon Network (Mexico)" tvg-name="Canal Cartoon Network (Mexico)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="Infantil",Canal Cartoon Network (Mexico)
 https://cooplay.cdn.rcs.net.ar/mnp/cartoon/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="Infantil",Cartoon Network (3)
 https://cooplay.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20210820025220&path-prefix=es" group-title="Infantil",CARTOON NETWORK HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16523.m3u8
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",BOOMERANG
 https://cooplay.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Boomerang" tvg-name="Canal Boomerang" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",Canal Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",Cartoonito (2)
 https://cooplay.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",Cartoonito (3)
 https://cooplay.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
+#EXTINF:-1 tvg-id="Canal Boomerang" tvg-name="Canal Boomerang" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",Canal Boomerang
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",Cartoonito (5)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16511.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest/scale-to-width-down/150?cb=20210930223617&path-prefix=es" group-title="Infantil",Discovery Kids
 https://cooplay.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+#EXTINF:-1 tvg-id="Canal Discovery Kids (Latinoamerica)" tvg-name="Canal Discovery Kids (Latinoamerica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest/scale-to-width-down/150?cb=20210930223617&path-prefix=es" group-title="Infantil",Canal Discovery Kids (Latinoamerica)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16555.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20200126030048&path-prefix=es" group-title="Infantil",Disney Channel
 https://cooplay.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Disney channel HD" tvg-name="Disney channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20200126030048&path-prefix=es" group-title="Infantil",Disney channel HD
+#EXTINF:-1 tvg-id="Canal Disney Channel" tvg-name="Canal Disney Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20200126030048&path-prefix=es" group-title="Infantil",Canal Disney Channel
 https://cooplay.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20200126030048&path-prefix=es" group-title="Infantil",Disney Channel (3)
 https://cooplay.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney Channel (ok.ru)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://ok.ru/video/4123310628395
+#EXTINF:-1 tvg-id="Disney channel HD" tvg-name="Disney channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Infantil",Disney channel HD
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16539.m3u8
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/320?cb=20210617173806&path-prefix=es" group-title="Infantil",Disney Junior
 https://cooplay.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Disney Junior" tvg-name="Canal Disney Junior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/320?cb=20210617173806&path-prefix=es" group-title="Infantil",Canal Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/320?cb=20210617173806&path-prefix=es" group-title="Infantil",Disney Jr (2)
 https://cooplay.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1 tvg-id="Canal Disney Junior" tvg-name="Canal Disney Junior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/320?cb=20210617173806&path-prefix=es" group-title="Infantil",Canal Disney Junior
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/16540.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Infantil",EnerGeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Infantil",EnerGeek Senal 2
@@ -2479,4 +2492,6 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://player.vimeo.com/external/677239387.m3u8?s=9224387856264477174bbfba3762893b455f71bc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="Variedades",Viajar TV
 https://f4712f05a3e8493f9c73495feb9f9c1e.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/herogo001NP2/afcabda8-b185-468d-a989-784f94b8e76e/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="",Discovery Familia
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/1997.m3u8
 
