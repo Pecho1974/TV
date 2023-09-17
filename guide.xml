@@ -489,10 +489,22 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal America TV (Argentina)">
+    <display-name lang="es">Canal America TV (Argentina)</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal America TV (Argentina).png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Telefe (Argentina)">
     <display-name lang="es">Canal Telefe (Argentina)</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Telefe (Argentina).png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telefe Internacional">
+    <display-name lang="es">Canal Telefe Internacional</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Telefe Internacional.png" />
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_internacional-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal 24 Horas (TVE)">
@@ -1126,11 +1138,6 @@
   <channel id="Nickelodeon">
     <display-name lang="es">Nickelodeon</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nickelodeon.png" />
-    <url>http://www.telered.com.ar</url>
-  </channel>
-  <channel id="Nickelodeon HD">
-    <display-name lang="es">Nickelodeon HD</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nickelodeon HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="PAKA PAKA">
@@ -24530,6 +24537,192 @@ Repeticion</title>
 <programme start="20230916223000 -0500" stop="20230916230000 -0500" channel="Canal Nickelodeon (Panregional)">
     <title lang="es">Bob Esponja</title>
   </programme>
+<programme start="20230915220000 -0500" stop="20230915230000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Ambiente y medio</title>
+  </programme>
+<programme start="20230915230000 -0500" stop="20230916030000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">A la tarde</title>
+  </programme>
+<programme start="20230916030000 -0500" stop="20230916090000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Duplex A24</title>
+  </programme>
+<programme start="20230916090000 -0500" stop="20230916150000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Pasion de Sábado</title>
+  </programme>
+<programme start="20230916150000 -0500" stop="20230916163000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">El debate del bailando</title>
+  </programme>
+<programme start="20230916163000 -0500" stop="20230916173000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">America Noticias</title>
+  </programme>
+<programme start="20230916173000 -0500" stop="20230916193000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Secretos Verdaderos</title>
+  </programme>
+<programme start="20230916193000 -0500" stop="20230916210000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Polemica en El Bar</title>
+  </programme>
+<programme start="20230916210000 -0500" stop="20230916213000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Chicas guapas</title>
+  </programme>
+<programme start="20230916213000 -0500" stop="20230916220000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Modo foodie</title>
+  </programme>
+<programme start="20230916220000 -0500" stop="20230916230000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Que crecen</title>
+  </programme>
+<programme start="20230916230000 -0500" stop="20230917030000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Maraton Pasion de sábado</title>
+  </programme>
+<programme start="20230917030000 -0500" stop="20230917090000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Duplex A24</title>
+  </programme>
+<programme start="20230917090000 -0500" stop="20230917093000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">TUC 200 Anos de historia</title>
+  </programme>
+<programme start="20230917093000 -0500" stop="20230917120000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Polemica en El Bar</title>
+  </programme>
+<programme start="20230917120000 -0500" stop="20230917145500 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Estamos a tiempo con Guido y Pampito</title>
+  </programme>
+<programme start="20230917145500 -0500" stop="20230917170000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">El debate del bailando</title>
+  </programme>
+<programme start="20230917170000 -0500" stop="20230917183000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">GPS, para saber donde estás parado</title>
+  </programme>
+<programme start="20230917183000 -0500" stop="20230917200000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Intratables</title>
+  </programme>
+<programme start="20230917200000 -0500" stop="20230917210000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Cronicas Pueblo chico infierno grande</title>
+  </programme>
+<programme start="20230917210000 -0500" stop="20230917214500 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Modo selfie</title>
+  </programme>
+<programme start="20230917214500 -0500" stop="20230917220000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Tecno tendencias</title>
+  </programme>
+<programme start="20230917220000 -0500" stop="20230917223000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Chicas guapas</title>
+  </programme>
+<programme start="20230917223000 -0500" stop="20230917233000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Ambiente y medio</title>
+  </programme>
+<programme start="20230917233000 -0500" stop="20230918020000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">LAM</title>
+  </programme>
+<programme start="20230918020000 -0500" stop="20230918030000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Reporter 910 Radio la Red</title>
+  </programme>
+<programme start="20230918030000 -0500" stop="20230918050000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Buenos días, America</title>
+  </programme>
+<programme start="20230918050000 -0500" stop="20230918073000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">BDA extra</title>
+  </programme>
+<programme start="20230918073000 -0500" stop="20230918093000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Desayuno Americano</title>
+  </programme>
+<programme start="20230918093000 -0500" stop="20230918113000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230918113000 -0500" stop="20230918131500 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">El diario de Mariana</title>
+  </programme>
+<programme start="20230918131500 -0500" stop="20230918150000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">A la tarde</title>
+  </programme>
+<programme start="20230918150000 -0500" stop="20230918170000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">America Noticias</title>
+  </programme>
+<programme start="20230918170000 -0500" stop="20230918184500 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">LAM</title>
+  </programme>
+<programme start="20230918184500 -0500" stop="20230918210000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Bailando 2023</title>
+  </programme>
+<programme start="20230918210000 -0500" stop="20230918215000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Noche al Dente</title>
+  </programme>
+<programme start="20230918215000 -0500" stop="20230918220000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Comer para creer</title>
+  </programme>
+<programme start="20230918220000 -0500" stop="20230919000000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">LAM</title>
+  </programme>
+<programme start="20230919000000 -0500" stop="20230919020000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230919020000 -0500" stop="20230919030000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Reporter 910 Radio la Red</title>
+  </programme>
+<programme start="20230919030000 -0500" stop="20230919050000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Buenos días, America</title>
+  </programme>
+<programme start="20230919050000 -0500" stop="20230919073000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">BDA extra</title>
+  </programme>
+<programme start="20230919073000 -0500" stop="20230919093000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Desayuno Americano</title>
+  </programme>
+<programme start="20230919093000 -0500" stop="20230919113000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230919113000 -0500" stop="20230919131500 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">El diario de Mariana</title>
+  </programme>
+<programme start="20230919131500 -0500" stop="20230919150000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">A la tarde</title>
+  </programme>
+<programme start="20230919150000 -0500" stop="20230919170000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">America Noticias</title>
+  </programme>
+<programme start="20230919170000 -0500" stop="20230919184500 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">LAM</title>
+  </programme>
+<programme start="20230919184500 -0500" stop="20230919210000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Bailando 2023</title>
+  </programme>
+<programme start="20230919210000 -0500" stop="20230919215000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Noche al Dente</title>
+  </programme>
+<programme start="20230919215000 -0500" stop="20230919220000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Comer para creer</title>
+  </programme>
+<programme start="20230919220000 -0500" stop="20230920000000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">LAM</title>
+  </programme>
+<programme start="20230920000000 -0500" stop="20230920020000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230920020000 -0500" stop="20230920030000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Reporter 910 Radio la Red</title>
+  </programme>
+<programme start="20230920030000 -0500" stop="20230920050000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Buenos días, America</title>
+  </programme>
+<programme start="20230920050000 -0500" stop="20230920073000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">BDA extra</title>
+  </programme>
+<programme start="20230920073000 -0500" stop="20230920093000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Desayuno Americano</title>
+  </programme>
+<programme start="20230920093000 -0500" stop="20230920113000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">Intrusos</title>
+  </programme>
+<programme start="20230920113000 -0500" stop="20230920131500 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">El diario de Mariana</title>
+  </programme>
+<programme start="20230920131500 -0500" stop="20230920150000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">A la tarde</title>
+  </programme>
+<programme start="20230920150000 -0500" stop="20230920170000 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">America Noticias</title>
+  </programme>
+<programme start="20230920170000 -0500" stop="20230920184500 -0500" channel="Canal America TV (Argentina)">
+    <title lang="es">LAM</title>
+  </programme>
 <programme start="20230915211500 -0500" stop="20230915214500 -0500" channel="Canal Telefe (Argentina)">
     <title lang="es">Staff</title>
   </programme>
@@ -24781,6 +24974,234 @@ Repeticion</title>
   </programme>
 <programme start="20230921210000 -0500" stop="20230921211500 -0500" channel="Canal Telefe (Argentina)">
     <title lang="es">Staff</title>
+  </programme>
+<programme start="20230915213000 -0500" stop="20230915221500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Staff</title>
+  </programme>
+<programme start="20230915221500 -0500" stop="20230915230000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Cuando Me Sonreís</title>
+  </programme>
+<programme start="20230915230000 -0500" stop="20230916000000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Cuando Me Sonreís</title>
+  </programme>
+<programme start="20230916000000 -0500" stop="20230916010000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Golpe al corazon</title>
+  </programme>
+<programme start="20230916010000 -0500" stop="20230916020000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">La leona</title>
+  </programme>
+<programme start="20230916020000 -0500" stop="20230916023000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+<programme start="20230916023000 -0500" stop="20230916030000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Sabores de campo</title>
+  </programme>
+<programme start="20230916030000 -0500" stop="20230916033000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Check-in</title>
+  </programme>
+<programme start="20230916033000 -0500" stop="20230916040000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20230916040000 -0500" stop="20230916050000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Sabores de campo</title>
+  </programme>
+<programme start="20230916050000 -0500" stop="20230916060000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Descubrir America</title>
+  </programme>
+<programme start="20230916060000 -0500" stop="20230916063000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Que comen los que saben</title>
+  </programme>
+<programme start="20230916063000 -0500" stop="20230916070000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20230916070000 -0500" stop="20230916080000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Arg 2021</title>
+  </programme>
+<programme start="20230916080000 -0500" stop="20230916083000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">SC Fitness</title>
+  </programme>
+<programme start="20230916083000 -0500" stop="20230916090000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Gravedad Zero</title>
+  </programme>
+<programme start="20230916090000 -0500" stop="20230916093000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Check-in</title>
+  </programme>
+<programme start="20230916093000 -0500" stop="20230916100000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Chicas de Viaje</title>
+  </programme>
+<programme start="20230916100000 -0500" stop="20230916113000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Película</title>
+  </programme>
+<programme start="20230916113000 -0500" stop="20230916123000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Plano x plano</title>
+  </programme>
+<programme start="20230916123000 -0500" stop="20230916170000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Resistire</title>
+  </programme>
+<programme start="20230916170000 -0500" stop="20230916180000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Especial músical</title>
+  </programme>
+<programme start="20230916180000 -0500" stop="20230916190000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Arg 2021</title>
+  </programme>
+<programme start="20230916190000 -0500" stop="20230916210000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">PH Podemos hablar</title>
+  </programme>
+<programme start="20230916210000 -0500" stop="20230916213000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+<programme start="20230916213000 -0500" stop="20230916220000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Chicas de Viaje</title>
+  </programme>
+<programme start="20230916220000 -0500" stop="20230916223000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Mundo G</title>
+  </programme>
+<programme start="20230916223000 -0500" stop="20230917040000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Golpe al corazon</title>
+  </programme>
+<programme start="20230917040000 -0500" stop="20230917050000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Z Tv</title>
+  </programme>
+<programme start="20230917050000 -0500" stop="20230917053000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Mundo G</title>
+  </programme>
+<programme start="20230917053000 -0500" stop="20230917060000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">El Arqui</title>
+  </programme>
+<programme start="20230917060000 -0500" stop="20230917063000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">JLN presenta</title>
+  </programme>
+<programme start="20230917063000 -0500" stop="20230917073000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Arg 2023</title>
+  </programme>
+<programme start="20230917073000 -0500" stop="20230917083000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Sabores de campo</title>
+  </programme>
+<programme start="20230917083000 -0500" stop="20230917133000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">La pena de Morfi</title>
+  </programme>
+<programme start="20230917133000 -0500" stop="20230917140000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+<programme start="20230917140000 -0500" stop="20230917143000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Check-in</title>
+  </programme>
+<programme start="20230917143000 -0500" stop="20230917160000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Historias de corazon</title>
+  </programme>
+<programme start="20230917160000 -0500" stop="20230917210000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Sres. Papis</title>
+  </programme>
+<programme start="20230917210000 -0500" stop="20230917213000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Tierras</title>
+  </programme>
+<programme start="20230917213000 -0500" stop="20230917233000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">PH Podemos hablar</title>
+  </programme>
+<programme start="20230917233000 -0500" stop="20230918040000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">La ley del amor</title>
+  </programme>
+<programme start="20230918040000 -0500" stop="20230918063000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Buen Telefe</title>
+  </programme>
+<programme start="20230918063000 -0500" stop="20230918081500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">A la Barbarossa</title>
+  </programme>
+<programme start="20230918081500 -0500" stop="20230918100000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Ariel en su salsa</title>
+  </programme>
+<programme start="20230918100000 -0500" stop="20230918113000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+<programme start="20230918113000 -0500" stop="20230918131500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+<programme start="20230918131500 -0500" stop="20230918134500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Sabores de campo</title>
+  </programme>
+<programme start="20230918134500 -0500" stop="20230918140000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">#Viajeros</title>
+  </programme>
+<programme start="20230918140000 -0500" stop="20230918150000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Descubrir America</title>
+  </programme>
+<programme start="20230918150000 -0500" stop="20230918160000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Don Juan y Su Bella Dama</title>
+  </programme>
+<programme start="20230918160000 -0500" stop="20230918170000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">La ley del amor</title>
+  </programme>
+<programme start="20230918170000 -0500" stop="20230918184500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Telefe Noticias</title>
+  </programme>
+<programme start="20230918184500 -0500" stop="20230918185000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Vete grunon</title>
+  </programme>
+<programme start="20230918185000 -0500" stop="20230918194500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Sres. Papis</title>
+  </programme>
+<programme start="20230918194500 -0500" stop="20230918204500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Don Juan y Su Bella Dama</title>
+  </programme>
+<programme start="20230918204500 -0500" stop="20230918210000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Gravedad Zero</title>
+  </programme>
+<programme start="20230918210000 -0500" stop="20230918213000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Staff</title>
+  </programme>
+<programme start="20230918213000 -0500" stop="20230918220000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Staff</title>
+  </programme>
+<programme start="20230918220000 -0500" stop="20230918230000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Descubrir America</title>
+  </programme>
+<programme start="20230918230000 -0500" stop="20230919010000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">La ley del amor</title>
+  </programme>
+<programme start="20230919010000 -0500" stop="20230919020000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Sres. Papis</title>
+  </programme>
+<programme start="20230919020000 -0500" stop="20230919023000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Vinos y placeres</title>
+  </programme>
+<programme start="20230919023000 -0500" stop="20230919030000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Check-in</title>
+  </programme>
+<programme start="20230919030000 -0500" stop="20230919040000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Arg 2023</title>
+  </programme>
+<programme start="20230919040000 -0500" stop="20230919063000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Buen Telefe</title>
+  </programme>
+<programme start="20230919063000 -0500" stop="20230919081500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">A la Barbarossa</title>
+  </programme>
+<programme start="20230919081500 -0500" stop="20230919100000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Ariel en su salsa</title>
+  </programme>
+<programme start="20230919100000 -0500" stop="20230919113000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">El noticiero de la gente</title>
+  </programme>
+<programme start="20230919113000 -0500" stop="20230919131500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Cortá Por Lozano</title>
+  </programme>
+<programme start="20230919131500 -0500" stop="20230919134500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20230919134500 -0500" stop="20230919140000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">#Viajeros</title>
+  </programme>
+<programme start="20230919140000 -0500" stop="20230919150000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Descubrir America</title>
+  </programme>
+<programme start="20230919150000 -0500" stop="20230919160000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Don Juan y Su Bella Dama</title>
+  </programme>
+<programme start="20230919160000 -0500" stop="20230919170000 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">La ley del amor</title>
+  </programme>
+<programme start="20230919170000 -0500" stop="20230919184500 -0500" channel="Canal Telefe Internacional">
+    <title lang="es">Telefe Noticias</title>
   </programme>
 <programme start="20230915213000 -0500" stop="20230915220000 -0500" channel="Canal 24 Horas (TVE)">
     <title lang="es">TD Internacional 24H</title>
@@ -31556,195 +31977,6 @@ En Vivo</title>
 <programme start="20230916224000 -0500" stop="20230916233000 -0500" channel="Canal Telemundo (Panregional)">
     <title lang="es">Caso Cerrado</title>
   </programme>
-<programme start="20230915225500 -0300" stop="20230916005500 -0300" channel="A and E">
-    <title lang="es">Reyes de la calle</title>
-  </programme>
-<programme start="20230915225500 -0300" stop="20230916005500 -0300" channel="A and E HD">
-    <title lang="es">Reyes de la calle</title>
-  </programme>
-<programme start="20230915235500 -0300" stop="20230916015000 -0300" channel="AMC HD">
-    <title lang="es">Exorcismo</title>
-  </programme>
-<programme start="20230915235500 -0300" stop="20230916015000 -0300" channel="AMC">
-    <title lang="es">Exorcismo</title>
-  </programme>
-<programme start="20230915235500 -0300" stop="20230916005000 -0300" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-<programme start="20230915235500 -0300" stop="20230916005000 -0300" channel="AXN HD">
-    <title lang="es">CSI</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916000000 -0300" channel="CINE.AR">
-    <title lang="es">Dormir al Sol</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916020000 -0300" channel="CINE.AR">
-    <title lang="es">El silencio</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916003000 -0300" channel="Cinecanal">
-    <title lang="es">¡Esto es guerra!</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916003000 -0300" channel="CINECANAL HD">
-    <title lang="es">¡Esto es guerra!</title>
-  </programme>
-<programme start="20230915232300 -0300" stop="20230916003200 -0300" channel="Cinemax">
-    <title lang="es">True Blood</title>
-  </programme>
-<programme start="20230915232300 -0300" stop="20230916003200 -0300" channel="Cinemax HD">
-    <title lang="es">True Blood</title>
-  </programme>
-<programme start="20230915233000 -0300" stop="20230916000000 -0300" channel="Comedy Central">
-    <title lang="es">Ridiculousness</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916011000 -0300" channel="Comedy Central">
-    <title lang="es">Bar Central</title>
-  </programme>
-<programme start="20230915233000 -0300" stop="20230916000000 -0300" channel="Comedy Central HD">
-    <title lang="es">Ridiculousness</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916011000 -0300" channel="Comedy Central HD">
-    <title lang="es">Bar Central</title>
-  </programme>
-<programme start="20230915234500 -0300" stop="20230916004000 -0300" channel="ID">
-    <title lang="es">Víctimas del amor</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916000500 -0300" channel="Europa Europa">
-    <title lang="es">Un plan brillante</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916001000 -0300" channel="Film  and  Arts">
-    <title lang="es">El peleador</title>
-  </programme>
-<programme start="20230915234500 -0300" stop="20230916012300 -0300" channel="FX">
-    <title lang="es">Scary Movie 2, otra película de miedo</title>
-  </programme>
-<programme start="20230915234500 -0300" stop="20230916012300 -0300" channel="FX HD">
-    <title lang="es">Scary Movie 2, otra película de miedo</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916000500 -0300" channel="HBO">
-    <title lang="es">Secretos del pasado</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916000500 -0300" channel="HBO HD">
-    <title lang="es">Secretos del pasado</title>
-  </programme>
-<programme start="20230915214500 -0300" stop="20230916000000 -0300" channel="HBO plus">
-    <title lang="es">¡Shazam! La furia de los dioses</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916020500 -0300" channel="HBO plus">
-    <title lang="es">La liga de la justicia</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916012500 -0300" channel="HBO 2">
-    <title lang="es">La monja</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916000000 -0300" channel="HBO family">
-    <title lang="es">Volver al futuro III</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916022200 -0300" channel="HBO family">
-    <title lang="es">Ready Player One: comienza el juego</title>
-  </programme>
-<programme start="20230916022200 -0300" stop="20230916035400 -0300" channel="HBO family">
-    <title lang="es">Marcel, el caracol con zapatos</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916000000 -0300" channel="HBO family HD">
-    <title lang="es">Volver al futuro III</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916022200 -0300" channel="HBO family HD">
-    <title lang="es">Ready Player One: comienza el juego</title>
-  </programme>
-<programme start="20230916022200 -0300" stop="20230916035400 -0300" channel="HBO family HD">
-    <title lang="es">Marcel, el caracol con zapatos</title>
-  </programme>
-<programme start="20230915220500 -0300" stop="20230916000000 -0300" channel="HBO MUNDI">
-    <title lang="es">Eterno resplandor de una mente sin recuerdos</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916021500 -0300" channel="HBO MUNDI">
-    <title lang="es">La leyenda del caballero verde</title>
-  </programme>
-<programme start="20230915220500 -0300" stop="20230916000000 -0300" channel="HBO MUNDI HD">
-    <title lang="es">Eterno resplandor de una mente sin recuerdos</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916021500 -0300" channel="HBO MUNDI HD">
-    <title lang="es">La leyenda del caballero verde</title>
-  </programme>
-<programme start="20230915220500 -0300" stop="20230916000000 -0300" channel="HBO POP">
-    <title lang="es">Nosotros los Nobles</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916020500 -0300" channel="HBO POP">
-    <title lang="es">Sexo, pudor y lágrimas 2</title>
-  </programme>
-<programme start="20230915220500 -0300" stop="20230916000000 -0300" channel="HBO POP HD">
-    <title lang="es">Nosotros los Nobles</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916020500 -0300" channel="HBO POP HD">
-    <title lang="es">Sexo, pudor y lágrimas 2</title>
-  </programme>
-<programme start="20230915225800 -0300" stop="20230916000000 -0300" channel="HBO Signature">
-    <title lang="es">La casa del dragon</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916015000 -0300" channel="HBO Signature">
-    <title lang="es">Mala educacion</title>
-  </programme>
-<programme start="20230915221000 -0300" stop="20230916000000 -0300" channel="HBO XTREME">
-    <title lang="es">La comisaría</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916021500 -0300" channel="HBO XTREME">
-    <title lang="es">El justiciero</title>
-  </programme>
-<programme start="20230915221000 -0300" stop="20230916000000 -0300" channel="HBO XTREME HD">
-    <title lang="es">La comisaría</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916021500 -0300" channel="HBO XTREME HD">
-    <title lang="es">El justiciero</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916000100 -0300" channel="ISAT">
-    <title lang="es">Riddick, el amo de la oscuridad</title>
-  </programme>
-<programme start="20230915231000 -0300" stop="20230916000500 -0300" channel="ESTRELLAS HD">
-    <title lang="es">El amor invencible</title>
-  </programme>
-<programme start="20230916000500 -0300" stop="20230916003000 -0300" channel="ESTRELLAS HD">
-    <title lang="es">Relatos macabrones</title>
-  </programme>
-<programme start="20230916003000 -0300" stop="20230916014000 -0300" channel="ESTRELLAS HD">
-    <title lang="es">La 3ra en discordia</title>
-  </programme>
-<programme start="20230916014000 -0300" stop="20230916015500 -0300" channel="ESTRELLAS HD">
-    <title lang="es">Fiesta mexicana ¡Viva Mexico!</title>
-  </programme>
-<programme start="20230916015500 -0300" stop="20230916022500 -0300" channel="ESTRELLAS HD">
-    <title lang="es">Ceremonia del 213 aniversario del inicio de la Independencia</title>
-  </programme>
-<programme start="20230916022500 -0300" stop="20230916040000 -0300" channel="ESTRELLAS HD">
-    <title lang="es">Fiesta mexicana ¡Viva Mexico!</title>
-  </programme>
-<programme start="20230915130000 -0300" stop="20230916010000 -0300" channel="PARAMOUNT CHANNEL">
-    <title lang="es">Paramount Channel</title>
-  </programme>
-<programme start="20230916010000 -0300" stop="20230916130000 -0300" channel="PARAMOUNT CHANNEL">
-    <title lang="es">Paramount Channel</title>
-  </programme>
-<programme start="20230915130000 -0300" stop="20230916010000 -0300" channel="PARAMOUNT CHANNEL HD">
-    <title lang="es">Paramount Channel</title>
-  </programme>
-<programme start="20230916010000 -0300" stop="20230916130000 -0300" channel="PARAMOUNT CHANNEL HD">
-    <title lang="es">Paramount Channel</title>
-  </programme>
-<programme start="20230915231500 -0300" stop="20230916013500 -0300" channel="SONY">
-    <title lang="es">El justiciero 2</title>
-  </programme>
-<programme start="20230915231500 -0300" stop="20230916013500 -0300" channel="SONY HD">
-    <title lang="es">El justiciero 2</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916000200 -0300" channel="SPACE">
-    <title lang="es">Destino final</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916000200 -0300" channel="SPACE HD">
-    <title lang="es">Destino final</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916020000 -0300" channel="STAR CHANNEL">
-    <title lang="es">Titanic</title>
-  </programme>
-<programme start="20230915220000 -0300" stop="20230916020000 -0300" channel="STAR CHANNEL HD">
-    <title lang="es">Titanic</title>
-  </programme>
 <programme start="20230915220000 -0300" stop="20230916001200 -0300" channel="TCM">
     <title lang="es">8 mm</title>
   </programme>
@@ -31768,6 +32000,9 @@ En Vivo</title>
   </programme>
 <programme start="20230916021500 -0300" stop="20230916030600 -0300" channel="TNT Series HD">
     <title lang="es">The Mentalist</title>
+  </programme>
+<programme start="20230915220000 -0300" stop="20230916003000 -0300" channel="Warner HD">
+    <title lang="es">Guason</title>
   </programme>
 <programme start="20230915220000 -0300" stop="20230916003000 -0300" channel="Warner">
     <title lang="es">Guason</title>
@@ -31817,7 +32052,7 @@ En Vivo</title>
 <programme start="20230916000000 -0300" stop="20230916010000 -0300" channel="ESPN 2">
     <title lang="es">SportsCenter</title>
   </programme>
-<programme start="20230915210000 -0300" stop="20230916003000 -0300" channel="ESPN 2 HD">
+<programme start="20230916210000 -0300" stop="20230917003000 -0300" channel="ESPN 2 HD">
     <title lang="es">ESPN Knockout</title>
   </programme>
 <programme start="20230915233000 -0300" stop="20230916013000 -0300" channel="ESPN 3">
@@ -32066,12 +32301,6 @@ En Vivo</title>
 <programme start="20230916000000 -0300" stop="20230916003000 -0300" channel="Nickelodeon">
     <title lang="es">The Loud House</title>
   </programme>
-<programme start="20230915233000 -0300" stop="20230916000000 -0300" channel="Nickelodeon HD">
-    <title lang="es">The Loud House</title>
-  </programme>
-<programme start="20230916000000 -0300" stop="20230916003000 -0300" channel="Nickelodeon HD">
-    <title lang="es">The Loud House</title>
-  </programme>
 <programme start="20230915233000 -0300" stop="20230916000000 -0300" channel="PAKA PAKA">
     <title lang="es">Sonadores</title>
   </programme>
@@ -32224,6 +32453,12 @@ En Vivo</title>
   </programme>
 <programme start="20230916000000 -0300" stop="20230916005500 -0300" channel="MTV">
     <title lang="es">RuPaul’s Drag Race</title>
+  </programme>
+<programme start="20230915220000 -0300" stop="20230916000000 -0300" channel="MUCH MUSIC">
+    <title lang="es">Números uno</title>
+  </programme>
+<programme start="20230916000000 -0300" stop="20230916020000 -0300" channel="MUCH MUSIC">
+    <title lang="es">#RockOn</title>
   </programme>
 <programme start="20230915210000 -0300" stop="20230916000000 -0300" channel="TELEHIT HD">
     <title lang="es">Playlist Telehit Urbano</title>
