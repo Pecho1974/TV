@@ -17,7 +17,7 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
 https://router.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",AXN HD
 https://router.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1 tvg-id="Canal AXN" tvg-name="Canal AXN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",Canal AXN
+#EXTINF:-1 tvg-id="Canal AXN (Centroamerica)" tvg-name="Canal AXN (Centroamerica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",Canal AXN (Centroamerica)
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8
 #EXTINF:-1 tvg-id="CINE.AR" tvg-name="CINE.AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/CINEAR2017_%282%29.svg/revision/latest/scale-to-width-down/199?cb=20210527002747&path-prefix=es" group-title="Cine y Series",CINE.AR
 https://router.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
@@ -327,7 +327,7 @@ https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/62407
 https://router.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://e7.pngegg.com/pngimages/948/889/png-clipart-discovery-channel-television-channel-discovery-hd-television-show-discovery-inc-discovery-channel-hd-logo-television-globe-thumbnail.png" group-title="Documentales",Discovery Channel HD
 https://router.cdn.rcs.net.ar/mnp/discovery/output.mpd
-#EXTINF:-1 tvg-id="Canal Discovery Channel (Espana)" tvg-name="Canal Discovery Channel (Espana)" tvg-logo="https://e7.pngegg.com/pngimages/948/889/png-clipart-discovery-channel-television-channel-discovery-hd-television-show-discovery-inc-discovery-channel-hd-logo-television-globe-thumbnail.png" group-title="Documentales",Canal Discovery Channel (Espana)
+#EXTINF:-1 tvg-id="Canal Discovery Channel (Venezuela)" tvg-name="Canal Discovery Channel (Venezuela)" tvg-logo="https://e7.pngegg.com/pngimages/948/889/png-clipart-discovery-channel-television-channel-discovery-hd-television-show-discovery-inc-discovery-channel-hd-logo-television-globe-thumbnail.png" group-title="Documentales",Canal Discovery Channel (Venezuela)
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/200?cb=20190925153556&path-prefix=es" group-title="Documentales",Discovery Science
 https://router.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
@@ -407,8 +407,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 https://router.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/250?cb=20220706233159&path-prefix=es" group-title="Estilo de Vida",TLC (2)
 https://router.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/World_Fashion_Channel_%282018%2C_horizontal%29.svg/revision/latest/scale-to-width-down/150?cb=20210130125950" group-title="Estilo de Vida",World Fashion Channel
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="Infantil",Baby TV
 https://router.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="Infantil",Baby Tv (2)
