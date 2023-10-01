@@ -185,7 +185,7 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY HD" tvg-name="SONY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="Cine y Series",SONY HD
 https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
-#EXTINF:-1 tvg-id="Canal Sony (Chile)" tvg-name="Canal Sony (Chile)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="Cine y Series",Canal Sony (Chile)
+#EXTINF:-1 tvg-id="Canal Sony Centro" tvg-name="Canal Sony Centro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="Cine y Series",Canal Sony Centro
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
 #EXTINF:-1 tvg-id="Canal Sony Entertainment Television (Latinoamerica)" tvg-name="Canal Sony Entertainment Television (Latinoamerica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="Cine y Series",Canal Sony Entertainment Television (Latinoamerica)
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/30367.m3u8
@@ -271,7 +271,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/36357.m3u8
 https://router.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es" group-title="Cine y Series",Warner
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
-#EXTINF:-1 tvg-id="Canal Warner TV (Panregional)" tvg-name="Canal Warner TV (Panregional)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es" group-title="Cine y Series",Canal Warner TV (Panregional)
+#EXTINF:-1 tvg-id="Canal Warner TV (Mexico)" tvg-name="Canal Warner TV (Mexico)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es" group-title="Cine y Series",Canal Warner TV (Mexico)
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/37964.m3u8
 #EXTINF:-1 tvg-id="Canal Adrenalina Sports Network" tvg-name="Canal Adrenalina Sports Network" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZBVv2TObX33fg5xHaB44Fsw41gbmKnbLoQXpcBBbcBOIoIueBIbN-_pKqOnYiciHNdxOomm00cBS5zzwUYdlmtpJgDhYhs0UXJfj_qPdL-lW7tKPMx8NjIwMA0BNpsC1jKDHUBR6eskguWe5Hl8OymjPqRSVDiDOKQWuJ-knE_PPDnjJuIBoGUXhB/s1000/AdrenalinaSportsNetwork.png" group-title="Deportes",Canal Adrenalina Sports Network
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
@@ -491,8 +491,6 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_
 http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/38493.m3u8
 #EXTINF:-1 tvg-id="Canal BBC World" tvg-name="Canal BBC World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/BBC_America_2021_New_Logo.png/revision/latest/scale-to-width-down/170?cb=20220111042102&path-prefix=es" group-title="Documentales",Canal BBC World
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Discovery en Espanol" tvg-name="Canal Discovery en Espanol" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052012/discovery_channel_spn.png?itok=sAI0boSM" group-title="Documentales",Canal Discovery en Espanol
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/44337.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://e7.pngegg.com/pngimages/948/889/png-clipart-discovery-channel-television-channel-discovery-hd-television-show-discovery-inc-discovery-channel-hd-logo-television-globe-thumbnail.png" group-title="Documentales",Discovery Channel
 https://router.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://e7.pngegg.com/pngimages/948/889/png-clipart-discovery-channel-television-channel-discovery-hd-television-show-discovery-inc-discovery-channel-hd-logo-television-globe-thumbnail.png" group-title="Documentales",Discovery Channel HD
