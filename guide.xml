@@ -382,9 +382,9 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Discovery en Espanol">
-    <display-name lang="es">Canal Discovery en Espanol</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Discovery en Espanol.png" />
+  <channel id="Canal Discovery Channel (Venezuela)">
+    <display-name lang="es">Canal Discovery Channel (Venezuela)</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Canal Discovery Channel (Venezuela).png" />
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -1385,21 +1385,6 @@
     <display-name lang="es">CONSTRUIR</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/CONSTRUIR.png" />
     <url>http://www.telered.com.ar</url>
-  </channel>
-  <channel id="DSPORTS (ARG)(DTSAHD)(1610)">
-    <display-name lang="es">DSPORTS (ARG)(DTSAHD)(1610)</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DSPORTS (ARG)(DTSAHD)(1610).png" />
-    <url>http://www.directv.com.ar</url>
-  </channel>
-  <channel id="DSPORTS + HD(DTS+HD)(1613)">
-    <display-name lang="es">DSPORTS + HD(DTS+HD)(1613)</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DSPORTS + HD(DTS+HD)(1613).png" />
-    <url>http://www.directv.com.ar</url>
-  </channel>
-  <channel id="DSPORTS 2 HD(DTV2HD)(1612)">
-    <display-name lang="es">DSPORTS 2 HD(DTV2HD)(1612)</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/DSPORTS 2 HD(DTV2HD)(1612).png" />
-    <url>http://www.directv.com.ar</url>
   </channel>
 <programme start="20230930230000 -0500" stop="20231001010500 -0500" channel="Canal A and E (Mexico)">
     <title lang="es">Cautiva</title>
@@ -18311,290 +18296,395 @@ En Vivo</title>
 <programme start="20231006183000 -0500" stop="20231006190000 -0500" channel="Canal BBC World">
     <title lang="es">The Travel Show</title>
   </programme>
-<programme start="20230930230000 -0500" stop="20231001000000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Eli Roth: Terror en primera persona</title>
+<programme start="20230930225400 -0500" stop="20230930234800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Cámara policial</title>
   </programme>
-<programme start="20231001000000 -0500" stop="20231001010000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Eli Roth: Terror en primera persona</title>
+<programme start="20230930234800 -0500" stop="20231001003400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Escuela de tiburones</title>
   </programme>
-<programme start="20231001010000 -0500" stop="20231001020000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Eli Roth: Terror en primera persona</title>
+<programme start="20231001003400 -0500" stop="20231001012000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Escuela de tiburones</title>
   </programme>
-<programme start="20231001020000 -0500" stop="20231001030000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Eli Roth: Terror en primera persona</title>
+<programme start="20231001012000 -0500" stop="20231001020700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Escuela de tiburones</title>
   </programme>
-<programme start="20231001030000 -0500" stop="20231001040000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Eli Roth: Terror en primera persona</title>
+<programme start="20231001020700 -0500" stop="20231001025200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">100 días a lo salvaje</title>
   </programme>
-<programme start="20231001040000 -0500" stop="20231001050000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Eli Roth: Terror en primera persona</title>
+<programme start="20231001025200 -0500" stop="20231001033700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Escuela de tiburones</title>
   </programme>
-<programme start="20231001050000 -0500" stop="20231001060000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Pesca mortal</title>
+<programme start="20231001033700 -0500" stop="20231001040000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">¿Como lo hacen?</title>
   </programme>
-<programme start="20231001060000 -0500" stop="20231001070000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231001040000 -0500" stop="20231001043000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+<programme start="20231001043000 -0500" stop="20231001060600 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Fiebre del oro</title>
   </programme>
-<programme start="20231001070000 -0500" stop="20231001080000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Alaska Hombres primitivos</title>
+<programme start="20231001060600 -0500" stop="20231001065400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Guardianes del pantano</title>
   </programme>
-<programme start="20231001080000 -0500" stop="20231001090000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Persecucion con John Walsh</title>
+<programme start="20231001065400 -0500" stop="20231001075200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Detective Knight: Redencion</title>
   </programme>
-<programme start="20231001090000 -0500" stop="20231001100000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Persecucion con John Walsh</title>
+<programme start="20231001075200 -0500" stop="20231001084400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Batallas en lo profundo Tiburon vs. Kraken</title>
   </programme>
-<programme start="20231001100000 -0500" stop="20231001110000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Terror extremo</title>
+<programme start="20231001084400 -0500" stop="20231001100100 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Shark Week edicion Jackass 2</title>
   </programme>
-<programme start="20231001110000 -0500" stop="20231001120000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Desaparecidos</title>
+<programme start="20231001100100 -0500" stop="20231001105500 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Tiburon blanco vs. Mako</title>
   </programme>
-<programme start="20231001120000 -0500" stop="20231001130000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Desaparecidos</title>
+<programme start="20231001105500 -0500" stop="20231001112500 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
   </programme>
-<programme start="20231001130000 -0500" stop="20231001140000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos</title>
+<programme start="20231001112500 -0500" stop="20231001122000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Cámara policial</title>
   </programme>
-<programme start="20231001140000 -0500" stop="20231001150000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos</title>
+<programme start="20231001122000 -0500" stop="20231001131700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Trabajo sucio mundo subterráneo</title>
   </programme>
-<programme start="20231001150000 -0500" stop="20231001160000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos</title>
+<programme start="20231001131700 -0500" stop="20231001141400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Caminando con elefantes</title>
   </programme>
-<programme start="20231001160000 -0500" stop="20231001170000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos</title>
+<programme start="20231001141400 -0500" stop="20231001151100 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Patagonia al borde del mundo</title>
   </programme>
-<programme start="20231001170000 -0500" stop="20231001180000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231001151100 -0500" stop="20231001160800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Caos en el tribunal</title>
+  </programme>
+<programme start="20231001160800 -0500" stop="20231001170600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">A la conquista de Alaska</title>
+  </programme>
+<programme start="20231001170600 -0500" stop="20231001180400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">A la conquista de Alaska</title>
+  </programme>
+<programme start="20231001180400 -0500" stop="20231001190200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Tarzán americano</title>
+  </programme>
+<programme start="20231001190200 -0500" stop="20231001200000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Tarzán americano</title>
+  </programme>
+<programme start="20231001200000 -0500" stop="20231001205800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">A bordo el reto</title>
+  </programme>
+<programme start="20231001205800 -0500" stop="20231001215600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
+  </programme>
+<programme start="20231001215600 -0500" stop="20231001225200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
+  </programme>
+<programme start="20231001225200 -0500" stop="20231001234800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">A la conquista de Alaska</title>
+  </programme>
+<programme start="20231001234800 -0500" stop="20231002003400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">A bordo el reto</title>
+  </programme>
+<programme start="20231002003400 -0500" stop="20231002012000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
+  </programme>
+<programme start="20231002012000 -0500" stop="20231002020600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">A la conquista de Alaska</title>
+  </programme>
+<programme start="20231002020600 -0500" stop="20231002025200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Tarzán americano</title>
+  </programme>
+<programme start="20231002025200 -0500" stop="20231002033700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Tarzán americano</title>
+  </programme>
+<programme start="20231002033700 -0500" stop="20231002040000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">¿Como lo hacen?</title>
+  </programme>
+<programme start="20231002040000 -0500" stop="20231002043000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+<programme start="20231002043000 -0500" stop="20231002051800 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Alaska, la última frontera</title>
   </programme>
-<programme start="20231001180000 -0500" stop="20231001190000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Alaska, la última frontera</title>
-  </programme>
-<programme start="20231001190000 -0500" stop="20231001200000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Alaska, la última frontera</title>
-  </programme>
-<programme start="20231001200000 -0500" stop="20231001210000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos</title>
-  </programme>
-<programme start="20231001210000 -0500" stop="20231001220000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos celebridades</title>
-  </programme>
-<programme start="20231001220000 -0500" stop="20231001230000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Máquinas renovadas</title>
-  </programme>
-<programme start="20231001230000 -0500" stop="20231002000000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos</title>
-  </programme>
-<programme start="20231002000000 -0500" stop="20231002010000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos celebridades</title>
-  </programme>
-<programme start="20231002010000 -0500" stop="20231002020000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Máquinas renovadas</title>
-  </programme>
-<programme start="20231002020000 -0500" stop="20231002030000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos</title>
-  </programme>
-<programme start="20231002030000 -0500" stop="20231002040000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos celebridades</title>
-  </programme>
-<programme start="20231002040000 -0500" stop="20231002050000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Alaska, la última frontera</title>
-  </programme>
-<programme start="20231002050000 -0500" stop="20231002060000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Revista People investiga</title>
-  </programme>
-<programme start="20231002060000 -0500" stop="20231002070000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231002051800 -0500" stop="20231002060600 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Fiebre del oro</title>
   </programme>
-<programme start="20231002070000 -0500" stop="20231002080000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Alaska Hombres primitivos</title>
+<programme start="20231002060600 -0500" stop="20231002065400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas</title>
   </programme>
-<programme start="20231002080000 -0500" stop="20231002090000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Pesca mortal</title>
+<programme start="20231002065400 -0500" stop="20231002074200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Joyas sobre ruedas el auto de tus suenos</title>
   </programme>
-<programme start="20231002090000 -0500" stop="20231002100000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Pesca mortal</title>
-  </programme>
-<programme start="20231002100000 -0500" stop="20231002110000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Fiebre del oro</title>
-  </programme>
-<programme start="20231002110000 -0500" stop="20231002113000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Control De Fronteras Espana</title>
-  </programme>
-<programme start="20231002113000 -0500" stop="20231002120000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Control De Fronteras Espana</title>
-  </programme>
-<programme start="20231002120000 -0500" stop="20231002130000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Revista People investiga: Cultos</title>
-  </programme>
-<programme start="20231002130000 -0500" stop="20231002140000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231002074200 -0500" stop="20231002083400 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Joyas sobre ruedas</title>
   </programme>
-<programme start="20231002140000 -0500" stop="20231002150000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Carreras prohibidas</title>
+<programme start="20231002083400 -0500" stop="20231002091800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Leyendas urbanas</title>
   </programme>
-<programme start="20231002150000 -0500" stop="20231002160000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Texas Metal</title>
+<programme start="20231002091800 -0500" stop="20231002100200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Leyendas urbanas</title>
   </programme>
-<programme start="20231002160000 -0500" stop="20231002170000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos</title>
+<programme start="20231002100200 -0500" stop="20231002104700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Leyendas urbanas</title>
   </programme>
-<programme start="20231002170000 -0500" stop="20231002180000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Máquinas renovadas</title>
+<programme start="20231002104700 -0500" stop="20231002114100 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Cámara policial</title>
   </programme>
-<programme start="20231002180000 -0500" stop="20231002190000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Máquinas renovadas</title>
+<programme start="20231002114100 -0500" stop="20231002131700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Pesca mortal</title>
   </programme>
-<programme start="20231002190000 -0500" stop="20231002200000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos celebridades</title>
+<programme start="20231002131700 -0500" stop="20231002141400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Discovery Desafío X 2</title>
   </programme>
-<programme start="20231002200000 -0500" stop="20231002210000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Texas Metal</title>
+<programme start="20231002141400 -0500" stop="20231002151100 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Joyas Sobre Ruedas</title>
   </programme>
-<programme start="20231002210000 -0500" stop="20231002220000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos celebridades</title>
+<programme start="20231002151100 -0500" stop="20231002160800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Discovery Desafío X 2</title>
   </programme>
-<programme start="20231002220000 -0500" stop="20231002230000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Joyas sobre ruedas</title>
+<programme start="20231002160800 -0500" stop="20231002170600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas la granja Raney</title>
   </programme>
-<programme start="20231002230000 -0500" stop="20231003000000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Texas Metal</title>
+<programme start="20231002170600 -0500" stop="20231002180400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Suenos mecánicos</title>
   </programme>
-<programme start="20231003000000 -0500" stop="20231003010000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos celebridades</title>
+<programme start="20231002180400 -0500" stop="20231002190200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Joyas sobre ruedas el auto de tus suenos</title>
   </programme>
-<programme start="20231003010000 -0500" stop="20231003020000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Joyas sobre ruedas</title>
+<programme start="20231002190200 -0500" stop="20231002200000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Suenos mecánicos</title>
   </programme>
-<programme start="20231003020000 -0500" stop="20231003030000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Texas Metal</title>
+<programme start="20231002200000 -0500" stop="20231002205800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
   </programme>
-<programme start="20231003030000 -0500" stop="20231003040000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos celebridades</title>
+<programme start="20231002205800 -0500" stop="20231002215600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
   </programme>
-<programme start="20231003040000 -0500" stop="20231003050000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Mexicánicos celebridades</title>
+<programme start="20231002215600 -0500" stop="20231002225200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
   </programme>
-<programme start="20231003050000 -0500" stop="20231003060000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Máquinas renovadas</title>
+<programme start="20231002225200 -0500" stop="20231002234800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Suenos mecánicos</title>
   </programme>
-<programme start="20231003060000 -0500" stop="20231003070000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231002234800 -0500" stop="20231003003400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Joyas sobre ruedas el auto de tus suenos</title>
+  </programme>
+<programme start="20231003003400 -0500" stop="20231003012000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Discovery Desafío X 2</title>
+  </programme>
+<programme start="20231003012000 -0500" stop="20231003020600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
+  </programme>
+<programme start="20231003020600 -0500" stop="20231003025200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas la granja Raney</title>
+  </programme>
+<programme start="20231003025200 -0500" stop="20231003033700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
+  </programme>
+<programme start="20231003033700 -0500" stop="20231003040000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">¿Como lo hacen?</title>
+  </programme>
+<programme start="20231003040000 -0500" stop="20231003043000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+<programme start="20231003043000 -0500" stop="20231003051800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Alaska, la última frontera</title>
+  </programme>
+<programme start="20231003051800 -0500" stop="20231003060600 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Fiebre del oro</title>
   </programme>
-<programme start="20231003070000 -0500" stop="20231003080000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231003060600 -0500" stop="20231003065400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+<programme start="20231003065400 -0500" stop="20231003083400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+<programme start="20231003083400 -0500" stop="20231003093000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Guardianes del pantano</title>
+  </programme>
+<programme start="20231003093000 -0500" stop="20231003102600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Guardianes del pantano</title>
+  </programme>
+<programme start="20231003102600 -0500" stop="20231003112300 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Guardianes del pantano</title>
+  </programme>
+<programme start="20231003112300 -0500" stop="20231003122000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Cámara policial</title>
+  </programme>
+<programme start="20231003122000 -0500" stop="20231003131700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20231003131700 -0500" stop="20231003141400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Discovery Desafío X 2</title>
+  </programme>
+<programme start="20231003141400 -0500" stop="20231003151100 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Joyas Sobre Ruedas</title>
+  </programme>
+<programme start="20231003151100 -0500" stop="20231003160800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Discovery Desafío X 2</title>
+  </programme>
+<programme start="20231003160800 -0500" stop="20231003170600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Tiburon blanco vs. Mako</title>
+  </programme>
+<programme start="20231003170600 -0500" stop="20231003180400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Tiburones de Australia</title>
+  </programme>
+<programme start="20231003180400 -0500" stop="20231003190200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20231003190200 -0500" stop="20231003200000 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Alaska Hombres primitivos</title>
   </programme>
-<programme start="20231003080000 -0500" stop="20231003100000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231003200000 -0500" stop="20231003210800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo Brasil</title>
+  </programme>
+<programme start="20231003210800 -0500" stop="20231003220600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20231003220600 -0500" stop="20231003230200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Sabor a gol</title>
+  </programme>
+<programme start="20231003230200 -0500" stop="20231003235000 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Pesca mortal</title>
   </programme>
-<programme start="20231003100000 -0500" stop="20231003110000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231003235000 -0500" stop="20231004005400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo Brasil</title>
+  </programme>
+<programme start="20231004005400 -0500" stop="20231004014100 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20231004014100 -0500" stop="20231004020600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">¿Como lo hacen?</title>
+  </programme>
+<programme start="20231004020600 -0500" stop="20231004025200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Tiburones de Australia</title>
+  </programme>
+<programme start="20231004025200 -0500" stop="20231004033700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Alaska, la última frontera</title>
+  </programme>
+<programme start="20231004033700 -0500" stop="20231004040000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">¿Como lo hacen?</title>
+  </programme>
+<programme start="20231004040000 -0500" stop="20231004043000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+<programme start="20231004043000 -0500" stop="20231004051800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Alaska, la última frontera</title>
+  </programme>
+<programme start="20231004051800 -0500" stop="20231004060600 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Fiebre del oro</title>
   </programme>
-<programme start="20231003110000 -0500" stop="20231003113000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Control De Fronteras Espana</title>
+<programme start="20231004060600 -0500" stop="20231004065400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas</title>
   </programme>
-<programme start="20231003113000 -0500" stop="20231003120000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Control De Fronteras Espana</title>
+<programme start="20231004065400 -0500" stop="20231004074200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas</title>
   </programme>
-<programme start="20231003120000 -0500" stop="20231003130000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Revista People investiga: Cultos</title>
+<programme start="20231004074200 -0500" stop="20231004083400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Fiebre del oro río revuelto</title>
   </programme>
-<programme start="20231003130000 -0500" stop="20231003140000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Los fantasmas de Montana</title>
+<programme start="20231004083400 -0500" stop="20231004093100 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Patagonia al borde del mundo</title>
   </programme>
-<programme start="20231003140000 -0500" stop="20231003150000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Videos paranormales</title>
+<programme start="20231004093100 -0500" stop="20231004103000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Patagonia al borde del mundo</title>
   </programme>
-<programme start="20231003150000 -0500" stop="20231003160000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Bosques embrujados</title>
+<programme start="20231004103000 -0500" stop="20231004112900 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Patagonia al borde del mundo</title>
   </programme>
-<programme start="20231003160000 -0500" stop="20231003170000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Bosques embrujados</title>
+<programme start="20231004112900 -0500" stop="20231004122800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Cámara policial</title>
   </programme>
-<programme start="20231003170000 -0500" stop="20231003180000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Videos paranormales</title>
+<programme start="20231004122800 -0500" stop="20231004132700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Pesca mortal</title>
   </programme>
-<programme start="20231003180000 -0500" stop="20231003190000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Videos paranormales</title>
+<programme start="20231004132700 -0500" stop="20231004142600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Discovery Desafío X 2</title>
   </programme>
-<programme start="20231003190000 -0500" stop="20231003200000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Eli Roth: La legion de exorcistas</title>
+<programme start="20231004142600 -0500" stop="20231004152500 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Joyas Sobre Ruedas</title>
   </programme>
-<programme start="20231003200000 -0500" stop="20231003210000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Bosques embrujados</title>
+<programme start="20231004152500 -0500" stop="20231004162200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Discovery Desafío X 2</title>
   </programme>
-<programme start="20231003210000 -0500" stop="20231003220000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Bosques embrujados</title>
+<programme start="20231004162200 -0500" stop="20231004172000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Pesca mortal el regreso del vikingo</title>
   </programme>
-<programme start="20231003220000 -0500" stop="20231003230000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Los fantasmas de Montana</title>
+<programme start="20231004172000 -0500" stop="20231004181800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Pesca mortal el regreso del vikingo</title>
   </programme>
-<programme start="20231003230000 -0500" stop="20231004000000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Bosques embrujados</title>
+<programme start="20231004181800 -0500" stop="20231004200000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas</title>
   </programme>
-<programme start="20231004000000 -0500" stop="20231004010000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Bosques embrujados</title>
+<programme start="20231004200000 -0500" stop="20231004214200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
   </programme>
-<programme start="20231004010000 -0500" stop="20231004020000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Los fantasmas de Montana</title>
+<programme start="20231004214200 -0500" stop="20231004223800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo</title>
   </programme>
-<programme start="20231004020000 -0500" stop="20231004030000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Bosques embrujados</title>
+<programme start="20231004223800 -0500" stop="20231004233200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Fiebre del oro río revuelto</title>
   </programme>
-<programme start="20231004030000 -0500" stop="20231004040000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Bosques embrujados</title>
+<programme start="20231004233200 -0500" stop="20231005002400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Joyas Sobre Ruedas</title>
   </programme>
-<programme start="20231004040000 -0500" stop="20231004050000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Eli Roth: La legion de exorcistas</title>
+<programme start="20231005002400 -0500" stop="20231005012000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Pesca mortal el regreso del vikingo</title>
   </programme>
-<programme start="20231004050000 -0500" stop="20231004060000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Caso criminal</title>
+<programme start="20231005012000 -0500" stop="20231005020600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Pesca mortal el regreso del vikingo</title>
   </programme>
-<programme start="20231004060000 -0500" stop="20231004070000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231005020600 -0500" stop="20231005033700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Supervivencia al desnudo edicion extrema</title>
+  </programme>
+<programme start="20231005033700 -0500" stop="20231005040000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">¿Como lo hacen?</title>
+  </programme>
+<programme start="20231005040000 -0500" stop="20231005043000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Aeropuerto 24/7 Miami</title>
+  </programme>
+<programme start="20231005043000 -0500" stop="20231005051800 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Alaska, la última frontera</title>
+  </programme>
+<programme start="20231005051800 -0500" stop="20231005060600 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Fiebre del oro</title>
   </programme>
-<programme start="20231004070000 -0500" stop="20231004080000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Alaska Hombres primitivos</title>
+<programme start="20231005060600 -0500" stop="20231005065400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas</title>
   </programme>
-<programme start="20231004080000 -0500" stop="20231004090000 -0500" channel="Canal Discovery en Espanol">
+<programme start="20231005065400 -0500" stop="20231005074200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+<programme start="20231005074200 -0500" stop="20231005083400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Suenos mecánicos</title>
+  </programme>
+<programme start="20231005083400 -0500" stop="20231005093200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">La reina de la metanfetamina</title>
+  </programme>
+<programme start="20231005093200 -0500" stop="20231005103100 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">La reina de la metanfetamina</title>
+  </programme>
+<programme start="20231005103100 -0500" stop="20231005113000 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">La reina de la metanfetamina</title>
+  </programme>
+<programme start="20231005113000 -0500" stop="20231005122900 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Cámara policial</title>
+  </programme>
+<programme start="20231005122900 -0500" stop="20231005132800 -0500" channel="Canal Discovery Channel (Venezuela)">
     <title lang="es">Pesca mortal</title>
   </programme>
-<programme start="20231004090000 -0500" stop="20231004100000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Pesca mortal</title>
+<programme start="20231005132800 -0500" stop="20231005142700 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Discovery Desafío X 2</title>
   </programme>
-<programme start="20231004100000 -0500" stop="20231004110000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Fiebre del oro: En pandemia</title>
+<programme start="20231005142700 -0500" stop="20231005152600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Wheeler Dealers</title>
   </programme>
-<programme start="20231004110000 -0500" stop="20231004113000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Control De Fronteras Espana</title>
+<programme start="20231005152600 -0500" stop="20231005170600 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Vidas remotas</title>
   </programme>
-<programme start="20231004113000 -0500" stop="20231004120000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Control De Fronteras Espana</title>
+<programme start="20231005170600 -0500" stop="20231005180400 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Patagonia al borde del mundo</title>
   </programme>
-<programme start="20231004120000 -0500" stop="20231004130000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Revista People investiga: Cultos</title>
-  </programme>
-<programme start="20231004130000 -0500" stop="20231004140000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Más allá de la duda</title>
-  </programme>
-<programme start="20231004140000 -0500" stop="20231004150000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">La casa del mal</title>
-  </programme>
-<programme start="20231004150000 -0500" stop="20231004160000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">La casa del mal</title>
-  </programme>
-<programme start="20231004160000 -0500" stop="20231004170000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">La casa del mal</title>
-  </programme>
-<programme start="20231004170000 -0500" stop="20231004180000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">La casa del mal</title>
-  </programme>
-<programme start="20231004180000 -0500" stop="20231004190000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">La casa del mal</title>
-  </programme>
-<programme start="20231004190000 -0500" stop="20231004200000 -0500" channel="Canal Discovery en Espanol">
-    <title lang="es">Justicia por mano propia</title>
+<programme start="20231005180400 -0500" stop="20231005190200 -0500" channel="Canal Discovery Channel (Venezuela)">
+    <title lang="es">Tarzán americano</title>
   </programme>
 <programme start="20230930225400 -0500" stop="20231001004200 -0500" channel="Canal Discovery Channel (Mexico)">
     <title lang="es">Supervivencia al desnudo</title>
@@ -50755,126 +50845,6 @@ En Vivo</title>
 <programme start="20231001234800 -0300" stop="20231002004800 -0300" channel="FOOD NETWORK">
     <title lang="es">Sabor a gol</title>
   </programme>
-<programme start="20231002004800 -0300" stop="20231002011400 -0300" channel="FOOD NETWORK">
-    <title lang="es">Bobby y Damaris: comida entre amigos</title>
-  </programme>
-<programme start="20231002011400 -0300" stop="20231002020200 -0300" channel="FOOD NETWORK">
-    <title lang="es">Se busca un chef con Anne Burrell</title>
-  </programme>
-<programme start="20231002020200 -0300" stop="20231002025200 -0300" channel="FOOD NETWORK">
-    <title lang="es">Otra copa con Jack Maxwell</title>
-  </programme>
-<programme start="20231002025200 -0300" stop="20231002034200 -0300" channel="FOOD NETWORK">
-    <title lang="es">Bobby y Sophie en California</title>
-  </programme>
-<programme start="20231002034200 -0300" stop="20231002043200 -0300" channel="FOOD NETWORK">
-    <title lang="es">CompliPlatos</title>
-  </programme>
-<programme start="20231002043200 -0300" stop="20231002045400 -0300" channel="FOOD NETWORK">
-    <title lang="es">Sabores de Italia</title>
-  </programme>
-<programme start="20231002045400 -0300" stop="20231002051600 -0300" channel="FOOD NETWORK">
-    <title lang="es">Cocina en la granja</title>
-  </programme>
-<programme start="20231002051600 -0300" stop="20231002060000 -0300" channel="FOOD NETWORK">
-    <title lang="es">Chopped</title>
-  </programme>
-<programme start="20231002060000 -0300" stop="20231002062200 -0300" channel="FOOD NETWORK">
-    <title lang="es">Recetas en 30 minutos</title>
-  </programme>
-<programme start="20231002062200 -0300" stop="20231002064400 -0300" channel="FOOD NETWORK">
-    <title lang="es">Recetas en 30 minutos</title>
-  </programme>
-<programme start="20231002064400 -0300" stop="20231002070600 -0300" channel="FOOD NETWORK">
-    <title lang="es">Rutas parrilleras</title>
-  </programme>
-<programme start="20231002070600 -0300" stop="20231002072800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Cocina en la granja</title>
-  </programme>
-<programme start="20231002072800 -0300" stop="20231002075000 -0300" channel="FOOD NETWORK">
-    <title lang="es">Rutas parrilleras</title>
-  </programme>
-<programme start="20231002075000 -0300" stop="20231002081200 -0300" channel="FOOD NETWORK">
-    <title lang="es">Delicias en precio</title>
-  </programme>
-<programme start="20231002081200 -0300" stop="20231002085600 -0300" channel="FOOD NETWORK">
-    <title lang="es">Rescata mi restaurante</title>
-  </programme>
-<programme start="20231002085600 -0300" stop="20231002094000 -0300" channel="FOOD NETWORK">
-    <title lang="es">El pastel imbatible</title>
-  </programme>
-<programme start="20231002094000 -0300" stop="20231002100400 -0300" channel="FOOD NETWORK">
-    <title lang="es">Sabores de Italia</title>
-  </programme>
-<programme start="20231002100400 -0300" stop="20231002102800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Destino con sabor</title>
-  </programme>
-<programme start="20231002102800 -0300" stop="20231002111800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Campeonato de reposteros: Halloween</title>
-  </programme>
-<programme start="20231002111800 -0300" stop="20231002114300 -0300" channel="FOOD NETWORK">
-    <title lang="es">Cake Boss</title>
-  </programme>
-<programme start="20231002114300 -0300" stop="20231002123300 -0300" channel="FOOD NETWORK">
-    <title lang="es">Guerras de Halloween</title>
-  </programme>
-<programme start="20231002123300 -0300" stop="20231002132300 -0300" channel="FOOD NETWORK">
-    <title lang="es">CompliPlatos</title>
-  </programme>
-<programme start="20231002132300 -0300" stop="20231002134800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Hornea como Buddy</title>
-  </programme>
-<programme start="20231002134800 -0300" stop="20231002141300 -0300" channel="FOOD NETWORK">
-    <title lang="es">Sabores de Italia</title>
-  </programme>
-<programme start="20231002141300 -0300" stop="20231002143800 -0300" channel="FOOD NETWORK">
-    <title lang="es">El rey del sándwich</title>
-  </programme>
-<programme start="20231002143800 -0300" stop="20231002152800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Campeonato de reposteros: Halloween</title>
-  </programme>
-<programme start="20231002152800 -0300" stop="20231002161800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Chopped</title>
-  </programme>
-<programme start="20231002161800 -0300" stop="20231002170800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Guerras de Halloween</title>
-  </programme>
-<programme start="20231002170800 -0300" stop="20231002173300 -0300" channel="FOOD NETWORK">
-    <title lang="es">Giada en casa</title>
-  </programme>
-<programme start="20231002173300 -0300" stop="20231002175800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Cocina en la granja</title>
-  </programme>
-<programme start="20231002175800 -0300" stop="20231002184800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Guerras de Halloween</title>
-  </programme>
-<programme start="20231002184800 -0300" stop="20231002191300 -0300" channel="FOOD NETWORK">
-    <title lang="es">Sabores de Italia</title>
-  </programme>
-<programme start="20231002191300 -0300" stop="20231002193800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Hornea como Buddy</title>
-  </programme>
-<programme start="20231002193800 -0300" stop="20231002202800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Campeonato de reposteros: Halloween</title>
-  </programme>
-<programme start="20231002202800 -0300" stop="20231002205300 -0300" channel="FOOD NETWORK">
-    <title lang="es">Consejos de Giada para las fiestas</title>
-  </programme>
-<programme start="20231002205300 -0300" stop="20231002211800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Giada en casa</title>
-  </programme>
-<programme start="20231002211800 -0300" stop="20231002220800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Guerras de Halloween</title>
-  </programme>
-<programme start="20231002220800 -0300" stop="20231002223300 -0300" channel="FOOD NETWORK">
-    <title lang="es">Cocina en la granja</title>
-  </programme>
-<programme start="20231002223300 -0300" stop="20231002225800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Celebraciones con Patricia Heaton</title>
-  </programme>
-<programme start="20231002225800 -0300" stop="20231002235800 -0300" channel="FOOD NETWORK">
-    <title lang="es">Sabor a gol</title>
-  </programme>
 <programme start="20231002235800 -0300" stop="20231003002600 -0300" channel="FOOD NETWORK">
     <title lang="es">Cocina en la granja</title>
   </programme>
@@ -66314,54 +66284,6 @@ En Vivo</title>
     <title lang="es">Rock Me</title>
   </programme>
 <programme start="20231003030000 -0300" stop="20231003060000 -0300" channel="TELEHIT HD">
-    <title lang="es">Playlist Telehit Urbano</title>
-  </programme>
-<programme start="20231003060000 -0300" stop="20231003070000 -0300" channel="TELEHIT HD">
-    <title lang="es">Fcking Love Plus</title>
-  </programme>
-<programme start="20231003070000 -0300" stop="20231003080000 -0300" channel="TELEHIT HD">
-    <title lang="es">La calle suena</title>
-  </programme>
-<programme start="20231003080000 -0300" stop="20231003090000 -0300" channel="TELEHIT HD">
-    <title lang="es">Rock Me</title>
-  </programme>
-<programme start="20231003090000 -0300" stop="20231003120000 -0300" channel="TELEHIT HD">
-    <title lang="es">Playlist Telehit Urbano</title>
-  </programme>
-<programme start="20231003120000 -0300" stop="20231003130000 -0300" channel="TELEHIT HD">
-    <title lang="es">Fcking Love Plus</title>
-  </programme>
-<programme start="20231003130000 -0300" stop="20231003140000 -0300" channel="TELEHIT HD">
-    <title lang="es">La calle suena</title>
-  </programme>
-<programme start="20231003140000 -0300" stop="20231003150000 -0300" channel="TELEHIT HD">
-    <title lang="es">Rock Me</title>
-  </programme>
-<programme start="20231003150000 -0300" stop="20231003180000 -0300" channel="TELEHIT HD">
-    <title lang="es">Playlist Telehit Urbano</title>
-  </programme>
-<programme start="20231003180000 -0300" stop="20231003190000 -0300" channel="TELEHIT HD">
-    <title lang="es">Fcking Love Plus</title>
-  </programme>
-<programme start="20231003190000 -0300" stop="20231003200000 -0300" channel="TELEHIT HD">
-    <title lang="es">La calle suena</title>
-  </programme>
-<programme start="20231003200000 -0300" stop="20231003210000 -0300" channel="TELEHIT HD">
-    <title lang="es">Rock Me</title>
-  </programme>
-<programme start="20231003210000 -0300" stop="20231004000000 -0300" channel="TELEHIT HD">
-    <title lang="es">Playlist Telehit Urbano</title>
-  </programme>
-<programme start="20231004000000 -0300" stop="20231004010000 -0300" channel="TELEHIT HD">
-    <title lang="es">Fcking Love Plus</title>
-  </programme>
-<programme start="20231004010000 -0300" stop="20231004020000 -0300" channel="TELEHIT HD">
-    <title lang="es">La calle suena</title>
-  </programme>
-<programme start="20231004020000 -0300" stop="20231004030000 -0300" channel="TELEHIT HD">
-    <title lang="es">Rock Me</title>
-  </programme>
-<programme start="20231004030000 -0300" stop="20231004060000 -0300" channel="TELEHIT HD">
     <title lang="es">Playlist Telehit Urbano</title>
   </programme>
 <programme start="20230930230000 -0300" stop="20231001000000 -0300" channel="Vh1">
