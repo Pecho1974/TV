@@ -1215,6 +1215,11 @@
     <icon src="https://pelisimg.online/cover/the-bear-2-1669012806.jpg"/>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="THECON1X01">
+    <display-name lang="es">The Continental: Del universo de John Wick 1X01</display-name>
+    <icon src="https://pics.filmaffinity.com/the_continental_from_the_world_of_john_wick_aka_the_continental-747506643-mmed.jpg"/>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="THEFAL1X01">
     <display-name lang="es">The Falcon and the Winter Soldier 1X01</display-name>
     <icon src="https://pelisimg.online/cover/the-falcon-and-the-winter-soldier-2-1616164442.jpg"/>
@@ -2735,6 +2740,10 @@
   </programme>
   <programme channel="THEBEA2X10">
     <title>The Bear 2X10</title>
+    <desc></desc>
+  </programme>
+  <programme channel="THECON1X01">
+    <title>The Continental: Del universo de John Wick 1X01</title>
     <desc></desc>
   </programme>
   <programme channel="THEFAL1X01">
