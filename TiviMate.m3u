@@ -954,6 +954,8 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="Internacional",TVM Internacional
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal TVN (Chile)" tvg-name="Canal TVN (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.png/600px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.png" group-title="Internacional",Canal TVN (Chile)
+http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/18611.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/b2YH4Wk/tvu.jpg" group-title="Internacional",TVU (Bolivia)
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/Logo-UCL-TV-LATAM-horizontal-1536x922.png" group-title="Internacional",UCL
