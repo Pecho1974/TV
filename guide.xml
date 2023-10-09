@@ -1198,6 +1198,11 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/CARTOON NETWORK.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
+  <channel id="CARTOON NETWORK HD">
+    <display-name lang="es">CARTOON NETWORK HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/CARTOON NETWORK HD.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
   <channel id="BOOMERANG">
     <display-name lang="es">BOOMERANG</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/BOOMERANG.png" />
@@ -1223,19 +1228,24 @@
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Disney Junior.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
-  <channel id="Nick Jr">
-    <display-name lang="es">Nick Jr</display-name>
-    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nick Jr.png" />
-    <url>http://www.telered.com.ar</url>
-  </channel>
   <channel id="Nick Jr HD">
     <display-name lang="es">Nick Jr HD</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nick Jr HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
+  <channel id="Nick Jr">
+    <display-name lang="es">Nick Jr</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nick Jr.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
   <channel id="Nickelodeon">
     <display-name lang="es">Nickelodeon</display-name>
     <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nickelodeon.png" />
+    <url>http://www.telered.com.ar</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="es">Nickelodeon HD</display-name>
+    <icon src="https://raw.githubusercontent.com/Pecho1974/Logos/main/Nickelodeon HD.png" />
     <url>http://www.telered.com.ar</url>
   </channel>
   <channel id="PAKA PAKA">
@@ -42326,45 +42336,6 @@ En Vivo</title>
 <programme start="20231009220000 -0300" stop="20231010000500 -0300" channel="Cinemax HD">
     <title lang="es">Annabelle</title>
   </programme>
-<programme start="20231010000500 -0300" stop="20231010022000 -0300" channel="Cinemax HD">
-    <title lang="es">Annabelle vuelve a casa</title>
-  </programme>
-<programme start="20231010022000 -0300" stop="20231010040100 -0300" channel="Cinemax HD">
-    <title lang="es">La cosa</title>
-  </programme>
-<programme start="20231010040100 -0300" stop="20231010054200 -0300" channel="Cinemax HD">
-    <title lang="es">Annabelle</title>
-  </programme>
-<programme start="20231010054200 -0300" stop="20231010060000 -0300" channel="Cinemax HD">
-    <title lang="es">Annabelle vuelve a casa</title>
-  </programme>
-<programme start="20231010060000 -0300" stop="20231010062300 -0300" channel="Cinemax HD">
-    <title lang="es">Amando</title>
-  </programme>
-<programme start="20231010062300 -0300" stop="20231010081800 -0300" channel="Cinemax HD">
-    <title lang="es">Cirque du Freak: el aprendiz de vampiro</title>
-  </programme>
-<programme start="20231010081800 -0300" stop="20231010102300 -0300" channel="Cinemax HD">
-    <title lang="es">Hellboy 2: El ejercito dorado</title>
-  </programme>
-<programme start="20231010102300 -0300" stop="20231010123800 -0300" channel="Cinemax HD">
-    <title lang="es">El cazador y la reina de hielo</title>
-  </programme>
-<programme start="20231010123800 -0300" stop="20231010150200 -0300" channel="Cinemax HD">
-    <title lang="es">Amando</title>
-  </programme>
-<programme start="20231010150200 -0300" stop="20231010170700 -0300" channel="Cinemax HD">
-    <title lang="es">Cirque du Freak: el aprendiz de vampiro</title>
-  </programme>
-<programme start="20231010170700 -0300" stop="20231010192700 -0300" channel="Cinemax HD">
-    <title lang="es">Hellboy 2: El ejercito dorado</title>
-  </programme>
-<programme start="20231010192700 -0300" stop="20231010220000 -0300" channel="Cinemax HD">
-    <title lang="es">El cazador y la reina de hielo</title>
-  </programme>
-<programme start="20231010220000 -0300" stop="20231011002600 -0300" channel="Cinemax HD">
-    <title lang="es">El conjuro</title>
-  </programme>
 <programme start="20231008225500 -0300" stop="20231009003500 -0300" channel="Comedy Central HD">
     <title lang="es">Amityville: el despertar</title>
   </programme>
@@ -54302,6 +54273,699 @@ En Vivo</title>
 <programme start="20231011000000 -0300" stop="20231011001000 -0300" channel="CARTOON NETWORK">
     <title lang="es">Hora de aventura</title>
   </programme>
+<programme start="20231008235000 -0300" stop="20231009000000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Un show más</title>
+  </programme>
+<programme start="20231009000000 -0300" stop="20231009010000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Cartoon Network</title>
+  </programme>
+<programme start="20231009010000 -0300" stop="20231009011000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009011000 -0300" stop="20231009012000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009012000 -0300" stop="20231009013000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009013000 -0300" stop="20231009014000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009014000 -0300" stop="20231009015000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009015000 -0300" stop="20231009020000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009020000 -0300" stop="20231009021200 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009021200 -0300" stop="20231009022400 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009022400 -0300" stop="20231009023600 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009023600 -0300" stop="20231009024800 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009024800 -0300" stop="20231009030000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009030000 -0300" stop="20231009031000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231009031000 -0300" stop="20231009032000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231009032000 -0300" stop="20231009033000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231009033000 -0300" stop="20231009034000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231009034000 -0300" stop="20231009035000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231009035000 -0300" stop="20231009040000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231009040000 -0300" stop="20231009041000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009041000 -0300" stop="20231009042000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009042000 -0300" stop="20231009043000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009043000 -0300" stop="20231009044000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009044000 -0300" stop="20231009045000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009045000 -0300" stop="20231009050000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009050000 -0300" stop="20231009051000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009051000 -0300" stop="20231009052000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009052000 -0300" stop="20231009053000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009053000 -0300" stop="20231009054000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009054000 -0300" stop="20231009055000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009055000 -0300" stop="20231009060000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009060000 -0300" stop="20231009061500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009061500 -0300" stop="20231009063000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009063000 -0300" stop="20231009064500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009064500 -0300" stop="20231009070000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009070000 -0300" stop="20231009071000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009071000 -0300" stop="20231009072000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009072000 -0300" stop="20231009073000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009073000 -0300" stop="20231009074000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231009074000 -0300" stop="20231009075000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231009075000 -0300" stop="20231009080000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231009080000 -0300" stop="20231009081000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009081000 -0300" stop="20231009082000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009082000 -0300" stop="20231009083000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009083000 -0300" stop="20231009084000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009084000 -0300" stop="20231009085000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009085000 -0300" stop="20231009090000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009090000 -0300" stop="20231009091500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Clarence</title>
+  </programme>
+<programme start="20231009091500 -0300" stop="20231009093000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Clarence</title>
+  </programme>
+<programme start="20231009093000 -0300" stop="20231009094000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231009094000 -0300" stop="20231009095000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231009095000 -0300" stop="20231009100000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231009100000 -0300" stop="20231009101000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009101000 -0300" stop="20231009102000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009102000 -0300" stop="20231009103000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009103000 -0300" stop="20231009104000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009104000 -0300" stop="20231009105000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009105000 -0300" stop="20231009110000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009110000 -0300" stop="20231009120000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Cartoon Network</title>
+  </programme>
+<programme start="20231009120000 -0300" stop="20231009121000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009121000 -0300" stop="20231009122000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009122000 -0300" stop="20231009123000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009123000 -0300" stop="20231009124000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231009124000 -0300" stop="20231009125000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231009125000 -0300" stop="20231009130000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231009130000 -0300" stop="20231009131500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Gato Galáctico</title>
+  </programme>
+<programme start="20231009131500 -0300" stop="20231009133000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El árbol familiar de Los Croods</title>
+  </programme>
+<programme start="20231009133000 -0300" stop="20231009134000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009134000 -0300" stop="20231009135000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009135000 -0300" stop="20231009140000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009140000 -0300" stop="20231009141000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009141000 -0300" stop="20231009142000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009142000 -0300" stop="20231009143000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009143000 -0300" stop="20231009144000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+<programme start="20231009144000 -0300" stop="20231009145000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+<programme start="20231009145000 -0300" stop="20231009150000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+<programme start="20231009150000 -0300" stop="20231009151000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009151000 -0300" stop="20231009152000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009152000 -0300" stop="20231009153000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009153000 -0300" stop="20231009154000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009154000 -0300" stop="20231009155000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009155000 -0300" stop="20231009160000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231009160000 -0300" stop="20231009163000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Isla del drama</title>
+  </programme>
+<programme start="20231009163000 -0300" stop="20231009164500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Clarence</title>
+  </programme>
+<programme start="20231009164500 -0300" stop="20231009170000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Clarence</title>
+  </programme>
+<programme start="20231009170000 -0300" stop="20231009171500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231009171500 -0300" stop="20231009173000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231009173000 -0300" stop="20231009174500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231009174500 -0300" stop="20231009180000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231009180000 -0300" stop="20231009183000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Animaníacs</title>
+  </programme>
+<programme start="20231009183000 -0300" stop="20231009184000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalositos</title>
+  </programme>
+<programme start="20231009184000 -0300" stop="20231009185000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalositos</title>
+  </programme>
+<programme start="20231009185000 -0300" stop="20231009190000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalositos</title>
+  </programme>
+<programme start="20231009190000 -0300" stop="20231009191000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009191000 -0300" stop="20231009192000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009192000 -0300" stop="20231009193000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009193000 -0300" stop="20231009194000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009194000 -0300" stop="20231009195000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009195000 -0300" stop="20231009200000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231009200000 -0300" stop="20231009220000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231009220000 -0300" stop="20231009230000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Cartoon Network</title>
+  </programme>
+<programme start="20231009230000 -0300" stop="20231009231000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009231000 -0300" stop="20231009232000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009232000 -0300" stop="20231009233000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009233000 -0300" stop="20231009234000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009234000 -0300" stop="20231009235000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231009235000 -0300" stop="20231010000000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010000000 -0300" stop="20231010001000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Hora de aventura</title>
+  </programme>
+<programme start="20231010001000 -0300" stop="20231010002000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Hora de aventura</title>
+  </programme>
+<programme start="20231010002000 -0300" stop="20231010003000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Hora de aventura</title>
+  </programme>
+<programme start="20231010003000 -0300" stop="20231010004000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Un show más</title>
+  </programme>
+<programme start="20231010004000 -0300" stop="20231010005000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Un show más</title>
+  </programme>
+<programme start="20231010005000 -0300" stop="20231010010000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Un show más</title>
+  </programme>
+<programme start="20231010010000 -0300" stop="20231010011000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010011000 -0300" stop="20231010012000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010012000 -0300" stop="20231010013000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010013000 -0300" stop="20231010014000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010014000 -0300" stop="20231010015000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010015000 -0300" stop="20231010020000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010020000 -0300" stop="20231010021000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010021000 -0300" stop="20231010022000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010022000 -0300" stop="20231010023000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010023000 -0300" stop="20231010024000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010024000 -0300" stop="20231010025000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010025000 -0300" stop="20231010030000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010030000 -0300" stop="20231010031000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231010031000 -0300" stop="20231010032000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231010032000 -0300" stop="20231010033000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231010033000 -0300" stop="20231010034000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231010034000 -0300" stop="20231010035000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231010035000 -0300" stop="20231010040000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Steven Universe</title>
+  </programme>
+<programme start="20231010040000 -0300" stop="20231010041000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010041000 -0300" stop="20231010042000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010042000 -0300" stop="20231010043000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010043000 -0300" stop="20231010044000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010044000 -0300" stop="20231010045000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010045000 -0300" stop="20231010050000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010050000 -0300" stop="20231010051000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010051000 -0300" stop="20231010052000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010052000 -0300" stop="20231010053000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010053000 -0300" stop="20231010054000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010054000 -0300" stop="20231010055000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010055000 -0300" stop="20231010060000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010060000 -0300" stop="20231010061000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010061000 -0300" stop="20231010062000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010062000 -0300" stop="20231010063000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010063000 -0300" stop="20231010064000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010064000 -0300" stop="20231010065000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010065000 -0300" stop="20231010070000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010070000 -0300" stop="20231010071000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010071000 -0300" stop="20231010072000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010072000 -0300" stop="20231010073000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010073000 -0300" stop="20231010074000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231010074000 -0300" stop="20231010075000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231010075000 -0300" stop="20231010080000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231010080000 -0300" stop="20231010081000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010081000 -0300" stop="20231010082000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010082000 -0300" stop="20231010083000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010083000 -0300" stop="20231010084000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010084000 -0300" stop="20231010085000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010085000 -0300" stop="20231010090000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010090000 -0300" stop="20231010091500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Clarence</title>
+  </programme>
+<programme start="20231010091500 -0300" stop="20231010093000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Clarence</title>
+  </programme>
+<programme start="20231010093000 -0300" stop="20231010094000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231010094000 -0300" stop="20231010095000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231010095000 -0300" stop="20231010100000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231010100000 -0300" stop="20231010101000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010101000 -0300" stop="20231010102000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010102000 -0300" stop="20231010103000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010103000 -0300" stop="20231010104000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010104000 -0300" stop="20231010105000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010105000 -0300" stop="20231010110000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010110000 -0300" stop="20231010120000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Cartoon Network</title>
+  </programme>
+<programme start="20231010120000 -0300" stop="20231010121000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010121000 -0300" stop="20231010122000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010122000 -0300" stop="20231010123000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010123000 -0300" stop="20231010124000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231010124000 -0300" stop="20231010125000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231010125000 -0300" stop="20231010130000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+<programme start="20231010130000 -0300" stop="20231010131500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Gato Galáctico</title>
+  </programme>
+<programme start="20231010131500 -0300" stop="20231010133000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El árbol familiar de Los Croods</title>
+  </programme>
+<programme start="20231010133000 -0300" stop="20231010134000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010134000 -0300" stop="20231010135000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010135000 -0300" stop="20231010140000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010140000 -0300" stop="20231010141000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010141000 -0300" stop="20231010142000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010142000 -0300" stop="20231010143000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010143000 -0300" stop="20231010144000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+<programme start="20231010144000 -0300" stop="20231010145000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+<programme start="20231010145000 -0300" stop="20231010150000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Campamento de verano</title>
+  </programme>
+<programme start="20231010150000 -0300" stop="20231010151000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010151000 -0300" stop="20231010152000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010152000 -0300" stop="20231010153000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010153000 -0300" stop="20231010154000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010154000 -0300" stop="20231010155000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010155000 -0300" stop="20231010160000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El increíble mundo de Gumball</title>
+  </programme>
+<programme start="20231010160000 -0300" stop="20231010163000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Isla del drama</title>
+  </programme>
+<programme start="20231010163000 -0300" stop="20231010164500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Clarence</title>
+  </programme>
+<programme start="20231010164500 -0300" stop="20231010170000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Clarence</title>
+  </programme>
+<programme start="20231010170000 -0300" stop="20231010171000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231010171000 -0300" stop="20231010172000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231010172000 -0300" stop="20231010173000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231010173000 -0300" stop="20231010174000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231010174000 -0300" stop="20231010175000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231010175000 -0300" stop="20231010180000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+<programme start="20231010180000 -0300" stop="20231010183000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Animaníacs</title>
+  </programme>
+<programme start="20231010183000 -0300" stop="20231010184500 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalositos</title>
+  </programme>
+<programme start="20231010184500 -0300" stop="20231010190000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalositos</title>
+  </programme>
+<programme start="20231010190000 -0300" stop="20231010191200 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010191200 -0300" stop="20231010192400 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010192400 -0300" stop="20231010193600 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010193600 -0300" stop="20231010194800 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010194800 -0300" stop="20231010200000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+<programme start="20231010200000 -0300" stop="20231010201200 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010201200 -0300" stop="20231010202400 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010202400 -0300" stop="20231010203600 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010203600 -0300" stop="20231010204800 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010204800 -0300" stop="20231010210000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010210000 -0300" stop="20231010211200 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010211200 -0300" stop="20231010212400 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010212400 -0300" stop="20231010213600 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010213600 -0300" stop="20231010214800 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010214800 -0300" stop="20231010220000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Los Jovenes Titanes en accion</title>
+  </programme>
+<programme start="20231010220000 -0300" stop="20231010230000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Cartoon Network</title>
+  </programme>
+<programme start="20231010230000 -0300" stop="20231010231000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010231000 -0300" stop="20231010232000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010232000 -0300" stop="20231010233000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010233000 -0300" stop="20231010234000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010234000 -0300" stop="20231010235000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231010235000 -0300" stop="20231011000000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Drama total: la guardería</title>
+  </programme>
+<programme start="20231011000000 -0300" stop="20231011001000 -0300" channel="CARTOON NETWORK HD">
+    <title lang="es">Hora de aventura</title>
+  </programme>
 <programme start="20231008235500 -0300" stop="20231009000000 -0300" channel="BOOMERANG">
     <title lang="es">Lu y sus amigos</title>
   </programme>
@@ -55722,43 +56386,43 @@ En Vivo</title>
     <title lang="es">Underdogs United</title>
   </programme>
 <programme start="20231008233000 -0300" stop="20231009000000 -0300" channel="Disney Channel">
-    <title lang="es">Gravity Falls: un verano de misterios</title>
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
   </programme>
 <programme start="20231009000000 -0300" stop="20231009003000 -0300" channel="Disney Channel">
-    <title lang="es">A todo ritmo</title>
+    <title lang="es">Austin y Ally</title>
   </programme>
 <programme start="20231009003000 -0300" stop="20231009010000 -0300" channel="Disney Channel">
-    <title lang="es">A todo ritmo</title>
+    <title lang="es">Austin y Ally</title>
   </programme>
 <programme start="20231009010000 -0300" stop="20231009013000 -0300" channel="Disney Channel">
-    <title lang="es">Agente KC</title>
+    <title lang="es">Andi Mack</title>
   </programme>
 <programme start="20231009013000 -0300" stop="20231009020000 -0300" channel="Disney Channel">
-    <title lang="es">Agente KC</title>
+    <title lang="es">Andi Mack</title>
   </programme>
 <programme start="20231009020000 -0300" stop="20231009023000 -0300" channel="Disney Channel">
-    <title lang="es">Los Green en la gran ciudad</title>
+    <title lang="es">Star vs. Las fuerzas del mal</title>
   </programme>
 <programme start="20231009023000 -0300" stop="20231009030000 -0300" channel="Disney Channel">
-    <title lang="es">Jessie</title>
+    <title lang="es">Gabby Duran: ninera de aliens</title>
   </programme>
 <programme start="20231009030000 -0300" stop="20231009033000 -0300" channel="Disney Channel">
-    <title lang="es">Acampados</title>
+    <title lang="es">Los hechiceros de Waverly Place</title>
   </programme>
 <programme start="20231009033000 -0300" stop="20231009040000 -0300" channel="Disney Channel">
     <title lang="es">La casa de Raven</title>
   </programme>
 <programme start="20231009040000 -0300" stop="20231009043000 -0300" channel="Disney Channel">
-    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+    <title lang="es">Acampados</title>
   </programme>
 <programme start="20231009043000 -0300" stop="20231009050000 -0300" channel="Disney Channel">
-    <title lang="es">Anfibilandia</title>
+    <title lang="es">Gravity Falls: un verano de misterios</title>
   </programme>
 <programme start="20231009050000 -0300" stop="20231009053000 -0300" channel="Disney Channel">
-    <title lang="es">The Owl House</title>
+    <title lang="es">Star vs. Las fuerzas del mal</title>
   </programme>
 <programme start="20231009053000 -0300" stop="20231009060000 -0300" channel="Disney Channel">
-    <title lang="es">Phineas y Ferb</title>
+    <title lang="es">Los Green en la gran ciudad</title>
   </programme>
 <programme start="20231009060000 -0300" stop="20231009063000 -0300" channel="Disney Channel">
     <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
@@ -55808,29 +56472,35 @@ En Vivo</title>
 <programme start="20231009103000 -0300" stop="20231009110000 -0300" channel="Disney Channel">
     <title lang="es">The Owl House</title>
   </programme>
-<programme start="20231009110000 -0300" stop="20231009124500 -0300" channel="Disney Channel">
-    <title lang="es">Ainbo: La guerrera del Amazonas</title>
+<programme start="20231009110000 -0300" stop="20231009113000 -0300" channel="Disney Channel">
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
   </programme>
-<programme start="20231009124500 -0300" stop="20231009130000 -0300" channel="Disney Channel">
+<programme start="20231009113000 -0300" stop="20231009120000 -0300" channel="Disney Channel">
     <title lang="es">Star vs. Las fuerzas del mal</title>
   </programme>
+<programme start="20231009120000 -0300" stop="20231009123000 -0300" channel="Disney Channel">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+<programme start="20231009123000 -0300" stop="20231009130000 -0300" channel="Disney Channel">
+    <title lang="es">La familia Proud</title>
+  </programme>
 <programme start="20231009130000 -0300" stop="20231009133000 -0300" channel="Disney Channel">
-    <title lang="es">Liv y Maddie</title>
+    <title lang="es">Zack y Cody: gemelos en accion</title>
   </programme>
 <programme start="20231009133000 -0300" stop="20231009140000 -0300" channel="Disney Channel">
-    <title lang="es">Programa de talentos</title>
+    <title lang="es">Sunny, entre estrellas</title>
   </programme>
 <programme start="20231009140000 -0300" stop="20231009143000 -0300" channel="Disney Channel">
-    <title lang="es">Los hechiceros de Waverly Place</title>
+    <title lang="es">Agente KC</title>
   </programme>
 <programme start="20231009143000 -0300" stop="20231009150000 -0300" channel="Disney Channel">
-    <title lang="es">Es tan Raven</title>
+    <title lang="es">A todo ritmo</title>
   </programme>
-<programme start="20231009150000 -0300" stop="20231009153000 -0300" channel="Disney Channel">
-    <title lang="es">Gravity Falls: un verano de misterios</title>
+<programme start="20231009150000 -0300" stop="20231009154500 -0300" channel="Disney Channel">
+    <title lang="es">Disney 100: Remember That</title>
   </programme>
-<programme start="20231009153000 -0300" stop="20231009160000 -0300" channel="Disney Channel">
-    <title lang="es">Gabby Duran: ninera de aliens</title>
+<programme start="20231009154500 -0300" stop="20231009160000 -0300" channel="Disney Channel">
+    <title lang="es">Los Green en la gran ciudad</title>
   </programme>
 <programme start="20231009160000 -0300" stop="20231009163000 -0300" channel="Disney Channel">
     <title lang="es">Los hechiceros de Waverly Place</title>
@@ -55856,11 +56526,23 @@ En Vivo</title>
 <programme start="20231009193000 -0300" stop="20231009200000 -0300" channel="Disney Channel">
     <title lang="es">Acampados</title>
   </programme>
-<programme start="20231009200000 -0300" stop="20231009214500 -0300" channel="Disney Channel">
-    <title lang="es">Dumbo</title>
+<programme start="20231009200000 -0300" stop="20231009203000 -0300" channel="Disney Channel">
+    <title lang="es">Secretos en Sulphur Springs</title>
   </programme>
-<programme start="20231009214500 -0300" stop="20231009230000 -0300" channel="Disney Channel">
-    <title lang="es">La dama y el vagabundo</title>
+<programme start="20231009203000 -0300" stop="20231009210000 -0300" channel="Disney Channel">
+    <title lang="es">Saturdays</title>
+  </programme>
+<programme start="20231009210000 -0300" stop="20231009213000 -0300" channel="Disney Channel">
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+  </programme>
+<programme start="20231009213000 -0300" stop="20231009220000 -0300" channel="Disney Channel">
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+  </programme>
+<programme start="20231009220000 -0300" stop="20231009223000 -0300" channel="Disney Channel">
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
+  </programme>
+<programme start="20231009223000 -0300" stop="20231009230000 -0300" channel="Disney Channel">
+    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
   </programme>
 <programme start="20231009230000 -0300" stop="20231009233000 -0300" channel="Disney Channel">
     <title lang="es">Holly Hobbie</title>
@@ -55869,168 +56551,6 @@ En Vivo</title>
     <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
   </programme>
 <programme start="20231010000000 -0300" stop="20231010003000 -0300" channel="Disney Channel">
-    <title lang="es">Austin y Ally</title>
-  </programme>
-<programme start="20231010003000 -0300" stop="20231010010000 -0300" channel="Disney Channel">
-    <title lang="es">Austin y Ally</title>
-  </programme>
-<programme start="20231010010000 -0300" stop="20231010013000 -0300" channel="Disney Channel">
-    <title lang="es">Andi Mack</title>
-  </programme>
-<programme start="20231010013000 -0300" stop="20231010020000 -0300" channel="Disney Channel">
-    <title lang="es">Andi Mack</title>
-  </programme>
-<programme start="20231010020000 -0300" stop="20231010023000 -0300" channel="Disney Channel">
-    <title lang="es">Star vs. Las fuerzas del mal</title>
-  </programme>
-<programme start="20231010023000 -0300" stop="20231010030000 -0300" channel="Disney Channel">
-    <title lang="es">Gabby Duran: ninera de aliens</title>
-  </programme>
-<programme start="20231010030000 -0300" stop="20231010033000 -0300" channel="Disney Channel">
-    <title lang="es">Los hechiceros de Waverly Place</title>
-  </programme>
-<programme start="20231010033000 -0300" stop="20231010040000 -0300" channel="Disney Channel">
-    <title lang="es">La casa de Raven</title>
-  </programme>
-<programme start="20231010040000 -0300" stop="20231010043000 -0300" channel="Disney Channel">
-    <title lang="es">Acampados</title>
-  </programme>
-<programme start="20231010043000 -0300" stop="20231010050000 -0300" channel="Disney Channel">
-    <title lang="es">Gravity Falls: un verano de misterios</title>
-  </programme>
-<programme start="20231010050000 -0300" stop="20231010053000 -0300" channel="Disney Channel">
-    <title lang="es">Star vs. Las fuerzas del mal</title>
-  </programme>
-<programme start="20231010053000 -0300" stop="20231010060000 -0300" channel="Disney Channel">
-    <title lang="es">Los Green en la gran ciudad</title>
-  </programme>
-<programme start="20231010060000 -0300" stop="20231010063000 -0300" channel="Disney Channel">
-    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
-  </programme>
-<programme start="20231010063000 -0300" stop="20231010065500 -0300" channel="Disney Channel">
-    <title lang="es">Enredados otra vez: la serie</title>
-  </programme>
-<programme start="20231010065500 -0300" stop="20231010070000 -0300" channel="Disney Channel">
-    <title lang="es">Star vs. Las fuerzas del mal</title>
-  </programme>
-<programme start="20231010070000 -0300" stop="20231010071500 -0300" channel="Disney Channel">
-    <title lang="es">Las aventuras de Pilar</title>
-  </programme>
-<programme start="20231010071500 -0300" stop="20231010073000 -0300" channel="Disney Channel">
-    <title lang="es">Cortos Mickey Mouse</title>
-  </programme>
-<programme start="20231010073000 -0300" stop="20231010080000 -0300" channel="Disney Channel">
-    <title lang="es">Phineas y Ferb</title>
-  </programme>
-<programme start="20231010080000 -0300" stop="20231010083000 -0300" channel="Disney Channel">
-    <title lang="es">Patoaventuras</title>
-  </programme>
-<programme start="20231010083000 -0300" stop="20231010090000 -0300" channel="Disney Channel">
-    <title lang="es">Los Green en la gran ciudad</title>
-  </programme>
-<programme start="20231010090000 -0300" stop="20231010091500 -0300" channel="Disney Channel">
-    <title lang="es">Kiff</title>
-  </programme>
-<programme start="20231010091500 -0300" stop="20231010092500 -0300" channel="Disney Channel">
-    <title lang="es">Hamster  and  Gretel</title>
-  </programme>
-<programme start="20231010092500 -0300" stop="20231010093000 -0300" channel="Disney Channel">
-    <title lang="es">Phineas y Ferb</title>
-  </programme>
-<programme start="20231010093000 -0300" stop="20231010094500 -0300" channel="Disney Channel">
-    <title lang="es">Anfibilandia</title>
-  </programme>
-<programme start="20231010094500 -0300" stop="20231010100000 -0300" channel="Disney Channel">
-    <title lang="es">El fantasma y Molly McGee</title>
-  </programme>
-<programme start="20231010100000 -0300" stop="20231010101500 -0300" channel="Disney Channel">
-    <title lang="es">Trompa Tren</title>
-  </programme>
-<programme start="20231010101500 -0300" stop="20231010103000 -0300" channel="Disney Channel">
-    <title lang="es">Trompa Tren</title>
-  </programme>
-<programme start="20231010103000 -0300" stop="20231010110000 -0300" channel="Disney Channel">
-    <title lang="es">The Owl House</title>
-  </programme>
-<programme start="20231010110000 -0300" stop="20231010113000 -0300" channel="Disney Channel">
-    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
-  </programme>
-<programme start="20231010113000 -0300" stop="20231010120000 -0300" channel="Disney Channel">
-    <title lang="es">Star vs. Las fuerzas del mal</title>
-  </programme>
-<programme start="20231010120000 -0300" stop="20231010123000 -0300" channel="Disney Channel">
-    <title lang="es">Phineas y Ferb</title>
-  </programme>
-<programme start="20231010123000 -0300" stop="20231010130000 -0300" channel="Disney Channel">
-    <title lang="es">La familia Proud</title>
-  </programme>
-<programme start="20231010130000 -0300" stop="20231010133000 -0300" channel="Disney Channel">
-    <title lang="es">Zack y Cody: gemelos en accion</title>
-  </programme>
-<programme start="20231010133000 -0300" stop="20231010140000 -0300" channel="Disney Channel">
-    <title lang="es">Sunny, entre estrellas</title>
-  </programme>
-<programme start="20231010140000 -0300" stop="20231010143000 -0300" channel="Disney Channel">
-    <title lang="es">Agente KC</title>
-  </programme>
-<programme start="20231010143000 -0300" stop="20231010150000 -0300" channel="Disney Channel">
-    <title lang="es">A todo ritmo</title>
-  </programme>
-<programme start="20231010150000 -0300" stop="20231010154500 -0300" channel="Disney Channel">
-    <title lang="es">Disney 100: Remember That</title>
-  </programme>
-<programme start="20231010154500 -0300" stop="20231010160000 -0300" channel="Disney Channel">
-    <title lang="es">Los Green en la gran ciudad</title>
-  </programme>
-<programme start="20231010160000 -0300" stop="20231010163000 -0300" channel="Disney Channel">
-    <title lang="es">Los hechiceros de Waverly Place</title>
-  </programme>
-<programme start="20231010163000 -0300" stop="20231010170000 -0300" channel="Disney Channel">
-    <title lang="es">La casa de Raven</title>
-  </programme>
-<programme start="20231010170000 -0300" stop="20231010173000 -0300" channel="Disney Channel">
-    <title lang="es">Los Green en la gran ciudad</title>
-  </programme>
-<programme start="20231010173000 -0300" stop="20231010180000 -0300" channel="Disney Channel">
-    <title lang="es">Hamster  and  Gretel</title>
-  </programme>
-<programme start="20231010180000 -0300" stop="20231010183000 -0300" channel="Disney Channel">
-    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
-  </programme>
-<programme start="20231010183000 -0300" stop="20231010190000 -0300" channel="Disney Channel">
-    <title lang="es">Sydney como Max</title>
-  </programme>
-<programme start="20231010190000 -0300" stop="20231010193000 -0300" channel="Disney Channel">
-    <title lang="es">Los Green en la gran ciudad</title>
-  </programme>
-<programme start="20231010193000 -0300" stop="20231010200000 -0300" channel="Disney Channel">
-    <title lang="es">Acampados</title>
-  </programme>
-<programme start="20231010200000 -0300" stop="20231010203000 -0300" channel="Disney Channel">
-    <title lang="es">Secretos en Sulphur Springs</title>
-  </programme>
-<programme start="20231010203000 -0300" stop="20231010210000 -0300" channel="Disney Channel">
-    <title lang="es">Saturdays</title>
-  </programme>
-<programme start="20231010210000 -0300" stop="20231010213000 -0300" channel="Disney Channel">
-    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
-  </programme>
-<programme start="20231010213000 -0300" stop="20231010220000 -0300" channel="Disney Channel">
-    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
-  </programme>
-<programme start="20231010220000 -0300" stop="20231010223000 -0300" channel="Disney Channel">
-    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
-  </programme>
-<programme start="20231010223000 -0300" stop="20231010230000 -0300" channel="Disney Channel">
-    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
-  </programme>
-<programme start="20231010230000 -0300" stop="20231010233000 -0300" channel="Disney Channel">
-    <title lang="es">Holly Hobbie</title>
-  </programme>
-<programme start="20231010233000 -0300" stop="20231011000000 -0300" channel="Disney Channel">
-    <title lang="es">Prodigiosa: las aventuras de Ladybug</title>
-  </programme>
-<programme start="20231011000000 -0300" stop="20231011003000 -0300" channel="Disney Channel">
     <title lang="es">Es tan Raven</title>
   </programme>
 <programme start="20231008233000 -0300" stop="20231009000000 -0300" channel="Disney channel HD">
@@ -56741,405 +57261,6 @@ En Vivo</title>
 <programme start="20231011000000 -0300" stop="20231011003000 -0300" channel="Disney Junior">
     <title lang="es">Elena de Avalor</title>
   </programme>
-<programme start="20231008235500 -0300" stop="20231009002000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009002000 -0300" stop="20231009005000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009005000 -0300" stop="20231009011500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009011500 -0300" stop="20231009014500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009014500 -0300" stop="20231009021000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009021000 -0300" stop="20231009023500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009023500 -0300" stop="20231009030500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009030500 -0300" stop="20231009033000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009033000 -0300" stop="20231009035500 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231009035500 -0300" stop="20231009042000 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231009042000 -0300" stop="20231009044500 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231009044500 -0300" stop="20231009051000 -0300" channel="Nick Jr">
-    <title lang="es">The Adventures of Paddington</title>
-  </programme>
-<programme start="20231009051000 -0300" stop="20231009053500 -0300" channel="Nick Jr">
-    <title lang="es">The Adventures of Paddington</title>
-  </programme>
-<programme start="20231009053500 -0300" stop="20231009060000 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231009060000 -0300" stop="20231009062500 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231009062500 -0300" stop="20231009065000 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231009065000 -0300" stop="20231009071500 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231009071500 -0300" stop="20231009074500 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231009074500 -0300" stop="20231009081000 -0300" channel="Nick Jr">
-    <title lang="es">Blaze y los Monster Machines</title>
-  </programme>
-<programme start="20231009081000 -0300" stop="20231009083500 -0300" channel="Nick Jr">
-    <title lang="es">Blaze y los Monster Machines</title>
-  </programme>
-<programme start="20231009083500 -0300" stop="20231009090000 -0300" channel="Nick Jr">
-    <title lang="es">Blaze y los Monster Machines</title>
-  </programme>
-<programme start="20231009090000 -0300" stop="20231009092500 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231009092500 -0300" stop="20231009095000 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231009095000 -0300" stop="20231009101500 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231009101500 -0300" stop="20231009104500 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231009104500 -0300" stop="20231009111000 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231009111000 -0300" stop="20231009112000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009112000 -0300" stop="20231009112500 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009112500 -0300" stop="20231009114000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009114000 -0300" stop="20231009114500 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009114500 -0300" stop="20231009115000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009115000 -0300" stop="20231009120000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009120000 -0300" stop="20231009122500 -0300" channel="Nick Jr">
-    <title lang="es">Barbapapá y su familia</title>
-  </programme>
-<programme start="20231009122500 -0300" stop="20231009125500 -0300" channel="Nick Jr">
-    <title lang="es">Barbapapá y su familia</title>
-  </programme>
-<programme start="20231009125500 -0300" stop="20231009132500 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231009132500 -0300" stop="20231009135000 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231009135000 -0300" stop="20231009142000 -0300" channel="Nick Jr">
-    <title lang="es">Baby Shark, el gran show</title>
-  </programme>
-<programme start="20231009142000 -0300" stop="20231009145000 -0300" channel="Nick Jr">
-    <title lang="es">Oso Bossy</title>
-  </programme>
-<programme start="20231009145000 -0300" stop="20231009151500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009151500 -0300" stop="20231009154500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009154500 -0300" stop="20231009161500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009161500 -0300" stop="20231009164500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009164500 -0300" stop="20231009165500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009165500 -0300" stop="20231009170000 -0300" channel="Nick Jr">
-    <title lang="es">Garden Academy</title>
-  </programme>
-<programme start="20231009170000 -0300" stop="20231009171000 -0300" channel="Nick Jr">
-    <title lang="es">Garden Academy</title>
-  </programme>
-<programme start="20231009171000 -0300" stop="20231009171500 -0300" channel="Nick Jr">
-    <title lang="es">Garden Academy</title>
-  </programme>
-<programme start="20231009171500 -0300" stop="20231009173000 -0300" channel="Nick Jr">
-    <title lang="es">Garden Academy</title>
-  </programme>
-<programme start="20231009173000 -0300" stop="20231009173500 -0300" channel="Nick Jr">
-    <title lang="es">Super Cute Little Babies</title>
-  </programme>
-<programme start="20231009173500 -0300" stop="20231009174000 -0300" channel="Nick Jr">
-    <title lang="es">Super Cute Little Babies</title>
-  </programme>
-<programme start="20231009174000 -0300" stop="20231009174500 -0300" channel="Nick Jr">
-    <title lang="es">Super Cute Little Babies</title>
-  </programme>
-<programme start="20231009174500 -0300" stop="20231009175500 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009175500 -0300" stop="20231009180000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009180000 -0300" stop="20231009180500 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009180500 -0300" stop="20231009182000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231009182000 -0300" stop="20231009185000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009185000 -0300" stop="20231009191500 -0300" channel="Nick Jr">
-    <title lang="es">Rubble y equipo</title>
-  </programme>
-<programme start="20231009191500 -0300" stop="20231009194500 -0300" channel="Nick Jr">
-    <title lang="es">Deer Squad</title>
-  </programme>
-<programme start="20231009194500 -0300" stop="20231009201500 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231009201500 -0300" stop="20231009204000 -0300" channel="Nick Jr">
-    <title lang="es">Baby Shark, el gran show</title>
-  </programme>
-<programme start="20231009204000 -0300" stop="20231009211000 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231009211000 -0300" stop="20231009213000 -0300" channel="Nick Jr">
-    <title lang="es">Blaze y los Monster Machines</title>
-  </programme>
-<programme start="20231009213000 -0300" stop="20231009220000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231009220000 -0300" stop="20231009223000 -0300" channel="Nick Jr">
-    <title lang="es">Rubble y equipo</title>
-  </programme>
-<programme start="20231009223000 -0300" stop="20231009225500 -0300" channel="Nick Jr">
-    <title lang="es">Oso Bossy</title>
-  </programme>
-<programme start="20231009225500 -0300" stop="20231009232000 -0300" channel="Nick Jr">
-    <title lang="es">The Adventures of Paddington</title>
-  </programme>
-<programme start="20231009232000 -0300" stop="20231009235000 -0300" channel="Nick Jr">
-    <title lang="es">Deer Squad</title>
-  </programme>
-<programme start="20231009235000 -0300" stop="20231010001500 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231010001500 -0300" stop="20231010004500 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231010004500 -0300" stop="20231010011000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010011000 -0300" stop="20231010014000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010014000 -0300" stop="20231010020000 -0300" channel="Nick Jr">
-    <title lang="es">Baby Shark, el gran show</title>
-  </programme>
-<programme start="20231010020000 -0300" stop="20231010023000 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231010023000 -0300" stop="20231010025500 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231010025500 -0300" stop="20231010032000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010032000 -0300" stop="20231010035000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010035000 -0300" stop="20231010041500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010041500 -0300" stop="20231010044500 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231010044500 -0300" stop="20231010050500 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231010050500 -0300" stop="20231010053500 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231010053500 -0300" stop="20231010060000 -0300" channel="Nick Jr">
-    <title lang="es">The Adventures of Paddington</title>
-  </programme>
-<programme start="20231010060000 -0300" stop="20231010062500 -0300" channel="Nick Jr">
-    <title lang="es">The Adventures of Paddington</title>
-  </programme>
-<programme start="20231010062500 -0300" stop="20231010065000 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231010065000 -0300" stop="20231010071500 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231010071500 -0300" stop="20231010074000 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231010074000 -0300" stop="20231010081000 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231010081000 -0300" stop="20231010083500 -0300" channel="Nick Jr">
-    <title lang="es">Blaze y los Monster Machines</title>
-  </programme>
-<programme start="20231010083500 -0300" stop="20231010090000 -0300" channel="Nick Jr">
-    <title lang="es">Blaze y los Monster Machines</title>
-  </programme>
-<programme start="20231010090000 -0300" stop="20231010092500 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231010092500 -0300" stop="20231010095000 -0300" channel="Nick Jr">
-    <title lang="es">Bubble Guppies</title>
-  </programme>
-<programme start="20231010095000 -0300" stop="20231010101500 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231010101500 -0300" stop="20231010104500 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231010104500 -0300" stop="20231010111000 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231010111000 -0300" stop="20231010112000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010112000 -0300" stop="20231010112500 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010112500 -0300" stop="20231010114000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010114000 -0300" stop="20231010114500 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010114500 -0300" stop="20231010115000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010115000 -0300" stop="20231010120000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010120000 -0300" stop="20231010122500 -0300" channel="Nick Jr">
-    <title lang="es">Barbapapá y su familia</title>
-  </programme>
-<programme start="20231010122500 -0300" stop="20231010125500 -0300" channel="Nick Jr">
-    <title lang="es">Barbapapá y su familia</title>
-  </programme>
-<programme start="20231010125500 -0300" stop="20231010132500 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231010132500 -0300" stop="20231010135000 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231010135000 -0300" stop="20231010142000 -0300" channel="Nick Jr">
-    <title lang="es">Baby Shark, el gran show</title>
-  </programme>
-<programme start="20231010142000 -0300" stop="20231010145000 -0300" channel="Nick Jr">
-    <title lang="es">Oso Bossy</title>
-  </programme>
-<programme start="20231010145000 -0300" stop="20231010151500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010151500 -0300" stop="20231010154500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010154500 -0300" stop="20231010161500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010161500 -0300" stop="20231010164500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010164500 -0300" stop="20231010165500 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010165500 -0300" stop="20231010170000 -0300" channel="Nick Jr">
-    <title lang="es">Garden Academy</title>
-  </programme>
-<programme start="20231010170000 -0300" stop="20231010171000 -0300" channel="Nick Jr">
-    <title lang="es">Garden Academy</title>
-  </programme>
-<programme start="20231010171000 -0300" stop="20231010171500 -0300" channel="Nick Jr">
-    <title lang="es">Garden Academy</title>
-  </programme>
-<programme start="20231010171500 -0300" stop="20231010173000 -0300" channel="Nick Jr">
-    <title lang="es">Garden Academy</title>
-  </programme>
-<programme start="20231010173000 -0300" stop="20231010173500 -0300" channel="Nick Jr">
-    <title lang="es">Super Cute Little Babies</title>
-  </programme>
-<programme start="20231010173500 -0300" stop="20231010174000 -0300" channel="Nick Jr">
-    <title lang="es">Super Cute Little Babies</title>
-  </programme>
-<programme start="20231010174000 -0300" stop="20231010174500 -0300" channel="Nick Jr">
-    <title lang="es">Super Cute Little Babies</title>
-  </programme>
-<programme start="20231010174500 -0300" stop="20231010175500 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010175500 -0300" stop="20231010180000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010180000 -0300" stop="20231010180500 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010180500 -0300" stop="20231010182000 -0300" channel="Nick Jr">
-    <title lang="es">Anna y sus amigos</title>
-  </programme>
-<programme start="20231010182000 -0300" stop="20231010185000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010185000 -0300" stop="20231010191500 -0300" channel="Nick Jr">
-    <title lang="es">Rubble y equipo</title>
-  </programme>
-<programme start="20231010191500 -0300" stop="20231010194500 -0300" channel="Nick Jr">
-    <title lang="es">Deer Squad</title>
-  </programme>
-<programme start="20231010194500 -0300" stop="20231010201500 -0300" channel="Nick Jr">
-    <title lang="es">Las pistas de Blue y tú</title>
-  </programme>
-<programme start="20231010201500 -0300" stop="20231010204000 -0300" channel="Nick Jr">
-    <title lang="es">Baby Shark, el gran show</title>
-  </programme>
-<programme start="20231010204000 -0300" stop="20231010211000 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
-<programme start="20231010211000 -0300" stop="20231010213000 -0300" channel="Nick Jr">
-    <title lang="es">Blaze y los Monster Machines</title>
-  </programme>
-<programme start="20231010213000 -0300" stop="20231010220000 -0300" channel="Nick Jr">
-    <title lang="es">Patrulla canina</title>
-  </programme>
-<programme start="20231010220000 -0300" stop="20231010223000 -0300" channel="Nick Jr">
-    <title lang="es">Rubble y equipo</title>
-  </programme>
-<programme start="20231010223000 -0300" stop="20231010225500 -0300" channel="Nick Jr">
-    <title lang="es">Oso Bossy</title>
-  </programme>
-<programme start="20231010225500 -0300" stop="20231010232000 -0300" channel="Nick Jr">
-    <title lang="es">The Adventures of Paddington</title>
-  </programme>
-<programme start="20231010232000 -0300" stop="20231010235000 -0300" channel="Nick Jr">
-    <title lang="es">Deer Squad</title>
-  </programme>
-<programme start="20231010235000 -0300" stop="20231011001500 -0300" channel="Nick Jr">
-    <title lang="es">Santiago de los mares</title>
-  </programme>
 <programme start="20231008235500 -0300" stop="20231009002000 -0300" channel="Nick Jr HD">
     <title lang="es">Patrulla canina</title>
   </programme>
@@ -57539,6 +57660,405 @@ En Vivo</title>
 <programme start="20231010235000 -0300" stop="20231011001500 -0300" channel="Nick Jr HD">
     <title lang="es">Santiago de los mares</title>
   </programme>
+<programme start="20231008235500 -0300" stop="20231009002000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009002000 -0300" stop="20231009005000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009005000 -0300" stop="20231009011500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009011500 -0300" stop="20231009014500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009014500 -0300" stop="20231009021000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009021000 -0300" stop="20231009023500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009023500 -0300" stop="20231009030500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009030500 -0300" stop="20231009033000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009033000 -0300" stop="20231009035500 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231009035500 -0300" stop="20231009042000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231009042000 -0300" stop="20231009044500 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231009044500 -0300" stop="20231009051000 -0300" channel="Nick Jr">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+<programme start="20231009051000 -0300" stop="20231009053500 -0300" channel="Nick Jr">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+<programme start="20231009053500 -0300" stop="20231009060000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231009060000 -0300" stop="20231009062500 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231009062500 -0300" stop="20231009065000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231009065000 -0300" stop="20231009071500 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231009071500 -0300" stop="20231009074500 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231009074500 -0300" stop="20231009081000 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+<programme start="20231009081000 -0300" stop="20231009083500 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+<programme start="20231009083500 -0300" stop="20231009090000 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+<programme start="20231009090000 -0300" stop="20231009092500 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231009092500 -0300" stop="20231009095000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231009095000 -0300" stop="20231009101500 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231009101500 -0300" stop="20231009104500 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231009104500 -0300" stop="20231009111000 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231009111000 -0300" stop="20231009112000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009112000 -0300" stop="20231009112500 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009112500 -0300" stop="20231009114000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009114000 -0300" stop="20231009114500 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009114500 -0300" stop="20231009115000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009115000 -0300" stop="20231009120000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009120000 -0300" stop="20231009122500 -0300" channel="Nick Jr">
+    <title lang="es">Barbapapá y su familia</title>
+  </programme>
+<programme start="20231009122500 -0300" stop="20231009125500 -0300" channel="Nick Jr">
+    <title lang="es">Barbapapá y su familia</title>
+  </programme>
+<programme start="20231009125500 -0300" stop="20231009132500 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231009132500 -0300" stop="20231009135000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231009135000 -0300" stop="20231009142000 -0300" channel="Nick Jr">
+    <title lang="es">Baby Shark, el gran show</title>
+  </programme>
+<programme start="20231009142000 -0300" stop="20231009145000 -0300" channel="Nick Jr">
+    <title lang="es">Oso Bossy</title>
+  </programme>
+<programme start="20231009145000 -0300" stop="20231009151500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009151500 -0300" stop="20231009154500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009154500 -0300" stop="20231009161500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009161500 -0300" stop="20231009164500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009164500 -0300" stop="20231009165500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009165500 -0300" stop="20231009170000 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+<programme start="20231009170000 -0300" stop="20231009171000 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+<programme start="20231009171000 -0300" stop="20231009171500 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+<programme start="20231009171500 -0300" stop="20231009173000 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+<programme start="20231009173000 -0300" stop="20231009173500 -0300" channel="Nick Jr">
+    <title lang="es">Super Cute Little Babies</title>
+  </programme>
+<programme start="20231009173500 -0300" stop="20231009174000 -0300" channel="Nick Jr">
+    <title lang="es">Super Cute Little Babies</title>
+  </programme>
+<programme start="20231009174000 -0300" stop="20231009174500 -0300" channel="Nick Jr">
+    <title lang="es">Super Cute Little Babies</title>
+  </programme>
+<programme start="20231009174500 -0300" stop="20231009175500 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009175500 -0300" stop="20231009180000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009180000 -0300" stop="20231009180500 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009180500 -0300" stop="20231009182000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231009182000 -0300" stop="20231009185000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009185000 -0300" stop="20231009191500 -0300" channel="Nick Jr">
+    <title lang="es">Rubble y equipo</title>
+  </programme>
+<programme start="20231009191500 -0300" stop="20231009194500 -0300" channel="Nick Jr">
+    <title lang="es">Deer Squad</title>
+  </programme>
+<programme start="20231009194500 -0300" stop="20231009201500 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231009201500 -0300" stop="20231009204000 -0300" channel="Nick Jr">
+    <title lang="es">Baby Shark, el gran show</title>
+  </programme>
+<programme start="20231009204000 -0300" stop="20231009211000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231009211000 -0300" stop="20231009213000 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+<programme start="20231009213000 -0300" stop="20231009220000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231009220000 -0300" stop="20231009223000 -0300" channel="Nick Jr">
+    <title lang="es">Rubble y equipo</title>
+  </programme>
+<programme start="20231009223000 -0300" stop="20231009225500 -0300" channel="Nick Jr">
+    <title lang="es">Oso Bossy</title>
+  </programme>
+<programme start="20231009225500 -0300" stop="20231009232000 -0300" channel="Nick Jr">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+<programme start="20231009232000 -0300" stop="20231009235000 -0300" channel="Nick Jr">
+    <title lang="es">Deer Squad</title>
+  </programme>
+<programme start="20231009235000 -0300" stop="20231010001500 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231010001500 -0300" stop="20231010004500 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231010004500 -0300" stop="20231010011000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010011000 -0300" stop="20231010014000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010014000 -0300" stop="20231010020000 -0300" channel="Nick Jr">
+    <title lang="es">Baby Shark, el gran show</title>
+  </programme>
+<programme start="20231010020000 -0300" stop="20231010023000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231010023000 -0300" stop="20231010025500 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231010025500 -0300" stop="20231010032000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010032000 -0300" stop="20231010035000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010035000 -0300" stop="20231010041500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010041500 -0300" stop="20231010044500 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231010044500 -0300" stop="20231010050500 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231010050500 -0300" stop="20231010053500 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231010053500 -0300" stop="20231010060000 -0300" channel="Nick Jr">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+<programme start="20231010060000 -0300" stop="20231010062500 -0300" channel="Nick Jr">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+<programme start="20231010062500 -0300" stop="20231010065000 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231010065000 -0300" stop="20231010071500 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231010071500 -0300" stop="20231010074000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231010074000 -0300" stop="20231010081000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231010081000 -0300" stop="20231010083500 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+<programme start="20231010083500 -0300" stop="20231010090000 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+<programme start="20231010090000 -0300" stop="20231010092500 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231010092500 -0300" stop="20231010095000 -0300" channel="Nick Jr">
+    <title lang="es">Bubble Guppies</title>
+  </programme>
+<programme start="20231010095000 -0300" stop="20231010101500 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231010101500 -0300" stop="20231010104500 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231010104500 -0300" stop="20231010111000 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231010111000 -0300" stop="20231010112000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010112000 -0300" stop="20231010112500 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010112500 -0300" stop="20231010114000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010114000 -0300" stop="20231010114500 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010114500 -0300" stop="20231010115000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010115000 -0300" stop="20231010120000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010120000 -0300" stop="20231010122500 -0300" channel="Nick Jr">
+    <title lang="es">Barbapapá y su familia</title>
+  </programme>
+<programme start="20231010122500 -0300" stop="20231010125500 -0300" channel="Nick Jr">
+    <title lang="es">Barbapapá y su familia</title>
+  </programme>
+<programme start="20231010125500 -0300" stop="20231010132500 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231010132500 -0300" stop="20231010135000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231010135000 -0300" stop="20231010142000 -0300" channel="Nick Jr">
+    <title lang="es">Baby Shark, el gran show</title>
+  </programme>
+<programme start="20231010142000 -0300" stop="20231010145000 -0300" channel="Nick Jr">
+    <title lang="es">Oso Bossy</title>
+  </programme>
+<programme start="20231010145000 -0300" stop="20231010151500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010151500 -0300" stop="20231010154500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010154500 -0300" stop="20231010161500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010161500 -0300" stop="20231010164500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010164500 -0300" stop="20231010165500 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010165500 -0300" stop="20231010170000 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+<programme start="20231010170000 -0300" stop="20231010171000 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+<programme start="20231010171000 -0300" stop="20231010171500 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+<programme start="20231010171500 -0300" stop="20231010173000 -0300" channel="Nick Jr">
+    <title lang="es">Garden Academy</title>
+  </programme>
+<programme start="20231010173000 -0300" stop="20231010173500 -0300" channel="Nick Jr">
+    <title lang="es">Super Cute Little Babies</title>
+  </programme>
+<programme start="20231010173500 -0300" stop="20231010174000 -0300" channel="Nick Jr">
+    <title lang="es">Super Cute Little Babies</title>
+  </programme>
+<programme start="20231010174000 -0300" stop="20231010174500 -0300" channel="Nick Jr">
+    <title lang="es">Super Cute Little Babies</title>
+  </programme>
+<programme start="20231010174500 -0300" stop="20231010175500 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010175500 -0300" stop="20231010180000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010180000 -0300" stop="20231010180500 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010180500 -0300" stop="20231010182000 -0300" channel="Nick Jr">
+    <title lang="es">Anna y sus amigos</title>
+  </programme>
+<programme start="20231010182000 -0300" stop="20231010185000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010185000 -0300" stop="20231010191500 -0300" channel="Nick Jr">
+    <title lang="es">Rubble y equipo</title>
+  </programme>
+<programme start="20231010191500 -0300" stop="20231010194500 -0300" channel="Nick Jr">
+    <title lang="es">Deer Squad</title>
+  </programme>
+<programme start="20231010194500 -0300" stop="20231010201500 -0300" channel="Nick Jr">
+    <title lang="es">Las pistas de Blue y tú</title>
+  </programme>
+<programme start="20231010201500 -0300" stop="20231010204000 -0300" channel="Nick Jr">
+    <title lang="es">Baby Shark, el gran show</title>
+  </programme>
+<programme start="20231010204000 -0300" stop="20231010211000 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
+<programme start="20231010211000 -0300" stop="20231010213000 -0300" channel="Nick Jr">
+    <title lang="es">Blaze y los Monster Machines</title>
+  </programme>
+<programme start="20231010213000 -0300" stop="20231010220000 -0300" channel="Nick Jr">
+    <title lang="es">Patrulla canina</title>
+  </programme>
+<programme start="20231010220000 -0300" stop="20231010223000 -0300" channel="Nick Jr">
+    <title lang="es">Rubble y equipo</title>
+  </programme>
+<programme start="20231010223000 -0300" stop="20231010225500 -0300" channel="Nick Jr">
+    <title lang="es">Oso Bossy</title>
+  </programme>
+<programme start="20231010225500 -0300" stop="20231010232000 -0300" channel="Nick Jr">
+    <title lang="es">The Adventures of Paddington</title>
+  </programme>
+<programme start="20231010232000 -0300" stop="20231010235000 -0300" channel="Nick Jr">
+    <title lang="es">Deer Squad</title>
+  </programme>
+<programme start="20231010235000 -0300" stop="20231011001500 -0300" channel="Nick Jr">
+    <title lang="es">Santiago de los mares</title>
+  </programme>
 <programme start="20231008233000 -0300" stop="20231009000000 -0300" channel="Nickelodeon">
     <title lang="es">Monster High</title>
   </programme>
@@ -57843,6 +58363,312 @@ En Vivo</title>
     <title lang="es">The Loud House</title>
   </programme>
 <programme start="20231011000000 -0300" stop="20231011003000 -0300" channel="Nickelodeon">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231008233000 -0300" stop="20231009000000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Monster High</title>
+  </programme>
+<programme start="20231009000000 -0300" stop="20231009003000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009003000 -0300" stop="20231009010000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Transformers: la chispa de la Tierra</title>
+  </programme>
+<programme start="20231009010000 -0300" stop="20231009013000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231009013000 -0300" stop="20231009020000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231009020000 -0300" stop="20231009023000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231009023000 -0300" stop="20231009030000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231009030000 -0300" stop="20231009033000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009033000 -0300" stop="20231009040000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009040000 -0300" stop="20231009043000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+<programme start="20231009043000 -0300" stop="20231009050000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+<programme start="20231009050000 -0300" stop="20231009053000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Monster High</title>
+  </programme>
+<programme start="20231009053000 -0300" stop="20231009060000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Fuerza Danger</title>
+  </programme>
+<programme start="20231009060000 -0300" stop="20231009063000 -0300" channel="Nickelodeon HD">
+    <title lang="es">That Girl Lay Lay</title>
+  </programme>
+<programme start="20231009063000 -0300" stop="20231009070000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Nicky, Ricky, Dicky y Dawn</title>
+  </programme>
+<programme start="20231009070000 -0300" stop="20231009073000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009073000 -0300" stop="20231009080000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009080000 -0300" stop="20231009083000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009083000 -0300" stop="20231009090000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+<programme start="20231009090000 -0300" stop="20231009093000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+<programme start="20231009093000 -0300" stop="20231009100000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Rubble y equipo</title>
+  </programme>
+<programme start="20231009100000 -0300" stop="20231009103000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009103000 -0300" stop="20231009110000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009110000 -0300" stop="20231009113000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Monster High</title>
+  </programme>
+<programme start="20231009113000 -0300" stop="20231009120000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+<programme start="20231009120000 -0300" stop="20231009123000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009123000 -0300" stop="20231009130000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009130000 -0300" stop="20231009133000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009133000 -0300" stop="20231009140000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009140000 -0300" stop="20231009141500 -0300" channel="Nickelodeon HD">
+    <title lang="es">Es Pony</title>
+  </programme>
+<programme start="20231009141500 -0300" stop="20231009143000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231009143000 -0300" stop="20231009144500 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231009144500 -0300" stop="20231009150000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231009150000 -0300" stop="20231009153000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Rugrats</title>
+  </programme>
+<programme start="20231009153000 -0300" stop="20231009160000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+<programme start="20231009160000 -0300" stop="20231009163000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+<programme start="20231009163000 -0300" stop="20231009170000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Kamp Koral: Bob Esponja, primeros anos</title>
+  </programme>
+<programme start="20231009170000 -0300" stop="20231009173000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231009173000 -0300" stop="20231009180000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Fuerza Danger</title>
+  </programme>
+<programme start="20231009180000 -0300" stop="20231009183000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House: una verdadera familia ruidosa</title>
+  </programme>
+<programme start="20231009183000 -0300" stop="20231009190000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009190000 -0300" stop="20231009193000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009193000 -0300" stop="20231009200000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Nate, el grande</title>
+  </programme>
+<programme start="20231009200000 -0300" stop="20231009203000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009203000 -0300" stop="20231009210000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Monster High</title>
+  </programme>
+<programme start="20231009210000 -0300" stop="20231009213000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009213000 -0300" stop="20231009220000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009220000 -0300" stop="20231009223000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+<programme start="20231009223000 -0300" stop="20231009230000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+<programme start="20231009230000 -0300" stop="20231009233000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231009233000 -0300" stop="20231009234500 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231009234500 -0300" stop="20231010000000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010000000 -0300" stop="20231010003000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010003000 -0300" stop="20231010010000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010010000 -0300" stop="20231010013000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010013000 -0300" stop="20231010020000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231010020000 -0300" stop="20231010023000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231010023000 -0300" stop="20231010030000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Es Pony</title>
+  </programme>
+<programme start="20231010030000 -0300" stop="20231010033000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Es Pony</title>
+  </programme>
+<programme start="20231010033000 -0300" stop="20231010040000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Best y Bester: cada forma una aventura</title>
+  </programme>
+<programme start="20231010040000 -0300" stop="20231010043000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Best y Bester: cada forma una aventura</title>
+  </programme>
+<programme start="20231010043000 -0300" stop="20231010050000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231010050000 -0300" stop="20231010053000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231010053000 -0300" stop="20231010060000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010060000 -0300" stop="20231010063000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231010063000 -0300" stop="20231010070000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231010070000 -0300" stop="20231010073000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010073000 -0300" stop="20231010080000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010080000 -0300" stop="20231010083000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010083000 -0300" stop="20231010090000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+<programme start="20231010090000 -0300" stop="20231010093000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+<programme start="20231010093000 -0300" stop="20231010100000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Rubble y equipo</title>
+  </programme>
+<programme start="20231010100000 -0300" stop="20231010103000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010103000 -0300" stop="20231010110000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010110000 -0300" stop="20231010113000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Monster High</title>
+  </programme>
+<programme start="20231010113000 -0300" stop="20231010120000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+<programme start="20231010120000 -0300" stop="20231010123000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010123000 -0300" stop="20231010130000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010130000 -0300" stop="20231010133000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010133000 -0300" stop="20231010140000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010140000 -0300" stop="20231010143000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Es Pony</title>
+  </programme>
+<programme start="20231010143000 -0300" stop="20231010150000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231010150000 -0300" stop="20231010153000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Rugrats</title>
+  </programme>
+<programme start="20231010153000 -0300" stop="20231010160000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+<programme start="20231010160000 -0300" stop="20231010163000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Pitufos</title>
+  </programme>
+<programme start="20231010163000 -0300" stop="20231010170000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Kamp Koral: Bob Esponja, primeros anos</title>
+  </programme>
+<programme start="20231010170000 -0300" stop="20231010173000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231010173000 -0300" stop="20231010180000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Henry Danger</title>
+  </programme>
+<programme start="20231010180000 -0300" stop="20231010183000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House: una verdadera familia ruidosa</title>
+  </programme>
+<programme start="20231010183000 -0300" stop="20231010190000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010190000 -0300" stop="20231010193000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010193000 -0300" stop="20231010200000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Nate, el grande</title>
+  </programme>
+<programme start="20231010200000 -0300" stop="20231010203000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010203000 -0300" stop="20231010210000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Monster High</title>
+  </programme>
+<programme start="20231010210000 -0300" stop="20231010213000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010213000 -0300" stop="20231010220000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010220000 -0300" stop="20231010223000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+<programme start="20231010223000 -0300" stop="20231010230000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Los Casagrande</title>
+  </programme>
+<programme start="20231010230000 -0300" stop="20231010233000 -0300" channel="Nickelodeon HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+<programme start="20231010233000 -0300" stop="20231010234500 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231010234500 -0300" stop="20231011000000 -0300" channel="Nickelodeon HD">
+    <title lang="es">The Loud House</title>
+  </programme>
+<programme start="20231011000000 -0300" stop="20231011003000 -0300" channel="Nickelodeon HD">
     <title lang="es">The Loud House</title>
   </programme>
 <programme start="20231008234500 -0300" stop="20231009000000 -0300" channel="PAKA PAKA">
