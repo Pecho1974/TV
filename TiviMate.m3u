@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://bit.ly/3PmZcDi"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Regionales",24/7 Canal de Noticias
+https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A and E" tvg-name="A and E" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A and E
 https://router.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="A and E HD" tvg-name="A and E HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A and E HD
@@ -2318,8 +2320,6 @@ https://ny2.stweb.tv/popradio/live/playlist.m3u8
 https://radio10.stweb.tv/radio10/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.radioconvos.com.ar/uploads/2021/03/logo_radioconvos.jpg" group-title="Radios",Radio con Vos
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Regionales",24/7 Canal de Noticias
-https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/2154f26cfec10ed6642020dad09849b3.png" group-title="Regionales",5R TV Santa Fe | AR
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="Regionales",5TV (Corrientes)
