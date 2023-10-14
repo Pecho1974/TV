@@ -493,7 +493,7 @@ https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="Estilo de Vida",E! Entertainment (20)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EENTRETAIMENT/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DE_CH_stream_7o&_cdn_session=1297971547&_cdn_timestamp=1697506199&_cdn_token=6eed17c2de84d9c3232ba15ef207f2cc0b9e6644
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="Estilo de Vida",Food Network (20)
+#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="Estilo de Vida",FOOD NETWORK
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=1297974939&_cdn_timestamp=1697506259&_cdn_token=30cdce362d164b7d6b49ea39758f89aa9bbf81f4
 #EXTINF:-1 tvg-id="glitz" tvg-name="glitz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest/scale-to-width-down/220?cb=20220120044212&path-prefix=es" group-title="Estilo de Vida",glitz
 https://router.cdn.rcs.net.ar/mnp/glitz_hls/playlist.m3u8
@@ -509,7 +509,7 @@ http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",H&H (10)
 http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="Estilo de Vida",H&H (20)
+#EXTINF:-1 tvg-id="Canal Discovery Home  and  Health (Mexico)" tvg-name="Canal Discovery Home  and  Health (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="Estilo de Vida",Canal Discovery Home  and  Health (Mexico)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=1297973011&_cdn_timestamp=1697506225&_cdn_token=45ad41d84d4a4a5359c97a0340400c07f6a70673
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20210817053224&path-prefix=es" group-title="Estilo de Vida",HGTV (01)
 https://router.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
@@ -517,7 +517,7 @@ https://router.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20210817053224&path-prefix=es" group-title="Estilo de Vida",HGTV (03)
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="Estilo de Vida",HGTV (20)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20210817053224&path-prefix=es" group-title="Estilo de Vida",HGTV (20)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=1297970707&_cdn_timestamp=1697506184&_cdn_token=dfcba46510b1731203f87e8965c5a38f6aabbd15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Hola_tv_logo.svg/revision/latest/scale-to-width-down/300?cb=20210308124606&path-prefix=es" group-title="Estilo de Vida",Hola TV (10)
 http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
@@ -531,7 +531,7 @@ https://insighttv-vizio.amagi.tv/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lifetime_Logo_%282020-presente%29.svg/revision/latest/scale-to-width-down/300?cb=20200125121516&path-prefix=es" group-title="Estilo de Vida",Lifetime (10)
 http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="Estilo de Vida",Lifetime (20)
+#EXTINF:-1 tvg-id="Canal Lifetime (Mexico)" tvg-name="Canal Lifetime (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/150px-Logo_Lifetime_2020.svg.png" group-title="Estilo de Vida",Canal Lifetime (Mexico)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_session=1297960227&_cdn_timestamp=1697506004&_cdn_token=5458fccbd18bf534f300f5a8d214ab88e2134ecc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/M%C3%A1s_Chic_%28Negro%29.png/revision/latest/scale-to-width-down/150?cb=20200112012816&path-prefix=es" group-title="Estilo de Vida",Mas Chic (02)
 https://router.cdn.rcs.net.ar/mnp/maschic/output.mpd
@@ -551,7 +551,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 https://router.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/250?cb=20220706233159&path-prefix=es" group-title="Estilo de Vida",TLC (02)
 https://router.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="Estilo de Vida",TLC (20)
+#EXTINF:-1 tvg-id="Canal TLC (Latinoamerica)" tvg-name="Canal TLC (Latinoamerica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="Estilo de Vida",Canal TLC (Latinoamerica)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=1297971795&_cdn_timestamp=1697506204&_cdn_token=681bc7703082f51a4b7e844809431beab61309d6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.facebook.com/photo/?fbid=506907788102170&set=a.506907744768841&__tn__=%3C" group-title="Infantil",Aprendamos en Casa (10)
 http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
