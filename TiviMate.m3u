@@ -449,17 +449,15 @@ https://router.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=1297987523&_cdn_timestamp=1697506501&_cdn_token=ae3d477abd5971f3ccc76869ee7a4526e947ae8d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.paste.pics/1b5c2445187d85bcc724d7da7f6e1e1c.png" group-title="Documentales",El Histonauta TV | AR
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/History_2_2022.png/revision/latest/scale-to-width-down/200?cb=20220130002026&path-prefix=es" group-title="Documentales",H2 (04)
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/3118.m3u8
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="HISTORY 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/History_2_2022.png/revision/latest/scale-to-width-down/200?cb=20220130002026&path-prefix=es" group-title="Documentales",HISTORY 2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Documentales",H2 (20)
+#EXTINF:-1 tvg-id="Canal History 2 (Latinoamerica)" tvg-name="Canal History 2 (Latinoamerica)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Documentales",Canal History 2 (Latinoamerica)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=1297990363&_cdn_timestamp=1697506558&_cdn_token=5b0c70b0c68c522e0640f73c944337b229fc9009
 #EXTINF:-1 tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History Channel HD
 https://router.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History (03)
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/History/SA_HLS/History.m3u8
 #EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History Channel
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/History/SA_HLS/History.m3u8
+#EXTINF:-1 tvg-id="Canal History (Mexico)" tvg-name="Canal History (Mexico)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",Canal History (Mexico)
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="Documentales",History (20)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=1297989779&_cdn_timestamp=1697506547&_cdn_token=578381750c3e96f26f3ca0e0d468e482eda66ed0
@@ -471,7 +469,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LOVENATURE/40-hls/live-media.
 https://router.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://png.pngitem.com/pimgs/s/497-4971381_national-geographic-tv-logo-hd-png-download.png" group-title="Documentales",NATIONAL GEOGRAPHIC
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="Documentales",National Geographic (20)
+#EXTINF:-1 tvg-id="Canal National Geographic (Mexico)" tvg-name="Canal National Geographic (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="Documentales",Canal National Geographic (Mexico)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NATGEO/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=1297989523&_cdn_timestamp=1697506540&_cdn_token=02c2e94aee074d20ea61cdd23b155a5700740d84
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.si.edu/sites/default/files/newsdesk/press_releases/smithsonian-channel-logo-thumbnail.jpg" group-title="Documentales",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -481,7 +479,7 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 https://router.cdn.rcs.net.ar/mnp/trutv/output.mpd
 #EXTINF:-1 tvg-id="tru TV" tvg-name="tru TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Documentales",tru TV
 http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Documentales",Tru TV America Latina
+#EXTINF:-1 tvg-id="Canal truTV" tvg-name="Canal truTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Documentales",Canal truTV
 http://190.61.37.173:9001/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="Canal AZ Clic!" tvg-name="Canal AZ Clic!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/TV_Azteca_Clic_logo_2021.png/revision/latest?cb=20220316004010&path-prefix=es" group-title="Estilo de Vida",Canal AZ Clic!
 http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
