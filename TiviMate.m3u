@@ -25,7 +25,7 @@ https://router.cdn.rcs.net.ar/mnp/amc/output.mpd
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/AMC2019.png/revision/latest/scale-to-width-down/250?cb=20200111235406&path-prefix=es" group-title="Cine y Series",AMC (10)
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal AMC (Panregional)" tvg-name="Canal AMC (Panregional)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Cine y Series",Canal AMC (Panregional)
+#EXTINF:-1 tvg-id="Canal AMC (Mexico)" tvg-name="Canal AMC (Mexico)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Cine y Series",Canal AMC (Mexico)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=1297936355&_cdn_timestamp=1697505562&_cdn_token=20cb91ce77b9ed1081f6aa1686b870bce7486ec4
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",AXN
 https://router.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
@@ -207,9 +207,9 @@ http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",Star Channel (03)
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",STAR CHANNEL
+#EXTINF:-1 tvg-id="Canal Fox Channel (Colombia)" tvg-name="Canal Fox Channel (Colombia)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",Canal Fox Channel (Colombia)
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Fox" tvg-name="Canal Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Cine y Series",Canal Fox
+#EXTINF:-1 tvg-id="Canal FOX Centroamerica" tvg-name="Canal FOX Centroamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Cine y Series",Canal FOX Centroamerica
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=1297947243&_cdn_timestamp=1697505766&_cdn_token=39368cc2dae462ad369e63a669966f0d29908b61
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="Cine y Series",Star TVE (10)
 http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
@@ -2572,6 +2572,4 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://player.vimeo.com/external/677239387.m3u8?s=9224387856264477174bbfba3762893b455f71bc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="Variedades",Viajar TV
 https://f4712f05a3e8493f9c73495feb9f9c1e.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/herogo001NP2/afcabda8-b185-468d-a989-784f94b8e76e/1.m3u8
-
-
 
