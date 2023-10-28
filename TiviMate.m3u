@@ -363,10 +363,10 @@ http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=1338055083&_cdn_timestamp=1698662175&_cdn_token=4405bb052d0b9542d5c6bf77801156084a04c7a4
 #EXTINF:-1 tvg-id="Canal BBC World" tvg-name="Canal BBC World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/BBC_America_2021_New_Logo.png/revision/latest/scale-to-width-down/170?cb=20220111042102&path-prefix=es" group-title="Documentales",Canal BBC World
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/400?cb=20200113171937&path-prefix=es" group-title="Documentales",Discovery Channel HD
-https://barone.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-id="Canal Discovery Channel (México)" tvg-name="Canal Discovery Channel (México)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/400?cb=20200113171937&path-prefix=es" group-title="Documentales",Canal Discovery Channel (México)
 http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/400?cb=20200113171937&path-prefix=es" group-title="Documentales",Discovery Channel HD
+https://barone.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-id="Discovery Channel HD.#2" tvg-name="Discovery Channel HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/400?cb=20200113171937&path-prefix=es" group-title="Documentales",Discovery Channel HD.#2
 https://barone.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
 #EXTINF:-1 tvg-id="Canal Discovery Channel (Venezuela)" tvg-name="Canal Discovery Channel (Venezuela)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/400?cb=20200113171937&path-prefix=es" group-title="Documentales",Canal Discovery Channel (Venezuela)
@@ -796,7 +796,7 @@ https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/T13_2021_%C3%ADcono.png/revision/latest/scale-to-width-down/175?cb=20210306211416&path-prefix=es" group-title="Internacional",T13 Chile (YT)
 https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Noticias_TCS_plus.png/revision/latest/scale-to-width-down/250?cb=20210622200858&path-prefix=es" group-title="Internacional",TCS+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Noticias_TCS_plus.png/revision/latest/scale-to-width-down/250?cb=20210622200858&path-prefix=es" group-title="Internacional",TCS+ (10)
 http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vivotvhd.com/img/cha/2016.gif" group-title="Internacional",Telenord 12 (Rep Dominicana)
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
@@ -842,7 +842,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/18611.m3u8
 http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/b2YH4Wk/tvu.jpg" group-title="Internacional",TVU (Bolivia)
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/120px-Logo_tvu.png" group-title="Internacional",TVU El Salvador
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Logo_tvu.png/120px-Logo_tvu.png" group-title="Internacional",TVU El Salvador (10)
 http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ucltelevision.com/wp-content/uploads/2020/12/Logo-UCL-TV-LATAM-horizontal-1536x922.png" group-title="Internacional",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
