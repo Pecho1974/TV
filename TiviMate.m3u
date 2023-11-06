@@ -898,9 +898,9 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal RCN Nuestra Tele" tvg-name="Canal RCN Nuestra Tele" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/NuestraTeleInternacional2019.png/revision/latest/scale-to-width-down/200?cb=20191225023419" group-title="Internacional",Canal RCN Nuestra Tele
 http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal RT en Español" tvg-name="Canal RT en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Internacional",Canal RT en Español
+#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Internacional",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Internacional",RT (10)
+#EXTINF:-1 tvg-id="RT.#2" tvg-name="RT.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Internacional",RT.#2
 http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP" tvg-name="RTP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RTP_Internacional_Logotipo_2016.png/revision/latest/scale-to-width-down/400?cb=20210528153800&path-prefix=es" group-title="Internacional",RTP
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
@@ -1126,7 +1126,7 @@ https://barone.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 https://barone.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+ (YT)
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1 tvg-id="RT" tvg-name="RT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Noticias",RT
+#EXTINF:-1 tvg-id="RT.#3" tvg-name="RT.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Noticias",RT.#3
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="tve HD" tvg-name="tve HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/RTVE.es_2008.svg/revision/latest/scale-to-width-down/250?cb=20200221174427" group-title="Noticias",tve HD
 http://168.227.22.18:1935/live/mobile-100/playlist.m3u8
