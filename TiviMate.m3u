@@ -573,7 +573,7 @@ http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 https://tw.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1 tvg-id="BOOMERANG.#2" tvg-name="BOOMERANG.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",BOOMERANG.#2
 https://tw.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
-#EXTINF:-1 tvg-id="Canal Boomerang" tvg-name="Canal Boomerang" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",Canal Boomerang
+#EXTINF:-1 tvg-id="BOOMERANG.#3" tvg-name="BOOMERANG.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",BOOMERANG.#3
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",Cartoonito (10)
@@ -790,13 +790,13 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/cheddar/picture?width=200&height=200" group-title="Internacional",Cheddar News (USA)
 https://cheddar.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/dtsrSwX/chilevision.jpg" group-title="Internacional",ChileVision (Chile)
+#EXTINF:-1 tvg-id="Canal Chilevisión (CHV)" tvg-name="Canal Chilevisión (CHV)" tvg-logo="https://i.ibb.co/dtsrSwX/chilevision.jpg" group-title="Internacional",Canal Chilevisión (CHV)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png?20230217123429" group-title="Internacional",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNN internacional" tvg-name="CNN internacional" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="Internacional",CNN internacional
 https://tw.cdn.rcs.net.ar/mnp/cnn/output.mpd
-#EXTINF:-1 tvg-id="Canal CNN Internacional" tvg-name="Canal CNN Internacional" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="Internacional",Canal CNN Internacional
+#EXTINF:-1 tvg-id="CNN internacional.#2" tvg-name="CNN internacional.#2" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="Internacional",CNN internacional.#2
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="Internacional",Conectad2 Televisión |Peru (21)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CONECTADA2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCONECTADA2_stream_so&_cdn_session=1369491435&_cdn_timestamp=1699282967&_cdn_token=9fedeff9012ae3ce680cba7a8c5bc58bc1bafcb9
@@ -818,7 +818,7 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="Internacional",Estrella TV (Mexico)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/120px-Euronews_2016_logo.svg.png" group-title="Internacional",Euronews
+#EXTINF:-1 tvg-id="Canal Euronews" tvg-name="Canal Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/120px-Euronews_2016_logo.svg.png" group-title="Internacional",Canal Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/120px-Euronews_2016_logo.svg.png" group-title="Internacional",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
@@ -830,7 +830,7 @@ https://euronews.alteox.app/hls/ru_stream.m3u8
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1369487939&_cdn_timestamp=1699282938&_cdn_token=905832e4412e4f0b5517b0c8be211536f1ece2f5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="Internacional",Exitosa Televisión |Peru (22)
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DEXITOSATV_stream_o1&_cdn_session=1369487939&_cdn_timestamp=1699282938&_cdn_token=905832e4412e4f0b5517b0c8be211536f1ece2f5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20200106173131&path-prefix=es" group-title="Internacional",Foxs News
+#EXTINF:-1 tvg-id="Canal Fox News" tvg-name="Canal Fox News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/200?cb=20200106173131&path-prefix=es" group-title="Internacional",Canal Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="Internacional",Global Televisión |Peru (21)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1369497371&_cdn_timestamp=1699283020&_cdn_token=dffb58f681845c37dcc93c6fa1c6d83d363c3bf6
@@ -870,7 +870,7 @@ https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 tvg-id="NHK WORLD – JAPAN" tvg-name="NHK WORLD – JAPAN" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="Internacional",NHK WORLD – JAPAN
 https://tw.cdn.rcs.net.ar/mnp/nhk/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="Internacional",NHK World (ON)
+#EXTINF:-1 tvg-id="NHK WORLD – JAPAN.#2" tvg-name="NHK WORLD – JAPAN.#2" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="Internacional",NHK WORLD – JAPAN.#2
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="Internacional",Noticias Caracol (21)
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1359441107&_cdn_timestamp=1699113843&_cdn_token=206cd2399e21cc5938cdbdbf6c5067ff475cb9a1
@@ -1098,7 +1098,7 @@ https://tw.cdn.rcs.net.ar/anevia/live/localdisk/Canal_26/SA_HLS/Canal_26.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w109976320_b1864000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es" group-title="Noticias",CNN
 https://tw.cdn.rcs.net.ar/mnp/cnne/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es" group-title="Noticias",CNN Espanol (10)
+#EXTINF:-1 tvg-id="CNN.#2" tvg-name="CNN.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es" group-title="Noticias",CNN.#2
 http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
 #EXTINF:-1 tvg-id="Crónica TV HD" tvg-name="Crónica TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD
 https://tw.cdn.rcs.net.ar/mnp/cronica/output.mpd
@@ -1108,7 +1108,7 @@ https://tw.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
 https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es" group-title="Noticias",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="Canal Euronews" tvg-name="Canal Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png?20160518012316" group-title="Noticias",Canal Euronews
+#EXTINF:-1 tvg-id="Canal Euronews.#2" tvg-name="Canal Euronews.#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png?20160518012316" group-title="Noticias",Canal Euronews.#2
 https://ythls.onrender.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw.m3u8
 #EXTINF:-1 tvg-id="FRANCE 24" tvg-name="FRANCE 24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/FRANCE_24_ESPA%C3%91OL_2018.png/revision/latest/scale-to-width-down/113?cb=20210513022734&path-prefix=es" group-title="Noticias",FRANCE 24
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -1134,9 +1134,9 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-100/playlist.m3u8
 #EXTINF:-1 tvg-id="TN HD" tvg-name="TN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN HD
 https://tw.cdn.rcs.net.ar/mnp/tn/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN (ON)
+#EXTINF:-1 tvg-id="TN HD.#2" tvg-name="TN HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN HD.#2
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN (YT)
+#EXTINF:-1 tvg-id="TN HD.#3" tvg-name="TN HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN HD.#3
 https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:-1 tvg-id="Canal TVE Internacional (Televisión Española)" tvg-name="Canal TVE Internacional (Televisión Española)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/TVE_2008.svg/revision/latest/scale-to-width-down/200?cb=20200324213523&path-prefix=es" group-title="Noticias",Canal TVE Internacional (Televisión Española)
 http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
