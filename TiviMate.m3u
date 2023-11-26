@@ -327,13 +327,13 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 https://tw.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-id="STAR CHANNEL HD.#2" tvg-name="STAR CHANNEL HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",STAR CHANNEL HD.#2
 https://tw.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
-#EXTINF:-1 tvg-id="Canal Fox Channel (Colombia)" tvg-name="Canal Fox Channel (Colombia)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",Canal Fox Channel (Colombia)
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal FOX Centroamérica" tvg-name="Canal FOX Centroamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",Canal FOX Centroamérica
-http://190.187.154.156:8000/play/a066/index.m3u8
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal FOX Centroamérica.#2" tvg-name="Canal FOX Centroamérica.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",Canal FOX Centroamérica.#2
 http://190.187.154.156:8000/play/a066/index.m3u8
-#EXTINF:-1 tvg-id="Canal Fox Channel (Colombia).#2" tvg-name="Canal Fox Channel (Colombia).#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",Canal Fox Channel (Colombia).#2
+#EXTINF:-1 tvg-id="Canal FOX Centroamérica.#3" tvg-name="Canal FOX Centroamérica.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",Canal FOX Centroamérica.#3
+http://190.187.154.156:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="Canal FOX Centroamérica.#4" tvg-name="Canal FOX Centroamérica.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",Canal FOX Centroamérica.#4
 http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="Canal Star TVE HD" tvg-name="Canal Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="Cine y Series",Canal Star TVE HD
 http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
