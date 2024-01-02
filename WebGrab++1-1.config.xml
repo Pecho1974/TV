@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+
+  <filename>C:\Users\rodri\OneDrive\IPTV\Guide\guide_a.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="y">n</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+<!--<license wg-username="Pecho" registered-email="rodrigocortese@gmail.com" password="114415" />-->
+<logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+
+<!--
+          Replace the next dummy channel entry with the channels you want.
+            You can look into the installed siteini.pack folder on your computer
+
+           For the latest version,
+           see http://webgrabplus.com/epg-channels for the available sites/channels
+ -->
+
+
+
+<channel update="i" site="gatotv.com" site_id="a_y_e_mexico" xmltv_id="Canal A&amp;E (México)">Canal A&amp;E (México)</channel>
+<channel update="i" site="gatotv.com" site_id="atreseries_internacional" xmltv_id="Canal Atreseries (Internacional)">Canal Atreseries (Internacional)</channel>
+<channel update="i" site="gatotv.com" site_id="amc_mexico" xmltv_id="Canal AMC (México)">Canal AMC (México)</channel>
+<channel update="i" site="gatotv.com" site_id="antena_3" xmltv_id="Canal Antena 3">Canal Antena 3</channel>
+<channel update="i" site="gatotv.com" site_id="axn_centroamerica" xmltv_id="Canal AXN (Centroamérica)">Canal AXN (Centroamérica)</channel>
+<channel update="i" site="gatotv.com" site_id="az_cinema" xmltv_id="Canal AZ Cinema">Canal AZ Cinema</channel>
+<channel update="i" site="gatotv.com" site_id="az_corazon" xmltv_id="Canal AZ Corazón">Canal AZ Corazón</channel>
+<channel update="i" site="gatotv.com" site_id="cinelatino" xmltv_id="Canal Cinelatino">Canal Cinelatino</channel>
+<channel update="i" site="gatotv.com" site_id="cinecanal_pacifico" xmltv_id="Canal Cinecanal (Pacífico)">Canal Cinecanal (Pacífico)</channel>
+<channel update="i" site="gatotv.com" site_id="cinemax_chile" xmltv_id="Canal Cinemax (Chile)">Canal Cinemax (Chile)</channel>
+<channel update="i" site="gatotv.com" site_id="dhe" xmltv_id="Canal DHE">Canal DHE</channel>
+<channel update="i" site="gatotv.com" site_id="fx_mexico" xmltv_id="Canal FX (México)">Canal FX (México)</channel>
+<channel update="i" site="gatotv.com" site_id="fx_panregional" xmltv_id="Canal FX (Panregional)">Canal FX (Panregional)</channel>
+<channel update="i" site="gatotv.com" site_id="golden" xmltv_id="Canal Golden">Canal Golden</channel>
+<channel update="i" site="gatotv.com" site_id="golden_plus" xmltv_id="Canal Golden Plus">Canal Golden Plus</channel>
+<channel update="i" site="gatotv.com" site_id="golden_premier" xmltv_id="Canal Golden Premier">Canal Golden Premier</channel>
+<channel update="i" site="gatotv.com" site_id="golden_premier_2" xmltv_id="Canal Golden Premier 2">Canal Golden Premier 2</channel>
+<channel update="i" site="gatotv.com" site_id="hbo_latino_este" xmltv_id="Canal HBO Latino Este">Canal HBO Latino Este</channel>
+<channel update="i" site="gatotv.com" site_id="hbo_plus_este" xmltv_id="Canal HBO Plus Este">Canal HBO Plus Este</channel>
+<channel update="i" site="gatotv.com" site_id="hbo_2_mexico" xmltv_id="Canal HBO 2 (México)">Canal HBO 2 (México)</channel></settings>

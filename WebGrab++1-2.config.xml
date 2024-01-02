@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+
+  <filename>C:\Users\rodri\OneDrive\IPTV\Guide\guide_b.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="y">n</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+<!--<license wg-username="Pecho" registered-email="rodrigocortese@gmail.com" password="114415" />-->
+<logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+
+<!--
+          Replace the next dummy channel entry with the channels you want.
+            You can look into the installed siteini.pack folder on your computer
+
+           For the latest version,
+           see http://webgrabplus.com/epg-channels for the available sites/channels
+ -->
+
+
+
+<channel update="i" site="gatotv.com" site_id="mc" xmltv_id="Canal MC">Canal MC</channel>
+<channel update="i" site="gatotv.com" site_id="multipremier" xmltv_id="Canal Multipremier">Canal Multipremier</channel>
+<channel update="i" site="gatotv.com" site_id="pasiones_latinoamerica" xmltv_id="Canal Pasiones (Latinoamérica)">Canal Pasiones (Latinoamérica)</channel>
+<channel update="i" site="gatotv.com" site_id="rcn_novelas" xmltv_id="Canal RCN Novelas">Canal RCN Novelas</channel>
+<channel update="i" site="gatotv.com" site_id="sony_centro" xmltv_id="Canal Sony Centro">Canal Sony Centro</channel>
+<channel update="i" site="gatotv.com" site_id="sony_andes" xmltv_id="Canal Sony (Andes)">Canal Sony (Andes)</channel>
+<channel update="i" site="gatotv.com" site_id="sony_chile" xmltv_id="Canal Sony (Chile)">Canal Sony (Chile)</channel>
+<channel update="i" site="gatotv.com" site_id="space_mexico" xmltv_id="Canal Space (México)">Canal Space (México)</channel>
+<channel update="i" site="gatotv.com" site_id="space_panregional" xmltv_id="Canal Space (Panregional)">Canal Space (Panregional)</channel>
+<channel update="i" site="gatotv.com" site_id="star_tve_hd" xmltv_id="Canal Star TVE HD">Canal Star TVE HD</channel>
+<channel update="i" site="gatotv.com" site_id="studio_universal" xmltv_id="Canal Studio Universal">Canal Studio Universal</channel>
+<channel update="i" site="gatotv.com" site_id="telemundo_panregional" xmltv_id="Canal Telemundo (Panregional)">Canal Telemundo (Panregional)</channel>
+<channel update="i" site="gatotv.com" site_id="telemundo_puerto_rico" xmltv_id="Canal Telemundo Puerto Rico">Canal Telemundo Puerto Rico</channel>
+<channel update="i" site="gatotv.com" site_id="telemundo_mexico" xmltv_id="Canal Telemundo (México)">Canal Telemundo (México)</channel>
+<channel update="i" site="gatotv.com" site_id="tlnovelas_mexico" xmltv_id="Canal TLNovelas (México)">Canal TLNovelas (México)</channel>
+<channel update="i" site="gatotv.com" site_id="universal_tv_mexico" xmltv_id="Canal Universal TV (México)">Canal Universal TV (México)</channel>
+<channel update="i" site="gatotv.com" site_id="warner_tv_mexico" xmltv_id="Canal Warner TV (México)">Canal Warner TV (México)</channel>
+<channel update="i" site="gatotv.com" site_id="adrenalina_sports_network" xmltv_id="Canal Adrenalina Sports Network">Canal Adrenalina Sports Network</channel>
+<channel update="i" site="gatotv.com" site_id="bein_sport_en_espanol" xmltv_id="Canal beIN Sport en Español">Canal beIN Sport en Español</channel>
+<channel update="i" site="gatotv.com" site_id="espn_mexico" xmltv_id="Canal ESPN (México)">Canal ESPN (México)</channel></settings>

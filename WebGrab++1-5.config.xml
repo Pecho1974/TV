@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+
+  <filename>C:\Users\rodri\OneDrive\IPTV\Guide\guide_e.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="y">n</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+<!--<license wg-username="Pecho" registered-email="rodrigocortese@gmail.com" password="114415" />-->
+<logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+
+<!--
+          Replace the next dummy channel entry with the channels you want.
+            You can look into the installed siteini.pack folder on your computer
+
+           For the latest version,
+           see http://webgrabplus.com/epg-channels for the available sites/channels
+ -->
+
+
+
+<channel update="i" site="gatotv.com" site_id="rt_en_espanol" xmltv_id="Canal RT en Español">Canal RT en Español</channel>
+<channel update="i" site="gatotv.com" site_id="13_de_chile" xmltv_id="Canal 13 de Chile">Canal 13 de Chile</channel>
+<channel update="i" site="gatotv.com" site_id="telesur" xmltv_id="Canal teleSUR">Canal teleSUR</channel>
+<channel update="i" site="gatotv.com" site_id="tn23" xmltv_id="Canal TN23">Canal TN23</channel>
+<channel update="i" site="gatotv.com" site_id="azteca_guatemala" xmltv_id="Canal Azteca Guatemala">Canal Azteca Guatemala</channel>
+<channel update="i" site="gatotv.com" site_id="tvn_chile" xmltv_id="Canal TVN (Chile)">Canal TVN (Chile)</channel>
+<channel update="i" site="gatotv.com" site_id="univision_puerto_rico" xmltv_id="Canal Univision Puerto Rico">Canal Univision Puerto Rico</channel>
+<channel update="i" site="gatotv.com" site_id="mtv" xmltv_id="Canal MTV (Latinoamérica)">Canal MTV (Latinoamérica)</channel>
+<channel update="i" site="gatotv.com" site_id="mtv_hits" xmltv_id="Canal MTV Hits">Canal MTV Hits</channel>
+<channel update="i" site="gatotv.com" site_id="bbc_world" xmltv_id="Canal BBC World">Canal BBC World</channel>
+<channel update="i" site="gatotv.com" site_id="tve" xmltv_id="Canal TVE Internacional (Televisión Española)">Canal TVE Internacional (Televisión Española)</channel>
+<channel update="i" site="gatotv.com" site_id="enlace" xmltv_id="Canal Enlace (TBN)">Canal Enlace (TBN)</channel>
+<channel update="i" site="gatotv.com" site_id="esne_tv" xmltv_id="Canal ESNE TV">Canal ESNE TV</channel></settings>
