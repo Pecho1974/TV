@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+
+  <filename>C:\Users\rodri\OneDrive\IPTV\Guide\guide_h.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="y">n</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+<!--<license wg-username="Pecho" registered-email="rodrigocortese@gmail.com" password="114415" />-->
+<logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+
+<!--
+          Replace the next dummy channel entry with the channels you want.
+            You can look into the installed siteini.pack folder on your computer
+
+           For the latest version,
+           see http://webgrabplus.com/epg-channels for the available sites/channels
+ -->
+
+
+
+<channel update="i" site="telered.com.ar" site_id="328" xmltv_id="TCM">TCM</channel>
+<channel update="i" site="telered.com.ar" site_id="4230" xmltv_id="TNT HD">TNT HD</channel>
+<channel update="i" site="telered.com.ar" site_id="3128" xmltv_id="TNT Series HD">TNT Series HD</channel>
+<channel update="i" site="telered.com.ar" site_id="1508" xmltv_id="UNIVERSAL HD">UNIVERSAL HD</channel>
+<channel update="i" site="telered.com.ar" site_id="3787" xmltv_id="Warner HD">Warner HD</channel>
+<channel update="i" site="telered.com.ar" site_id="2198" xmltv_id="DEPORTV">DEPORTV</channel>
+<channel update="i" site="telered.com.ar" site_id="492" xmltv_id="TURBO">TURBO</channel>
+<channel update="i" site="telered.com.ar" site_id="3189" xmltv_id="ESPN HD">ESPN HD</channel>
+<channel update="i" site="telered.com.ar" site_id="1132" xmltv_id="ESPN EXTRA HD">ESPN EXTRA HD</channel>
+<channel update="i" site="telered.com.ar" site_id="3429" xmltv_id="ESPN 2 HD">ESPN 2 HD</channel>
+<channel update="i" site="telered.com.ar" site_id="4972" xmltv_id="ESPN 3 HD">ESPN 3 HD</channel>
+<channel update="i" site="telered.com.ar" site_id="3985" xmltv_id="Fox Sports Premium HD">Fox Sports Premium HD</channel>
+<channel update="i" site="telered.com.ar" site_id="979" xmltv_id="FOX SPORTS HD">FOX SPORTS HD</channel>
+<channel update="i" site="telered.com.ar" site_id="2785" xmltv_id="FOX SPORTS 2 HD">FOX SPORTS 2 HD</channel>
+<channel update="i" site="telered.com.ar" site_id="2366" xmltv_id="FOX Sports 3 HD">FOX Sports 3 HD</channel>
+<channel update="i" site="telered.com.ar" site_id="358" xmltv_id="El Garage">El Garage</channel>
+<channel update="i" site="telered.com.ar" site_id="2682" xmltv_id="Golf Channel HD">Golf Channel HD</channel>
+<channel update="i" site="telered.com.ar" site_id="3984" xmltv_id="TNT Sport Premium HD">TNT Sport Premium HD</channel>
+<channel update="i" site="telered.com.ar" site_id="2355" xmltv_id="TYC SPORTS HD">TYC SPORTS HD</channel>
+<channel update="i" site="telered.com.ar" site_id="1623" xmltv_id="Animal Planet">Animal Planet</channel></settings>

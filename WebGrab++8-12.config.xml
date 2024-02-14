@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+
+  <filename>C:\Users\rodri\OneDrive\IPTV\Guide\guide_l.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="y">n</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+<!--<license wg-username="Pecho" registered-email="rodrigocortese@gmail.com" password="114415" />-->
+<logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+
+<!--
+          Replace the next dummy channel entry with the channels you want.
+            You can look into the installed siteini.pack folder on your computer
+
+           For the latest version,
+           see http://webgrabplus.com/epg-channels for the available sites/channels
+ -->
+
+
+
+<channel update="i" site="telered.com.ar" site_id="16" xmltv_id="DW">DW</channel>
+<channel update="i" site="telered.com.ar" site_id="1974" xmltv_id="FRANCE 24">FRANCE 24</channel>
+<channel update="i" site="telered.com.ar" site_id="6202" xmltv_id="IP HD">IP HD</channel>
+<channel update="i" site="telered.com.ar" site_id="3181" xmltv_id="tve HD">tve HD</channel>
+<channel update="i" site="telered.com.ar" site_id="1847" xmltv_id="TN HD">TN HD</channel>
+<channel update="i" site="telered.com.ar" site_id="4832" xmltv_id="Pares TV HD">Pares TV HD</channel>
+<channel update="i" site="telered.com.ar" site_id="57" xmltv_id="Argentinísima Satelital">Argentinísima Satelital</channel>
+<channel update="i" site="telered.com.ar" site_id="11" xmltv_id="RURAL">RURAL</channel>
+<channel update="i" site="telered.com.ar" site_id="1460" xmltv_id="señal santa maría">señal santa maría</channel>
+<channel update="i" site="telered.com.ar" site_id="1813" xmltv_id="CONSTRUIR">CONSTRUIR</channel>
+<channel update="i" site="telered.com.ar" site_id="64" xmltv_id="EWTN">EWTN</channel>
+<channel update="i" site="telered.com.ar" site_id="771" xmltv_id="SUN Channel">SUN Channel</channel></settings>
