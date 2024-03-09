@@ -143,8 +143,6 @@ http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal FX (Panregional)" tvg-name="Canal FX (Panregional)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/FX.svg/revision/latest/scale-to-width-down/200?cb=20210328155501&path-prefix=es" group-title="Cine y Series",Canal FX (Panregional)
 http://45.166.92.22:58001/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="FX movies" tvg-name="FX movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/FXM_2017.svg/revision/latest/scale-to-width-down/250?cb=20200327025203&path-prefix=es" group-title="Cine y Series",FX movies
-http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="Canal Golden" tvg-name="Canal Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Cine y Series",Canal Golden
 http://138.59.177.34:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="Canal Golden.#2" tvg-name="Canal Golden.#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Cine y Series",Canal Golden.#2
@@ -303,6 +301,8 @@ http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder4-srt/SonyMovies.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",Sony Movies (22)
 http://bantel.iptvperu.tv:1935/transcoder4-srt/SonyMovies.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FX movies" tvg-name="FX movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",FX movies
+http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Space_2008.svg/revision/latest/scale-to-width-down/300?cb=20200216172603&path-prefix=es" group-title="Cine y Series",SPACE HD
 https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-id="Canal Space (Panregional)" tvg-name="Canal Space (Panregional)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Space_2008.svg/revision/latest/scale-to-width-down/300?cb=20200216172603&path-prefix=es" group-title="Cine y Series",Canal Space (Panregional)
@@ -1013,7 +1013,7 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u
 #EXTINF:-1 tvg-id="El Trece HD.#3" tvg-name="El Trece HD.#3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="Interes General",El Trece HD.#3
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Eltrece_Internacional_2017.png/revision/latest/scale-to-width-down/230?cb=20191216035910&path-prefix=es" group-title="Interes General",El Trece Internacional (21)
-https://cdn4.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=1805169235&_cdn_timestamp=1709659177&_cdn_token=496998ac99d2793007b6560af8721fda0ec1f333
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=1816870892&_cdn_timestamp=1709938147&_cdn_token=41ff03e4e64cbbba13ec5bccc4db20ee688ac80f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Eltrece_Internacional_2017.png/revision/latest/scale-to-width-down/230?cb=20191216035910&path-prefix=es" group-title="Interes General",El Trece Internacional (22)
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=1578042099&_cdn_timestamp=1701844739&_cdn_token=b5cd1a4bd890c8fa2543f30f0abf0aa282e02fda
 #EXTINF:-1 tvg-id="Encuentro" tvg-name="Encuentro" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png" group-title="Interes General",Encuentro
@@ -1219,7 +1219,7 @@ https://router.cdn.rcs.net.ar/mnp/nhk/output.mpd
 #EXTINF:-1 tvg-id="NHK WORLD PREMIUM HD" tvg-name="NHK WORLD PREMIUM HD" tvg-logo="https://logowik.com/content/uploads/images/nhk-world-japan1495.jpg" group-title="Internacional",NHK WORLD PREMIUM HD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="Internacional",Noticias Caracol (21)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1805150420&_cdn_timestamp=1709659033&_cdn_token=b7698b112404bc21633cffd7ee39360eec749e59
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1816728715&_cdn_timestamp=1709938105&_cdn_token=69f7f869f5ae12d06d95257d699ba9d09cf975e7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="Internacional",Noticias Caracol (22)
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=1766763517&_cdn_timestamp=1707822313&_cdn_token=24ace21207cd8d793f881c65af50e422a15e4023
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/FbPQkKX/1200px-Panamericana-tv-svg.png" group-title="Internacional",Panamericana (Peru)
@@ -1235,7 +1235,7 @@ http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="Internacional",Porto Canal Portugal PT
 https://streamer-b02.videos.sapo.pt/live/portocanal/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Internacional",QUVO Teve Empresa |Peru (21)
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1805138693&_cdn_timestamp=1709658504&_cdn_token=75bac7011d779df521d127b16cf32db22329ad00
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/TVEMPRESA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTVEMPRESA_stream_yi&_cdn_session=1816633405&_cdn_timestamp=1709938038&_cdn_token=84652923d43770d2cebcdd0240ad596ad4b8b80a
 #EXTINF:-1 tvg-id="Rai HD" tvg-name="Rai HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Rai_%282016%29.svg/revision/latest/scale-to-width-down/200?cb=20201024021858&path-prefix=es" group-title="Internacional",Rai HD
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Logo_rbatv.png/revision/latest/scale-to-width-down/300?cb=20190724165927" group-title="Internacional",RBATV (Brasil)
