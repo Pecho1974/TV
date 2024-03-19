@@ -200,6 +200,11 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Gol TV Estados Unidos">
+    <display-name lang="es">Canal Gol TV Estados Unidos</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Tigo Sports (Guatemala)">
     <display-name lang="es">Canal Tigo Sports (Guatemala)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png" />
@@ -224,6 +229,11 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="Canal Discovery Channel (México)">
+    <display-name lang="es">Canal Discovery Channel (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="Canal Discovery en Español">
     <display-name lang="es">Canal Discovery en Español</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" />
@@ -246,6 +256,11 @@
   </channel>
   <channel id="Canal National Geographic (México)">
     <display-name lang="es">Canal National Geographic (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal National Geographic (Centro)">
+    <display-name lang="es">Canal National Geographic (Centro)</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -1561,6 +1576,11 @@
 <channel id="El Garage.#3">
     <display-name lang="es">El Garage.#3</display-name>
     <url>http://www.telered.com.ar</url>
+  </channel>
+<channel id="Canal Gol TV Estados Unidos.#2">
+    <display-name lang="es">Canal Gol TV Estados Unidos.#2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png" />
+    <url>http://www.gatotv.com</url>
   </channel>
 <channel id="Golf Channel HD.#2">
     <display-name lang="es">Golf Channel HD.#2</display-name>
@@ -10382,6 +10402,207 @@ Repetición</title>
 <programme start="20240321180000 -0600" stop="20240321190000 -0600" channel="Canal Fox Deportes">
     <title lang="es">El chiringuito de Jugones</title>
   </programme>
+<programme start="20240317220000 -0600" stop="20240317223000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240317223000 -0600" stop="20240318003000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Barcelona vs. Orense</title>
+  </programme>
+<programme start="20240318003000 -0600" stop="20240318010000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240318010000 -0600" stop="20240318030000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Braga vs. Gil Vicente</title>
+  </programme>
+<programme start="20240318030000 -0600" stop="20240318040000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240318040000 -0600" stop="20240318043000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240318043000 -0600" stop="20240318083000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20240318083000 -0600" stop="20240318093000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240318093000 -0600" stop="20240318100000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240318100000 -0600" stop="20240318120000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Defensor Sporting vs. Danubio</title>
+  </programme>
+<programme start="20240318120000 -0600" stop="20240318123000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240318123000 -0600" stop="20240318130000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240318130000 -0600" stop="20240318153000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Feyenoord vs. Groningen</title>
+  </programme>
+<programme start="20240318153000 -0600" stop="20240318173000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">L.D.U. de Quito vs. Aucas</title>
+  </programme>
+<programme start="20240318173000 -0600" stop="20240318180000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240318180000 -0600" stop="20240318183000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240318183000 -0600" stop="20240318203000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Casa Pia vs. Benfica</title>
+  </programme>
+<programme start="20240318203000 -0600" stop="20240318213000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240318213000 -0600" stop="20240318220000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240318220000 -0600" stop="20240319000000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Cambuur vs. NEC Nijmegen</title>
+  </programme>
+<programme start="20240319000000 -0600" stop="20240319010000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240319010000 -0600" stop="20240319030000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">CD El Nacional vs. C.S. Emelec</title>
+  </programme>
+<programme start="20240319030000 -0600" stop="20240319033000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240319033000 -0600" stop="20240319043000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240319043000 -0600" stop="20240319083000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20240319083000 -0600" stop="20240319103000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Porto vs. Vizela</title>
+  </programme>
+<programme start="20240319103000 -0600" stop="20240319113000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240319113000 -0600" stop="20240319120000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240319120000 -0600" stop="20240319140000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Braga vs. Gil Vicente</title>
+  </programme>
+<programme start="20240319140000 -0600" stop="20240319143000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240319143000 -0600" stop="20240319150000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240319150000 -0600" stop="20240319170000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Barcelona vs. Orense</title>
+  </programme>
+<programme start="20240319170000 -0600" stop="20240319180000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240319180000 -0600" stop="20240319200000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Libertad vs. L.D.U. de Quito</title>
+  </programme>
+<programme start="20240319200000 -0600" stop="20240319210000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240319210000 -0600" stop="20240319213000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240319213000 -0600" stop="20240319233000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Nacional vs. Progreso</title>
+  </programme>
+<programme start="20240319233000 -0600" stop="20240320000000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240320000000 -0600" stop="20240320010000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240320010000 -0600" stop="20240320033000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Feyenoord vs. Groningen</title>
+  </programme>
+<programme start="20240320033000 -0600" stop="20240320043000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240320043000 -0600" stop="20240320083000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20240320083000 -0600" stop="20240320090000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240320090000 -0600" stop="20240320110000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Racing vs. Peñarol</title>
+  </programme>
+<programme start="20240320110000 -0600" stop="20240320120000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240320120000 -0600" stop="20240320140000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Sporting Clube de Portugal vs. Boavista</title>
+  </programme>
+<programme start="20240320140000 -0600" stop="20240320160000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Cambuur vs. NEC Nijmegen</title>
+  </programme>
+<programme start="20240320160000 -0600" stop="20240320180000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Braga vs. Gil Vicente</title>
+  </programme>
+<programme start="20240320180000 -0600" stop="20240320200000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">CD Universidad Católica vs. Barcelona</title>
+  </programme>
+<programme start="20240320200000 -0600" stop="20240320203000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240320203000 -0600" stop="20240320223000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Casa Pia vs. Benfica</title>
+  </programme>
+<programme start="20240320223000 -0600" stop="20240320230000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240320230000 -0600" stop="20240321010000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Libertad vs. L.D.U. de Quito</title>
+  </programme>
+<programme start="20240321010000 -0600" stop="20240321030000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">CD Universidad Católica vs. Barcelona</title>
+  </programme>
+<programme start="20240321030000 -0600" stop="20240321040000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240321040000 -0600" stop="20240321043000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240321043000 -0600" stop="20240321083000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20240321083000 -0600" stop="20240321090000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240321090000 -0600" stop="20240321093000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240321093000 -0600" stop="20240321103000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240321103000 -0600" stop="20240321110000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240321110000 -0600" stop="20240321130000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Braga vs. Gil Vicente</title>
+  </programme>
+<programme start="20240321130000 -0600" stop="20240321150000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Racing vs. Peñarol</title>
+  </programme>
+<programme start="20240321150000 -0600" stop="20240321170000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Libertad vs. L.D.U. de Quito</title>
+  </programme>
+<programme start="20240321170000 -0600" stop="20240321173000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240321173000 -0600" stop="20240321180000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240321180000 -0600" stop="20240321200000 -0600" channel="Canal Gol TV Estados Unidos">
+    <title lang="es">C.S. Emelec vs. Delfín</title>
+  </programme>
 <programme start="20240317230000 -0600" stop="20240318000000 -0600" channel="Canal Tigo Sports (Guatemala)">
     <title lang="es">En la Jugada</title>
   </programme>
@@ -11650,6 +11871,528 @@ Repetición</title>
   </programme>
 <programme start="20240318215900 -0600" stop="20240318225600 -0600" channel="Canal Animal Planet (Panregional)">
     <title lang="es">Refugio en el granero</title>
+  </programme>
+<programme start="20240317214200 -0600" stop="20240317223400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos celebridades</title>
+  </programme>
+<programme start="20240317223400 -0600" stop="20240317232600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240317232600 -0600" stop="20240318001900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+<programme start="20240318001900 -0600" stop="20240318010900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+<programme start="20240318010900 -0600" stop="20240318015900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+<programme start="20240318015900 -0600" stop="20240318024800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">LEGO Masters</title>
+  </programme>
+<programme start="20240318024800 -0600" stop="20240318033600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">American Ninja Warrior J</title>
+  </programme>
+<programme start="20240318033600 -0600" stop="20240318042400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240318042400 -0600" stop="20240318051200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos celebridades</title>
+  </programme>
+<programme start="20240318051200 -0600" stop="20240318060000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240318060000 -0600" stop="20240318062500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Control De Fronteras España T</title>
+  </programme>
+<programme start="20240318062500 -0600" stop="20240318071500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20240318071500 -0600" stop="20240318080500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20240318080500 -0600" stop="20240318085400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Construcciones remotas Hawái</title>
+  </programme>
+<programme start="20240318085400 -0600" stop="20240318094400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alaska Hombres primitivo</title>
+  </programme>
+<programme start="20240318094400 -0600" stop="20240318112500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Tras la pista del oro</title>
+  </programme>
+<programme start="20240318112500 -0600" stop="20240318121500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+<programme start="20240318121500 -0600" stop="20240318130600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+<programme start="20240318130600 -0600" stop="20240318135800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desafío X 2</title>
+  </programme>
+<programme start="20240318135800 -0600" stop="20240318144800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desafío X 2</title>
+  </programme>
+<programme start="20240318144800 -0600" stop="20240318153800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desafío X 2</title>
+  </programme>
+<programme start="20240318153800 -0600" stop="20240318163000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240318163000 -0600" stop="20240318172200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240318172200 -0600" stop="20240318181400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240318181400 -0600" stop="20240318190600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240318190600 -0600" stop="20240318195800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240318195800 -0600" stop="20240318205000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos sin fronteras</title>
+  </programme>
+<programme start="20240318205000 -0600" stop="20240318214200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo Méx</title>
+  </programme>
+<programme start="20240318214200 -0600" stop="20240318223600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo Méx</title>
+  </programme>
+<programme start="20240318223600 -0600" stop="20240318232800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+<programme start="20240318232800 -0600" stop="20240319002100 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desafío X 2 Brasil</title>
+  </programme>
+<programme start="20240319002100 -0600" stop="20240319011000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El arte de la supervivencia T</title>
+  </programme>
+<programme start="20240319011000 -0600" stop="20240319015800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+<programme start="20240319015800 -0600" stop="20240319024600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo Méx</title>
+  </programme>
+<programme start="20240319024600 -0600" stop="20240319033600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo Méx</title>
+  </programme>
+<programme start="20240319033600 -0600" stop="20240319042400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+<programme start="20240319042400 -0600" stop="20240319051200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El arte de la supervivencia T</title>
+  </programme>
+<programme start="20240319051200 -0600" stop="20240319060000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desafío X 2 Brasil</title>
+  </programme>
+<programme start="20240319060000 -0600" stop="20240319062500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Control De Fronteras España T</title>
+  </programme>
+<programme start="20240319062500 -0600" stop="20240319071500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20240319071500 -0600" stop="20240319080500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20240319080500 -0600" stop="20240319085400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+<programme start="20240319085400 -0600" stop="20240319094400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alaska Hombres primitivo</title>
+  </programme>
+<programme start="20240319094400 -0600" stop="20240319103400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Fiebre del oro Freddy Dodge</title>
+  </programme>
+<programme start="20240319103400 -0600" stop="20240319112500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Tras la pista del oro</title>
+  </programme>
+<programme start="20240319112500 -0600" stop="20240319121500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+<programme start="20240319121500 -0600" stop="20240319130600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+<programme start="20240319130600 -0600" stop="20240319135800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+<programme start="20240319135800 -0600" stop="20240319144800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+<programme start="20240319144800 -0600" stop="20240319153800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+<programme start="20240319153800 -0600" stop="20240319163000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240319163000 -0600" stop="20240319172200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240319172200 -0600" stop="20240319181400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240319181400 -0600" stop="20240319190600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240319190600 -0600" stop="20240319195800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240319195800 -0600" stop="20240319205000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Lo mejor de Mexicánicos</title>
+  </programme>
+<programme start="20240319205000 -0600" stop="20240319214200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240319214200 -0600" stop="20240319223400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+<programme start="20240319223400 -0600" stop="20240319232600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alex Vega Custom Shop</title>
+  </programme>
+<programme start="20240319232600 -0600" stop="20240320002300 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+<programme start="20240320002300 -0600" stop="20240320011500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Sueños mecánicos</title>
+  </programme>
+<programme start="20240320011500 -0600" stop="20240320020500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Al estilo Kindig</title>
+  </programme>
+<programme start="20240320020500 -0600" stop="20240320025900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240320025900 -0600" stop="20240320035200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+<programme start="20240320035200 -0600" stop="20240320044200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alex Vega Custom Shop</title>
+  </programme>
+<programme start="20240320044200 -0600" stop="20240320053400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Máquinas renovadas</title>
+  </programme>
+<programme start="20240320053400 -0600" stop="20240320060000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Ant Anstead, maestro..</title>
+  </programme>
+<programme start="20240320060000 -0600" stop="20240320062500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Control De Fronteras España T</title>
+  </programme>
+<programme start="20240320062500 -0600" stop="20240320071500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20240320071500 -0600" stop="20240320080500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20240320080500 -0600" stop="20240320085400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+<programme start="20240320085400 -0600" stop="20240320094400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alaska Hombres primitivo</title>
+  </programme>
+<programme start="20240320094400 -0600" stop="20240320103400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Fiebre del oro Freddy Dodge</title>
+  </programme>
+<programme start="20240320103400 -0600" stop="20240320112500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Tras la pista del oro</title>
+  </programme>
+<programme start="20240320112500 -0600" stop="20240320121500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+<programme start="20240320121500 -0600" stop="20240320130600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+<programme start="20240320130600 -0600" stop="20240320135800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+<programme start="20240320135800 -0600" stop="20240320153800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Australia salvaje</title>
+  </programme>
+<programme start="20240320153800 -0600" stop="20240320163000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240320163000 -0600" stop="20240320172200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240320172200 -0600" stop="20240320181400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+<programme start="20240320181400 -0600" stop="20240320190600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+<programme start="20240320190600 -0600" stop="20240320195800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240320195800 -0600" stop="20240320205000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240320205000 -0600" stop="20240320223400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo edic</title>
+  </programme>
+<programme start="20240320223400 -0600" stop="20240320232600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+<programme start="20240320232600 -0600" stop="20240321001900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">A bordo el reto</title>
+  </programme>
+<programme start="20240321001900 -0600" stop="20240321010900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Eden</title>
+  </programme>
+<programme start="20240321010900 -0600" stop="20240321015900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Cacería humana</title>
+  </programme>
+<programme start="20240321015900 -0600" stop="20240321024800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo edic</title>
+  </programme>
+<programme start="20240321024800 -0600" stop="20240321033600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Todos contra Ed Stafford</title>
+  </programme>
+<programme start="20240321033600 -0600" stop="20240321042400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">A bordo el reto</title>
+  </programme>
+<programme start="20240321042400 -0600" stop="20240321051200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Eden</title>
+  </programme>
+<programme start="20240321051200 -0600" stop="20240321060000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240321060000 -0600" stop="20240321062500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Control De Fronteras España T</title>
+  </programme>
+<programme start="20240321062500 -0600" stop="20240321071500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20240321071500 -0600" stop="20240321080400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Construcciones remotas la ci</title>
+  </programme>
+<programme start="20240321080400 -0600" stop="20240321085400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alaska Hombres primitivo</title>
+  </programme>
+<programme start="20240321085400 -0600" stop="20240321094400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Fiebre del oro Freddy Dodge</title>
+  </programme>
+<programme start="20240321094400 -0600" stop="20240321103400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Tras la pista del oro</title>
+  </programme>
+<programme start="20240321103400 -0600" stop="20240321112500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+<programme start="20240321112500 -0600" stop="20240321121500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pareja Salvaje</title>
+  </programme>
+<programme start="20240321121500 -0600" stop="20240321130600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desafío X 2</title>
+  </programme>
+<programme start="20240321130600 -0600" stop="20240321135800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+<programme start="20240321135800 -0600" stop="20240321144800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240321144800 -0600" stop="20240321153800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240321153800 -0600" stop="20240321163000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240321163000 -0600" stop="20240321172200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240321172200 -0600" stop="20240321181400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Parásitos asesinos</title>
+  </programme>
+<programme start="20240321181400 -0600" stop="20240321190600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Monstruos de río aguas desco</title>
+  </programme>
+<programme start="20240321190600 -0600" stop="20240321195800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240321195800 -0600" stop="20240321205000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240321205000 -0600" stop="20240321214200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240321214200 -0600" stop="20240321223400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240321223400 -0600" stop="20240321232600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Máxima seguridad</title>
+  </programme>
+<programme start="20240321232600 -0600" stop="20240322010900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+<programme start="20240322010900 -0600" stop="20240322015900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Emergencias médicas fascinant</title>
+  </programme>
+<programme start="20240322015900 -0600" stop="20240322024800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240322024800 -0600" stop="20240322033600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240322033600 -0600" stop="20240322042400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Máxima seguridad</title>
+  </programme>
+<programme start="20240322042400 -0600" stop="20240322060000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+<programme start="20240322060000 -0600" stop="20240322062500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Control De Fronteras España T</title>
+  </programme>
+<programme start="20240322062500 -0600" stop="20240322071500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pesca mortal</title>
+  </programme>
+<programme start="20240322071500 -0600" stop="20240322080400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Construcciones remotas</title>
+  </programme>
+<programme start="20240322080400 -0600" stop="20240322085400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alaska Hombres primitivo</title>
+  </programme>
+<programme start="20240322085400 -0600" stop="20240322094400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Fiebre del oro Freddy Dodge</title>
+  </programme>
+<programme start="20240322094400 -0600" stop="20240322103400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Tras la pista del oro</title>
+  </programme>
+<programme start="20240322103400 -0600" stop="20240322112500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+<programme start="20240322112500 -0600" stop="20240322121500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pareja Salvaje</title>
+  </programme>
+<programme start="20240322121500 -0600" stop="20240322130600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desafío X 2</title>
+  </programme>
+<programme start="20240322130600 -0600" stop="20240322135800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+<programme start="20240322135800 -0600" stop="20240322144800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240322144800 -0600" stop="20240322153800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240322153800 -0600" stop="20240322163000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240322163000 -0600" stop="20240322172200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240322172200 -0600" stop="20240322181400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+<programme start="20240322181400 -0600" stop="20240322190600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Construcciones remotas cabañ</title>
+  </programme>
+<programme start="20240322190600 -0600" stop="20240322195800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240322195800 -0600" stop="20240322205000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+<programme start="20240322205000 -0600" stop="20240322214200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240322214200 -0600" stop="20240322223400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240322223400 -0600" stop="20240322232600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alaska Hombres primitivo</title>
+  </programme>
+<programme start="20240322232600 -0600" stop="20240323001900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Tras la pista del oro</title>
+  </programme>
+<programme start="20240323001900 -0600" stop="20240323010900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+<programme start="20240323010900 -0600" stop="20240323015900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+<programme start="20240323015900 -0600" stop="20240323024800 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240323024800 -0600" stop="20240323033600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Alaska Hombres primitivo</title>
+  </programme>
+<programme start="20240323033600 -0600" stop="20240323042400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Tras la pista del oro</title>
+  </programme>
+<programme start="20240323042400 -0600" stop="20240323051200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Fiebre del oro</title>
+  </programme>
+<programme start="20240323051200 -0600" stop="20240323060000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+<programme start="20240323060000 -0600" stop="20240323064900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El arte de la supervivencia T</title>
+  </programme>
+<programme start="20240323064900 -0600" stop="20240323073700 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El arte de la supervivencia T</title>
+  </programme>
+<programme start="20240323073700 -0600" stop="20240323080200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Pequeños gigantes de la natur</title>
+  </programme>
+<programme start="20240323080200 -0600" stop="20240323085100 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El último de su especie</title>
+  </programme>
+<programme start="20240323085100 -0600" stop="20240323094000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El efecto Lázaro</title>
+  </programme>
+<programme start="20240323094000 -0600" stop="20240323102900 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">La leyenda del tiburón Phred</title>
+  </programme>
+<programme start="20240323102900 -0600" stop="20240323112000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+<programme start="20240323112000 -0600" stop="20240323121100 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">La presa con Joel Lambert</title>
+  </programme>
+<programme start="20240323121100 -0600" stop="20240323130200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desafío X 2 Brasil</title>
+  </programme>
+<programme start="20240323130200 -0600" stop="20240323135300 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Desafío X 2 Brasil</title>
+  </programme>
+<programme start="20240323135300 -0600" stop="20240323144400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia en Nueva Zelanda</title>
+  </programme>
+<programme start="20240323144400 -0600" stop="20240323153500 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El arte de la supervivencia T</title>
+  </programme>
+<programme start="20240323153500 -0600" stop="20240323162600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El arte de la supervivencia T</title>
+  </programme>
+<programme start="20240323162600 -0600" stop="20240323171700 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">El arte de la supervivencia T</title>
+  </programme>
+<programme start="20240323171700 -0600" stop="20240323190000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240323190000 -0600" stop="20240323192600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Batalla de vecinos</title>
+  </programme>
+<programme start="20240323192600 -0600" stop="20240323195200 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Batalla de vecinos</title>
+  </programme>
+<programme start="20240323195200 -0600" stop="20240323204400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Persecución policiaca</title>
+  </programme>
+<programme start="20240323204400 -0600" stop="20240323213600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240323213600 -0600" stop="20240323223000 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo Méx</title>
+  </programme>
+<programme start="20240323223000 -0600" stop="20240323233400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo Bra</title>
+  </programme>
+<programme start="20240323233400 -0600" stop="20240324002600 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240324002600 -0600" stop="20240324011400 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+<programme start="20240324011400 -0600" stop="20240324020300 -0600" channel="Canal Discovery Channel (México)">
+    <title lang="es">Supervivencia al desnudo</title>
   </programme>
 <programme start="20240317220000 -0600" stop="20240318000000 -0600" channel="Canal Discovery en Español">
     <title lang="es">Vidas remotas</title>
@@ -13249,6 +13992,108 @@ Repetición</title>
   </programme>
 <programme start="20240323171100 -0600" stop="20240323180500 -0600" channel="Canal National Geographic (México)">
     <title lang="es">Dr. Oakley, Yukon Vet</title>
+  </programme>
+<programme start="20240317215500 -0600" stop="20240317225000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Reinas del mundo animal</title>
+  </programme>
+<programme start="20240317225000 -0600" stop="20240317235000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Reinas del mundo animal</title>
+  </programme>
+<programme start="20240317235000 -0600" stop="20240318005000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+<programme start="20240318005000 -0600" stop="20240318014000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+<programme start="20240318014000 -0600" stop="20240318022500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Secretos de los mayas</title>
+  </programme>
+<programme start="20240318022500 -0600" stop="20240318031000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Solo contra el mundo: Cruce de los Andes</title>
+  </programme>
+<programme start="20240318031000 -0600" stop="20240318035500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+<programme start="20240318035500 -0600" stop="20240318043500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+<programme start="20240318043500 -0600" stop="20240318050000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos Estados Unidos</title>
+  </programme>
+<programme start="20240318050000 -0600" stop="20240318052000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+<programme start="20240318052000 -0600" stop="20240318053000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+<programme start="20240318053000 -0600" stop="20240318060000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Eco-Eye soluciones sustentables</title>
+  </programme>
+<programme start="20240318060000 -0600" stop="20240318062500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Eco-Eye soluciones sustentables</title>
+  </programme>
+<programme start="20240318062500 -0600" stop="20240318065000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Eco-Eye soluciones sustentables</title>
+  </programme>
+<programme start="20240318065000 -0600" stop="20240318071500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Eco-Eye soluciones sustentables</title>
+  </programme>
+<programme start="20240318071500 -0600" stop="20240318074000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+<programme start="20240318074000 -0600" stop="20240318081000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+<programme start="20240318081000 -0600" stop="20240318083500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Megaindustria de alimentos</title>
+  </programme>
+<programme start="20240318083500 -0600" stop="20240318093500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Gordon Ramsay: Sabores extremos</title>
+  </programme>
+<programme start="20240318093500 -0600" stop="20240318103000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+<programme start="20240318103000 -0600" stop="20240318112000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+<programme start="20240318112000 -0600" stop="20240318121500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Sobrevivir bajo cero sabiduría nativa</title>
+  </programme>
+<programme start="20240318121500 -0600" stop="20240318131000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Salvajemente famosos el desafìo</title>
+  </programme>
+<programme start="20240318131000 -0600" stop="20240318140500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Solo contra el mundo safari en África</title>
+  </programme>
+<programme start="20240318140500 -0600" stop="20240318150000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Reinas del mundo animal</title>
+  </programme>
+<programme start="20240318150000 -0600" stop="20240318160000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Imperio Salvaje</title>
+  </programme>
+<programme start="20240318160000 -0600" stop="20240318170000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+<programme start="20240318170000 -0600" stop="20240318180000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Ciudades perdidas con Albert Lin</title>
+  </programme>
+<programme start="20240318180000 -0600" stop="20240318190000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+<programme start="20240318190000 -0600" stop="20240318200000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+<programme start="20240318200000 -0600" stop="20240318210000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Contrabandistas con Mariana Van Zeller</title>
+  </programme>
+<programme start="20240318210000 -0600" stop="20240318215500 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Popeye confesiones de un sicario</title>
+  </programme>
+<programme start="20240318215500 -0600" stop="20240318225000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Acceso Nat Geo Guerra de narcos</title>
+  </programme>
+<programme start="20240318225000 -0600" stop="20240318235000 -0600" channel="Canal National Geographic (Centro)">
+    <title lang="es">Gordon Ramsay: Sabores extremos</title>
   </programme>
 <programme start="20240317212500 -0600" stop="20240317215100 -0600" channel="Canal truTV">
     <title lang="es">Harley Quinn</title>
@@ -55182,6 +56027,207 @@ busco string de programas<programme start="20240317230000 -0600" stop="202403172
 <programme start="20240319000000 -0300" stop="20240319003000 -0300" channel="El Garage.#3">
     <title lang="es">Memories</title>
   </programme>
+<programme start="20240317220000 -0600" stop="20240317223000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240317223000 -0600" stop="20240318003000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Barcelona vs. Orense</title>
+  </programme>
+<programme start="20240318003000 -0600" stop="20240318010000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240318010000 -0600" stop="20240318030000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Braga vs. Gil Vicente</title>
+  </programme>
+<programme start="20240318030000 -0600" stop="20240318040000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240318040000 -0600" stop="20240318043000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240318043000 -0600" stop="20240318083000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20240318083000 -0600" stop="20240318093000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240318093000 -0600" stop="20240318100000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240318100000 -0600" stop="20240318120000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Defensor Sporting vs. Danubio</title>
+  </programme>
+<programme start="20240318120000 -0600" stop="20240318123000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240318123000 -0600" stop="20240318130000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240318130000 -0600" stop="20240318153000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Feyenoord vs. Groningen</title>
+  </programme>
+<programme start="20240318153000 -0600" stop="20240318173000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">L.D.U. de Quito vs. Aucas</title>
+  </programme>
+<programme start="20240318173000 -0600" stop="20240318180000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240318180000 -0600" stop="20240318183000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240318183000 -0600" stop="20240318203000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Casa Pia vs. Benfica</title>
+  </programme>
+<programme start="20240318203000 -0600" stop="20240318213000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240318213000 -0600" stop="20240318220000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240318220000 -0600" stop="20240319000000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Cambuur vs. NEC Nijmegen</title>
+  </programme>
+<programme start="20240319000000 -0600" stop="20240319010000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240319010000 -0600" stop="20240319030000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">CD El Nacional vs. C.S. Emelec</title>
+  </programme>
+<programme start="20240319030000 -0600" stop="20240319033000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240319033000 -0600" stop="20240319043000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240319043000 -0600" stop="20240319083000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20240319083000 -0600" stop="20240319103000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Porto vs. Vizela</title>
+  </programme>
+<programme start="20240319103000 -0600" stop="20240319113000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240319113000 -0600" stop="20240319120000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240319120000 -0600" stop="20240319140000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Braga vs. Gil Vicente</title>
+  </programme>
+<programme start="20240319140000 -0600" stop="20240319143000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240319143000 -0600" stop="20240319150000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240319150000 -0600" stop="20240319170000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Barcelona vs. Orense</title>
+  </programme>
+<programme start="20240319170000 -0600" stop="20240319180000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240319180000 -0600" stop="20240319200000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Libertad vs. L.D.U. de Quito</title>
+  </programme>
+<programme start="20240319200000 -0600" stop="20240319210000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240319210000 -0600" stop="20240319213000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240319213000 -0600" stop="20240319233000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Nacional vs. Progreso</title>
+  </programme>
+<programme start="20240319233000 -0600" stop="20240320000000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240320000000 -0600" stop="20240320010000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240320010000 -0600" stop="20240320033000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Feyenoord vs. Groningen</title>
+  </programme>
+<programme start="20240320033000 -0600" stop="20240320043000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240320043000 -0600" stop="20240320083000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20240320083000 -0600" stop="20240320090000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240320090000 -0600" stop="20240320110000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Racing vs. Peñarol</title>
+  </programme>
+<programme start="20240320110000 -0600" stop="20240320120000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Ecuador</title>
+  </programme>
+<programme start="20240320120000 -0600" stop="20240320140000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Sporting Clube de Portugal vs. Boavista</title>
+  </programme>
+<programme start="20240320140000 -0600" stop="20240320160000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Cambuur vs. NEC Nijmegen</title>
+  </programme>
+<programme start="20240320160000 -0600" stop="20240320180000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Braga vs. Gil Vicente</title>
+  </programme>
+<programme start="20240320180000 -0600" stop="20240320200000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">CD Universidad Católica vs. Barcelona</title>
+  </programme>
+<programme start="20240320200000 -0600" stop="20240320203000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240320203000 -0600" stop="20240320223000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Casa Pia vs. Benfica</title>
+  </programme>
+<programme start="20240320223000 -0600" stop="20240320230000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240320230000 -0600" stop="20240321010000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Libertad vs. L.D.U. de Quito</title>
+  </programme>
+<programme start="20240321010000 -0600" stop="20240321030000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">CD Universidad Católica vs. Barcelona</title>
+  </programme>
+<programme start="20240321030000 -0600" stop="20240321040000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240321040000 -0600" stop="20240321043000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240321043000 -0600" stop="20240321083000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+<programme start="20240321083000 -0600" stop="20240321090000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">The Football Review</title>
+  </programme>
+<programme start="20240321090000 -0600" stop="20240321093000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240321093000 -0600" stop="20240321103000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Portugol</title>
+  </programme>
+<programme start="20240321103000 -0600" stop="20240321110000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240321110000 -0600" stop="20240321130000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Braga vs. Gil Vicente</title>
+  </programme>
+<programme start="20240321130000 -0600" stop="20240321150000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Racing vs. Peñarol</title>
+  </programme>
+<programme start="20240321150000 -0600" stop="20240321170000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Libertad vs. L.D.U. de Quito</title>
+  </programme>
+<programme start="20240321170000 -0600" stop="20240321173000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Tu Fútbol - Uruguay</title>
+  </programme>
+<programme start="20240321173000 -0600" stop="20240321180000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">Go Go Goal</title>
+  </programme>
+<programme start="20240321180000 -0600" stop="20240321200000 -0600" channel="Canal Gol TV Estados Unidos.#2">
+    <title lang="es">C.S. Emelec vs. Delfín</title>
+  </programme>
 <programme start="20240317233000 -0300" stop="20240318033000 -0300" channel="Golf Channel HD.#2">
     <title lang="es">PGA Tour</title>
   </programme>
@@ -76309,5 +77355,4 @@ busco string de programas<programme start="20240317230000 -0600" stop="202403172
     <title lang="es">Lo mejor de la madre Angélica</title>
   </programme>
 </tv>
-
 
