@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+
+  <filename>C:\Users\rodri\OneDrive\IPTV\Guide\guide_g.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="y">n</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+<!--<license wg-username="Pecho" registered-email="rodrigocortese@gmail.com" password="114415" />-->
+<logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+
+<!--
+          Replace the next dummy channel entry with the channels you want.
+            You can look into the installed siteini.pack folder on your computer
+
+           For the latest version,
+           see http://webgrabplus.com/epg-channels for the available sites/channels
+ -->
+
+
+
+<channel update="i" site="telered.com.ar" site_id="3445" xmltv_id="CINECANAL HD">CINECANAL HD</channel>
+<channel update="i" site="telered.com.ar" site_id="3142" xmltv_id="Cinemax HD">Cinemax HD</channel>
+<channel update="i" site="telered.com.ar" site_id="3953" xmltv_id="Comedy Central HD">Comedy Central HD</channel>
+<channel update="i" site="telered.com.ar" site_id="184" xmltv_id="Europa Europa">Europa Europa</channel>
+<channel update="i" site="telered.com.ar" site_id="63" xmltv_id="Film &amp; Arts">Film &amp; Arts</channel>
+<channel update="i" site="telered.com.ar" site_id="2040" xmltv_id="FX HD">FX HD</channel>
+<channel update="i" site="telered.com.ar" site_id="875" xmltv_id="HBO HD">HBO HD</channel>
+<channel update="i" site="telered.com.ar" site_id="2165" xmltv_id="HBO plus">HBO plus</channel>
+<channel update="i" site="telered.com.ar" site_id="2127" xmltv_id="HBO 2">HBO 2</channel>
+<channel update="i" site="telered.com.ar" site_id="2687" xmltv_id="HBO family HD">HBO family HD</channel>
+<channel update="i" site="telered.com.ar" site_id="1448" xmltv_id="HBO MUNDI HD">HBO MUNDI HD</channel>
+<channel update="i" site="telered.com.ar" site_id="3927" xmltv_id="HBO POP HD">HBO POP HD</channel>
+<channel update="i" site="telered.com.ar" site_id="500" xmltv_id="HBO Signature">HBO Signature</channel>
+<channel update="i" site="telered.com.ar" site_id="2688" xmltv_id="HBO XTREME HD">HBO XTREME HD</channel>
+<channel update="i" site="telered.com.ar" site_id="22" xmltv_id="ISAT">ISAT</channel>
+<channel update="i" site="telered.com.ar" site_id="2235" xmltv_id="ESTRELLAS HD">ESTRELLAS HD</channel>
+<channel update="i" site="telered.com.ar" site_id="2908" xmltv_id="PARAMOUNT CHANNEL HD">PARAMOUNT CHANNEL HD</channel>
+<channel update="i" site="telered.com.ar" site_id="1579" xmltv_id="SONY HD">SONY HD</channel>
+<channel update="i" site="telered.com.ar" site_id="4535" xmltv_id="SPACE HD">SPACE HD</channel>
+<channel update="i" site="telered.com.ar" site_id="879" xmltv_id="STAR CHANNEL HD">STAR CHANNEL HD</channel></settings>
