@@ -345,17 +345,17 @@ http://138.59.177.34:8000/play/a02c/index.m3u8
 http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="Canal Space (Panregional).#5" tvg-name="Canal Space (Panregional).#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="Cine y Series",Canal Space (Panregional).#5
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/148.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="STAR CHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="STAR CHANNEL HD" tvg-name="STAR CHANNEL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",STAR CHANNEL HD
 https://ushuaia-vision.cdn.rcs.net.ar/mnp/foxhd/output.mpd
-#EXTINF:-1 tvg-id="STAR CHANNEL HD.#2" tvg-name="STAR CHANNEL HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",STAR CHANNEL HD.#2
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.#2" tvg-name="STAR CHANNEL HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",STAR CHANNEL HD.#2
 https://ushuaia-vision.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL HD.#3" tvg-name="STAR CHANNEL HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",STAR CHANNEL HD.#3
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.#3" tvg-name="STAR CHANNEL HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",STAR CHANNEL HD.#3
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL HD.#4" tvg-name="STAR CHANNEL HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",STAR CHANNEL HD.#4
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.#4" tvg-name="STAR CHANNEL HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",STAR CHANNEL HD.#4
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL HD.#5" tvg-name="STAR CHANNEL HD.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",STAR CHANNEL HD.#5
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.#5" tvg-name="STAR CHANNEL HD.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",STAR CHANNEL HD.#5
 http://45.166.92.22:58001/play/a048/index.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL HD.#7" tvg-name="STAR CHANNEL HD.#7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest/scale-to-width-down/250?cb=20210224135934&path-prefix=es" group-title="Cine y Series",STAR CHANNEL HD.#7
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.#7" tvg-name="STAR CHANNEL HD.#7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",STAR CHANNEL HD.#7
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/181.m3u8
 #EXTINF:-1 tvg-id="Canal Star TVE HD" tvg-name="Canal Star TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star-TVE-logo.png/200px-Star-TVE-logo.png" group-title="Cine y Series",Canal Star TVE HD
 http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
@@ -577,6 +577,8 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal ESPN 3 (Norte)" tvg-name="Canal ESPN 3 (Norte)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",Canal ESPN 3 (Norte)
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
+#EXTINF:-1 tvg-id="Canal ESPN 3 (Norte).#2" tvg-name="Canal ESPN 3 (Norte).#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",Canal ESPN 3 (Norte).#2
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (10)
 http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (21)
@@ -717,7 +719,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CtQEjYfxNVHy6IZuqL8egsMSNJA1xV-mq7jzsj8zSgzGlxIhvsOOScjO6WjMS7MzDqnpod0sZ2yiBIQfyM8GLBRPXojXVMAHDim6wMiNopF_p6ngb1cjJx0JpTL0UzSCkeM9TZK_hruQrR38eQaglZOGiM3qsE4bIQIh9-uEKWpOpuBJ0HtKBjuAZo5TWphsv_4Xmp4zIiVHaseC4J-BJ3BjO10P7sWRP23HAVMzkjS93jq56rYn29vcNbC9oxtKiqOVRdBlAl-Yvu370TYXChbpueE3IK1A19Yc6XSS0Ax2lRXdyhp9PzQj97BwGhCUbmCqU5juFAtNIwxdoMiyxnWNcZ_-ihlEOds7ZnceLm_IV0rPsAhmBNg6EdBXORKnkZyXh4_nhmErO4McASBa8dQ8D7N6wagHpn-Ks2QXNQXuJHohOl8Aj3FriCwzFkkHSQ-A_CuHXY5AT2KkzfS8sqG-8sjHWv51vlDYfiDVnb4NoVYPO0q6Q-KsaSilMSurv7_8SpG3RoTjTkmCVU5VEzgsBR1_wPqj5Q1RXJu9NezBOn56wMOCkbaO66RKOt9atXO2vewjc7wfWUbwXs0lGfzh3m7OPnDb6tMO-EcWtxkY-hoLS5__3KBXY8jmlzcBBDtdCOqTxjCzLvFf0W9_xVg-0YhyYOZJObxzRnOgL1-Qfqm1YAufIgAWgr7Jb0SGChna-Z5-44HQEuZykWnC5NqnutOJ9sZJchVpQu6l2ekfdN-aVSjKyTQjASM37JDUEf77N5oLmcuBRnRFnKINVCme08K7LckaDEgrs3QLSiLzP8SCGyABKglldS13ZXN0LTIwmAk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/idKogRi.png" group-title="Deportes",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest/scale-to-width-down/200?cb=20201018070823" group-title="Deportes",SKY SPORTS FOOTBALL (70)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/fb/Sky_Sports_Football_2020.svg/revision/latest/scale-to-width-down/200?cb=20201018070823" group-title="Deportes",SKY PREMIER LEAGUE (70)
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/150?cb=20231120144249" group-title="Deportes",SKY SPORTS LA LIGA (70)
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/219.m3u8
@@ -725,6 +727,8 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/219.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Tennis_Channel_2022_horizontal.svg/revision/latest/scale-to-width-down/200?cb=20221201171719" group-title="Deportes",Tennis Channel (30)
 http://livex.pop-app.live/s4n/poplive/ch330/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Tennis_Channel_2022_horizontal.svg/revision/latest/scale-to-width-down/200?cb=20221201171719" group-title="Deportes",Tennis Channel (70)
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png" group-title="Deportes",Tigo Sports (70)
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/95.m3u8
 #EXTINF:-1 tvg-id="TNT Sport Premium HD" tvg-name="TNT Sport Premium HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest/scale-to-width-down/350?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT Sport Premium HD
