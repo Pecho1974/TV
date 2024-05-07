@@ -24,9 +24,9 @@ http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1 tvg-id="Canal Antena 3.#5" tvg-name="Canal Antena 3.#5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/125px-Antena_3_%282017%29.svg.png" group-title="Cine y Series",Canal Antena 3.#5
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/20.m3u8
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",AXN HD
-https://ushuaia-vision.cdn.rcs.net.ar/mnp/axn/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 tvg-id="AXN HD.#2" tvg-name="AXN HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",AXN HD.#2
-https://ushuaia-vision.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8
+https://tvfuego.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8
 #EXTINF:-1 tvg-id="AXN HD.#3" tvg-name="AXN HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",AXN HD.#3
 http://181.78.105.146:2000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="Canal AXN (Centroamérica)" tvg-name="Canal AXN (Centroamérica)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest/scale-to-width-down/350?cb=20210405161841&path-prefix=es" group-title="Cine y Series",Canal AXN (Centroamérica)
@@ -1053,7 +1053,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HFGGwWi.png" group-title="Interes General",KZO
 https://ythls.armelin.one/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 #EXTINF:-1 tvg-id="LN+" tvg-name="LN+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Interes General",LN+
-https://ushuaia-vision.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Interes General",Luzu TV (YT)
 https://ythls.armelin.one/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 #EXTINF:-1 tvg-id="METRO" tvg-name="METRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Capture%2B_2018-01-05-09-39-33.png/revision/latest?cb=20210525002842&path-prefix=es" group-title="Interes General",METRO
@@ -1433,9 +1433,9 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1 tvg-id="IP HD.#3" tvg-name="IP HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="Noticias",IP HD.#3
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-id="LN+.#2" tvg-name="LN+.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+.#2
-https://ushuaia-vision.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+https://tvfuego.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 tvg-id="LN+.#3" tvg-name="LN+.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+.#3
-https://ushuaia-vision.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
+https://tvfuego.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 #EXTINF:-1 tvg-id="LN+.#4" tvg-name="LN+.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+.#4
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="Canal RT en Español.#2" tvg-name="Canal RT en Español.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Noticias",Canal RT en Español.#2
