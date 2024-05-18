@@ -397,7 +397,7 @@ http://45.166.92.22:58001/play/a00k/index.m3u8
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/149.m3u8
 #EXTINF:-1 tvg-id="Canal SyFy" tvg-name="Canal SyFy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Cine y Series",Canal SyFy
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/150.m3u8
-#EXTINF:-1 tvg-id="tbs.#1" tvg-name="tbs.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest/scale-to-width-down/250?cb=20211013152137&path-prefix=es" group-title="Cine y Series",tbs.#2
+#EXTINF:-1 tvg-id="tbs" tvg-name="tbs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest/scale-to-width-down/250?cb=20211013152137&path-prefix=es" group-title="Cine y Series",tbs
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/136.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TCM_%28Latin_America%29.svg/revision/latest?cb=20200823030607" group-title="Cine y Series",TCM
 https://tvfuego.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
@@ -443,9 +443,9 @@ http://45.238.21.131:6570/play/a03l/index.m3u8
 http://45.166.92.22:58001/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="Canal TNT.#3" tvg-name="Canal TNT.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es" group-title="Cine y Series",Canal TNT.#3
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest/scale-to-width-down/250?cb=20211013152137&path-prefix=es" group-title="Cine y Series",TNT Novelas (01)
+#EXTINF:-1 tvg-id="tbs.#2" tvg-name="tbs.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest/scale-to-width-down/250?cb=20211013152137&path-prefix=es" group-title="Cine y Series",tbs.#2
 https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="tbs" tvg-name="tbs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest/scale-to-width-down/250?cb=20211013152137&path-prefix=es" group-title="Cine y Series",tbs
+#EXTINF:-1 tvg-id="tbs.#3" tvg-name="tbs.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest/scale-to-width-down/250?cb=20211013152137&path-prefix=es" group-title="Cine y Series",tbs.#3
 https://delivery.cdn.rcs.net.ar/mnp/tbs/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TNT_Novelas_logo_2023.svg/revision/latest/scale-to-width-down/150?cb=20230621193156" group-title="Cine y Series",TNT Novelas (21)
 http://45.238.21.131:6570/play/a04x/index.m3u8
