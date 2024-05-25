@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://bit.ly/3PmZcDi"
-#EXTINF:-1 tvg-id="A and E" tvg-name="A and E" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A and E
-https://tvfuego.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="A and E.#2" tvg-name="A and E.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A and E.#2
+#EXTINF:-1 tvg-id="A and E.#1" tvg-name="A and E.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A and E.#2
 https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A&E (22)
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
