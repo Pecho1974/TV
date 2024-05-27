@@ -492,7 +492,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.
 #EXTINF:-1 tvg-id="Canal Universal TV (México).#2" tvg-name="Canal Universal TV (México).#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",Canal Universal TV (México).#2
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/138.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/150px-USA_Network_logo_%282016%29.svg.png" group-title="Cine y Series",USA Network (01)
-https://onpower.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+https://loadbalancer20.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/150px-USA_Network_logo_%282016%29.svg.png" group-title="Cine y Series",USA Network (02)
 https://onpower.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/150px-USA_Network_logo_%282016%29.svg.png" group-title="Cine y Series",USA Network (21)
