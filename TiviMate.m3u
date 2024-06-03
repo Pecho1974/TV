@@ -1272,7 +1272,7 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/177632.m3u8
 #EXTINF:-1 tvg-id="TLC.#7" tvg-name="TLC.#7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/250?cb=20220706233159&path-prefix=es" group-title="Estilo de Vida",TLC.#7
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/162.m3u8
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="Infantil",Baby TV
-https://loadbalancer20.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Baby TV.#2" tvg-name="Baby TV.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="Infantil",Baby TV.#2
 https://delivery.cdn.rcs.net.ar/mnp/babytv/output.mpd
 #EXTINF:-1 tvg-id="Baby TV.#3" tvg-name="Baby TV.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="Infantil",Baby TV.#3
@@ -1385,7 +1385,7 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/TeenNick_2019.svg/revision/latest/scale-to-width-down/1000?cb=20240105193233" group-title="Infantil",TEEN Nick (50)
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1390.m3u8
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",TOONCAST
-https://loadbalancer20.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TOONCAST.#2" tvg-name="TOONCAST.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",TOONCAST.#2
 https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #EXTINF:-1 tvg-id="TOONCAST.#3" tvg-name="TOONCAST.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",TOONCAST.#3
@@ -1423,7 +1423,7 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/320px-Logo_Diputados_TV.png" group-title="Interes General",Diputados TV
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-id="El Nueve HD" tvg-name="El Nueve HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/El_Nueve.svg/revision/latest/scale-to-width-down/150?cb=20230819035831&path-prefix=es" group-title="Interes General",El Nueve HD
-https://loadbalancer20.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="El Nueve HD.#2" tvg-name="El Nueve HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/El_Nueve.svg/revision/latest/scale-to-width-down/150?cb=20230819035831&path-prefix=es" group-title="Interes General",El Nueve HD.#2
 https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-id="El Nueve HD.#3" tvg-name="El Nueve HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/El_Nueve.svg/revision/latest/scale-to-width-down/150?cb=20230819035831&path-prefix=es" group-title="Interes General",El Nueve HD.#3
@@ -1459,7 +1459,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HFGGwWi.png" group-title="Interes General",KZO
 https://ythls.armelin.one/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 #EXTINF:-1 tvg-id="LN+" tvg-name="LN+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Interes General",LN+
-https://loadbalancer20.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+https://router.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Interes General",Luzu TV (YT)
 https://ythls.armelin.one/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 #EXTINF:-1 tvg-id="METRO" tvg-name="METRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Capture%2B_2018-01-05-09-39-33.png/revision/latest?cb=20210525002842&path-prefix=es" group-title="Interes General",METRO
@@ -1473,7 +1473,7 @@ https://ythls.armelin.one/channel/UC64ZNqX0FQHabP8iIkmnR3A.m3u8
 #EXTINF:-1 tvg-id="TELEFE HD" tvg-name="TELEFE HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Telefe_2018_3D.svg/revision/latest/scale-to-width-down/200?cb=20210919025821&path-prefix=es" group-title="Interes General",TELEFE HD
 https://router.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TELEFE HD.#2" tvg-name="TELEFE HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Telefe_2018_3D.svg/revision/latest/scale-to-width-down/200?cb=20210919025821&path-prefix=es" group-title="Interes General",TELEFE HD.#2
-https://loadbalancer20.cdn.rcs.net.ar/mnp/telefe/output.mpd
+https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
 #EXTINF:-1 tvg-id="TELEFE HD.#3" tvg-name="TELEFE HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Telefe_2018_3D.svg/revision/latest/scale-to-width-down/200?cb=20210919025821&path-prefix=es" group-title="Interes General",TELEFE HD.#3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 #EXTINF:-1 tvg-id="TELEFE HD.#4" tvg-name="TELEFE HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Telefe_2018_3D.svg/revision/latest/scale-to-width-down/200?cb=20210919025821&path-prefix=es" group-title="Interes General",TELEFE HD.#4
@@ -1849,7 +1849,7 @@ http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/22097.m3u8
 #EXTINF:-1 tvg-id="C5N HD.#5" tvg-name="C5N HD.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/C5N_2018.svg/revision/latest/scale-to-width-down/200?cb=20210526223002&path-prefix=es" group-title="Noticias",C5N HD.#5
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal 26" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Canal_26_Noticias_2022.png/revision/latest/scale-to-width-down/200?cb=20220307193724&path-prefix=es" group-title="Noticias",Canal 26
-https://loadbalancer20.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 26.#2" tvg-name="Canal 26.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Canal_26_Noticias_2022.png/revision/latest/scale-to-width-down/200?cb=20220307193724&path-prefix=es" group-title="Noticias",Canal 26.#2
 https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
 #EXTINF:-1 tvg-id="Canal 26.#3" tvg-name="Canal 26.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Canal_26_Noticias_2022.png/revision/latest/scale-to-width-down/200?cb=20220307193724&path-prefix=es" group-title="Noticias",Canal 26.#3
@@ -1899,9 +1899,9 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1 tvg-id="IP HD.#4" tvg-name="IP HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/IP2023.png/revision/latest/scale-to-width-down/1000?cb=20230321001855&path-prefix=es" group-title="Noticias",IP HD.#4
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-id="LN+.#2" tvg-name="LN+.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+.#2
-https://loadbalancer20.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="LN+.#3" tvg-name="LN+.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+.#3
-https://loadbalancer20.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+https://router.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 tvg-id="LN+.#4" tvg-name="LN+.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+.#4
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 #EXTINF:-1 tvg-id="LN+.#5" tvg-name="LN+.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+.#5
