@@ -122,7 +122,7 @@ https://is-cableat.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 tvg-id="Canal Cinemax (Chile)" tvg-name="Canal Cinemax (Chile)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/300?cb=20200120201051&path-prefix=es" group-title="Cine y Series",Canal Cinemax (Chile)
 http://190.61.55.186:1010/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="Canal Cinemax (Chile).#2" tvg-name="Canal Cinemax (Chile).#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/300?cb=20200120201051&path-prefix=es" group-title="Cine y Series",Canal Cinemax (Chile).#2
-http://190.102.139.244:8900/play/a0n5/index.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/exitosamovil_t6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Cinemax (Chile).#3" tvg-name="Canal Cinemax (Chile).#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/300?cb=20200120201051&path-prefix=es" group-title="Cine y Series",Canal Cinemax (Chile).#3
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1444.m3u8
 #EXTINF:-1 tvg-id="Canal Cinemax (Chile).#4" tvg-name="Canal Cinemax (Chile).#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Cinemax_2011_%28Yellow%29.svg/revision/latest/scale-to-width-down/300?cb=20200120201051&path-prefix=es" group-title="Cine y Series",Canal Cinemax (Chile).#4
@@ -702,7 +702,7 @@ https://is-cableat.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN (10)
 http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="Canal ESPN (México)" tvg-name="Canal ESPN (México)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes",Canal ESPN (México)
-http://bantel.iptvperu.tv:1935/transcoder2/ESPN/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/ESPN.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.#4" tvg-name="ESPN HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN HD.#4
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/166827.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.#5" tvg-name="ESPN HD.#5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN HD.#5
@@ -724,9 +724,9 @@ https://is-cableat.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 (10)
 http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.#4" tvg-name="ESPN 2 HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD.#4
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/ESPN2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.#5" tvg-name="ESPN 2 HD.#5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD.#5
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN2_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/ESPN2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.#6" tvg-name="ESPN 2 HD.#6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD.#6
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/967.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.#7" tvg-name="ESPN 2 HD.#7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD.#7
@@ -744,9 +744,9 @@ https://is-cableat.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 (10)
 http://181.78.105.146:2000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 (21)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/ESPN3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 (22)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN3_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/ESPN3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD.#4" tvg-name="ESPN 3 HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD.#4
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1542.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD.#5" tvg-name="ESPN 3 HD.#5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD.#5
@@ -756,9 +756,9 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
 #EXTINF:-1 tvg-id="Canal ESPN 3 (Norte).#2" tvg-name="Canal ESPN 3 (Norte).#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",Canal ESPN 3 (Norte).#2
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (21)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/ESPN4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (22)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN4_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/ESPN4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN EXTRA HD.#4" tvg-name="ESPN EXTRA HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ESPN_Extra_2018.png/revision/latest/scale-to-width-down/250?cb=20220602051039&path-prefix=es" group-title="Deportes",ESPN EXTRA HD.#4
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/973.m3u8
 #EXTINF:-1 tvg-id="ESPN EXTRA HD.#5" tvg-name="ESPN EXTRA HD.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ESPN_Extra_2018.png/revision/latest/scale-to-width-down/250?cb=20220602051039&path-prefix=es" group-title="Deportes",ESPN EXTRA HD.#5
@@ -772,11 +772,11 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/196.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (71)
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ESPN5TV5Logo.png/800px-ESPN5TV5Logo.png" group-title="Deportes",ESPN 5 (22)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN5_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/ESPN5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6 (22)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN6_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/ESPN6.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7 (22)
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdn2/espn7.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes (50)
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1544.m3u8
 #EXTINF:-1 tvg-id="Canal ESPN Deportes" tvg-name="Canal ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",Canal ESPN Deportes
@@ -919,8 +919,6 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/209.m3u8
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/96.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/241px-LaLiga_logo_2023.svg.png" group-title="Deportes",LALIGA (10)
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="Deportes",Liga 1 Max (22)
-http://177.53.153.20:8001/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MLB_Network.svg/revision/latest/scale-to-width-down/200?cb=20220618052057" group-title="Deportes",MLB Network (30)
 http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MLB_Network.svg/revision/latest/scale-to-width-down/200?cb=20220618052057" group-title="Deportes",MLB Network (70)
@@ -1557,7 +1555,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_30
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="Internacional",Conectad2 Televisión |Peru (21)
 https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="Internacional",Congreso TV |Peru (21)
-http://bantel.iptvperu.tv:1935/astra/CanalDelCongreso/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnery/CanalDelCongreso.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/250?cb=20210624152344&path-prefix=es" group-title="Internacional",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/EcuadorTV_logo.png/150px-EcuadorTV_logo.png" group-title="Internacional",Ecuador TV | Ecuador (21)
