@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://bit.ly/3PmZcDi"
-#EXTINF:-1 tvg-id="tru TV HD" tvg-name="tru TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Cine y Series",tru TV HD
-https://broker.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="tru TV HD.#2" tvg-name="tru TV HD.#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png" group-title="Cine y Series",tru TV HD.#2
-https://broker.cdn.rcs.net.ar/mnp/ae/output.mpd
-#EXTINF:-1 tvg-id="A and E" tvg-name="A and E" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A and E
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/300px-Adult_Swim_2003_logo.svg.png" group-title="Cine y Series",[Adult Swim] (01)
 https://broker.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="A and E.#2" tvg-name="A and E.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A and E.#2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/300px-Adult_Swim_2003_logo.svg.png" group-title="Cine y Series",[Adult Swim] (02)
 https://broker.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1 tvg-id="A and E" tvg-name="A and E" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A and E
+https://broker.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="A and E.#2" tvg-name="A and E.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A and E.#2
+https://broker.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A&E (22)
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal A and E (México)" tvg-name="Canal A and E (México)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",Canal A and E (México)
