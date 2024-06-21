@@ -509,10 +509,12 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/99083.m3u8
 #EXTINF:-1 tvg-id="Canal TLNovelas (México).#4" tvg-name="Canal TLNovelas (México).#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Tlnovelas_%282019%29.svg/revision/latest/scale-to-width-down/250?cb=20230211021532&path-prefix=es" group-title="Cine y Series",Canal TLNovelas (México).#4
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/134.m3u8
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es" group-title="Cine y Series",TNT HD
+https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT HD.#2" tvg-name="TNT HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es" group-title="Cine y Series",TNT HD.#2
 https://router.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-id="TNT HD.#3" tvg-name="TNT HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es" group-title="Cine y Series",TNT HD.#3
-https://broker.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 #EXTINF:-1 tvg-id="Canal TNT" tvg-name="Canal TNT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es" group-title="Cine y Series",Canal TNT
 http://181.78.105.146:2000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="TNT HD.#4" tvg-name="TNT HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es" group-title="Cine y Series",TNT HD.#4
@@ -968,7 +970,7 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Canal TUDN (Estados Unidos)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",Canal TUDN (Estados Unidos)
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal TUDN (México).#4" tvg-name="Canal TUDN (México).#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",Canal TUDN (México).#4
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1549.m3u8
+http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos).#2" tvg-name="Canal TUDN (Estados Unidos).#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",Canal TUDN (Estados Unidos).#2
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/201.m3u8
 #EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos).#3" tvg-name="Canal TUDN (Estados Unidos).#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",Canal TUDN (Estados Unidos).#3
@@ -1344,7 +1346,7 @@ https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TOONCAST.#2" tvg-name="TOONCAST.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",TOONCAST.#2
 https://router.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #EXTINF:-1 tvg-id="TOONCAST.#3" tvg-name="TOONCAST.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",TOONCAST.#3
-https://broker.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast.m3u8
 #EXTINF:-1 tvg-id="TOONCAST.#4" tvg-name="TOONCAST.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",TOONCAST.#4
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1396.m3u8
 #EXTINF:-1 tvg-id="TOONCAST.#5" tvg-name="TOONCAST.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",TOONCAST.#5
@@ -1506,9 +1508,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/250px-CNA_new_logo.svg.png?20230217123429" group-title="Internacional",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="Internacional",CNN Internacional (01)
-https://broker.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN internacional" tvg-name="CNN internacional" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="Internacional",CNN internacional
-https://broker.cdn.rcs.net.ar/mnp/cnn/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/cnn/output.mpd
 #EXTINF:-1 tvg-id="CNN internacional.#2" tvg-name="CNN internacional.#2" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="Internacional",CNN internacional.#2
 http://livex.pop-app.live/s4n/poplive/ch318/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN internacional.#4" tvg-name="CNN internacional.#4" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="Internacional",CNN internacional.#4
@@ -1683,14 +1685,20 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bandamax_logo.svg/245px-Bandamax_logo.svg.png" group-title="Musica",Bandamax (21)
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CM" tvg-name="CM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/CM.png/revision/latest?cb=20210527145001&path-prefix=es" group-title="Musica",CM
+https://delivery.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CM.#2" tvg-name="CM.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/CM.png/revision/latest?cb=20210527145001&path-prefix=es" group-title="Musica",CM.#2
+https://delivery.cdn.rcs.net.ar/mnp/cm/output.mpd
 #EXTINF:-1 tvg-id="CM.#3" tvg-name="CM.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/CM.png/revision/latest?cb=20210527145001&path-prefix=es" group-title="Musica",CM.#3
 http://g5.mc-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UDFBYpN.png" group-title="Musica",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png" group-title="Musica",Hiperconectados Television
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/HTV_%282016%29.png/revision/latest?cb=20220125014835&path-prefix=es" group-title="Musica",HTV (01)
+https://delivery.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="hTV" tvg-name="hTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/HTV_%282016%29.png/revision/latest?cb=20220125014835&path-prefix=es" group-title="Musica",hTV
-https://broker.cdn.rcs.net.ar/mnp/htv/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-id="hTV.#2" tvg-name="hTV.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/HTV_%282016%29.png/revision/latest?cb=20220125014835&path-prefix=es" group-title="Musica",hTV.#2
 http://138.59.177.34:8000/play/a04c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Logokaribe%C3%B1atv.png/150px-Logokaribe%C3%B1atv.png" group-title="Musica",Karibeña TV (21)
@@ -1832,9 +1840,9 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w109976320_b1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/CNN_Chile_logo_2017.svg/revision/latest/scale-to-width-down/210?cb=20210306104346" group-title="Noticias",CNN Chile (21)
 http://201.222.44.220:4227/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es" group-title="Noticias",CNN
-https://broker.cdn.rcs.net.ar/mnp/cnne_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cnne_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.#2" tvg-name="CNN.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es" group-title="Noticias",CNN.#2
-https://broker.cdn.rcs.net.ar/mnp/cnne/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/cnne/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es" group-title="Noticias",CNN Espanol (10)
 http://181.78.105.146:2000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="CNN.#3" tvg-name="CNN.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es" group-title="Noticias",CNN.#3
@@ -1844,7 +1852,7 @@ https://router.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Crónica TV HD.#2" tvg-name="Crónica TV HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD.#2
 https://router.cdn.rcs.net.ar/mnp/cronica/output.mpd
 #EXTINF:-1 tvg-id="Crónica TV HD.#3" tvg-name="Crónica TV HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD.#3
-https://broker.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
 #EXTINF:-1 tvg-id="Crónica TV HD.#4" tvg-name="Crónica TV HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD.#4
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/22108.m3u8
 #EXTINF:-1 tvg-id="Crónica TV HD.#5" tvg-name="Crónica TV HD.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD.#5
