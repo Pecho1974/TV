@@ -407,17 +407,19 @@ http://45.166.92.22:58001/play/a04a/index.m3u8
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/26910.m3u8
 #EXTINF:-1 tvg-id="Canal Sony Centro.#4" tvg-name="Canal Sony Centro.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="Cine y Series",Canal Sony Centro.#4
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210203142657" group-title="Cine y Series",Sony Cine (50)
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1929.m3u8
+#EXTINF:-1 tvg-id="Canal Cine Sony" tvg-name="Canal Cine Sony" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210203142657" group-title="Cine y Series",Canal Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Cine Sony.#2" tvg-name="Canal Cine Sony.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210203142657" group-title="Cine y Series",Canal Cine Sony.#2
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1929.m3u9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/brootv_SONY_CCN/SONY_COMEDIAS.png" group-title="Cine y Series",Sony Comedias (50)
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/154353.m3u8
-#EXTINF:-1 tvg-id="Canal Cine Sony" tvg-name="Canal Cine Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",Canal Cine Sony
-http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Cine Sony.#2" tvg-name="Canal Cine Sony.#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",Canal Cine Sony.#2
-http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="Canal Cine Sony.#3" tvg-name="Canal Cine Sony.#3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",Canal Cine Sony.#3
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/154351.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Cine Sony.#4" tvg-name="Canal Cine Sony.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",Canal Cine Sony.#4
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="Canal Cine Sony.#5" tvg-name="Canal Cine Sony.#5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",Canal Cine Sony.#5
+http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/154351.m3u8
+#EXTINF:-1 tvg-id="Canal Cine Sony.#6" tvg-name="Canal Cine Sony.#6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",Canal Cine Sony.#6
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/113.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.teleon.tv/logo/sony-canal-novelas-us.png" group-title="Cine y Series",Sony Novelas (50)
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/154352.m3u8
@@ -1223,6 +1225,8 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 https://tastemade-de-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.freepng.es/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="Estilo de Vida",Tastemade Australia
 https://tmint-aus-samsungswedan.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.freepng.es/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="Estilo de Vida",Tastemade en espanol
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.freepng.es/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="Estilo de Vida",Tastemade International
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/TLC_2021.svg/revision/latest/scale-to-width-down/250?cb=20220706233159&path-prefix=es" group-title="Estilo de Vida",TLC
@@ -1377,6 +1381,8 @@ https://router.cdn.rcs.net.ar/mnp/cm_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/cm/output.mpd
 #EXTINF:-1 tvg-id="Magazine.#3" tvg-name="Magazine.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Ciudadmagazineartear.png/revision/latest?cb=20210525001127&path-prefix=es" group-title="Interes General",Magazine.#3
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/22104.m3u8
+#EXTINF:-1 tvg-id="Magazine.#4" tvg-name="Magazine.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Ciudadmagazineartear.png/revision/latest?cb=20210525001127&path-prefix=es" group-title="Interes General",Magazine.#4
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/320px-Logo_Diputados_TV.png" group-title="Interes General",Diputados TV
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:-1 tvg-id="El Nueve HD" tvg-name="El Nueve HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/El_Nueve.svg/revision/latest/scale-to-width-down/150?cb=20230819035831&path-prefix=es" group-title="Interes General",El Nueve HD
