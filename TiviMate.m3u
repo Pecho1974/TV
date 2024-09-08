@@ -283,6 +283,8 @@ https://delivery.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 http://181.78.105.146:2000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lifetime_Logo_%282020-presente%29.svg/revision/latest/scale-to-width-down/300?cb=20200125121516&path-prefix=es" group-title="Cine y Series",Lifetime (21)
 0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lifetime_Logo_%282020-presente%29.svg/revision/latest/scale-to-width-down/300?cb=20200125121516&path-prefix=es" group-title="Cine y Series",Lifetime (60)
+http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="Cine y Series",MC (10)
 http://181.78.105.146:2000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/150px-MC_logo_2022.png" group-title="Cine y Series",MC (40)
@@ -495,30 +497,38 @@ http://160.20.165.246:8000/play/a00j/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8
 #EXTINF:-1 tvg-id="Canal Adrenalina Sports Network" tvg-name="Canal Adrenalina Sports Network" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZBVv2TObX33fg5xHaB44Fsw41gbmKnbLoQXpcBBbcBOIoIueBIbN-_pKqOnYiciHNdxOomm00cBS5zzwUYdlmtpJgDhYhs0UXJfj_qPdL-lW7tKPMx8NjIwMA0BNpsC1jKDHUBR6eskguWe5Hl8OymjPqRSVDiDOKQWuJ-knE_PPDnjJuIBoGUXhB/s1000/AdrenalinaSportsNetwork.png" group-title="Deportes",Canal Adrenalina Sports Network
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/275px-Afizzionados_Logo.svg.png" group-title="Deportes",Affizionados (30)
-http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/275px-Afizzionados_Logo.svg.png" group-title="Deportes",Affizionados (60)
+http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/AmericaSports2019.png/revision/latest/scale-to-width-down/300?cb=20210205192717&path-prefix=es" group-title="Deportes",America Sports (YT)
 https://ythls-v3.onrender.com/channel/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
 #EXTINF:-1 tvg-id="Canal beIN Sport en Español" tvg-name="Canal beIN Sport en Español" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634" group-title="Deportes",Canal beIN Sport en Español
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal beIN Sport en Español.#2" tvg-name="Canal beIN Sport en Español.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634" group-title="Deportes",Canal beIN Sport en Español.#2
-https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
+http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634" group-title="Deportes",Bein Sports Xtra (EN) (60)
+http://tv.teleclub.xyz/envivo/Deportes/BEINSPORTS_EXTRA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/CABJ70.png/138px-CABJ70.png" group-title="Deportes",Boca Junior
 https://ythls-v3.onrender.com/channel/UCRtB_RAtKH72CgVAKHFgdIw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="Deportes",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/220?cb=20210414152347&path-prefix=es" group-title="Deportes",Claro Sports (10)
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/220?cb=20210414152347&path-prefix=es" group-title="Deportes",Claro Sports (21)
-0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/220?cb=20210414152347&path-prefix=es" group-title="Deportes",Claro Sports (40)
 http://160.20.165.246:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/220?cb=20210414152347&path-prefix=es" group-title="Deportes",Claro Sports (60)
+http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest?cb=20210423191014&path-prefix=es" group-title="Deportes",Claro Sports 2 (21)
 0
 #EXTINF:-1 tvg-id="DEPORTV" tvg-name="DEPORTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Deportv_Argentina_2020.svg/revision/latest/scale-to-width-down/300?cb=20230615034330" group-title="Deportes",DEPORTV
 https://delivery.cdn.rcs.net.ar/mnp/dxtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="DEPORTV.#2" tvg-name="DEPORTV.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Deportv_Argentina_2020.svg/revision/latest/scale-to-width-down/300?cb=20230615034330" group-title="Deportes",DEPORTV.#2
 https://delivery.cdn.rcs.net.ar/mnp/dxtv/output.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes",Directv (60)
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes",Directv + (60)
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Deportes",Directv 2 (60)
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8
 #EXTINF:-1 tvg-id="TURBO" tvg-name="TURBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="Deportes",TURBO
 https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TURBO.#2" tvg-name="TURBO.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="Deportes",TURBO.#2
@@ -541,12 +551,14 @@ https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN (10)
 http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN (21)
-0
+#EXTINF:-1 tvg-id="ESPN HD.#4" tvg-name="ESPN HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN HD.#4
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8
 #EXTINF:-1 tvg-id="ESPN EXTRA HD" tvg-name="ESPN EXTRA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ESPN_Extra_2018.png/revision/latest/scale-to-width-down/250?cb=20220602051039&path-prefix=es" group-title="Deportes",ESPN EXTRA HD
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN EXTRA HD.#2" tvg-name="ESPN EXTRA HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ESPN_Extra_2018.png/revision/latest/scale-to-width-down/250?cb=20220602051039&path-prefix=es" group-title="Deportes",ESPN EXTRA HD.#2
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+#EXTINF:-1 tvg-id="ESPN EXTRA HD.#3" tvg-name="ESPN EXTRA HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ESPN_Extra_2018.png/revision/latest/scale-to-width-down/250?cb=20220602051039&path-prefix=es" group-title="Deportes",ESPN EXTRA HD.#3
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_EXTRA/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD
 https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.#2" tvg-name="ESPN 2 HD.#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD.#2
@@ -555,20 +567,20 @@ https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 (10)
 http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 (21)
-0
 #EXTINF:-1 tvg-id="ESPN 2 HD.#4" tvg-name="ESPN 2 HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD.#4
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD.#5" tvg-name="ESPN 2 HD.#5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD.#5
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_SUR/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD
 https://delivery.cdn.rcs.net.ar/mnp/espn3_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD.#2" tvg-name="ESPN 3 HD.#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD.#2
 https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
 #EXTINF:-1 tvg-id="ESPN 3 HD.#3" tvg-name="ESPN 3 HD.#3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD.#3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 (21)
-0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 (22)
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 HD.#4" tvg-name="ESPN 3 HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD.#4
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (21)
 0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (22)
@@ -585,6 +597,8 @@ https://delivery.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-id="Fox Sports Premium HD.#3" tvg-name="Fox Sports Premium HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="Deportes",Fox Sports Premium HD.#3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+#EXTINF:-1 tvg-id="Fox Sports Premium HD.#4" tvg-name="Fox Sports Premium HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="Deportes",Fox Sports Premium HD.#4
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_PREMIUM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Deportes",Eventos TyC Sport Play 01
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Deportes",Eventos TyC Sport Play 02
@@ -613,18 +627,22 @@ http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS HD.#2" tvg-name="FOX SPORTS HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Fox_Sports_Argentina_2023.svg/revision/latest/scale-to-width-down/200?cb=20230305142851&path-prefix=es" group-title="Deportes",FOX SPORTS HD.#2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Fox_Sports_Argentina_2023.svg/revision/latest/scale-to-width-down/200?cb=20230305142851&path-prefix=es" group-title="Deportes",Fox Sports (40)
-0
+#EXTINF:-1 tvg-id="FOX SPORTS HD.#3" tvg-name="FOX SPORTS HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Fox_Sports_Argentina_2023.svg/revision/latest/scale-to-width-down/200?cb=20230305142851&path-prefix=es" group-title="Deportes",FOX SPORTS HD.#3
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_SUR/index.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS 2 HD" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Fox_Sports_2_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/250?cb=20230305144032&path-prefix=es" group-title="Deportes",FOX SPORTS 2 HD
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS 2 HD.#2" tvg-name="FOX SPORTS 2 HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Fox_Sports_2_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/250?cb=20230305144032&path-prefix=es" group-title="Deportes",FOX SPORTS 2 HD.#2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD.#3" tvg-name="FOX SPORTS 2 HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Fox_Sports_2_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/250?cb=20230305144032&path-prefix=es" group-title="Deportes",FOX SPORTS 2 HD.#3
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 3 HD" tvg-name="FOX Sports 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Fox_Sports_3_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/300?cb=20230305144910&path-prefix=es" group-title="Deportes",FOX Sports 3 HD
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX Sports 3 HD.#2" tvg-name="FOX Sports 3 HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Fox_Sports_3_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/300?cb=20230305144910&path-prefix=es" group-title="Deportes",FOX Sports 3 HD.#2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Fox_Sports_3_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/300?cb=20230305144910&path-prefix=es" group-title="Deportes",Fox Sports 3 (40)
 0
+#EXTINF:-1 tvg-id="FOX Sports 3 HD.#3" tvg-name="FOX Sports 3 HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Fox_Sports_3_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/300?cb=20230305144910&path-prefix=es" group-title="Deportes",FOX Sports 3 HD.#3
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/FS1_2015.png/revision/latest?cb=20190827192439&path-prefix=es" group-title="Deportes",FS1 (30)
 http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/FS2_2015.png/revision/latest?cb=20190827172943&path-prefix=es" group-title="Deportes",FS2 (30)
@@ -639,6 +657,8 @@ https://delivery.cdn.rcs.net.ar/mnp/garage/output.mpd
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/GolTVLatamHD-2014.png/revision/latest/scale-to-width-down/185?cb=20200105205809&path-prefix=es" group-title="Deportes",Gol TV (40)
 0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/GolTVLatamHD-2014.png/revision/latest/scale-to-width-down/185?cb=20200105205809&path-prefix=es" group-title="Deportes",Gol TV (60)
+http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="Golf Channel HD" tvg-name="Golf Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel HD
 https://delivery.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Golf Channel HD.#2" tvg-name="Golf Channel HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel HD.#2
@@ -655,6 +675,8 @@ http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
 http://livex.pop-app.live/s4n/poplive/ch309/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal NFL Network" tvg-name="Canal NFL Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/NFL_Network_New.svg/revision/latest/scale-to-width-down/250?cb=20161124195846" group-title="Deportes",Canal NFL Network
 http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/NFL_Network_New.svg/revision/latest/scale-to-width-down/250?cb=20161124195846" group-title="Deportes",NFL Network (60)
+http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Red_Bull_logo.svg/revision/latest/scale-to-width-down/250?cb=20210513162950&path-prefix=es" group-title="Deportes",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canalshowsport.com.ar/wp-content/uploads/2021/11/2021-11-logo-SS-HEADER-blueE.png" group-title="Deportes",ShowSport (Tw)
@@ -669,32 +691,32 @@ https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1 tvg-id="TNT Sport Premium HD.#3" tvg-name="TNT Sport Premium HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/LogoTNTSportsPremium2024.svg/revision/latest?cb=20240322154743" group-title="Deportes",TNT Sport Premium HD.#3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/LogoTNTSportsPremium2024.svg/revision/latest?cb=20240322154743" group-title="Deportes",TNT Sports (21)
-0
+#EXTINF:-1 tvg-id="TNT Sport Premium HD.#4" tvg-name="TNT Sport Premium HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/LogoTNTSportsPremium2024.svg/revision/latest?cb=20240322154743" group-title="Deportes",TNT Sport Premium HD.#4
+http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="Canal TUDN (México)" tvg-name="Canal TUDN (México)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",Canal TUDN (México)
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",TUDN (21)
-0
 #EXTINF:-1 tvg-id="Canal TUDN (México).#2" tvg-name="Canal TUDN (México).#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",Canal TUDN (México).#2
 http://181.78.105.146:2000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Canal TUDN (Estados Unidos)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",Canal TUDN (Estados Unidos)
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal TUDN (México).#3" tvg-name="Canal TUDN (México).#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",Canal TUDN (México).#3
 http://181.78.105.146:2000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TyC Sports (21)
-0
+#EXTINF:-1 tvg-id="Canal TUDN (México).#4" tvg-name="Canal TUDN (México).#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest?cb=20230211021027&path-prefix=es" group-title="Deportes",Canal TUDN (México).#4
+http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
 #EXTINF:-1 tvg-id="TYC SPORTS HD" tvg-name="TYC SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TYC SPORTS HD
+http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="TYC SPORTS HD.#2" tvg-name="TYC SPORTS HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="Deportes",TYC SPORTS HD.#2
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20221011165755" group-title="Deportes",Win Sports (21)
-0
 #EXTINF:-1 tvg-id="Canal Win Sports" tvg-name="Canal Win Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20221011165755" group-title="Deportes",Canal Win Sports
 http://167.250.135.246:81/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="Canal Win Sports.#2" tvg-name="Canal Win Sports.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20221011165755" group-title="Deportes",Canal Win Sports.#2
 http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/350?cb=20230109125452&path-prefix=es" group-title="Deportes",Win Sports+ (21)
-0
-#EXTINF:-1 tvg-id="Canal Win Sports.#3" tvg-name="Canal Win Sports.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20221011165755" group-title="Deportes",Canal Win Sports.#3
+#EXTINF:-1 tvg-id="Canal Win Sports" tvg-name="Canal Win Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20221011165755" group-title="Deportes",Canal Win Sports
+http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="Canal Win Sports.#4" tvg-name="Canal Win Sports.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20221011165755" group-title="Deportes",Canal Win Sports.#4
 http://167.250.135.246:81/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/WinSports%2B2022.png/revision/latest/scale-to-width-down/350?cb=20230109125452&path-prefix=es" group-title="Deportes",Win Sports+ (60)
+http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Deportes",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Documentales",Animal Planet
@@ -825,8 +847,6 @@ https://delivery.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="Estilo de Vida",Gourmet (21)
 0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="Estilo de Vida",Gourmet (60)
-http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
 #EXTINF:-1 tvg-id="Home  and  Health" tvg-name="Home  and  Health" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Home  and  Health
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",H&H (10)
@@ -837,8 +857,6 @@ http://181.78.105.146:2000/play/a03g/index.m3u8
 http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
 #EXTINF:-1 tvg-id="Home  and  Health.#2" tvg-name="Home  and  Health.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Home  and  Health.#2
 http://160.20.165.246:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",H&H (60)
-http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20210817053224&path-prefix=es" group-title="Estilo de Vida",HGTV
 https://delivery.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV.#2" tvg-name="HGTV.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20210817053224&path-prefix=es" group-title="Estilo de Vida",HGTV.#2
@@ -889,6 +907,8 @@ https://delivery.cdn.rcs.net.ar/mnp/babytv/output.mpd
 http://138.59.177.34:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="Baby TV.#4" tvg-name="Baby TV.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Baby_TV_2012.png/revision/latest/scale-to-width-down/250?cb=20180823145543&path-prefix=es" group-title="Infantil",Baby TV.#4
 http://livex.pop-app.live/s4n/poplive/ch550/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="Infantil",BIT ME (60)
+http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Infantil",CARTOON NETWORK
 https://delivery.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK.#2" tvg-name="CARTOON NETWORK.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Infantil",CARTOON NETWORK.#2
@@ -969,6 +989,8 @@ https://delivery.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #EXTINF:-1 tvg-id="TOONCAST.#3" tvg-name="TOONCAST.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",TOONCAST.#3
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Tooncast/SA_HLS/Tooncast.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es" group-title="Infantil",Tooncast (60)
+http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest/scale-to-width-down/386?cb=20220221213805" group-title="Infantil",Zoo Moo (01)
 https://delivery.cdn.rcs.net.ar/mnp/zoomoo_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zoomookidslogo.png/revision/latest/scale-to-width-down/386?cb=20220221213805" group-title="Infantil",Zoo Moo (02)
@@ -1403,6 +1425,8 @@ https://delivery.cdn.rcs.net.ar/mnp/cnne_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/cnne/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es" group-title="Noticias",CNN Espanol (10)
 http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="CNN.#3" tvg-name="CNN.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/CNN_en_Espa%C3%B1ol_2014.svg/revision/latest/scale-to-width-down/200?cb=20220409054013&path-prefix=es" group-title="Noticias",CNN.#3
+http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-id="Crónica TV HD" tvg-name="Crónica TV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD
 https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Crónica TV HD.#2" tvg-name="Crónica TV HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD.#2
@@ -1441,6 +1465,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 https://ythls-v3.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="Canal RT en Español.#2" tvg-name="Canal RT en Español.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Noticias",Canal RT en Español.#2
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal RT en Español.#3" tvg-name="Canal RT en Español.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Noticias",Canal RT en Español.#3
+http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-id="TN HD" tvg-name="TN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN HD
 https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TN HD.#2" tvg-name="TN HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN HD.#2
