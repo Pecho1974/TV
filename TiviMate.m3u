@@ -1038,7 +1038,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HFGGwWi.png" group-title="Interes General",KZO
 https://ythls-v3.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 #EXTINF:-1 tvg-id="LN+" tvg-name="LN+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Interes General",LN+
-https://delivery.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://luzutv.com.ar/wp-content/uploads/2021/07/LOGO-PNG-e1627149585606-262x76.png" group-title="Interes General",Luzu TV (YT)
 https://ythls-v3.onrender.com/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
 #EXTINF:-1 tvg-id="METRO" tvg-name="METRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Capture%2B_2018-01-05-09-39-33.png/revision/latest?cb=20210525002842&path-prefix=es" group-title="Interes General",METRO
@@ -1416,7 +1416,7 @@ https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Crónica TV HD.#2" tvg-name="Crónica TV HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD.#2
 https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 #EXTINF:-1 tvg-id="Crónica TV HD.#3" tvg-name="Crónica TV HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD.#3
-https://loadbalancer15.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
 #EXTINF:-1 tvg-id="Crónica TV HD.#4" tvg-name="Crónica TV HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Cronica.jpg/revision/latest/scale-to-width-down/350?cb=20210527005034&path-prefix=es" group-title="Noticias",Crónica TV HD.#4
 https://ythls-v3.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/DNews_2022.png/revision/latest/scale-to-width-down/350?cb=20220705230826&path-prefix=es" group-title="Noticias",DNews (YT)
@@ -2781,6 +2781,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sicarditv.com.ar/static/custom/logo.png" group-title="Regionales",Sicarditv
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="Regionales",Somos AMBA (01)
+https://delivery.cdn.rcs.net.ar/mnp/in_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="Regionales",Somos AMBA (02)
+https://delivery.cdn.rcs.net.ar/mnp/in/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2img.net/h/4.bp.blogspot.com/-7cuK6nDn9jY/Tm-mMY_NLHI/AAAAAAAAQHc/GmzljlxGkAU/s1600/slp.png" group-title="Regionales",Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="Regionales",Telediario Television | AR
