@@ -529,6 +529,8 @@ http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TURBO.#2" tvg-name="TURBO.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="Deportes",TURBO.#2
 https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
+#EXTINF:-1 tvg-id="TURBO.#3" tvg-name="TURBO.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="Deportes",TURBO.#3
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Turbo/SA_HLS/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="Deportes",Discovery Turbo (21)
 0
 #EXTINF:-1 tvg-id="TURBO.#4" tvg-name="TURBO.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="Deportes",TURBO.#4
@@ -705,13 +707,13 @@ http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS/index.m3u8
 http://167.250.135.246:81/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/World_Poker_Tour_Logo.png" group-title="Deportes",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Documentales",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",Animal Planet
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.#2" tvg-name="Animal Planet.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Documentales",Animal Planet.#2
+#EXTINF:-1 tvg-id="Animal Planet.#2" tvg-name="Animal Planet.#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",Animal Planet.#2
 http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.#3" tvg-name="Animal Planet.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Documentales",Animal Planet.#3
+#EXTINF:-1 tvg-id="Animal Planet.#3" tvg-name="Animal Planet.#3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",Animal Planet.#3
 http://160.20.165.246:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="Animal Planet.#4" tvg-name="Animal Planet.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20210918005322&path-prefix=es" group-title="Documentales",Animal Planet.#4
+#EXTINF:-1 tvg-id="Animal Planet.#4" tvg-name="Animal Planet.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="Documentales",Animal Planet.#4
 http://tv.teleclub.xyz/envivo/Cultura/ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="Canal Discovery Channel (México)" tvg-name="Canal Discovery Channel (México)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/400?cb=20200113171937&path-prefix=es" group-title="Documentales",Canal Discovery Channel (México)
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CsQE37pqkszFYcv3CwCyDv6294nltOKVsU-PPMBuCMvS8UT_fAuR35k7fvr0UUS7xatNETD663BqXh4ru-YLjip2VwPQfSqlDYnMmbWzR_8FeDGakca9RJMv6KqnJjFuc3FZzJf9BIxe-6zxvqQ0VGcblSR0MnSr0xFiy5xi3c6iHVQ81Nf3mlYvjsgPJJsbaFpGII27SYmbbFQUFM_f3QF1-kkxOLdFj5gULlARPgCTrJCa7S29RhikXm1K34-jQhtXHvkQSxXhWu8VOhV4dvVFy1UHzV8cAifk41jv4UkzM-QUAXrGj2voCwT0-B3y7zwyF98qhfvV6218_xhJ8y9eOkDHsLzIRI-u_qatRPCfQc8xtF4fix8cmGP7fuxh78LXs9J9Rk2_NvpZNfQ47EMonJ3NTFi3M9WRL1kOlB-nVv8PmvUYT4V9gcyAl4jwp4-umfkkxx2gDOkkJ1KbqhUkB1a2n_M7i81HYxyV1mabHmNrVhr_tEA-PlxqI_TeQxNLvB58FB56h_fIPeUTYf3Dphycih7M1QgVli2qtd-TFxwP5R_foUNjoJUsUreprddYUDb4DFJTqAUS6V7zLgm08IQWRtKE-3gNTtz58xkCRzfCdTeo0NZOWxZKMJbj74L1bzeZc-72DcFsN3y-01HvHk2Q32ZA2eClnTSsmXAKky2T6dEpp7lYjYPlMHeXuzEnqah6RlbO9HTby9YicWcVCKDhI__Bs5_RSj2XCmYDDcvw50rHNkz8qUVMi2aJoFnM91meCBoMj7yTeme4nHJkoXQ2IAEqCWV1LXdlc3QtMjCYCQ.m3u8
@@ -991,6 +993,8 @@ https://delivery.cdn.rcs.net.ar/mnp/zoomoo/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1 tvg-id="AMERICA HD.#2" tvg-name="AMERICA HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/America2020.png/revision/latest/scale-to-width-down/200?cb=20200602023759&path-prefix=es" group-title="Interes General",AMERICA HD.#2
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+#EXTINF:-1 tvg-id="AMERICA HD.#3" tvg-name="AMERICA HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/America2020.png/revision/latest/scale-to-width-down/200?cb=20200602023759&path-prefix=es" group-title="Interes General",AMERICA HD.#3
+https://ythls-v3.onrender.com/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1J72yU_wPan3RKJQgD_desM4j4B-1hqHg1Y-6HcAezz7iix0NaaO7sqASvfXEnf1D2f3NmmmAFRqt94IAQNksHGK2gXsLNn9dm4skAyWur6ME-2uK_t/s210/aunar-2022.png" group-title="Interes General",Aunar
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/a0c27f3f882a92a4e8436a3d1eb286f9.png" group-title="Interes General",Canal 9 Televida
@@ -2771,10 +2775,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 https://videosenlared.fullstreaming.ar:3560/live/senialurbanalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sicarditv.com.ar/static/custom/logo.png" group-title="Regionales",Sicarditv
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="Regionales",Somos AMBA (01)
-https://delivery.cdn.rcs.net.ar/mnp/in_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="Regionales",Somos AMBA (02)
-https://delivery.cdn.rcs.net.ar/mnp/in/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2img.net/h/4.bp.blogspot.com/-7cuK6nDn9jY/Tm-mMY_NLHI/AAAAAAAAQHc/GmzljlxGkAU/s1600/slp.png" group-title="Regionales",Somos La Pampa
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-Gceq5SpfHb8/XrYRAGJeBUI/AAAAAAAA0i4/OHxya9wtX5kJC06MlqyfpUCl9M2azquDQCK8BGAsYHg/s0/2020-05-08.png" group-title="Regionales",Telediario Television | AR
