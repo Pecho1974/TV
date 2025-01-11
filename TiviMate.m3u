@@ -972,6 +972,8 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang
 #EXTINF:-1 tvg-id="BOOMERANG.#5" tvg-name="BOOMERANG.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Cartoonito_2021.svg/revision/latest/scale-to-width-down/350?cb=20211119232443&path-prefix=es" group-title="Infantil",BOOMERANG.#5
 http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal Clan TVE" tvg-name="Canal Clan TVE" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Infantil",Canal Clan TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest/scale-to-width-down/150?cb=20210930223617&path-prefix=es" group-title="Infantil",Discovery Kids
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids.#2" tvg-name="Discovery Kids.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest/scale-to-width-down/150?cb=20210930223617&path-prefix=es" group-title="Infantil",Discovery Kids.#2
@@ -2734,8 +2736,6 @@ https://videohd.live:19360/8090/8090.m3u8
 https://coopmorteros.online/canal50/vivo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/62ae685f1d5790b8bf030f4350c70574.png" group-title="Regionales",Canal 6 - Viento Recio Internacional | AR
 https://stmvideo2.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-WaPcoRIsunA/X9djlAdcgmI/AAAAAAAA8OA/zTZ4rmvloRkADrSVnucZuvR1pZZKhA9sACK8BGAsYHg/s0/2020-12-14.png" group-title="Regionales",Canal 6 Entre Rios
-https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="Regionales",Canal 6 Mar de Plata (10)
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://canal6moreno.com/wp-content/uploads/2016/06/LOGO-PERMANENTE-FIJO--e1503976768253.png" group-title="Regionales",Canal 6 Moreno (10)
@@ -2794,25 +2794,29 @@ https://panel.dattalive.com/8138/8138/playlist.m3u8
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png" group-title="Regionales",Canal TDC (10)
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Regionales",Canal U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png" group-title="Regionales",Canal U (10)
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Canal_Trece_San_Luis_%28Logo_2016_-_2%29.png/revision/latest/scale-to-width-down/250?cb=20210526023651&path-prefix=es" group-title="Regionales",Canaltrece San Luis
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-yP5Aq-HAz2g/YFuttja4QPI/AAAAAAABA4o/nUBjbSFEuFsk8Vqba5oVEQwfJzc_BV5IwCK8BGAsYHg/s512/2021-03-24.png" group-title="Regionales",Catamarca TV
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.celtatv.com.ar/images/logo.png" group-title="Regionales",Celta TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-yP5Aq-HAz2g/YFuttja4QPI/AAAAAAABA4o/nUBjbSFEuFsk8Vqba5oVEQwfJzc_BV5IwCK8BGAsYHg/s512/2021-03-24.png" group-title="Regionales",Catamarca TV (10)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.celtatv.com.ar/images/logo.png" group-title="Regionales",Celta TV (10)
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQih2UstaiRkL8zDuC-j3iH9wwpiHMevdrfPcp5=s88-c-k-c0x00ffffff-no-rj" group-title="Regionales",Chaco TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w550207288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwHrVBVcHJZK4iDbMiZlzq7-LmOuj-O2yGRyI0=s400-c-k-c0x00ffffff-no-rj" group-title="Regionales",Chilecito TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQih2UstaiRkL8zDuC-j3iH9wwpiHMevdrfPcp5=s88-c-k-c0x00ffffff-no-rj" group-title="Regionales",Chaco TV (10)
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwHrVBVcHJZK4iDbMiZlzq7-LmOuj-O2yGRyI0=s400-c-k-c0x00ffffff-no-rj" group-title="Regionales",Chilecito TV (10)
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="Regionales",Cinco TV Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="Regionales",Cinco TV Tigre (10)
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="Regionales",Ciudad Magica TV | AR
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-xpM6zPNOueI/X1TJk6tTtcI/AAAAAAAA5Tk/yDHQTroLl4kKkYaPT-7umsQVP_uaARPMACK8BGAsYHg/s0/2020-09-06.jpg" group-title="Regionales",Ciudad TV | AR
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Regionales",Ciudad TV Resistencia (Chaco)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Regionales",Ciudad TV Resistencia Chaco (10)
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="Regionales",CL3 Cablevision
 https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
@@ -2820,7 +2824,7 @@ https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/d78cddbf5fd84aa1abd31d836ab7341c.png" group-title="Regionales",Corrientes TV | AR
 https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png" group-title="Regionales",Cosmos TV | AR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.paste.pics/7b84ec9ab4a77216f5de2b5a23f220a6.png" group-title="Regionales",Cosmos TV (10)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/75UgF.png" group-title="Regionales",CPEtv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
@@ -2866,11 +2870,11 @@ https://ltocatamarca.github.io/ltotv.m3u8
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZv2yxTVHWpalZm5IIslZ2_yaB0C0mJXK1EU4CeiqsUptp9TFb4tB7_AbnYlwky6rjO_joTvXtRA2LkvQHIfmCA2uIApprY5p8cTRqcp1VmGUWtqD8y_vFtgoCUaDC7Pb3AajnOMMCm1WJw2JJfzyKD_ZOxT5g8_Jz--qfS6--6vHkRAVWFRa0MVJd/s1600/canal9-multivision.png" group-title="Regionales",Multivision Federal
 https://panel.dattalive.com/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="Regionales",Neo TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Jdd8j10.png" group-title="Regionales",Neo TV (10)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="Pares TV HD" tvg-name="Pares TV HD" tvg-logo="https://parestv.com.ar/wp-content/uploads/2020/08/logofondonegro6.jpg" group-title="Regionales",Pares TV HD
-https://live-ak.vimeocdn.com/exp=1679088467~acl=%2Fbec180f2-05b1-4401-8079-20634d1554e5%2F%2A~hmac=4920693ac56d7278da76cc1105f761d6186326f54562ddaaa5eb148afbb4cc4d/bec180f2-05b1-4401-8079-20634d1554e5/chunklist_b416000.m3u8?max_segments=10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.quatrotv.com/wp-content/uploads/2016/11/logoquatro-150x27.png" group-title="Regionales",Quatro TV
+https://live-ak.vimeocdn.com/exp=1736471080~acl=%2Fef88406a-6704-41ca-8457-0e49b58a76cc%2F%2A~hmac=01b5bebd9abf3261e7cf41836291ae78063f4f2ef023f31a3befa2e706669af7/ef88406a-6704-41ca-8457-0e49b58a76cc/chunklist_b416000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.quatrotv.com/wp-content/uploads/2016/11/logoquatro-150x27.png" group-title="Regionales",Quatro TV (10)
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png" group-title="Regionales",RTN Neuquen
 http://media.neuquen.gov.ar/rtn/television/media.m3u8
@@ -2992,8 +2996,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-zqNj47-qmqk/WpL5jWh4yUI/AAAAAAAABvA/GyAm0qkePZEAnQjyXySCgruYbkhYXT-CwCLcBGAs/s200/nuevotiempo.png" group-title="Variedades",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/O21.png/revision/latest?cb=20210528151401&path-prefix=es" group-title="Variedades",Orbe 21 (10)
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.colombia.com/canales/pymes-teve-5713.jpg" group-title="Variedades",Pymes TeVe
 https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Variedades",RT Documentary  [Geo-blocked]
@@ -3010,10 +3012,10 @@ https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/solidaria-tv.png?resize=600%2C360&ssl=1" group-title="Variedades",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv.unam.mx/wp-content/uploads/2017/05/L-HOME-dark-300x65.png" group-title="Variedades",tv unam
-https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvweb360.tv/aimages/logo/891_ab.png" group-title="Variedades",UNaM
 https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv.unam.mx/wp-content/uploads/2017/05/L-HOME-dark-300x65.png" group-title="Variedades",UNaM (10)
+http://192.100.186.53:8090/hls/live.stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://unlp.edu.ar/wp-content/uploads/26/2526/49762dda2908c609b2ed4d5eec38b6c4.png" group-title="Variedades",UNLP.tv
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Viajar_Tv_logo.svg/100px-Viajar_Tv_logo.svg.png" group-title="Variedades",Viajar
