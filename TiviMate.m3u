@@ -278,8 +278,8 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="ESTRELLAS HD.#2" tvg-name="ESTRELLAS HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Las_Estrellas_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305231400&path-prefix=es" group-title="Cine y Series",ESTRELLAS HD.#2
 http://tv.teleclub.xyz/club/server_2/mundo/lasestrellas/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Las_Estrellas_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305231400&path-prefix=es" group-title="Cine y Series",Las Estrellas MX (04)
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ESTRELLAS HD.#3" tvg-name="ESTRELLAS HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Las_Estrellas_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305231400&path-prefix=es" group-title="Cine y Series",ESTRELLAS HD.#3
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lifetime_Logo_%282020-presente%29.svg/revision/latest/scale-to-width-down/300?cb=20200125121516&path-prefix=es" group-title="Cine y Series",LIFETIME
 https://delivery.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="LIFETIME.#2" tvg-name="LIFETIME.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lifetime_Logo_%282020-presente%29.svg/revision/latest/scale-to-width-down/300?cb=20200125121516&path-prefix=es" group-title="Cine y Series",LIFETIME.#2
@@ -1203,6 +1203,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328b
 
 #EXTINF:-1 tvg-id="Canal RT en Español.#2" tvg-name="Canal RT en Español.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Internacional",Canal RT en Español.#2
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+#EXTINF:-1 tvg-id="Canal RT en Español.#3" tvg-name="Canal RT en Español.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Internacional",Canal RT en Español.#3
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTP" tvg-name="RTP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/RTP_Internacional_Logotipo_2016.png/revision/latest/scale-to-width-down/400?cb=20210528153800&path-prefix=es" group-title="Internacional",RTP
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/1000?cb=20230417184331&path-prefix=es" group-title="Internacional",SBT (Brasil)
@@ -1444,9 +1446,9 @@ https://delivery.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 tvg-id="LN+.#5" tvg-name="LN+.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LN_Mas.svg/revision/latest/scale-to-width-down/200?cb=20230122144212&path-prefix=es" group-title="Noticias",LN+.#5
 https://ythls-v3.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1 tvg-id="Canal RT en Español.#3" tvg-name="Canal RT en Español.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Noticias",Canal RT en Español.#3
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal RT en Español.#4" tvg-name="Canal RT en Español.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Noticias",Canal RT en Español.#4
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal RT en Español.#5" tvg-name="Canal RT en Español.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/RT_2010.svg/revision/latest/scale-to-width-down/200?cb=20210514191228&path-prefix=es" group-title="Noticias",Canal RT en Español.#5
 http://tv.teleclub.xyz/club/server_2/mundo/rtenespanol/index.m3u8
 
 #EXTINF:-1 tvg-id="TN HD" tvg-name="TN HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/TN_2016.png/revision/latest/scale-to-width-down/200?cb=20200121023240&path-prefix=es" group-title="Noticias",TN HD
