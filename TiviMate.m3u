@@ -70,8 +70,8 @@ http://138.59.177.34:8000/play/a06p/index.m3u8
 0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="Cine y Series",Cine Premium (21)
 0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="Cine y Series",Cine Premium (22)
-http://bantel.iptvperu.tv:1935/transcoderip/cinepremium_t1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-premium.png" group-title="Cine y Series",Cine Premium (40)
+http://160.20.165.246:8000/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="CINE.AR" tvg-name="CINE.AR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/CINEAR2017_%282%29.svg/revision/latest/scale-to-width-down/199?cb=20210527002747&path-prefix=es" group-title="Cine y Series",CINE.AR
 https://delivery.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CINE.AR.#2" tvg-name="CINE.AR.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/CINEAR2017_%282%29.svg/revision/latest/scale-to-width-down/199?cb=20210527002747&path-prefix=es" group-title="Cine y Series",CINE.AR.#2
@@ -84,9 +84,9 @@ https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 0
 #EXTINF:-1 tvg-id="Canal Cinecanal (Pacífico)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest/scale-to-width-down/250?cb=20220325004838&path-prefix=es" group-title="Cine y Series",Cinecanal (22)
 http://bantel.iptvperu.tv:1935/transcoderip/CineCanal_t2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest/scale-to-width-down/250?cb=20220325004838&path-prefix=es" group-title="Cine y Series",Cinecanal (40)
-0
 #EXTINF:-1 tvg-id="CINECANAL HD.#4" tvg-name="CINECANAL HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest/scale-to-width-down/250?cb=20220325004838&path-prefix=es" group-title="Cine y Series",CINECANAL HD.#4
+http://160.20.165.246:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="CINECANAL HD.#5" tvg-name="CINECANAL HD.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Cinecanal_2018.svg/revision/latest/scale-to-width-down/250?cb=20220325004838&path-prefix=es" group-title="Cine y Series",CINECANAL HD.#5
 http://tv.teleclub.xyz/club/server_2/entretenimiento/cinecanal/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="Cine y Series",Cinelife
@@ -164,9 +164,9 @@ https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
 http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal FX (México)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/FX.svg/revision/latest/scale-to-width-down/200?cb=20210328155501&path-prefix=es" group-title="Cine y Series",FX (30)
 http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/FX.svg/revision/latest/scale-to-width-down/200?cb=20210328155501&path-prefix=es" group-title="Cine y Series",FX (40)
-0
 #EXTINF:-1 tvg-id="FX HD.#4" tvg-name="FX HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/FX.svg/revision/latest/scale-to-width-down/200?cb=20210328155501&path-prefix=es" group-title="Cine y Series",FX HD.#4
+http://160.20.165.246:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="FX HD.#5" tvg-name="FX HD.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/FX.svg/revision/latest/scale-to-width-down/200?cb=20210328155501&path-prefix=es" group-title="Cine y Series",FX HD.#5
 http://tv.teleclub.xyz/club/server_2/entretenimiento/fx/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="Cine y Series",Golden (21)
@@ -269,8 +269,8 @@ https://delivery.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kanal_D_%281991-1994%29.png/100px-Kanal_D_%281991-1994%29.png" group-title="Cine y Series",Kanal D Drama (10)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kanal_D_%281991-1994%29.png/100px-Kanal_D_%281991-1994%29.png" group-title="Cine y Series",Kanal D Drama (21)
-0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kanal_D_%281991-1994%29.png/100px-Kanal_D_%281991-1994%29.png" group-title="Cine y Series",Kanal D Drama (40)
+http://160.20.165.246:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="ESTRELLAS HD" tvg-name="ESTRELLAS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Las_Estrellas_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305231400&path-prefix=es" group-title="Cine y Series",ESTRELLAS HD
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Las_Estrellas_2016.svg/revision/latest/scale-to-width-down/200?cb=20200305231400&path-prefix=es" group-title="Cine y Series",Las Estrellas (21)
@@ -296,9 +296,9 @@ https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="Cine y Series",Paramount (21)
 0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="Cine y Series",Paramount (40)
-0
 #EXTINF:-1 tvg-id="PARAMOUNT CHANNEL HD.#3" tvg-name="PARAMOUNT CHANNEL HD.#3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="Cine y Series",PARAMOUNT CHANNEL HD.#3
+http://160.20.165.246:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL HD.#4" tvg-name="PARAMOUNT CHANNEL HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png" group-title="Cine y Series",PARAMOUNT CHANNEL HD.#4
 http://tv.teleclub.xyz/club/server_2/entretenimiento/paramountnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="Cine y Series",Pasiones (21)
@@ -355,9 +355,9 @@ https://delivery.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",Star Channel (21)
 0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",Star Channel (40)
-0
 #EXTINF:-1 tvg-id="STAR CHANNEL HD.#4" tvg-name="STAR CHANNEL HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",STAR CHANNEL HD.#4
+http://160.20.165.246:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.#5" tvg-name="STAR CHANNEL HD.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Star_Channel_2021.svg/revision/latest?cb=20230106025850" group-title="Cine y Series",STAR CHANNEL HD.#5
 http://tv.teleclub.xyz/club/server_2/entretenimiento/starchannel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/str_series.png?raw=true" group-title="Cine y Series",Star Series (60)
@@ -568,6 +568,8 @@ http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
 #EXTINF:-1 tvg-id="TURBO.#5" tvg-name="TURBO.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Discovery_Turbo_LA_2021.svg/revision/latest/scale-to-width-down/355?cb=20210529215254&path-prefix=es" group-title="Deportes",TURBO.#5
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryturbo/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN (40)
+http://160.20.165.246:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="ESPN HD.#4" tvg-name="ESPN HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN HD.#4
 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
 
@@ -576,13 +578,13 @@ https://delivery.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN EXTRA HD.#2" tvg-name="ESPN EXTRA HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/ESPN_Extra_2018.png/revision/latest/scale-to-width-down/250?cb=20220602051039&path-prefix=es" group-title="Deportes",ESPN EXTRA HD.#2
 https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 #EXTINF:-1 tvg-id="ESPN 2 HD.#4" tvg-name="ESPN 2 HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD.#4
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
+http://160.20.165.246:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.#5" tvg-name="ESPN 2 HD.#5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 HD.#5
 http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 (22)
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 HD.#4" tvg-name="ESPN 3 HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD.#4
+http://160.20.165.246:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 HD.#5" tvg-name="ESPN 3 HD.#5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 HD.#5
 http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (22)
@@ -590,12 +592,12 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 (60)
 http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ESPN5TV5Logo.png/800px-ESPN5TV5Logo.png" group-title="Deportes",ESPN 5 (22)
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6 (22)
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7 (22)
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ESPN5TV5Logo.png/800px-ESPN5TV5Logo.png" group-title="Deportes",ESPN 5 (40)
+http://160.20.165.246:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/500px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6 (40)
+http://160.20.165.246:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7 (40)
+http://160.20.165.246:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports Premium HD.#4" tvg-name="Fox Sports Premium HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/ESPN_Premium_2022.png/revision/latest/scale-to-width-down/200?cb=20220501174847&path-prefix=es" group-title="Deportes",Fox Sports Premium HD.#4
 http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
 
@@ -678,6 +680,8 @@ https://delivery.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/golf/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/GOLF.png/revision/latest/scale-to-width-down/350?cb=20191216013412&path-prefix=es" group-title="Deportes",Golf Channel (21)
 0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Liga1Max.png/revision/latest?cb=20230808222009&path-prefix=es" group-title="Deportes",Liga 1 Max (40)
+http://160.20.165.246:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/MLB_Network.svg/revision/latest/scale-to-width-down/200?cb=20220618052057" group-title="Deportes",MLB Network (30)
 http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20230210205248&path-prefix=es" group-title="Deportes",NBA TV (30)
@@ -759,9 +763,9 @@ http://tv.teleclub.xyz/club/server_2/cultura/disccoveryid/index.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Science.#2" tvg-name="Discovery Science.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/200?cb=20190925153556&path-prefix=es" group-title="Documentales",Discovery Science.#2
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/200?cb=20190925153556&path-prefix=es" group-title="Documentales",Discovery Science (21)
-0
 #EXTINF:-1 tvg-id="Discovery Science.#3" tvg-name="Discovery Science.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/200?cb=20190925153556&path-prefix=es" group-title="Documentales",Discovery Science.#3
+http://160.20.165.246:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science.#4" tvg-name="Discovery Science.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/200?cb=20190925153556&path-prefix=es" group-title="Documentales",Discovery Science.#4
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryscience/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/2015_Discovery_theater_HD_logo.svg/revision/latest?cb=20201106135003&path-prefix=es" group-title="Documentales",Discovery Theater HD
@@ -881,6 +885,8 @@ https://delivery.cdn.rcs.net.ar/mnp/maschic_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/maschic/output.mpd
 #EXTINF:-1 tvg-id="MAS CHIC.#3" tvg-name="MAS CHIC.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/M%C3%A1s_Chic_%28Negro%29.png/revision/latest/scale-to-width-down/150?cb=20200112012816&path-prefix=es" group-title="Estilo de Vida",MAS CHIC.#3
 http://livex.pop-app.live/s4n/poplive/ch519/playlist.m3u8
+#EXTINF:-1 tvg-id="MAS CHIC.#4" tvg-name="MAS CHIC.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/M%C3%A1s_Chic_%28Negro%29.png/revision/latest/scale-to-width-down/150?cb=20200112012816&path-prefix=es" group-title="Estilo de Vida",MAS CHIC.#4
+http://160.20.165.246:8000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Estilo de Vida",Platzi TV (10)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img2.freepng.es/20180414/ebe/kisspng-tastemade-logo-company-marketing-media-avocado-5ad208f1c241b3.7778782915237142897957.jpg" group-title="Estilo de Vida",Tastemade Alemania
@@ -960,7 +966,7 @@ http://tv.teleclub.xyz/club/server_2/infantil/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DreamWorks_Channel_Logo.svg" group-title="Infantil",DreamWorks (21)
 0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fmh.la/images/logos_slider/kids.png" group-title="Infantil",FMH Kids (40)
-http://160.20.165.246:8000/play/a01j/index.m3u8
+http://160.20.165.246:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr HD" tvg-name="Nick Jr HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Nick_Jr._2009.svg/revision/latest/scale-to-width-down/300?cb=20210628225225&path-prefix=es" group-title="Infantil",Nick Jr HD
 https://delivery.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Nick Jr HD.#2" tvg-name="Nick Jr HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Nick_Jr._2009.svg/revision/latest/scale-to-width-down/300?cb=20210628225225&path-prefix=es" group-title="Infantil",Nick Jr HD.#2
