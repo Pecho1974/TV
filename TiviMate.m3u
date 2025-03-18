@@ -806,8 +806,6 @@ http://160.20.165.246:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="History Channel HD.#4" tvg-name="History Channel HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/175?cb=20211213232008&path-prefix=es" group-title="Documentales",History Channel HD.#4
 http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/300?cb=20220303220459&path-prefix=es" group-title="Documentales",Love Nature (22)
-http://bantel.iptvperu.tv:1935/transcoder_t2/lovenature_t2_principal/playlist.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://png.pngitem.com/pimgs/s/497-4971381_national-geographic-tv-logo-hd-png-download.png" group-title="Documentales",NATIONAL GEOGRAPHIC HD
 https://delivery.cdn.rcs.net.ar/mnp/natgeohd_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.#2" tvg-name="NATIONAL GEOGRAPHIC HD.#2" tvg-logo="https://png.pngitem.com/pimgs/s/497-4971381_national-geographic-tv-logo-hd-png-download.png" group-title="Documentales",NATIONAL GEOGRAPHIC HD.#2
@@ -975,9 +973,9 @@ https://delivery.cdn.rcs.net.ar/mnp/nickjr/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon HD.#2" tvg-name="Nickelodeon HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Nickelodeon_2009.svg/revision/latest/scale-to-width-down/350?cb=20210722171849&path-prefix=es" group-title="Infantil",Nickelodeon HD.#2
 https://delivery.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Nickelodeon_2009.svg/revision/latest/scale-to-width-down/350?cb=20210722171849&path-prefix=es" group-title="Infantil",Nickelodeon (21)
-0
 #EXTINF:-1 tvg-id="Nickelodeon HD.#4" tvg-name="Nickelodeon HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Nickelodeon_2009.svg/revision/latest/scale-to-width-down/350?cb=20210722171849&path-prefix=es" group-title="Infantil",Nickelodeon HD.#4
+http://160.20.165.246:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon HD.#5" tvg-name="Nickelodeon HD.#5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Nickelodeon_2009.svg/revision/latest/scale-to-width-down/350?cb=20210722171849&path-prefix=es" group-title="Infantil",Nickelodeon HD.#5
 http://tv.teleclub.xyz/club/server_2/infantil/nick/index.m3u8
 
 #EXTINF:-1 tvg-id="PAKA PAKA" tvg-name="PAKA PAKA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Pakapaka_2020.svg/revision/latest/scale-to-width-down/250?cb=20200529174503&path-prefix=es" group-title="Infantil",PAKA PAKA
