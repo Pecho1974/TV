@@ -836,11 +836,13 @@ https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.vix.com/prd/channel-landscape/64a5efb386a82b4840e756cc/3a3c5ffde42e20243b751f51e09d018e?tr=w-1200,h-627,f-jpeg" group-title="Estilo de Vida",Cocina TV (30)
 https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="Estilo de Vida",E! Entertainment (21)
-0
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="Estilo de Vida",E!
+https://delivery.cdn.rcs.net.ar/mnp/eent_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="E!.#2" tvg-name="E!.#2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="Estilo de Vida",E!.#2
+https://delivery.cdn.rcs.net.ar/mnp/eent/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="Estilo de Vida",E! Entertainment (40)
 http://160.20.165.246:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="Estilo de Vida",E!
+#EXTINF:-1 tvg-id="E!.#3" tvg-name="E!.#3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/35px-E%21_Logo_2012.svg.png" group-title="Estilo de Vida",E!.#3
 http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 #EXTINF:-1 tvg-id="FOOD NETWORK" tvg-name="FOOD NETWORK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/200?cb=20211221202426&path-prefix=es" group-title="Estilo de Vida",FOOD NETWORK
