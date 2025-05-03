@@ -180,7 +180,7 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141" group-title="Cine y Series",HBO (21)
 0
 #EXTINF:-1 tvg-id="HBO HD.#3" tvg-name="HBO HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141" group-title="Cine y Series",HBO HD.#3
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbo/master.m3u8
+http://tv.teleclub.xyz/stream/server_3/entretenimiento/HBO/master.m3u8
 #EXTINF:-1 tvg-id="HBO plus" tvg-name="HBO plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/230?cb=20200122002249&path-prefix=es" group-title="Cine y Series",HBO plus
 https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO plus.#2" tvg-name="HBO plus.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Logohboplus2019.svg/revision/latest/scale-to-width-down/230?cb=20200122002249&path-prefix=es" group-title="Cine y Series",HBO plus.#2
@@ -212,7 +212,7 @@ https://delivery.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 #EXTINF:-1 tvg-id="HBO family HD.#3" tvg-name="HBO family HD.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/HBO_Family_LA_2021.png/revision/latest/scale-to-width-down/200?cb=20210306032154&path-prefix=es" group-title="Cine y Series",HBO family HD.#3
 http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO family HD.#4" tvg-name="HBO family HD.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/HBO_Family_LA_2021.png/revision/latest/scale-to-width-down/200?cb=20210306032154&path-prefix=es" group-title="Cine y Series",HBO family HD.#4
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbofamily/master.m3u8
+http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbo_family/master.m3u8
 #EXTINF:-1 tvg-id="HBO MUNDI HD" tvg-name="HBO MUNDI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/HBO_Mundi_2020.svg/revision/latest/scale-to-width-down/200?cb=20230215144540&path-prefix=es" group-title="Cine y Series",HBO MUNDI HD
 https://delivery.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO MUNDI HD.#2" tvg-name="HBO MUNDI HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/HBO_Mundi_2020.svg/revision/latest/scale-to-width-down/200?cb=20230215144540&path-prefix=es" group-title="Cine y Series",HBO MUNDI HD.#2
@@ -233,6 +233,8 @@ https://delivery.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1 tvg-id="HBO Signature.#3" tvg-name="HBO Signature.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/HBO_Signature_2012.png/revision/latest/scale-to-width-down/200?cb=20151009181232&path-prefix=es" group-title="Cine y Series",HBO Signature.#3
 http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO Signature.#4" tvg-name="HBO Signature.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/HBO_Signature_2012.png/revision/latest/scale-to-width-down/200?cb=20151009181232&path-prefix=es" group-title="Cine y Series",HBO Signature.#4
+http://tv.teleclub.xyz/stream/server_3/entretenimiento/hbosignature/master.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME HD" tvg-name="HBO XTREME HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="Cine y Series",HBO XTREME HD
 https://delivery.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME HD.#2" tvg-name="HBO XTREME HD.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest/scale-to-width-down/200?cb=20230215144641&path-prefix=es" group-title="Cine y Series",HBO XTREME HD.#2
@@ -408,7 +410,7 @@ https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 tvg-id="UNIVERSAL HD.#4" tvg-name="UNIVERSAL HD.#4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",UNIVERSAL HD.#4
 http://160.20.165.246:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL HD.#5" tvg-name="UNIVERSAL HD.#5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="Cine y Series",UNIVERSAL HD.#5
-http://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/150px-USA_Network_logo_%282016%29.svg.png" group-title="Cine y Series",USA Network (01)
 https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/150px-USA_Network_logo_%282016%29.svg.png" group-title="Cine y Series",USA Network (02)
