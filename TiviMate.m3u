@@ -3,15 +3,15 @@
 https://loadbalancer20.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/300px-Adult_Swim_2003_logo.svg.png" group-title="Cine y Series",[adult swim] (02)
 https://loadbalancer20.cdn.rcs.net.ar/mnp/trutv/output.mpd
-#EXTINF:-1 tvg-id="AandE" tvg-name="AandE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",AandE
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&amp;E" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A&amp;E
 https://loadbalancer20.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="AandE.#2" tvg-name="AandE.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",AandE.#2
+#EXTINF:-1 tvg-id="A&amp;E.#2" tvg-name="A&amp;E.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A&amp;E.#2
 https://loadbalancer20.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A&E (22)
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal AandE (México)" tvg-name="Canal AandE (México)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",Canal AandE (México)
+#EXTINF:-1 tvg-id="Canal A&amp;E (México)" tvg-name="Canal A&amp;E (México)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",Canal A&amp;E (México)
 http://160.20.165.246:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="AandE.#3" tvg-name="AandE.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",AandE.#3
+#EXTINF:-1 tvg-id="A&amp;E.#3" tvg-name="A&amp;E.#3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/A%26E_2008.svg/revision/latest/scale-to-width-down/250?cb=20200115014546&path-prefix=es" group-title="Cine y Series",A&amp;E.#3
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/a_e/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Atreseries_2020.svg/revision/latest/scale-to-width-down/200?cb=20200629150030&path-prefix=es" group-title="Cine y Series",A3Series (21)
 0
@@ -129,13 +129,13 @@ https://loadbalancer20.cdn.rcs.net.ar/mnp/europa/output.mpd
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/EEHD.png/revision/latest/scale-to-width-down/185?cb=20210517132926&path-prefix=es" group-title="Cine y Series",Europa Europa (40)
 0
-#EXTINF:-1 tvg-id="Film and Arts" tvg-name="Film and Arts" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Cine y Series",Film and Arts
+#EXTINF:-1 tvg-id="Film &amp; Arts" tvg-name="Film &amp; Arts" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Cine y Series",Film &amp; Arts
 https://loadbalancer20.cdn.rcs.net.ar/mnp/filmsarts_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Film and Arts.#2" tvg-name="Film and Arts.#2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Cine y Series",Film and Arts.#2
+#EXTINF:-1 tvg-id="Film &amp; Arts.#2" tvg-name="Film &amp; Arts.#2" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Cine y Series",Film &amp; Arts.#2
 https://loadbalancer20.cdn.rcs.net.ar/mnp/filmsarts/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Cine y Series",Film & Arts (21)
 0
-#EXTINF:-1 tvg-id="Film and Arts.#3" tvg-name="Film and Arts.#3" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Cine y Series",Film and Arts.#3
+#EXTINF:-1 tvg-id="Film &amp; Arts.#3" tvg-name="Film &amp; Arts.#3" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Cine y Series",Film &amp; Arts.#3
 http://45.5.117.182:8000/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png" group-title="Cine y Series",Film & Arts (40)
 0
@@ -739,17 +739,17 @@ https://loadbalancer20.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es" group-title="Estilo de Vida",Gourmet (60)
 http://tv.teleclub.xyz/stream/server_1/cultura/elgourmet/master.m3u8
-#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Home and Health
+#EXTINF:-1 tvg-id="Home &amp; Health" tvg-name="Home &amp; Health" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Home &amp; Health
 https://loadbalancer20.cdn.rcs.net.ar/mnp/disc_hh_hls/playlist.m3u8
-#EXTINF:-1 tvg-id="Home and Health.#2" tvg-name="Home and Health.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Home and Health.#2
+#EXTINF:-1 tvg-id="Home &amp; Health.#2" tvg-name="Home &amp; Health.#2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Home &amp; Health.#2
 https://loadbalancer20.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",H&H (21)
 0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",H&H (30)
 http://livex.pop-app.live/s4n/poplive/ch524/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Discovery Home and Health (México)" tvg-name="Canal Discovery Home and Health (México)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Canal Discovery Home and Health (México)
+#EXTINF:-1 tvg-id="Canal Discovery Home &amp; Health (México)" tvg-name="Canal Discovery Home &amp; Health (México)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Canal Discovery Home &amp; Health (México)
 http://160.20.165.246:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="Home and Health.#4" tvg-name="Home and Health.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Home and Health.#4
+#EXTINF:-1 tvg-id="Home &amp; Health.#4" tvg-name="Home &amp; Health.#4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Discovery_Home_%26_Health_2022.png/revision/latest/scale-to-width-down/210?cb=20220505004132&path-prefix=es" group-title="Estilo de Vida",Home &amp; Health.#4
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryh_h/master.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/300?cb=20210817053224&path-prefix=es" group-title="Estilo de Vida",HGTV
 https://loadbalancer20.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
@@ -2824,7 +2824,7 @@ https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Variedades",RT Documentary  [Geo-blocked]
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.unidiversidad.com.ar/img/navbar/Logo_5.svg" group-title="Variedades",Se�al U (Uncuyo)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.unidiversidad.com.ar/img/navbar/Logo_5.svg" group-title="Variedades",Senal U (Uncuyo)
 https://tvd.uncu.edu.ar/memfs/eedea17f-5b9c-4b1e-a4e5-319146353a5f_output_0.m3u8?session=HjDTWwiBudnwKRb92GVYyT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Variedades",SoloStandUp
 https://paneltv.online:1936/8116/8116/playlist.m3u8
